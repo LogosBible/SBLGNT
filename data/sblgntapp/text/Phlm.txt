@@ -1,0 +1,20 @@
+
+Philemon Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+Phm 1:2	ἀδελφῇ WH Treg NIV ] ἀγαπητῇ RP
+Phm 1:5	πρὸς NIV RP ] εἰς WH Treg
+Phm 1:6	τοῦ WH NIV RP ] – Treg • Χριστόν WH Treg NIV ] + Ἰησοῦν RP
+Phm 1:7	χαρὰν WH Treg NIV ] Χάριν RP • πολλὴν ἔσχον WH Treg NIV ] ἔχομεν πολλὴν RP
+Phm 1:9	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+Phm 1:10	δεσμοῖς WH Treg NIV ] + μου RP
+Phm 1:11	δὲ WH Treg RP ] + καὶ NIV
+Phm 1:12	σοι αὐτόν … σπλάγχνα WH Treg NIV ] σὺ δὲ αὐτόν … σπλάγχνα προσλαβοῦ RP
+Phm 1:13	μοι διακονῇ WH Treg NIV ] διακονῇ μοι RP
+Phm 1:18	ἐλλόγα WH Treg NIV ] ἐλλόγει RP
+Phm 1:20	Χριστῷ WH Treg NIV ] κυρίῳ RP
+Phm 1:21	ἃ WH Treg NIV ] ὃ RP
+Phm 1:23	Ἀσπάζεταί WH Treg NIV ] Ἀσπάζονταί RP
+Phm 1:25	κυρίου WH NIV ] + ἡμῶν Treg RP • ὑμῶν WH Treg NIV ] + Ἀμήν RP
+
+

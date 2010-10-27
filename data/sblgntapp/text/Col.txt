@@ -1,0 +1,59 @@
+Colossians Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+Col 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+Col 1:2	Κολοσσαῖς WH NIV ] Κολασσαῖς Treg RP • ἡμῶν WH Treg NIV ] + καὶ κυρίου Ἰησοῦ Χριστοῦ RP
+Col 1:3	θεῷ WH NIV ] + καὶ Treg RP • περὶ WH NIV RP ] ὑπὲρ Treg
+Col 1:4	ἣν ἔχετε WH Treg NIV ] τὴν RP
+Col 1:6	κόσμῳ WH Treg NIV ] + καὶ RP
+Col 1:7	καθὼς WH Treg NIV ] + καὶ RP • ἡμῶν WH Treg NIV ] ὑμῶν RP NA
+Col 1:10	περιπατῆσαι WH Treg NIV ] + ὑμᾶς RP • τῇ ἐπιγνώσει WH Treg NIV ] εἰς τὴν ἐπίγνωσιν RP
+Col 1:12	ὑμᾶς WH NIV ] ἡμᾶς Treg RP
+Col 1:16	πάντα WH Treg NIV ] + τὰ RP • καὶ WH NIV ] + τὰ Treg RP 
+Col 1:18	ἐστιν Treg NIV RP ] + ἡ WH
+Col 1:20	δι’ αὐτοῦ WH RP NA ] – Treg NIV • ἐν WH Treg NIV ] ἐπὶ RP
+Col 1:22	ἀποκατηλλάγητε Holmes ] ἀποκατήλλαξεν WH Treg NIV RP
+Col 1:23	πάσῃ WH Treg NIV ] + τῇ RP
+Col 1:26	νῦν WH Treg NIV ] νυνὶ RP
+Col 1:27	ὅ WH Treg NIV ] ὅς RP
+Col 1:28	Χριστῷ WH Treg NIV ] + Ἰησοῦ RP
+
+Col 2:1	ὑπὲρ WH Treg NIV ] περὶ RP
+Col 2:2	συμβιβασθέντες WH Treg NIV ] συμβιβασθέντων RP • πᾶν πλοῦτος WH NIV ] πᾶν τὸ πλοῦτος Treg; πάντα πλοῦτον RP • θεοῦ WH Treg NIV ] + καὶ πατρὸς καὶ τοῦ RP
+Col 2:3	καὶ WH Treg NIV ] + τῆς RP
+Col 2:4	τοῦτο WH NIV ] + δὲ Treg RP • μηδεὶς WH Treg NIV ] μή τις RP
+Col 2:7	βεβαιούμενοι WH Treg NIV ] + ἐν RP • περισσεύοντες Treg NIV ] + ἐν αὐτῇ WH RP
+Col 2:11	σώματος WH Treg NIV ] + τῶν ἁμαρτιῶν RP
+Col 2:12	βαπτισμῷ Treg NIV ] βαπτίσματι WH RP • ἐκ WH Treg NIV ] + τῶν RP
+Col 2:13	ἐν NIV RP ] – WH Treg
+Col 2:16	ἢ Treg RP ] καὶ WH NIV
+Col 2:17	τοῦ WH Treg NIV ] – RP
+Col 2:18	ἃ WH Treg NIV ] + μὴ RP
+
+Col 3:4	ὑμῶν Treg NIV ] ἡμῶν WH RP
+Col 3:5	μέλη WH Treg NA ] + ὑμῶν NIV RP
+Col 3:6	ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας RP NA ] – WH Treg NIV
+Col 3:7	τούτοις WH Treg NIV ] αὐτοῖς RP
+Col 3:11	τὰ Treg NIV RP ] – WH
+Col 3:13	κύριος WH Treg NIV ] Χριστὸς RP
+Col 3:14	ὅ WH Treg NIV ] ἥτις RP
+Col 3:15	Χριστοῦ WH Treg NIV ] θεοῦ RP
+Col 3:16	ψαλμοῖς WH Treg NIV ] + καὶ RP • ὕμνοις WH Treg NIV ] + καὶ RP • ἐν WH RP ] + τῇ Treg NIV • ταῖς καρδίαις WH Treg NIV ] τῇ καρδίᾳ RP • θεῷ WH Treg NIV ] κυρίῳ RP
+Col 3:17	ὅ τι Treg NIV RP ] ὅτι WH • ἐὰν WH Treg NIV ] ἂν RP • θεῷ WH Treg NIV ] + καὶ RP
+Col 3:18	τοῖς WH Treg NIV ] + ἰδίοις RP
+Col 3:20	εὐάρεστόν ἐστιν WH Treg NIV ] ἐστιν εὐάρεστον RP
+Col 3:22	ὀφθαλμοδουλίαις WH Treg RP ] ὀφθαλμοδουλίᾳ NIV • κύριον WH Treg NIV ] θεόν RP
+Col 3:23	ὃ WH Treg NIV ] καὶ πᾶν ὃ τι RP
+Col 3:24	ἀπολήμψεσθε WH Treg NIV ] λήψεσθε RP • τῷ WH Treg NIV ] + γὰρ RP
+Col 3:25	γὰρ WH Treg NIV ] δὲ RP
+
+Col 4:1	οὐρανῷ WH Treg NIV ] οὐρανοῖς RP
+Col 4:8	γνῶτε WH Treg NIV ] γνῷ RP • ἡμῶν WH Treg NIV ] ὑμῶν RP
+Col 4:12	Χριστοῦ RP ] + Ἰησοῦ WH Treg NIV • σταθῆτε WH Treg NIV ] στῆτε RP • πεπληροφορημένοι WH Treg NIV ] πεπληρωμένοι RP
+Col 4:13	πολὺν πόνον WH Treg NIV ] ζῆλον πολὺν RP
+Col 4:15	Νύμφαν καὶ … οἶκον αὐτῆς WH NIV ] Νυμφᾶν καὶ … οἶκον αὐτῶν Treg; Νυμφᾶν καὶ … οἶκον αὐτοῦ RP
+Col 4:16	Λαοδικέων WH Treg NIV ] Λαοδικαίων RP
+Col 4:18	ὑμῶν WH Treg NIV ] + Ἀμήν RP
+
+
+

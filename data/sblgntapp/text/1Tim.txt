@@ -1,0 +1,47 @@
+
+1Ti 1:1	Timothy Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+1Ti 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] κυριόυ Ἰησοῦ Χριστοῦ RP
+1Ti 1:2	πατρὸς WH Treg NIV ] + ἡμῶν RP
+1Ti 1:4	ἐκζητήσεις WH Treg NIV ] ζητήσεις RP
+1Ti 1:12	Χάριν WH Treg NIV ] Καὶ χάριν RP
+1Ti 1:13	τὸ WH Treg NIV ] τὸν RP
+1Ti 1:16	Χριστὸς Ἰησοῦς WH Treg NIV ] Ἰησοῦς Χριστὸς RP • ἅπασαν WH Treg NIV ] πᾶσαν RP
+1Ti 1:17	μόνῳ WH Treg NIV ] + σοφῶ RP
+1Ti 1:18	στρατεύῃ WH NIV RP ] στρατεύσῃ Treg
+
+1Ti 2:3	τοῦτο WH Treg NIV ] + γὰρ RP
+1Ti 2:7	λέγω WH Treg NIV ] + ἐν Χριστῷ RP
+1Ti 2:8	διαλογισμοῦ Treg NIV RP ] διαλογισμῶν WH
+1Ti 2:9	καὶ Treg NIV ] – WH; + τὰς RP • καὶ WH Treg NIV ] ἢ RP • χρυσίῳ WH NIV ] χρυσῷ Treg RP
+1Ti 2:12	διδάσκειν δὲ γυναικὶ WH Treg NIV ] Γυναικὶ δὲ διδάσκειν RP
+1Ti 2:14	ἐξαπατηθεῖσα WH Treg NIV ] ἀπατηθεῖσα RP
+
+1Ti 3:3	πλήκτην WH Treg NIV ] + μὴ αἰσχροκερδῆ RP
+1Ti 3:7	δὲ WH Treg NIV ] + αὐτὸν RP
+1Ti 3:14	ἐν τάχει WH Treg NIV ] τάχιον RP
+1Ti 3:16	Ὃς WH Treg NIV ] θεὸς RP
+
+1Ti 4:6	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+1Ti 4:10	γὰρ WH Treg NIV ] + καὶ RP • ὀνειδιζόμεθα RP] ἀγωνιζόμεθα WH Treg NIV
+1Ti 4:12	ἀγάπῃ WH Treg NIV ] + ἐν πνεύματι RP
+1Ti 4:15	ᾖ WH Treg NIV ] + ἐν RP
+
+1Ti 5:5	θεὸν NIV ] τὸν θεὸν WH Treg RP
+1Ti 5:8	μάλιστα WH Treg NIV ] + τῶν RP • προνοεῖ WH NIV RP ] προνοεῖται Treg
+1Ti 5:16	τις WH Treg NIV ] + πιστὸς ἢ RP • ἐπαρκείτω WH NIV RP ] ἐπαρκείσθω Treg
+1Ti 5:20	τοὺς Treg NIV RP ] + δὲ WH
+1Ti 5:21	Χριστοῦ Ἰησοῦ WH Treg NIV ] κυρίου Ἰησοῦ Χριστοῦ RP
+1Ti 5:23	στόμαχον WH Treg NIV ] + σου RP
+1Ti 5:25	ἔργα τὰ καλὰ WH Treg NIV ] καλὰ ἔργα RP • πρόδηλα WH Treg NIV ] + ἐστίν RP
+
+1Ti 6:5	εὐσέβειαν WH Treg NIV ] + Ἀφίστασο ἀπὸ τῶν τοιούτων RP
+1Ti 6:7	ὅτι WH Treg NIV ] δῆλον ὅτι RP
+1Ti 6:11	θεοῦ WH Treg NIV ] τοῦ θεοῦ RP • πραϋπαθίαν WH Treg NIV ] πρᾳότητα RP
+1Ti 6:13	ζῳογονοῦντος WH Treg NIV ] ζωοποιοῦντος RP
+1Ti 6:17	ἐπὶ WH Treg NIV ] ἐν τῷ RP • θεῷ WH Treg NIV ] + τῷ ζῶντι RP
+1Ti 6:19	ὄντως WH Treg NIV ] αἰωνιόυ RP
+1Ti 6:21	μεθ᾽ ὑμῶν WH Treg NIV ] μετὰ σοῦ Ἀμήν RP
+
+

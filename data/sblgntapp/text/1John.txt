@@ -1,0 +1,61 @@
+
+1Jn 1:1	John Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+
+1Jn 1:3	καὶ WH Treg NIV ] – RP
+1Jn 1:4	ἡμεῖς WH Treg NIV ] ὑμῖν RP
+1Jn 1:5	ἐν αὐτῷ οὐκ ἔστιν NIV RP ] οὐκ ἔστιν ἐν αὐτῷ WH Treg
+1Jn 1:7	Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP
+1Jn 1:8	οὐκ ἔστιν ἐν ἡμῖν WH NIV RP ] ἐν ἡμῖν οὐκ ἔστιν Treg
+
+1Jn 2:4	ὅτι WH Treg NIV ] – RP
+1Jn 2:6	αὐτὸς WH Treg ] + οὕτως NIV RP
+1Jn 2:7	Ἀγαπητοί WH Treg NIV ] Ἀδελφοί RP • ἠκούσατε WH Treg NIV ] + ἀπ᾽ ἀρχῆς RP
+1Jn 2:14	ἔγραψα WH Treg NIV ] Γράφω RP
+1Jn 2:18	ὅτι WH Treg NIV ] + ὁ RP
+1Jn 2:19	ἐξ ἡμῶν ἦσαν WH Treg NIV ] ἦσαν ἐξ ἡμῶν RP
+1Jn 2:20	καὶ Treg NIV RP ] – WH • πάντες WH NIV ] πάντα Treg RP
+1Jn 2:23	ὁ ὁμολογῶν … ἔχει WH Treg NIV ] – RP
+1Jn 2:24	ὑμεῖς WH Treg NIV ] + οὐν RP
+1Jn 2:27	μένει ἐν ὑμῖν WH Treg NIV ] ἐν ὑμῖν μένει RP • αὐτοῦ WH Treg NIV ] αὐτὸ RP • μένετε WH Treg NIV] μενεῖτε RP
+1Jn 2:28	ἐὰν WH Treg NIV ] ὅταν RP • σχῶμεν WH Treg NIV ] ἔχῶμεν RP
+1Jn 2:29	ὅτι WH RP ] + καὶ NIV Treg
+
+1Jn 3:1	καὶ ἐσμέν WH Treg NIV ] – RP • ἡμᾶς WH Treg NIV ] ὑμᾶς RP
+1Jn 3:2	οἴδαμεν WH Treg NIV ] + δὲ RP
+1Jn 3:5	ἁμαρτίας WH Treg NIV ] + ἡμῶν RP
+1Jn 3:13	μὴ WH Treg RP] καὶ μὴ NIV • ἀδελφοί WH Treg NIV ] + μου RP
+1Jn 3:14	ἀγαπῶν WH Treg NIV ] + τὸν ἀδελφόν RP
+1Jn 3:15	αὐτῷ WH Treg NIV ] ἑαυτῷ RP
+1Jn 3:16	θεῖναι WH Treg NIV ] τιθέναι RP
+1Jn 3:18	Τεκνία WH Treg NIV ] + μου RP
+1Jn 3:19	ἐν WH ] καὶ ἐν Treg NIV RP • γνωσόμεθα WH Treg NIV ] γινώσκομεν RP • τὴν καρδίαν WH NIV ] τὰς καρδίας Treg RP
+1Jn 3:21	μὴ καταγινώσκῃ ἡμῶν Treg ] μὴ καταγινώσκῃ WH; ἡμῶν μὴ καταγινώσκῃ NIV; ἡμῶν μὴ καταγινώσκῃ ἡμῶν RP
+1Jn 3:22	ἐὰν Treg NIV RP] ἂν WH • ἀπ᾽ WH Treg NIV ] παρ᾽ RP
+1Jn 3:23	πιστεύσωμεν WH NIV RP ] πιστεύωμεν Treg • ἡμῖν WH Treg NIV ] – RP
+
+1Jn 4:2	γινώσκετε WH Treg NIV ] γινώσκεται RP
+1Jn 4:3	τὸν WH Treg NIV ] – RP • Ἰησοῦν WH Treg NIV ] + Χριστὸν ἐν σαρκὶ ἐληλυθότα RP
+1Jn 4:10	ἠγαπήκαμεν WH NIV ] ἠγαπήσαμεν Treg RP
+1Jn 4:12	ἐν ἡμῖν τετελειωμένη ἐστιν NIV ] τετελειωμένη ἐν ἡμῖν ἐστίν WH Treg; τετελειωμένη ἐστιν ἐν ἡμῖν RP
+1Jn 4:15	ἐὰν WH NIV ] ἂν Treg RP • Ἰησοῦς Treg NIV RP ] +Χριστός WH
+1Jn 4:16	μένει WH NIV RP ] – Treg
+1Jn 4:19	ἀγαπῶμεν WH Treg NIV ] + αὐτόν RP
+1Jn 4:20	οὐ WH Treg NIV ] πῶς RP
+
+1Jn 5:1	καὶ Treg NIV RP ] – WH
+1Jn 5:2	ποιῶμεν WH Treg NIV ] τηρῶμεν RP
+1Jn 5:5	δέ ἐστιν Treg NIV ] ἐστιν δὲ WH; ἐστιν RP
+1Jn 5:6	ἐν WH Treg NIV ] – RP
+1Jn 5:9	ὅτι WH Treg NIV ] ἥν RP
+1Jn 5:10	αὑτῷ WH ] αὐτῷ Treg RP; ἑαυτῷ NIV
+1Jn 5:11	ὁ θεὸς ἡμῖν WH ] ἡμῖν ὁ θεὸς Treg NIV RP
+1Jn 5:13	ὑμῖν WH Treg NIV] + τοῖς πιστεύουσιν εἰς τὸ ὄνομα τοῦ υἱοῦ τοῦ θεοῦ RP • ἔχετε αἰώνιον WH Treg NIV ] αἰώνιον ἔχετε RP • τοῖς πιστεύουσιν WH Treg NIV ] καὶ ἵνα πιστεύητε RP
+1Jn 5:15	ἐὰν WH NIV RP ] ἂν Treg • ἀπ᾽ WH Treg NIV ] παρ᾽ RP
+1Jn 5:18	αὐτόν WH Treg NIV ] ἑαυτόν RP
+1Jn 5:20	γινώσκωμεν NIV RP ] γινώσκομεν WH Treg
+1Jn 5:21	εἰδώλων WH Treg NIV ] + Ἀμήν RP
+
+
+

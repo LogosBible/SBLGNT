@@ -1,0 +1,27 @@
+
+Titus Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+Tit 1:4	καὶ WH Treg NIV ] ἔλεος RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] κυρίου Ἰησοῦ χριστοῦ RP
+Tit 1:5	ἀπέλιπόν Treg NIV] ἀπέλειπόν WH; κατέλιπόν RP
+Tit 1:10	καὶ RP NA ] – WH Treg NIV • τῆς WH Treg NIV ] – RP
+Tit 1:15	πάντα WH Treg NIV ] + μὲν RP
+
+Tit 2:3	μηδὲ WH Treg ] μὴ NIV RP
+Tit 2:4	σωφρονίζωσι WH NIV RP] σωφρονίζουσιν Treg
+Tit 2:5	οἰκουργούς WH Treg NIV ] οἰκουρούς RP
+Tit 2:7	ἀφθορίαν WH Treg NIV ] ἀδιαφθορίαν RP • σεμνότητα WH Treg NIV ] + ἀφθαρσίαν RP
+Tit 2:8	λέγειν περὶ ἡμῶν WH Treg NIV ] περὶ ἡμῶν λέγειν RP
+Tit 2:10	πᾶσαν πίστιν WH Treg NIV ] πίστιν πᾶσαν RP • τὴν WH Treg NIV ] – RP
+Tit 2:11	θεοῦ WH Treg NIV ] + ἡ RP
+Tit 2:13	Ἰησοῦ Χριστοῦ NIV RP ] Χριστοῦ Ἰησοῦ WH Treg
+
+Tit 3:1	ἀρχαῖς WH Treg NIV ] + καὶ RP
+Tit 3:5	ἃ WH Treg NIV ] ὧν RP • τὸ αὐτοῦ ἔλεος WH Treg NIV ] τὸν αὐτοῦ ἔλεον RP
+Tit 3:7	γενηθῶμεν WH Treg NIV ] γενώμεθα RP
+Tit 3:8	ἐστιν WH Treg NIV ] + τὰ RP
+Tit 3:9	ἔρεις Treg NIV RP ] ἔριν WH
+Tit 3:13	Ἀπολλῶν WH NIV ] Ἀπολλὼ Treg RP
+Tit 3:15	ὑμῶν WH Treg NIV ] + Ἀμήν RP
+
+

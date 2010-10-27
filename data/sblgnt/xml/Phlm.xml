@@ -1,0 +1,726 @@
+﻿<book id="Phm">
+  <title>ΠΡΟΣ ΦΙΛΗΜΟΝΑ</title>
+  <p>
+    <verse-number id="Philemon 1:1">1:1</verse-number>
+    <w>Παῦλος</w>
+    <suffix></suffix>
+    <w>δέσμιος</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Τιμόθεος</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>ἀδελφὸς</w>
+    <suffix></suffix>
+    <w>Φιλήμονι</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>ἀγαπητῷ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>συνεργῷ</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <verse-number id="Philemon 1:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Ἀπφίᾳ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀδελφῇ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Ἀρχίππῳ</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>συστρατιώτῃ</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>κατ’</w>
+    <suffix></suffix>
+    <w>οἶκόν</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>ἐκκλησίᾳ</w>
+    <suffix>·  </suffix>
+    <verse-number id="Philemon 1:3">3</verse-number>
+    <w>χάρις</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>εἰρήνη</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>πατρὸς</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="Philemon 1:4">4</verse-number>
+    <w>Εὐχαριστῶ</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>θεῷ</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>πάντοτε</w>
+    <suffix></suffix>
+    <w>μνείαν</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>ποιούμενος</w>
+    <suffix></suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>προσευχῶν</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:5">5</verse-number>
+    <w>ἀκούων</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἀγάπην</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>πίστιν</w>
+    <suffix></suffix>
+    <w>ἣν</w>
+    <suffix></suffix>
+    <w>ἔχεις</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>κύριον</w>
+    <suffix></suffix>
+    <w>Ἰησοῦν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>πάντας</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>ἁγίους</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:6">6</verse-number>
+    <w>ὅπως</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>κοινωνία</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>πίστεώς</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>ἐνεργὴς</w>
+    <suffix></suffix>
+    <w>γένηται</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐπιγνώσει</w>
+    <suffix></suffix>
+    <w>παντὸς</w>
+    <suffix></suffix>
+    <w>ἀγαθοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἡμῖν</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>Χριστόν</w>
+    <suffix>·  </suffix>
+    <verse-number id="Philemon 1:7">7</verse-number>
+    <prefix> ⸀</prefix>
+    <w>χαρὰν</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>πολλὴν</w>
+    <suffix></suffix>
+    <w>ἔσχον</w>
+    <suffix>⸃  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>παράκλησιν</w>
+    <suffix></suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἀγάπῃ</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>σπλάγχνα</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἁγίων</w>
+    <suffix></suffix>
+    <w>ἀναπέπαυται</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>σοῦ</w>
+    <suffix>,  </suffix>
+    <w>ἀδελφέ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="Philemon 1:8">8</verse-number>
+    <w>Διό</w>
+    <suffix>,  </suffix>
+    <w>πολλὴν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>παρρησίαν</w>
+    <suffix></suffix>
+    <w>ἔχων</w>
+    <suffix></suffix>
+    <w>ἐπιτάσσειν</w>
+    <suffix></suffix>
+    <w>σοι</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>ἀνῆκον</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:9">9</verse-number>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἀγάπην</w>
+    <suffix></suffix>
+    <w>μᾶλλον</w>
+    <suffix></suffix>
+    <w>παρακαλῶ</w>
+    <suffix>,  </suffix>
+    <w>τοιοῦτος</w>
+    <suffix></suffix>
+    <w>ὢν</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>Παῦλος</w>
+    <suffix></suffix>
+    <w>πρεσβύτης</w>
+    <suffix></suffix>
+    <w>νυνὶ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>δέσμιος</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>⸃—  </suffix>
+    <verse-number id="Philemon 1:10">10</verse-number>
+    <w>παρακαλῶ</w>
+    <suffix></suffix>
+    <w>σε</w>
+    <suffix></suffix>
+    <w>περὶ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>ἐμοῦ</w>
+    <suffix></suffix>
+    <w>τέκνου</w>
+    <suffix>,  </suffix>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <w>ἐγέννησα</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τοῖς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>δεσμοῖς</w>
+    <suffix></suffix>
+    <w>Ὀνήσιμον</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:11">11</verse-number>
+    <w>τόν</w>
+    <suffix></suffix>
+    <w>ποτέ</w>
+    <suffix></suffix>
+    <w>σοι</w>
+    <suffix></suffix>
+    <w>ἄχρηστον</w>
+    <suffix></suffix>
+    <w>νυνὶ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>σοὶ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐμοὶ</w>
+    <suffix></suffix>
+    <w>εὔχρηστον</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:12">12</verse-number>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <w>ἀνέπεμψά</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>σοι</w>
+    <suffix></suffix>
+    <w>αὐτόν</w>
+    <suffix>,  </suffix>
+    <w>τοῦτ’</w>
+    <suffix></suffix>
+    <w>ἔστιν</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>ἐμὰ</w>
+    <suffix></suffix>
+    <w>σπλάγχνα</w>
+    <suffix>⸃·  </suffix>
+    <verse-number id="Philemon 1:13">13</verse-number>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <w>ἐγὼ</w>
+    <suffix></suffix>
+    <w>ἐβουλόμην</w>
+    <suffix></suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>ἐμαυτὸν</w>
+    <suffix></suffix>
+    <w>κατέχειν</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>ὑπὲρ</w>
+    <suffix></suffix>
+    <w>σοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>διακονῇ</w>
+    <suffix>⸃  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τοῖς</w>
+    <suffix></suffix>
+    <w>δεσμοῖς</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>εὐαγγελίου</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:14">14</verse-number>
+    <w>χωρὶς</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>σῆς</w>
+    <suffix></suffix>
+    <w>γνώμης</w>
+    <suffix></suffix>
+    <w>οὐδὲν</w>
+    <suffix></suffix>
+    <w>ἠθέλησα</w>
+    <suffix></suffix>
+    <w>ποιῆσαι</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>ἀνάγκην</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>ἀγαθόν</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>ᾖ</w>
+    <suffix></suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>ἑκούσιον</w>
+    <suffix>·  </suffix>
+    <verse-number id="Philemon 1:15">15</verse-number>
+    <w>τάχα</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>ἐχωρίσθη</w>
+    <suffix></suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>ὥραν</w>
+    <suffix></suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>αἰώνιον</w>
+    <suffix></suffix>
+    <w>αὐτὸν</w>
+    <suffix></suffix>
+    <w>ἀπέχῃς</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:16">16</verse-number>
+    <w>οὐκέτι</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>δοῦλον</w>
+    <suffix></suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>ὑπὲρ</w>
+    <suffix></suffix>
+    <w>δοῦλον</w>
+    <suffix>,  </suffix>
+    <w>ἀδελφὸν</w>
+    <suffix></suffix>
+    <w>ἀγαπητόν</w>
+    <suffix>,  </suffix>
+    <w>μάλιστα</w>
+    <suffix></suffix>
+    <w>ἐμοί</w>
+    <suffix>,  </suffix>
+    <w>πόσῳ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>μᾶλλον</w>
+    <suffix></suffix>
+    <w>σοὶ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>σαρκὶ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>κυρίῳ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="Philemon 1:17">17</verse-number>
+    <w>Εἰ</w>
+    <suffix></suffix>
+    <w>οὖν</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <w>ἔχεις</w>
+    <suffix></suffix>
+    <w>κοινωνόν</w>
+    <suffix>,  </suffix>
+    <w>προσλαβοῦ</w>
+    <suffix></suffix>
+    <w>αὐτὸν</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>ἐμέ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Philemon 1:18">18</verse-number>
+    <w>εἰ</w>
+    <suffix></suffix>
+    <w>δέ</w>
+    <suffix></suffix>
+    <w>τι</w>
+    <suffix></suffix>
+    <w>ἠδίκησέν</w>
+    <suffix></suffix>
+    <w>σε</w>
+    <suffix></suffix>
+    <w>ἢ</w>
+    <suffix></suffix>
+    <w>ὀφείλει</w>
+    <suffix>,  </suffix>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>ἐμοὶ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐλλόγα</w>
+    <suffix>·  </suffix>
+    <verse-number id="Philemon 1:19">19</verse-number>
+    <w>ἐγὼ</w>
+    <suffix></suffix>
+    <w>Παῦλος</w>
+    <suffix></suffix>
+    <w>ἔγραψα</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἐμῇ</w>
+    <suffix></suffix>
+    <w>χειρί</w>
+    <suffix>,  </suffix>
+    <w>ἐγὼ</w>
+    <suffix></suffix>
+    <w>ἀποτίσω</w>
+    <suffix>·  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>λέγω</w>
+    <suffix></suffix>
+    <w>σοι</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σεαυτόν</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>προσοφείλεις</w>
+    <suffix>.  </suffix>
+    <verse-number id="Philemon 1:20">20</verse-number>
+    <w>ναί</w>
+    <suffix>,  </suffix>
+    <w>ἀδελφέ</w>
+    <suffix>,  </suffix>
+    <w>ἐγώ</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>ὀναίμην</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>κυρίῳ</w>
+    <suffix>·  </suffix>
+    <w>ἀνάπαυσόν</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>σπλάγχνα</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>Χριστῷ</w>
+    <suffix>.  </suffix>
+    <verse-number id="Philemon 1:21">21</verse-number>
+    <w>πεποιθὼς</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ὑπακοῇ</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>ἔγραψά</w>
+    <suffix></suffix>
+    <w>σοι</w>
+    <suffix>,  </suffix>
+    <w>εἰδὼς</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὑπὲρ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἃ</w>
+    <suffix></suffix>
+    <w>λέγω</w>
+    <suffix></suffix>
+    <w>ποιήσεις</w>
+    <suffix>.  </suffix>
+    <verse-number id="Philemon 1:22">22</verse-number>
+    <w>ἅμα</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἑτοίμαζέ</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>ξενίαν</w>
+    <suffix>,  </suffix>
+    <w>ἐλπίζω</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>προσευχῶν</w>
+    <suffix></suffix>
+    <w>ὑμῶν</w>
+    <suffix></suffix>
+    <w>χαρισθήσομαι</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="Philemon 1:23">23</verse-number>
+    <prefix> ⸀</prefix>
+    <w>Ἀσπάζεταί</w>
+    <suffix></suffix>
+    <w>σε</w>
+    <suffix></suffix>
+    <w>Ἐπαφρᾶς</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>συναιχμάλωτός</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="Philemon 1:24">24</verse-number>
+    <w>Μᾶρκος</w>
+    <suffix>,  </suffix>
+    <w>Ἀρίσταρχος</w>
+    <suffix>,  </suffix>
+    <w>Δημᾶς</w>
+    <suffix>,  </suffix>
+    <w>Λουκᾶς</w>
+    <suffix>,  </suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>συνεργοί</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="Philemon 1:25">25</verse-number>
+    <w>Ἡ</w>
+    <suffix></suffix>
+    <w>χάρις</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>μετὰ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>πνεύματος</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ὑμῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p />
+</book>

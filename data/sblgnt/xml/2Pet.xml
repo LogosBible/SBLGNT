@@ -1,0 +1,2331 @@
+﻿<book id="2Pe">
+  <title>ΠΕΤΡΟΥ Β</title>
+  <p>
+    <verse-number id="2 Peter 1:1">1:1</verse-number>
+    <prefix> ⸀</prefix>
+    <w>Συμεὼν</w>
+    <suffix></suffix>
+    <w>Πέτρος</w>
+    <suffix></suffix>
+    <w>δοῦλος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀπόστολος</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>τοῖς</w>
+    <suffix></suffix>
+    <w>ἰσότιμον</w>
+    <suffix></suffix>
+    <w>ἡμῖν</w>
+    <suffix></suffix>
+    <w>λαχοῦσιν</w>
+    <suffix></suffix>
+    <w>πίστιν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δικαιοσύνῃ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σωτῆρος</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 1:2">2</verse-number>
+    <w>χάρις</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>εἰρήνη</w>
+    <suffix></suffix>
+    <w>πληθυνθείη</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐπιγνώσει</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 1:3">3</verse-number>
+    <w>Ὡς</w>
+    <suffix></suffix>
+    <w>πάντα</w>
+    <suffix></suffix>
+    <w>ἡμῖν</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>θείας</w>
+    <suffix></suffix>
+    <w>δυνάμεως</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>ζωὴν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>εὐσέβειαν</w>
+    <suffix></suffix>
+    <w>δεδωρημένης</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐπιγνώσεως</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>καλέσαντος</w>
+    <suffix></suffix>
+    <w>ἡμᾶς</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>ἰδίᾳ</w>
+    <suffix></suffix>
+    <w>δόξῃ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀρετῇ</w>
+    <suffix>⸃,  </suffix>
+    <verse-number id="2 Peter 1:4">4</verse-number>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>ὧν</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>τίμια</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>μέγιστα</w>
+    <suffix></suffix>
+    <w>ἡμῖν</w>
+    <suffix>⸃  </suffix>
+    <w>ἐπαγγέλματα</w>
+    <suffix></suffix>
+    <w>δεδώρηται</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τούτων</w>
+    <suffix></suffix>
+    <w>γένησθε</w>
+    <suffix></suffix>
+    <w>θείας</w>
+    <suffix></suffix>
+    <w>κοινωνοὶ</w>
+    <suffix></suffix>
+    <w>φύσεως</w>
+    <suffix>,  </suffix>
+    <w>ἀποφυγόντες</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>κόσμῳ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐπιθυμίᾳ</w>
+    <suffix></suffix>
+    <w>φθορᾶς</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 1:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>αὐτὸ</w>
+    <suffix></suffix>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>σπουδὴν</w>
+    <suffix></suffix>
+    <w>πᾶσαν</w>
+    <suffix></suffix>
+    <w>παρεισενέγκαντες</w>
+    <suffix></suffix>
+    <w>ἐπιχορηγήσατε</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>πίστει</w>
+    <suffix></suffix>
+    <w>ὑμῶν</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἀρετήν</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἀρετῇ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>γνῶσιν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 1:6">6</verse-number>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>γνώσει</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἐγκράτειαν</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἐγκρατείᾳ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ὑπομονήν</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ὑπομονῇ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>εὐσέβειαν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 1:7">7</verse-number>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>εὐσεβείᾳ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>φιλαδελφίαν</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>φιλαδελφίᾳ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἀγάπην</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 1:8">8</verse-number>
+    <w>ταῦτα</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix></suffix>
+    <w>ὑπάρχοντα</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>πλεονάζοντα</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἀργοὺς</w>
+    <suffix></suffix>
+    <w>οὐδὲ</w>
+    <suffix></suffix>
+    <w>ἀκάρπους</w>
+    <suffix></suffix>
+    <w>καθίστησιν</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>ἐπίγνωσιν</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 1:9">9</verse-number>
+    <w>ᾧ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>πάρεστιν</w>
+    <suffix></suffix>
+    <w>ταῦτα</w>
+    <suffix>,  </suffix>
+    <w>τυφλός</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>μυωπάζων</w>
+    <suffix>,  </suffix>
+    <w>λήθην</w>
+    <suffix></suffix>
+    <w>λαβὼν</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>καθαρισμοῦ</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>πάλαι</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἁμαρτημάτων</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 1:10">10</verse-number>
+    <w>διὸ</w>
+    <suffix></suffix>
+    <w>μᾶλλον</w>
+    <suffix>,  </suffix>
+    <w>ἀδελφοί</w>
+    <suffix>,  </suffix>
+    <w>σπουδάσατε</w>
+    <suffix></suffix>
+    <w>βεβαίαν</w>
+    <suffix></suffix>
+    <w>ὑμῶν</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>κλῆσιν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐκλογὴν</w>
+    <suffix></suffix>
+    <w>ποιεῖσθαι</w>
+    <suffix>·  </suffix>
+    <w>ταῦτα</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ποιοῦντες</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>πταίσητέ</w>
+    <suffix></suffix>
+    <w>ποτε</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 1:11">11</verse-number>
+    <w>οὕτως</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>πλουσίως</w>
+    <suffix></suffix>
+    <w>ἐπιχορηγηθήσεται</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>εἴσοδος</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>αἰώνιον</w>
+    <suffix></suffix>
+    <w>βασιλείαν</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σωτῆρος</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 1:12">12</verse-number>
+    <w>Διὸ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>μελλήσω</w>
+    <suffix></suffix>
+    <w>ἀεὶ</w>
+    <suffix></suffix>
+    <w>ὑμᾶς</w>
+    <suffix></suffix>
+    <w>ὑπομιμνῄσκειν</w>
+    <suffix></suffix>
+    <w>περὶ</w>
+    <suffix></suffix>
+    <w>τούτων</w>
+    <suffix>,  </suffix>
+    <w>καίπερ</w>
+    <suffix></suffix>
+    <w>εἰδότας</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐστηριγμένους</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>παρούσῃ</w>
+    <suffix></suffix>
+    <w>ἀληθείᾳ</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 1:13">13</verse-number>
+    <w>δίκαιον</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ἡγοῦμαι</w>
+    <suffix>,  </suffix>
+    <w>ἐφ’</w>
+    <suffix></suffix>
+    <w>ὅσον</w>
+    <suffix></suffix>
+    <w>εἰμὶ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τούτῳ</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>σκηνώματι</w>
+    <suffix>,  </suffix>
+    <w>διεγείρειν</w>
+    <suffix></suffix>
+    <w>ὑμᾶς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ὑπομνήσει</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 1:14">14</verse-number>
+    <w>εἰδὼς</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>ταχινή</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>ἀπόθεσις</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>σκηνώματός</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>καθὼς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>Ἰησοῦς</w>
+    <suffix></suffix>
+    <w>Χριστὸς</w>
+    <suffix></suffix>
+    <w>ἐδήλωσέν</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 1:15">15</verse-number>
+    <w>σπουδάσω</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἑκάστοτε</w>
+    <suffix></suffix>
+    <w>ἔχειν</w>
+    <suffix></suffix>
+    <w>ὑμᾶς</w>
+    <suffix></suffix>
+    <w>μετὰ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἐμὴν</w>
+    <suffix></suffix>
+    <w>ἔξοδον</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>τούτων</w>
+    <suffix></suffix>
+    <w>μνήμην</w>
+    <suffix></suffix>
+    <w>ποιεῖσθαι</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 1:16">16</verse-number>
+    <w>Οὐ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>σεσοφισμένοις</w>
+    <suffix></suffix>
+    <w>μύθοις</w>
+    <suffix></suffix>
+    <w>ἐξακολουθήσαντες</w>
+    <suffix></suffix>
+    <w>ἐγνωρίσαμεν</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>δύναμιν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>παρουσίαν</w>
+    <suffix>,  </suffix>
+    <w>ἀλλ’</w>
+    <suffix></suffix>
+    <w>ἐπόπται</w>
+    <suffix></suffix>
+    <w>γενηθέντες</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐκείνου</w>
+    <suffix></suffix>
+    <w>μεγαλειότητος</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 1:17">17</verse-number>
+    <w>λαβὼν</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>παρὰ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>πατρὸς</w>
+    <suffix></suffix>
+    <w>τιμὴν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>δόξαν</w>
+    <suffix></suffix>
+    <w>φωνῆς</w>
+    <suffix></suffix>
+    <w>ἐνεχθείσης</w>
+    <suffix></suffix>
+    <w>αὐτῷ</w>
+    <suffix></suffix>
+    <w>τοιᾶσδε</w>
+    <suffix></suffix>
+    <w>ὑπὸ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>μεγαλοπρεποῦς</w>
+    <suffix></suffix>
+    <w>δόξης</w>
+    <suffix>·  </suffix>
+    <prefix> ⸂</prefix>
+    <w>Ὁ</w>
+    <suffix></suffix>
+    <w>υἱός</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>ἀγαπητός</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>οὗτός</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix>⸃,  </suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <w>ἐγὼ</w>
+    <suffix></suffix>
+    <w>εὐδόκησα</w>
+    <suffix>—  </suffix>
+    <verse-number id="2 Peter 1:18">18</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ταύτην</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>φωνὴν</w>
+    <suffix></suffix>
+    <w>ἡμεῖς</w>
+    <suffix></suffix>
+    <w>ἠκούσαμεν</w>
+    <suffix></suffix>
+    <w>ἐξ</w>
+    <suffix></suffix>
+    <w>οὐρανοῦ</w>
+    <suffix></suffix>
+    <w>ἐνεχθεῖσαν</w>
+    <suffix></suffix>
+    <w>σὺν</w>
+    <suffix></suffix>
+    <w>αὐτῷ</w>
+    <suffix></suffix>
+    <w>ὄντες</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>ἁγίῳ</w>
+    <suffix></suffix>
+    <w>ὄρει</w>
+    <suffix>⸃.  </suffix>
+    <verse-number id="2 Peter 1:19">19</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἔχομεν</w>
+    <suffix></suffix>
+    <w>βεβαιότερον</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>προφητικὸν</w>
+    <suffix></suffix>
+    <w>λόγον</w>
+    <suffix>,  </suffix>
+    <w>ᾧ</w>
+    <suffix></suffix>
+    <w>καλῶς</w>
+    <suffix></suffix>
+    <w>ποιεῖτε</w>
+    <suffix></suffix>
+    <w>προσέχοντες</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>λύχνῳ</w>
+    <suffix></suffix>
+    <w>φαίνοντι</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>αὐχμηρῷ</w>
+    <suffix></suffix>
+    <w>τόπῳ</w>
+    <suffix>,  </suffix>
+    <w>ἕως</w>
+    <suffix></suffix>
+    <w>οὗ</w>
+    <suffix></suffix>
+    <w>ἡμέρα</w>
+    <suffix></suffix>
+    <w>διαυγάσῃ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>φωσφόρος</w>
+    <suffix></suffix>
+    <w>ἀνατείλῃ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ταῖς</w>
+    <suffix></suffix>
+    <w>καρδίαις</w>
+    <suffix></suffix>
+    <w>ὑμῶν</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 1:20">20</verse-number>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>πρῶτον</w>
+    <suffix></suffix>
+    <w>γινώσκοντες</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>πᾶσα</w>
+    <suffix></suffix>
+    <w>προφητεία</w>
+    <suffix></suffix>
+    <w>γραφῆς</w>
+    <suffix></suffix>
+    <w>ἰδίας</w>
+    <suffix></suffix>
+    <w>ἐπιλύσεως</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>γίνεται</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 1:21">21</verse-number>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>θελήματι</w>
+    <suffix></suffix>
+    <w>ἀνθρώπου</w>
+    <suffix></suffix>
+    <w>ἠνέχθη</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>προφητεία</w>
+    <suffix></suffix>
+    <w>ποτέ</w>
+    <suffix>⸃,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>ὑπὸ</w>
+    <suffix></suffix>
+    <w>πνεύματος</w>
+    <suffix></suffix>
+    <w>ἁγίου</w>
+    <suffix></suffix>
+    <w>φερόμενοι</w>
+    <suffix></suffix>
+    <w>ἐλάλησαν</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>ἄνθρωποι</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 2:1">2:1</verse-number>
+    <w>Ἐγένοντο</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ψευδοπροφῆται</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>λαῷ</w>
+    <suffix>,  </suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix></suffix>
+    <w>ἔσονται</w>
+    <suffix></suffix>
+    <w>ψευδοδιδάσκαλοι</w>
+    <suffix>,  </suffix>
+    <w>οἵτινες</w>
+    <suffix></suffix>
+    <w>παρεισάξουσιν</w>
+    <suffix></suffix>
+    <w>αἱρέσεις</w>
+    <suffix></suffix>
+    <w>ἀπωλείας</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>ἀγοράσαντα</w>
+    <suffix></suffix>
+    <w>αὐτοὺς</w>
+    <suffix></suffix>
+    <w>δεσπότην</w>
+    <suffix></suffix>
+    <w>ἀρνούμενοι</w>
+    <suffix>,  </suffix>
+    <w>ἐπάγοντες</w>
+    <suffix></suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix></suffix>
+    <w>ταχινὴν</w>
+    <suffix></suffix>
+    <w>ἀπώλειαν</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 2:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>πολλοὶ</w>
+    <suffix></suffix>
+    <w>ἐξακολουθήσουσιν</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>ταῖς</w>
+    <suffix></suffix>
+    <w>ἀσελγείαις</w>
+    <suffix>,  </suffix>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>οὓς</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>ὁδὸς</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἀληθείας</w>
+    <suffix></suffix>
+    <w>βλασφημηθήσεται</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 2:3">3</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πλεονεξίᾳ</w>
+    <suffix></suffix>
+    <w>πλαστοῖς</w>
+    <suffix></suffix>
+    <w>λόγοις</w>
+    <suffix></suffix>
+    <w>ὑμᾶς</w>
+    <suffix></suffix>
+    <w>ἐμπορεύσονται</w>
+    <suffix>·  </suffix>
+    <w>οἷς</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>κρίμα</w>
+    <suffix></suffix>
+    <w>ἔκπαλαι</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἀργεῖ</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>ἀπώλεια</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>νυστάζει</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 2:4">4</verse-number>
+    <w>Εἰ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>θεὸς</w>
+    <suffix></suffix>
+    <w>ἀγγέλων</w>
+    <suffix></suffix>
+    <w>ἁμαρτησάντων</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἐφείσατο</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>σειραῖς</w>
+    <suffix></suffix>
+    <w>ζόφου</w>
+    <suffix></suffix>
+    <w>ταρταρώσας</w>
+    <suffix></suffix>
+    <w>παρέδωκεν</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>κρίσιν</w>
+    <suffix></suffix>
+    <w>τηρουμένους</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:5">5</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀρχαίου</w>
+    <suffix></suffix>
+    <w>κόσμου</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἐφείσατο</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>ὄγδοον</w>
+    <suffix></suffix>
+    <w>Νῶε</w>
+    <suffix></suffix>
+    <w>δικαιοσύνης</w>
+    <suffix></suffix>
+    <w>κήρυκα</w>
+    <suffix></suffix>
+    <w>ἐφύλαξεν</w>
+    <suffix>,  </suffix>
+    <w>κατακλυσμὸν</w>
+    <suffix></suffix>
+    <w>κόσμῳ</w>
+    <suffix></suffix>
+    <w>ἀσεβῶν</w>
+    <suffix></suffix>
+    <w>ἐπάξας</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:6">6</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>πόλεις</w>
+    <suffix></suffix>
+    <w>Σοδόμων</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Γομόρρας</w>
+    <suffix></suffix>
+    <w>τεφρώσας</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>καταστροφῇ</w>
+    <suffix></suffix>
+    <w>κατέκρινεν</w>
+    <suffix>,  </suffix>
+    <w>ὑπόδειγμα</w>
+    <suffix></suffix>
+    <w>μελλόντων</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀσεβέσιν</w>
+    <suffix></suffix>
+    <w>τεθεικώς</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:7">7</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>δίκαιον</w>
+    <suffix></suffix>
+    <w>Λὼτ</w>
+    <suffix></suffix>
+    <w>καταπονούμενον</w>
+    <suffix></suffix>
+    <w>ὑπὸ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἀθέσμων</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἀσελγείᾳ</w>
+    <suffix></suffix>
+    <w>ἀναστροφῆς</w>
+    <suffix></suffix>
+    <w>ἐρρύσατο</w>
+    <suffix>—  </suffix>
+    <verse-number id="2 Peter 2:8">8</verse-number>
+    <w>βλέμματι</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀκοῇ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>δίκαιος</w>
+    <suffix></suffix>
+    <w>ἐγκατοικῶν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>ἡμέραν</w>
+    <suffix></suffix>
+    <w>ἐξ</w>
+    <suffix></suffix>
+    <w>ἡμέρας</w>
+    <suffix></suffix>
+    <w>ψυχὴν</w>
+    <suffix></suffix>
+    <w>δικαίαν</w>
+    <suffix></suffix>
+    <w>ἀνόμοις</w>
+    <suffix></suffix>
+    <w>ἔργοις</w>
+    <suffix></suffix>
+    <w>ἐβασάνιζεν</w>
+    <suffix>—  </suffix>
+    <verse-number id="2 Peter 2:9">9</verse-number>
+    <w>οἶδεν</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>εὐσεβεῖς</w>
+    <suffix></suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>πειρασμοῦ</w>
+    <suffix></suffix>
+    <w>ῥύεσθαι</w>
+    <suffix>,  </suffix>
+    <w>ἀδίκους</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἡμέραν</w>
+    <suffix></suffix>
+    <w>κρίσεως</w>
+    <suffix></suffix>
+    <w>κολαζομένους</w>
+    <suffix></suffix>
+    <w>τηρεῖν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:10">10</verse-number>
+    <w>μάλιστα</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>ὀπίσω</w>
+    <suffix></suffix>
+    <w>σαρκὸς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐπιθυμίᾳ</w>
+    <suffix></suffix>
+    <w>μιασμοῦ</w>
+    <suffix></suffix>
+    <w>πορευομένους</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>κυριότητος</w>
+    <suffix></suffix>
+    <w>καταφρονοῦντας</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <w>Τολμηταὶ</w>
+    <suffix>,  </suffix>
+    <w>αὐθάδεις</w>
+    <suffix>,  </suffix>
+    <w>δόξας</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>τρέμουσιν</w>
+    <suffix>,  </suffix>
+    <w>βλασφημοῦντες</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:11">11</verse-number>
+    <w>ὅπου</w>
+    <suffix></suffix>
+    <w>ἄγγελοι</w>
+    <suffix></suffix>
+    <w>ἰσχύϊ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>δυνάμει</w>
+    <suffix></suffix>
+    <w>μείζονες</w>
+    <suffix></suffix>
+    <w>ὄντες</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>φέρουσιν</w>
+    <suffix></suffix>
+    <w>κατ’</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>βλάσφημον</w>
+    <suffix></suffix>
+    <w>κρίσιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 2:12">12</verse-number>
+    <w>οὗτοι</w>
+    <suffix></suffix>
+    <w>δέ</w>
+    <suffix>,  </suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>ἄλογα</w>
+    <suffix></suffix>
+    <w>ζῷα</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>γεγεννημένα</w>
+    <suffix></suffix>
+    <w>φυσικὰ</w>
+    <suffix>⸃  </suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἅλωσιν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>φθοράν</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>οἷς</w>
+    <suffix></suffix>
+    <w>ἀγνοοῦσιν</w>
+    <suffix></suffix>
+    <w>βλασφημοῦντες</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>φθορᾷ</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>φθαρήσονται</w>
+    <suffix>⸃,  </suffix>
+    <verse-number id="2 Peter 2:13">13</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ἀδικούμενοι</w>
+    <suffix></suffix>
+    <w>μισθὸν</w>
+    <suffix></suffix>
+    <w>ἀδικίας</w>
+    <suffix>·  </suffix>
+    <w>ἡδονὴν</w>
+    <suffix></suffix>
+    <w>ἡγούμενοι</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix></suffix>
+    <w>τρυφήν</w>
+    <suffix>,  </suffix>
+    <w>σπίλοι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>μῶμοι</w>
+    <suffix></suffix>
+    <w>ἐντρυφῶντες</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ταῖς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπάταις</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>συνευωχούμενοι</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:14">14</verse-number>
+    <w>ὀφθαλμοὺς</w>
+    <suffix></suffix>
+    <w>ἔχοντες</w>
+    <suffix></suffix>
+    <w>μεστοὺς</w>
+    <suffix></suffix>
+    <w>μοιχαλίδος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀκαταπαύστους</w>
+    <suffix></suffix>
+    <w>ἁμαρτίας</w>
+    <suffix>,  </suffix>
+    <w>δελεάζοντες</w>
+    <suffix></suffix>
+    <w>ψυχὰς</w>
+    <suffix></suffix>
+    <w>ἀστηρίκτους</w>
+    <suffix>,  </suffix>
+    <w>καρδίαν</w>
+    <suffix></suffix>
+    <w>γεγυμνασμένην</w>
+    <suffix></suffix>
+    <w>πλεονεξίας</w>
+    <suffix></suffix>
+    <w>ἔχοντες</w>
+    <suffix>,  </suffix>
+    <w>κατάρας</w>
+    <suffix></suffix>
+    <w>τέκνα</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:15">15</verse-number>
+    <prefix> ⸀</prefix>
+    <w>καταλιπόντες</w>
+    <suffix></suffix>
+    <w>εὐθεῖαν</w>
+    <suffix></suffix>
+    <w>ὁδὸν</w>
+    <suffix></suffix>
+    <w>ἐπλανήθησαν</w>
+    <suffix>,  </suffix>
+    <w>ἐξακολουθήσαντες</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ὁδῷ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>Βαλαὰμ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>Βοσὸρ</w>
+    <suffix></suffix>
+    <w>ὃς</w>
+    <suffix></suffix>
+    <w>μισθὸν</w>
+    <suffix></suffix>
+    <w>ἀδικίας</w>
+    <suffix></suffix>
+    <w>ἠγάπησεν</w>
+    <suffix></suffix>
+    <verse-number id="2 Peter 2:16">16</verse-number>
+    <w>ἔλεγξιν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ἔσχεν</w>
+    <suffix></suffix>
+    <w>ἰδίας</w>
+    <suffix></suffix>
+    <w>παρανομίας</w>
+    <suffix>·  </suffix>
+    <w>ὑποζύγιον</w>
+    <suffix></suffix>
+    <w>ἄφωνον</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἀνθρώπου</w>
+    <suffix></suffix>
+    <w>φωνῇ</w>
+    <suffix></suffix>
+    <w>φθεγξάμενον</w>
+    <suffix></suffix>
+    <w>ἐκώλυσεν</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>προφήτου</w>
+    <suffix></suffix>
+    <w>παραφρονίαν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 2:17">17</verse-number>
+    <w>Οὗτοί</w>
+    <suffix></suffix>
+    <w>εἰσιν</w>
+    <suffix></suffix>
+    <w>πηγαὶ</w>
+    <suffix></suffix>
+    <w>ἄνυδροι</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὁμίχλαι</w>
+    <suffix>⸃  </suffix>
+    <w>ὑπὸ</w>
+    <suffix></suffix>
+    <w>λαίλαπος</w>
+    <suffix></suffix>
+    <w>ἐλαυνόμεναι</w>
+    <suffix>,  </suffix>
+    <w>οἷς</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>ζόφος</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>σκότους</w>
+    <suffix></suffix>
+    <w>τετήρηται</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 2:18">18</verse-number>
+    <w>ὑπέρογκα</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ματαιότητος</w>
+    <suffix></suffix>
+    <w>φθεγγόμενοι</w>
+    <suffix></suffix>
+    <w>δελεάζουσιν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐπιθυμίαις</w>
+    <suffix></suffix>
+    <w>σαρκὸς</w>
+    <suffix></suffix>
+    <w>ἀσελγείαις</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ὀλίγως</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀποφεύγοντας</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πλάνῃ</w>
+    <suffix></suffix>
+    <w>ἀναστρεφομένους</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 2:19">19</verse-number>
+    <w>ἐλευθερίαν</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>ἐπαγγελλόμενοι</w>
+    <suffix>,  </suffix>
+    <w>αὐτοὶ</w>
+    <suffix></suffix>
+    <w>δοῦλοι</w>
+    <suffix></suffix>
+    <w>ὑπάρχοντες</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>φθορᾶς</w>
+    <suffix>·  </suffix>
+    <w>ᾧ</w>
+    <suffix></suffix>
+    <w>γάρ</w>
+    <suffix></suffix>
+    <w>τις</w>
+    <suffix></suffix>
+    <w>ἥττηται</w>
+    <suffix>,  </suffix>
+    <w>τούτῳ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>δεδούλωται</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 2:20">20</verse-number>
+    <w>εἰ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ἀποφυγόντες</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>μιάσματα</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κόσμου</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐπιγνώσει</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σωτῆρος</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>τούτοις</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>πάλιν</w>
+    <suffix></suffix>
+    <w>ἐμπλακέντες</w>
+    <suffix></suffix>
+    <w>ἡττῶνται</w>
+    <suffix>,  </suffix>
+    <w>γέγονεν</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>ἔσχατα</w>
+    <suffix></suffix>
+    <w>χείρονα</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>πρώτων</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 2:21">21</verse-number>
+    <w>κρεῖττον</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ἦν</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>ἐπεγνωκέναι</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ὁδὸν</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>δικαιοσύνης</w>
+    <suffix></suffix>
+    <w>ἢ</w>
+    <suffix></suffix>
+    <w>ἐπιγνοῦσιν</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ὑποστρέψαι</w>
+    <suffix></suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>παραδοθείσης</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>ἁγίας</w>
+    <suffix></suffix>
+    <w>ἐντολῆς</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 2:22">22</verse-number>
+    <prefix> ⸀</prefix>
+    <w>συμβέβηκεν</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἀληθοῦς</w>
+    <suffix></suffix>
+    <w>παροιμίας</w>
+    <suffix>·  </suffix>
+    <w>Κύων</w>
+    <suffix></suffix>
+    <w>ἐπιστρέψας</w>
+    <suffix></suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>ἴδιον</w>
+    <suffix></suffix>
+    <w>ἐξέραμα</w>
+    <suffix>,  </suffix>
+    <w>καί</w>
+    <suffix>·  </suffix>
+    <w>Ὗς</w>
+    <suffix></suffix>
+    <w>λουσαμένη</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>κυλισμὸν</w>
+    <suffix></suffix>
+    <w>βορβόρου</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 3:1">3:1</verse-number>
+    <w>Ταύτην</w>
+    <suffix></suffix>
+    <w>ἤδη</w>
+    <suffix>,  </suffix>
+    <w>ἀγαπητοί</w>
+    <suffix>,  </suffix>
+    <w>δευτέραν</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix></suffix>
+    <w>γράφω</w>
+    <suffix></suffix>
+    <w>ἐπιστολήν</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>αἷς</w>
+    <suffix></suffix>
+    <w>διεγείρω</w>
+    <suffix></suffix>
+    <w>ὑμῶν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ὑπομνήσει</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>εἰλικρινῆ</w>
+    <suffix></suffix>
+    <w>διάνοιαν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 3:2">2</verse-number>
+    <w>μνησθῆναι</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>προειρημένων</w>
+    <suffix></suffix>
+    <w>ῥημάτων</w>
+    <suffix></suffix>
+    <w>ὑπὸ</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἁγίων</w>
+    <suffix></suffix>
+    <w>προφητῶν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἀποστόλων</w>
+    <suffix></suffix>
+    <w>ὑμῶν</w>
+    <suffix></suffix>
+    <w>ἐντολῆς</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σωτῆρος</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 3:3">3</verse-number>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>πρῶτον</w>
+    <suffix></suffix>
+    <w>γινώσκοντες</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>ἐλεύσονται</w>
+    <suffix></suffix>
+    <w>ἐπ’</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐσχάτων</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἡμερῶν</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐμπαιγμονῇ</w>
+    <suffix>⸃  </suffix>
+    <w>ἐμπαῖκται</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <w>ἰδίας</w>
+    <suffix></suffix>
+    <w>ἐπιθυμίας</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>πορευόμενοι</w>
+    <suffix></suffix>
+    <verse-number id="2 Peter 3:4">4</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>λέγοντες</w>
+    <suffix>·  </suffix>
+    <w>Ποῦ</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>ἐπαγγελία</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>παρουσίας</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix>;  </suffix>
+    <w>ἀφ’</w>
+    <suffix></suffix>
+    <w>ἧς</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>πατέρες</w>
+    <suffix></suffix>
+    <w>ἐκοιμήθησαν</w>
+    <suffix>,  </suffix>
+    <w>πάντα</w>
+    <suffix></suffix>
+    <w>οὕτως</w>
+    <suffix></suffix>
+    <w>διαμένει</w>
+    <suffix></suffix>
+    <w>ἀπ’</w>
+    <suffix></suffix>
+    <w>ἀρχῆς</w>
+    <suffix></suffix>
+    <w>κτίσεως</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 3:5">5</verse-number>
+    <w>λανθάνει</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>αὐτοὺς</w>
+    <suffix></suffix>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>θέλοντας</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>οὐρανοὶ</w>
+    <suffix></suffix>
+    <w>ἦσαν</w>
+    <suffix></suffix>
+    <w>ἔκπαλαι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>γῆ</w>
+    <suffix></suffix>
+    <w>ἐξ</w>
+    <suffix></suffix>
+    <w>ὕδατος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>ὕδατος</w>
+    <suffix></suffix>
+    <w>συνεστῶσα</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>λόγῳ</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 3:6">6</verse-number>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>ὧν</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>τότε</w>
+    <suffix></suffix>
+    <w>κόσμος</w>
+    <suffix></suffix>
+    <w>ὕδατι</w>
+    <suffix></suffix>
+    <w>κατακλυσθεὶς</w>
+    <suffix></suffix>
+    <w>ἀπώλετο</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 3:7">7</verse-number>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>νῦν</w>
+    <suffix></suffix>
+    <w>οὐρανοὶ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>γῆ</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>αὐτῷ</w>
+    <suffix></suffix>
+    <w>λόγῳ</w>
+    <suffix></suffix>
+    <w>τεθησαυρισμένοι</w>
+    <suffix></suffix>
+    <w>εἰσὶν</w>
+    <suffix></suffix>
+    <w>πυρὶ</w>
+    <suffix></suffix>
+    <w>τηρούμενοι</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἡμέραν</w>
+    <suffix></suffix>
+    <w>κρίσεως</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀπωλείας</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἀσεβῶν</w>
+    <suffix></suffix>
+    <w>ἀνθρώπων</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 3:8">8</verse-number>
+    <w>Ἓν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>λανθανέτω</w>
+    <suffix></suffix>
+    <w>ὑμᾶς</w>
+    <suffix>,  </suffix>
+    <w>ἀγαπητοί</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>μία</w>
+    <suffix></suffix>
+    <w>ἡμέρα</w>
+    <suffix></suffix>
+    <w>παρὰ</w>
+    <suffix></suffix>
+    <w>κυρίῳ</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>χίλια</w>
+    <suffix></suffix>
+    <w>ἔτη</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>χίλια</w>
+    <suffix></suffix>
+    <w>ἔτη</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>ἡμέρα</w>
+    <suffix></suffix>
+    <w>μία</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 3:9">9</verse-number>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>βραδύνει</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐπαγγελίας</w>
+    <suffix>,  </suffix>
+    <w>ὥς</w>
+    <suffix></suffix>
+    <w>τινες</w>
+    <suffix></suffix>
+    <w>βραδύτητα</w>
+    <suffix></suffix>
+    <w>ἡγοῦνται</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>μακροθυμεῖ</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ὑμᾶς</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>βουλόμενός</w>
+    <suffix></suffix>
+    <w>τινας</w>
+    <suffix></suffix>
+    <w>ἀπολέσθαι</w>
+    <suffix></suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>πάντας</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>μετάνοιαν</w>
+    <suffix></suffix>
+    <w>χωρῆσαι</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 3:10">10</verse-number>
+    <w>ἥξει</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἡμέρα</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>κλέπτης</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ᾗ</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>οὐρανοὶ</w>
+    <suffix></suffix>
+    <w>ῥοιζηδὸν</w>
+    <suffix></suffix>
+    <w>παρελεύσονται</w>
+    <suffix>,  </suffix>
+    <w>στοιχεῖα</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>καυσούμενα</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>λυθήσεται</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>γῆ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>αὐτῇ</w>
+    <suffix></suffix>
+    <w>ἔργα</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>εὑρεθήσεται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 3:11">11</verse-number>
+    <w>Τούτων</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>οὕτως</w>
+    <suffix></suffix>
+    <w>πάντων</w>
+    <suffix></suffix>
+    <w>λυομένων</w>
+    <suffix></suffix>
+    <w>ποταποὺς</w>
+    <suffix></suffix>
+    <w>δεῖ</w>
+    <suffix></suffix>
+    <w>ὑπάρχειν</w>
+    <suffix></suffix>
+    <w>ὑμᾶς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἁγίαις</w>
+    <suffix></suffix>
+    <w>ἀναστροφαῖς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>εὐσεβείαις</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 3:12">12</verse-number>
+    <w>προσδοκῶντας</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σπεύδοντας</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>παρουσίαν</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>ἡμέρας</w>
+    <suffix>,  </suffix>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>ἣν</w>
+    <suffix></suffix>
+    <w>οὐρανοὶ</w>
+    <suffix></suffix>
+    <w>πυρούμενοι</w>
+    <suffix></suffix>
+    <w>λυθήσονται</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>στοιχεῖα</w>
+    <suffix></suffix>
+    <w>καυσούμενα</w>
+    <suffix></suffix>
+    <w>τήκεται</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Peter 3:13">13</verse-number>
+    <w>καινοὺς</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>οὐρανοὺς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>γῆν</w>
+    <suffix></suffix>
+    <w>καινὴν</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>ἐπάγγελμα</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix></suffix>
+    <w>προσδοκῶμεν</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>οἷς</w>
+    <suffix></suffix>
+    <w>δικαιοσύνη</w>
+    <suffix></suffix>
+    <w>κατοικεῖ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Peter 3:14">14</verse-number>
+    <w>Διό</w>
+    <suffix>,  </suffix>
+    <w>ἀγαπητοί</w>
+    <suffix>,  </suffix>
+    <w>ταῦτα</w>
+    <suffix></suffix>
+    <w>προσδοκῶντες</w>
+    <suffix></suffix>
+    <w>σπουδάσατε</w>
+    <suffix></suffix>
+    <w>ἄσπιλοι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀμώμητοι</w>
+    <suffix></suffix>
+    <w>αὐτῷ</w>
+    <suffix></suffix>
+    <w>εὑρεθῆναι</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>εἰρήνῃ</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 3:15">15</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>μακροθυμίαν</w>
+    <suffix></suffix>
+    <w>σωτηρίαν</w>
+    <suffix></suffix>
+    <w>ἡγεῖσθε</w>
+    <suffix>,  </suffix>
+    <w>καθὼς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>ἀγαπητὸς</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>ἀδελφὸς</w>
+    <suffix></suffix>
+    <w>Παῦλος</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>δοθεῖσαν</w>
+    <suffix></suffix>
+    <w>αὐτῷ</w>
+    <suffix>⸃  </suffix>
+    <w>σοφίαν</w>
+    <suffix></suffix>
+    <w>ἔγραψεν</w>
+    <suffix></suffix>
+    <w>ὑμῖν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 3:16">16</verse-number>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πάσαις</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ταῖς</w>
+    <suffix></suffix>
+    <w>ἐπιστολαῖς</w>
+    <suffix></suffix>
+    <w>λαλῶν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>αὐταῖς</w>
+    <suffix></suffix>
+    <w>περὶ</w>
+    <suffix></suffix>
+    <w>τούτων</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>αἷς</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>δυσνόητά</w>
+    <suffix></suffix>
+    <w>τινα</w>
+    <suffix>,  </suffix>
+    <w>ἃ</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>ἀμαθεῖς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀστήρικτοι</w>
+    <suffix></suffix>
+    <w>στρεβλοῦσιν</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <w>λοιπὰς</w>
+    <suffix></suffix>
+    <w>γραφὰς</w>
+    <suffix></suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἰδίαν</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>ἀπώλειαν</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Peter 3:17">17</verse-number>
+    <w>ὑμεῖς</w>
+    <suffix></suffix>
+    <w>οὖν</w>
+    <suffix>,  </suffix>
+    <w>ἀγαπητοί</w>
+    <suffix>,  </suffix>
+    <w>προγινώσκοντες</w>
+    <suffix></suffix>
+    <w>φυλάσσεσθε</w>
+    <suffix></suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἀθέσμων</w>
+    <suffix></suffix>
+    <w>πλάνῃ</w>
+    <suffix></suffix>
+    <w>συναπαχθέντες</w>
+    <suffix></suffix>
+    <w>ἐκπέσητε</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>ἰδίου</w>
+    <suffix></suffix>
+    <w>στηριγμοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Peter 3:18">18</verse-number>
+    <w>αὐξάνετε</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>χάριτι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>γνώσει</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σωτῆρος</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix>.  </suffix>
+    <w>αὐτῷ</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>δόξα</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>νῦν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἡμέραν</w>
+    <suffix></suffix>
+    <w>αἰῶνος</w>
+    <suffix>.  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀμήν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p />
+</book>

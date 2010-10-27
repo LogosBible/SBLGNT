@@ -1,0 +1,2628 @@
+﻿<book id="2Tim">
+  <title>ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β</title>
+  <p>
+    <verse-number id="2 Timothy 1:1">1:1</verse-number>
+    <w>Παῦλος</w>
+    <suffix></suffix>
+    <w>ἀπόστολος</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>⸃  </suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>θελήματος</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>κατ’</w>
+    <suffix></suffix>
+    <w>ἐπαγγελίαν</w>
+    <suffix></suffix>
+    <w>ζωῆς</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <verse-number id="2 Timothy 1:2">2</verse-number>
+    <w>Τιμοθέῳ</w>
+    <suffix></suffix>
+    <w>ἀγαπητῷ</w>
+    <suffix></suffix>
+    <w>τέκνῳ</w>
+    <suffix>·  </suffix>
+    <w>χάρις</w>
+    <suffix>,  </suffix>
+    <w>ἔλεος</w>
+    <suffix>,  </suffix>
+    <w>εἰρήνη</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>πατρὸς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 1:3">3</verse-number>
+    <w>Χάριν</w>
+    <suffix></suffix>
+    <w>ἔχω</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>θεῷ</w>
+    <suffix>,  </suffix>
+    <w>ᾧ</w>
+    <suffix></suffix>
+    <w>λατρεύω</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>προγόνων</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>καθαρᾷ</w>
+    <suffix></suffix>
+    <w>συνειδήσει</w>
+    <suffix>,  </suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>ἀδιάλειπτον</w>
+    <suffix></suffix>
+    <w>ἔχω</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>περὶ</w>
+    <suffix></suffix>
+    <w>σοῦ</w>
+    <suffix></suffix>
+    <w>μνείαν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ταῖς</w>
+    <suffix></suffix>
+    <w>δεήσεσίν</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>νυκτὸς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἡμέρας</w>
+    <suffix></suffix>
+    <verse-number id="2 Timothy 1:4">4</verse-number>
+    <w>ἐπιποθῶν</w>
+    <suffix></suffix>
+    <w>σε</w>
+    <suffix></suffix>
+    <w>ἰδεῖν</w>
+    <suffix>,  </suffix>
+    <w>μεμνημένος</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>δακρύων</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>χαρᾶς</w>
+    <suffix></suffix>
+    <w>πληρωθῶ</w>
+    <suffix></suffix>
+    <verse-number id="2 Timothy 1:5">5</verse-number>
+    <w>ὑπόμνησιν</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>λαβὼν</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>σοὶ</w>
+    <suffix></suffix>
+    <w>ἀνυποκρίτου</w>
+    <suffix></suffix>
+    <w>πίστεως</w>
+    <suffix>,  </suffix>
+    <w>ἥτις</w>
+    <suffix></suffix>
+    <w>ἐνῴκησεν</w>
+    <suffix></suffix>
+    <w>πρῶτον</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>μάμμῃ</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>Λωΐδι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>μητρί</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>Εὐνίκῃ</w>
+    <suffix>,  </suffix>
+    <w>πέπεισμαι</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>σοί</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 1:6">6</verse-number>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>ἣν</w>
+    <suffix></suffix>
+    <w>αἰτίαν</w>
+    <suffix></suffix>
+    <w>ἀναμιμνῄσκω</w>
+    <suffix></suffix>
+    <w>σε</w>
+    <suffix></suffix>
+    <w>ἀναζωπυρεῖν</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>χάρισμα</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <w>ὅ</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>σοὶ</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐπιθέσεως</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>χειρῶν</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 1:7">7</verse-number>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ἔδωκεν</w>
+    <suffix></suffix>
+    <w>ἡμῖν</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>θεὸς</w>
+    <suffix></suffix>
+    <w>πνεῦμα</w>
+    <suffix></suffix>
+    <w>δειλίας</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>δυνάμεως</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀγάπης</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σωφρονισμοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 1:8">8</verse-number>
+    <w>Μὴ</w>
+    <suffix></suffix>
+    <w>οὖν</w>
+    <suffix></suffix>
+    <w>ἐπαισχυνθῇς</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>μαρτύριον</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>μηδὲ</w>
+    <suffix></suffix>
+    <w>ἐμὲ</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>δέσμιον</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>συγκακοπάθησον</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>εὐαγγελίῳ</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>δύναμιν</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 1:9">9</verse-number>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>σώσαντος</w>
+    <suffix></suffix>
+    <w>ἡμᾶς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>καλέσαντος</w>
+    <suffix></suffix>
+    <w>κλήσει</w>
+    <suffix></suffix>
+    <w>ἁγίᾳ</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>ἔργα</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>ἰδίαν</w>
+    <suffix></suffix>
+    <w>πρόθεσιν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>χάριν</w>
+    <suffix>,  </suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>δοθεῖσαν</w>
+    <suffix></suffix>
+    <w>ἡμῖν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>πρὸ</w>
+    <suffix></suffix>
+    <w>χρόνων</w>
+    <suffix></suffix>
+    <w>αἰωνίων</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 1:10">10</verse-number>
+    <w>φανερωθεῖσαν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>νῦν</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐπιφανείας</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>σωτῆρος</w>
+    <suffix></suffix>
+    <w>ἡμῶν</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>Χριστοῦ</w>
+    <suffix>⸃,  </suffix>
+    <w>καταργήσαντος</w>
+    <suffix></suffix>
+    <w>μὲν</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>θάνατον</w>
+    <suffix></suffix>
+    <w>φωτίσαντος</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ζωὴν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀφθαρσίαν</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>εὐαγγελίου</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 1:11">11</verse-number>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ὃ</w>
+    <suffix></suffix>
+    <w>ἐτέθην</w>
+    <suffix></suffix>
+    <w>ἐγὼ</w>
+    <suffix></suffix>
+    <w>κῆρυξ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀπόστολος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>διδάσκαλος</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 1:12">12</verse-number>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>ἣν</w>
+    <suffix></suffix>
+    <w>αἰτίαν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ταῦτα</w>
+    <suffix></suffix>
+    <w>πάσχω</w>
+    <suffix>,  </suffix>
+    <w>ἀλλ’</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἐπαισχύνομαι</w>
+    <suffix>,  </suffix>
+    <w>οἶδα</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ᾧ</w>
+    <suffix></suffix>
+    <w>πεπίστευκα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>πέπεισμαι</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>δυνατός</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>παραθήκην</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>φυλάξαι</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἐκείνην</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἡμέραν</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 1:13">13</verse-number>
+    <w>ὑποτύπωσιν</w>
+    <suffix></suffix>
+    <w>ἔχε</w>
+    <suffix></suffix>
+    <w>ὑγιαινόντων</w>
+    <suffix></suffix>
+    <w>λόγων</w>
+    <suffix></suffix>
+    <w>ὧν</w>
+    <suffix></suffix>
+    <w>παρ’</w>
+    <suffix></suffix>
+    <w>ἐμοῦ</w>
+    <suffix></suffix>
+    <w>ἤκουσας</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πίστει</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀγάπῃ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 1:14">14</verse-number>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>καλὴν</w>
+    <suffix></suffix>
+    <w>παραθήκην</w>
+    <suffix></suffix>
+    <w>φύλαξον</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>πνεύματος</w>
+    <suffix></suffix>
+    <w>ἁγίου</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>ἐνοικοῦντος</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἡμῖν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 1:15">15</verse-number>
+    <w>Οἶδας</w>
+    <suffix></suffix>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>ἀπεστράφησάν</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <w>πάντες</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>Ἀσίᾳ</w>
+    <suffix>,  </suffix>
+    <w>ὧν</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>Φύγελος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Ἑρμογένης</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 1:16">16</verse-number>
+    <w>δῴη</w>
+    <suffix></suffix>
+    <w>ἔλεος</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>Ὀνησιφόρου</w>
+    <suffix></suffix>
+    <w>οἴκῳ</w>
+    <suffix>,  </suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>πολλάκις</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <w>ἀνέψυξεν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἅλυσίν</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἐπαισχύνθη</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 1:17">17</verse-number>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>γενόμενος</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Ῥώμῃ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>σπουδαίως</w>
+    <suffix></suffix>
+    <w>ἐζήτησέν</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>εὗρεν</w>
+    <suffix>—  </suffix>
+    <verse-number id="2 Timothy 1:18">18</verse-number>
+    <w>δῴη</w>
+    <suffix></suffix>
+    <w>αὐτῷ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>εὑρεῖν</w>
+    <suffix></suffix>
+    <w>ἔλεος</w>
+    <suffix></suffix>
+    <w>παρὰ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐκείνῃ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix>—  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὅσα</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Ἐφέσῳ</w>
+    <suffix></suffix>
+    <w>διηκόνησεν</w>
+    <suffix>,  </suffix>
+    <w>βέλτιον</w>
+    <suffix></suffix>
+    <w>σὺ</w>
+    <suffix></suffix>
+    <w>γινώσκεις</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 2:1">2:1</verse-number>
+    <w>Σὺ</w>
+    <suffix></suffix>
+    <w>οὖν</w>
+    <suffix>,  </suffix>
+    <w>τέκνον</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>,  </suffix>
+    <w>ἐνδυναμοῦ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>χάριτι</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 2:2">2</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἃ</w>
+    <suffix></suffix>
+    <w>ἤκουσας</w>
+    <suffix></suffix>
+    <w>παρ’</w>
+    <suffix></suffix>
+    <w>ἐμοῦ</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>πολλῶν</w>
+    <suffix></suffix>
+    <w>μαρτύρων</w>
+    <suffix>,  </suffix>
+    <w>ταῦτα</w>
+    <suffix></suffix>
+    <w>παράθου</w>
+    <suffix></suffix>
+    <w>πιστοῖς</w>
+    <suffix></suffix>
+    <w>ἀνθρώποις</w>
+    <suffix>,  </suffix>
+    <w>οἵτινες</w>
+    <suffix></suffix>
+    <w>ἱκανοὶ</w>
+    <suffix></suffix>
+    <w>ἔσονται</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἑτέρους</w>
+    <suffix></suffix>
+    <w>διδάξαι</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:3">3</verse-number>
+    <prefix> ⸀</prefix>
+    <w>συγκακοπάθησον</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>καλὸς</w>
+    <suffix></suffix>
+    <w>στρατιώτης</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>⸃.  </suffix>
+    <verse-number id="2 Timothy 2:4">4</verse-number>
+    <w>οὐδεὶς</w>
+    <suffix></suffix>
+    <w>στρατευόμενος</w>
+    <suffix></suffix>
+    <w>ἐμπλέκεται</w>
+    <suffix></suffix>
+    <w>ταῖς</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>βίου</w>
+    <suffix></suffix>
+    <w>πραγματείαις</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>στρατολογήσαντι</w>
+    <suffix></suffix>
+    <w>ἀρέσῃ</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:5">5</verse-number>
+    <w>ἐὰν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀθλῇ</w>
+    <suffix></suffix>
+    <w>τις</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>στεφανοῦται</w>
+    <suffix></suffix>
+    <w>ἐὰν</w>
+    <suffix></suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>νομίμως</w>
+    <suffix></suffix>
+    <w>ἀθλήσῃ</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:6">6</verse-number>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>κοπιῶντα</w>
+    <suffix></suffix>
+    <w>γεωργὸν</w>
+    <suffix></suffix>
+    <w>δεῖ</w>
+    <suffix></suffix>
+    <w>πρῶτον</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>καρπῶν</w>
+    <suffix></suffix>
+    <w>μεταλαμβάνειν</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:7">7</verse-number>
+    <w>νόει</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ὃ</w>
+    <suffix></suffix>
+    <w>λέγω</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>δώσει</w>
+    <suffix></suffix>
+    <w>γάρ</w>
+    <suffix></suffix>
+    <w>σοι</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>σύνεσιν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πᾶσιν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 2:8">8</verse-number>
+    <w>Μνημόνευε</w>
+    <suffix></suffix>
+    <w>Ἰησοῦν</w>
+    <suffix></suffix>
+    <w>Χριστὸν</w>
+    <suffix></suffix>
+    <w>ἐγηγερμένον</w>
+    <suffix></suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>νεκρῶν</w>
+    <suffix>,  </suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>σπέρματος</w>
+    <suffix></suffix>
+    <w>Δαυίδ</w>
+    <suffix>,  </suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>εὐαγγέλιόν</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:9">9</verse-number>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ᾧ</w>
+    <suffix></suffix>
+    <w>κακοπαθῶ</w>
+    <suffix></suffix>
+    <w>μέχρι</w>
+    <suffix></suffix>
+    <w>δεσμῶν</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>κακοῦργος</w>
+    <suffix>.  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>λόγος</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>δέδεται</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:10">10</verse-number>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τοῦτο</w>
+    <suffix></suffix>
+    <w>πάντα</w>
+    <suffix></suffix>
+    <w>ὑπομένω</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>ἐκλεκτούς</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>αὐτοὶ</w>
+    <suffix></suffix>
+    <w>σωτηρίας</w>
+    <suffix></suffix>
+    <w>τύχωσιν</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>μετὰ</w>
+    <suffix></suffix>
+    <w>δόξης</w>
+    <suffix></suffix>
+    <w>αἰωνίου</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:11">11</verse-number>
+    <w>πιστὸς</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>λόγος</w>
+    <suffix>·  </suffix>
+    <w>εἰ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>συναπεθάνομεν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>συζήσομεν</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:12">12</verse-number>
+    <w>εἰ</w>
+    <suffix></suffix>
+    <w>ὑπομένομεν</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>συμβασιλεύσομεν</w>
+    <suffix>·  </suffix>
+    <w>εἰ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀρνησόμεθα</w>
+    <suffix>,  </suffix>
+    <w>κἀκεῖνος</w>
+    <suffix></suffix>
+    <w>ἀρνήσεται</w>
+    <suffix></suffix>
+    <w>ἡμᾶς</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:13">13</verse-number>
+    <w>εἰ</w>
+    <suffix></suffix>
+    <w>ἀπιστοῦμεν</w>
+    <suffix>,  </suffix>
+    <w>ἐκεῖνος</w>
+    <suffix></suffix>
+    <w>πιστὸς</w>
+    <suffix></suffix>
+    <w>μένει</w>
+    <suffix>·  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀρνήσασθαι</w>
+    <suffix></suffix>
+    <w>ἑαυτὸν</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>δύναται</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 2:14">14</verse-number>
+    <w>Ταῦτα</w>
+    <suffix></suffix>
+    <w>ὑπομίμνῃσκε</w>
+    <suffix>,  </suffix>
+    <w>διαμαρτυρόμενος</w>
+    <suffix></suffix>
+    <w>ἐνώπιον</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>κυρίου</w>
+    <suffix>,  </suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>λογομαχεῖν</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐπ’</w>
+    <suffix></suffix>
+    <w>οὐδὲν</w>
+    <suffix></suffix>
+    <w>χρήσιμον</w>
+    <suffix>,  </suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>καταστροφῇ</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἀκουόντων</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:15">15</verse-number>
+    <w>σπούδασον</w>
+    <suffix></suffix>
+    <w>σεαυτὸν</w>
+    <suffix></suffix>
+    <w>δόκιμον</w>
+    <suffix></suffix>
+    <w>παραστῆσαι</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>θεῷ</w>
+    <suffix>,  </suffix>
+    <w>ἐργάτην</w>
+    <suffix></suffix>
+    <w>ἀνεπαίσχυντον</w>
+    <suffix>,  </suffix>
+    <w>ὀρθοτομοῦντα</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>λόγον</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἀληθείας</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:16">16</verse-number>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>βεβήλους</w>
+    <suffix></suffix>
+    <w>κενοφωνίας</w>
+    <suffix></suffix>
+    <w>περιΐστασο</w>
+    <suffix>·  </suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>πλεῖον</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>προκόψουσιν</w>
+    <suffix></suffix>
+    <w>ἀσεβείας</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 2:17">17</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>λόγος</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>γάγγραινα</w>
+    <suffix></suffix>
+    <w>νομὴν</w>
+    <suffix></suffix>
+    <w>ἕξει</w>
+    <suffix>·  </suffix>
+    <w>ὧν</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>Ὑμέναιος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Φίλητος</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 2:18">18</verse-number>
+    <w>οἵτινες</w>
+    <suffix></suffix>
+    <w>περὶ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἀλήθειαν</w>
+    <suffix></suffix>
+    <w>ἠστόχησαν</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>λέγοντες</w>
+    <suffix></suffix>
+    <w>ἀνάστασιν</w>
+    <suffix></suffix>
+    <w>ἤδη</w>
+    <suffix></suffix>
+    <w>γεγονέναι</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀνατρέπουσιν</w>
+    <suffix></suffix>
+    <w>τήν</w>
+    <suffix></suffix>
+    <w>τινων</w>
+    <suffix></suffix>
+    <w>πίστιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:19">19</verse-number>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>μέντοι</w>
+    <suffix></suffix>
+    <w>στερεὸς</w>
+    <suffix></suffix>
+    <w>θεμέλιος</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>ἕστηκεν</w>
+    <suffix>,  </suffix>
+    <w>ἔχων</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>σφραγῖδα</w>
+    <suffix></suffix>
+    <w>ταύτην</w>
+    <suffix>·  </suffix>
+    <w>Ἔγνω</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>ὄντας</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix>,  </suffix>
+    <w>καί</w>
+    <suffix>·  </suffix>
+    <w>Ἀποστήτω</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>ἀδικίας</w>
+    <suffix></suffix>
+    <w>πᾶς</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>ὀνομάζων</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>ὄνομα</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 2:20">20</verse-number>
+    <w>Ἐν</w>
+    <suffix></suffix>
+    <w>μεγάλῃ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>οἰκίᾳ</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἔστιν</w>
+    <suffix></suffix>
+    <w>μόνον</w>
+    <suffix></suffix>
+    <w>σκεύη</w>
+    <suffix></suffix>
+    <w>χρυσᾶ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀργυρᾶ</w>
+    <suffix></suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ξύλινα</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὀστράκινα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἃ</w>
+    <suffix></suffix>
+    <w>μὲν</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τιμὴν</w>
+    <suffix></suffix>
+    <w>ἃ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἀτιμίαν</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:21">21</verse-number>
+    <w>ἐὰν</w>
+    <suffix></suffix>
+    <w>οὖν</w>
+    <suffix></suffix>
+    <w>τις</w>
+    <suffix></suffix>
+    <w>ἐκκαθάρῃ</w>
+    <suffix></suffix>
+    <w>ἑαυτὸν</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>τούτων</w>
+    <suffix>,  </suffix>
+    <w>ἔσται</w>
+    <suffix></suffix>
+    <w>σκεῦος</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τιμήν</w>
+    <suffix>,  </suffix>
+    <w>ἡγιασμένον</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>εὔχρηστον</w>
+    <suffix></suffix>
+    <w>τῷ</w>
+    <suffix></suffix>
+    <w>δεσπότῃ</w>
+    <suffix>,  </suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>πᾶν</w>
+    <suffix></suffix>
+    <w>ἔργον</w>
+    <suffix></suffix>
+    <w>ἀγαθὸν</w>
+    <suffix></suffix>
+    <w>ἡτοιμασμένον</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:22">22</verse-number>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>νεωτερικὰς</w>
+    <suffix></suffix>
+    <w>ἐπιθυμίας</w>
+    <suffix></suffix>
+    <w>φεῦγε</w>
+    <suffix>,  </suffix>
+    <w>δίωκε</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>δικαιοσύνην</w>
+    <suffix>,  </suffix>
+    <w>πίστιν</w>
+    <suffix>,  </suffix>
+    <w>ἀγάπην</w>
+    <suffix>,  </suffix>
+    <w>εἰρήνην</w>
+    <suffix></suffix>
+    <w>μετὰ</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>ἐπικαλουμένων</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>κύριον</w>
+    <suffix></suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>καθαρᾶς</w>
+    <suffix></suffix>
+    <w>καρδίας</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 2:23">23</verse-number>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>μωρὰς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀπαιδεύτους</w>
+    <suffix></suffix>
+    <w>ζητήσεις</w>
+    <suffix></suffix>
+    <w>παραιτοῦ</w>
+    <suffix>,  </suffix>
+    <w>εἰδὼς</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>γεννῶσι</w>
+    <suffix></suffix>
+    <w>μάχας</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 2:24">24</verse-number>
+    <w>δοῦλον</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>κυρίου</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>δεῖ</w>
+    <suffix></suffix>
+    <w>μάχεσθαι</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>ἤπιον</w>
+    <suffix></suffix>
+    <w>εἶναι</w>
+    <suffix></suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>πάντας</w>
+    <suffix>,  </suffix>
+    <w>διδακτικόν</w>
+    <suffix>,  </suffix>
+    <w>ἀνεξίκακον</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 2:25">25</verse-number>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πραΰτητι</w>
+    <suffix></suffix>
+    <w>παιδεύοντα</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>ἀντιδιατιθεμένους</w>
+    <suffix>,  </suffix>
+    <w>μήποτε</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>δώῃ</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>θεὸς</w>
+    <suffix></suffix>
+    <w>μετάνοιαν</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἐπίγνωσιν</w>
+    <suffix></suffix>
+    <w>ἀληθείας</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 2:26">26</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀνανήψωσιν</w>
+    <suffix></suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>διαβόλου</w>
+    <suffix></suffix>
+    <w>παγίδος</w>
+    <suffix>,  </suffix>
+    <w>ἐζωγρημένοι</w>
+    <suffix></suffix>
+    <w>ὑπ’</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>ἐκείνου</w>
+    <suffix></suffix>
+    <w>θέλημα</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 3:1">3:1</verse-number>
+    <w>Τοῦτο</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>γίνωσκε</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐσχάταις</w>
+    <suffix></suffix>
+    <w>ἡμέραις</w>
+    <suffix></suffix>
+    <w>ἐνστήσονται</w>
+    <suffix></suffix>
+    <w>καιροὶ</w>
+    <suffix></suffix>
+    <w>χαλεποί</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 3:2">2</verse-number>
+    <w>ἔσονται</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>ἄνθρωποι</w>
+    <suffix></suffix>
+    <w>φίλαυτοι</w>
+    <suffix>,  </suffix>
+    <w>φιλάργυροι</w>
+    <suffix>,  </suffix>
+    <w>ἀλαζόνες</w>
+    <suffix>,  </suffix>
+    <w>ὑπερήφανοι</w>
+    <suffix>,  </suffix>
+    <w>βλάσφημοι</w>
+    <suffix>,  </suffix>
+    <w>γονεῦσιν</w>
+    <suffix></suffix>
+    <w>ἀπειθεῖς</w>
+    <suffix>,  </suffix>
+    <w>ἀχάριστοι</w>
+    <suffix>,  </suffix>
+    <w>ἀνόσιοι</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 3:3">3</verse-number>
+    <w>ἄστοργοι</w>
+    <suffix>,  </suffix>
+    <w>ἄσπονδοι</w>
+    <suffix>,  </suffix>
+    <w>διάβολοι</w>
+    <suffix>,  </suffix>
+    <w>ἀκρατεῖς</w>
+    <suffix>,  </suffix>
+    <w>ἀνήμεροι</w>
+    <suffix>,  </suffix>
+    <w>ἀφιλάγαθοι</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 3:4">4</verse-number>
+    <w>προδόται</w>
+    <suffix>,  </suffix>
+    <w>προπετεῖς</w>
+    <suffix>,  </suffix>
+    <w>τετυφωμένοι</w>
+    <suffix>,  </suffix>
+    <w>φιλήδονοι</w>
+    <suffix></suffix>
+    <w>μᾶλλον</w>
+    <suffix></suffix>
+    <w>ἢ</w>
+    <suffix></suffix>
+    <w>φιλόθεοι</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 3:5">5</verse-number>
+    <w>ἔχοντες</w>
+    <suffix></suffix>
+    <w>μόρφωσιν</w>
+    <suffix></suffix>
+    <w>εὐσεβείας</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>δύναμιν</w>
+    <suffix></suffix>
+    <w>αὐτῆς</w>
+    <suffix></suffix>
+    <w>ἠρνημένοι</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τούτους</w>
+    <suffix></suffix>
+    <w>ἀποτρέπου</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 3:6">6</verse-number>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>τούτων</w>
+    <suffix></suffix>
+    <w>γάρ</w>
+    <suffix></suffix>
+    <w>εἰσιν</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>ἐνδύνοντες</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <w>οἰκίας</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>αἰχμαλωτίζοντες</w>
+    <suffix></suffix>
+    <w>γυναικάρια</w>
+    <suffix></suffix>
+    <w>σεσωρευμένα</w>
+    <suffix></suffix>
+    <w>ἁμαρτίαις</w>
+    <suffix>,  </suffix>
+    <w>ἀγόμενα</w>
+    <suffix></suffix>
+    <w>ἐπιθυμίαις</w>
+    <suffix></suffix>
+    <w>ποικίλαις</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 3:7">7</verse-number>
+    <w>πάντοτε</w>
+    <suffix></suffix>
+    <w>μανθάνοντα</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>μηδέποτε</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>ἐπίγνωσιν</w>
+    <suffix></suffix>
+    <w>ἀληθείας</w>
+    <suffix></suffix>
+    <w>ἐλθεῖν</w>
+    <suffix></suffix>
+    <w>δυνάμενα</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 3:8">8</verse-number>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <w>τρόπον</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>Ἰάννης</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Ἰαμβρῆς</w>
+    <suffix></suffix>
+    <w>ἀντέστησαν</w>
+    <suffix></suffix>
+    <w>Μωϋσεῖ</w>
+    <suffix>,  </suffix>
+    <w>οὕτως</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>οὗτοι</w>
+    <suffix></suffix>
+    <w>ἀνθίστανται</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἀληθείᾳ</w>
+    <suffix>,  </suffix>
+    <w>ἄνθρωποι</w>
+    <suffix></suffix>
+    <w>κατεφθαρμένοι</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>νοῦν</w>
+    <suffix>,  </suffix>
+    <w>ἀδόκιμοι</w>
+    <suffix></suffix>
+    <w>περὶ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>πίστιν</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 3:9">9</verse-number>
+    <w>ἀλλ’</w>
+    <suffix></suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>προκόψουσιν</w>
+    <suffix></suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>πλεῖον</w>
+    <suffix>,  </suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ἄνοια</w>
+    <suffix></suffix>
+    <w>αὐτῶν</w>
+    <suffix></suffix>
+    <w>ἔκδηλος</w>
+    <suffix></suffix>
+    <w>ἔσται</w>
+    <suffix></suffix>
+    <w>πᾶσιν</w>
+    <suffix>,  </suffix>
+    <w>ὡς</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>ἐκείνων</w>
+    <suffix></suffix>
+    <w>ἐγένετο</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 3:10">10</verse-number>
+    <w>Σὺ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>παρηκολούθησάς</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>διδασκαλίᾳ</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἀγωγῇ</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>προθέσει</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>πίστει</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>μακροθυμίᾳ</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἀγάπῃ</w>
+    <suffix>,  </suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ὑπομονῇ</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 3:11">11</verse-number>
+    <w>τοῖς</w>
+    <suffix></suffix>
+    <w>διωγμοῖς</w>
+    <suffix>,  </suffix>
+    <w>τοῖς</w>
+    <suffix></suffix>
+    <w>παθήμασιν</w>
+    <suffix>,  </suffix>
+    <w>οἷά</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>ἐγένετο</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Ἀντιοχείᾳ</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Ἰκονίῳ</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Λύστροις</w>
+    <suffix>,  </suffix>
+    <w>οἵους</w>
+    <suffix></suffix>
+    <w>διωγμοὺς</w>
+    <suffix></suffix>
+    <w>ὑπήνεγκα</w>
+    <suffix>·  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>πάντων</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <w>ἐρρύσατο</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 3:12">12</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>πάντες</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>θέλοντες</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>ζῆν</w>
+    <suffix></suffix>
+    <w>εὐσεβῶς</w>
+    <suffix>⸃  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix></suffix>
+    <w>διωχθήσονται</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 3:13">13</verse-number>
+    <w>πονηροὶ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ἄνθρωποι</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>γόητες</w>
+    <suffix></suffix>
+    <w>προκόψουσιν</w>
+    <suffix></suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>χεῖρον</w>
+    <suffix>,  </suffix>
+    <w>πλανῶντες</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>πλανώμενοι</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 3:14">14</verse-number>
+    <w>σὺ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>μένε</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>οἷς</w>
+    <suffix></suffix>
+    <w>ἔμαθες</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐπιστώθης</w>
+    <suffix>,  </suffix>
+    <w>εἰδὼς</w>
+    <suffix></suffix>
+    <w>παρὰ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>τίνων</w>
+    <suffix></suffix>
+    <w>ἔμαθες</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 3:15">15</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὅτι</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>βρέφους</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἱερὰ</w>
+    <suffix></suffix>
+    <w>γράμματα</w>
+    <suffix></suffix>
+    <w>οἶδας</w>
+    <suffix>,  </suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>δυνάμενά</w>
+    <suffix></suffix>
+    <w>σε</w>
+    <suffix></suffix>
+    <w>σοφίσαι</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>σωτηρίαν</w>
+    <suffix></suffix>
+    <w>διὰ</w>
+    <suffix></suffix>
+    <w>πίστεως</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Χριστῷ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 3:16">16</verse-number>
+    <w>πᾶσα</w>
+    <suffix></suffix>
+    <w>γραφὴ</w>
+    <suffix></suffix>
+    <w>θεόπνευστος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὠφέλιμος</w>
+    <suffix></suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>διδασκαλίαν</w>
+    <suffix>,  </suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐλεγμόν</w>
+    <suffix>,  </suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>ἐπανόρθωσιν</w>
+    <suffix>,  </suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>παιδείαν</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>δικαιοσύνῃ</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 3:17">17</verse-number>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>ἄρτιος</w>
+    <suffix></suffix>
+    <w>ᾖ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>ἄνθρωπος</w>
+    <suffix>,  </suffix>
+    <w>πρὸς</w>
+    <suffix></suffix>
+    <w>πᾶν</w>
+    <suffix></suffix>
+    <w>ἔργον</w>
+    <suffix></suffix>
+    <w>ἀγαθὸν</w>
+    <suffix></suffix>
+    <w>ἐξηρτισμένος</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 4:1">4:1</verse-number>
+    <prefix> ⸀</prefix>
+    <w>Διαμαρτύρομαι</w>
+    <suffix></suffix>
+    <w>ἐνώπιον</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>θεοῦ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>Χριστοῦ</w>
+    <suffix></suffix>
+    <w>Ἰησοῦ</w>
+    <suffix>⸃,  </suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>μέλλοντος</w>
+    <suffix></suffix>
+    <w>κρίνειν</w>
+    <suffix></suffix>
+    <w>ζῶντας</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>νεκρούς</w>
+    <suffix>,  </suffix>
+    <prefix> ⸀</prefix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἐπιφάνειαν</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>βασιλείαν</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 4:2">2</verse-number>
+    <w>κήρυξον</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>λόγον</w>
+    <suffix>,  </suffix>
+    <w>ἐπίστηθι</w>
+    <suffix></suffix>
+    <w>εὐκαίρως</w>
+    <suffix></suffix>
+    <w>ἀκαίρως</w>
+    <suffix>,  </suffix>
+    <w>ἔλεγξον</w>
+    <suffix>,  </suffix>
+    <w>ἐπιτίμησον</w>
+    <suffix>,  </suffix>
+    <w>παρακάλεσον</w>
+    <suffix>,  </suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πάσῃ</w>
+    <suffix></suffix>
+    <w>μακροθυμίᾳ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>διδαχῇ</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:3">3</verse-number>
+    <w>ἔσται</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>καιρὸς</w>
+    <suffix></suffix>
+    <w>ὅτε</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ὑγιαινούσης</w>
+    <suffix></suffix>
+    <w>διδασκαλίας</w>
+    <suffix></suffix>
+    <w>οὐκ</w>
+    <suffix></suffix>
+    <w>ἀνέξονται</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>ἰδίας</w>
+    <suffix></suffix>
+    <w>ἐπιθυμίας</w>
+    <suffix>⸃  </suffix>
+    <w>ἑαυτοῖς</w>
+    <suffix></suffix>
+    <w>ἐπισωρεύσουσιν</w>
+    <suffix></suffix>
+    <w>διδασκάλους</w>
+    <suffix></suffix>
+    <w>κνηθόμενοι</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἀκοήν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 4:4">4</verse-number>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>μὲν</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>ἀληθείας</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἀκοὴν</w>
+    <suffix></suffix>
+    <w>ἀποστρέψουσιν</w>
+    <suffix>,  </suffix>
+    <w>ἐπὶ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>μύθους</w>
+    <suffix></suffix>
+    <w>ἐκτραπήσονται</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:5">5</verse-number>
+    <w>σὺ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>νῆφε</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>πᾶσιν</w>
+    <suffix>,  </suffix>
+    <w>κακοπάθησον</w>
+    <suffix>,  </suffix>
+    <w>ἔργον</w>
+    <suffix></suffix>
+    <w>ποίησον</w>
+    <suffix></suffix>
+    <w>εὐαγγελιστοῦ</w>
+    <suffix>,  </suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>διακονίαν</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix></suffix>
+    <w>πληροφόρησον</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 4:6">6</verse-number>
+    <w>Ἐγὼ</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <w>ἤδη</w>
+    <suffix></suffix>
+    <w>σπένδομαι</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>καιρὸς</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>ἀναλύσεώς</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix>⸃  </suffix>
+    <w>ἐφέστηκεν</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:7">7</verse-number>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <prefix> ⸂</prefix>
+    <w>καλὸν</w>
+    <suffix></suffix>
+    <w>ἀγῶνα</w>
+    <suffix>⸃  </suffix>
+    <w>ἠγώνισμαι</w>
+    <suffix>,  </suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>δρόμον</w>
+    <suffix></suffix>
+    <w>τετέλεκα</w>
+    <suffix>,  </suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>πίστιν</w>
+    <suffix></suffix>
+    <w>τετήρηκα</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 4:8">8</verse-number>
+    <w>λοιπὸν</w>
+    <suffix></suffix>
+    <w>ἀπόκειταί</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>τῆς</w>
+    <suffix></suffix>
+    <w>δικαιοσύνης</w>
+    <suffix></suffix>
+    <w>στέφανος</w>
+    <suffix>,  </suffix>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <w>ἀποδώσει</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>ἐκείνῃ</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>ἡμέρᾳ</w>
+    <suffix>,  </suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>δίκαιος</w>
+    <suffix></suffix>
+    <w>κριτής</w>
+    <suffix>,  </suffix>
+    <w>οὐ</w>
+    <suffix></suffix>
+    <w>μόνον</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ἐμοὶ</w>
+    <suffix></suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>πᾶσιν</w>
+    <suffix></suffix>
+    <w>τοῖς</w>
+    <suffix></suffix>
+    <w>ἠγαπηκόσι</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἐπιφάνειαν</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 4:9">9</verse-number>
+    <w>Σπούδασον</w>
+    <suffix></suffix>
+    <w>ἐλθεῖν</w>
+    <suffix></suffix>
+    <w>πρός</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <w>ταχέως</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 4:10">10</verse-number>
+    <w>Δημᾶς</w>
+    <suffix></suffix>
+    <w>γάρ</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐγκατέλιπεν</w>
+    <suffix></suffix>
+    <w>ἀγαπήσας</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>νῦν</w>
+    <suffix></suffix>
+    <w>αἰῶνα</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐπορεύθη</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>Θεσσαλονίκην</w>
+    <suffix>,  </suffix>
+    <w>Κρήσκης</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>Γαλατίαν</w>
+    <suffix>,  </suffix>
+    <w>Τίτος</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>Δαλματίαν</w>
+    <suffix>·  </suffix>
+    <verse-number id="2 Timothy 4:11">11</verse-number>
+    <w>Λουκᾶς</w>
+    <suffix></suffix>
+    <w>ἐστιν</w>
+    <suffix></suffix>
+    <w>μόνος</w>
+    <suffix></suffix>
+    <w>μετ’</w>
+    <suffix></suffix>
+    <w>ἐμοῦ</w>
+    <suffix>.  </suffix>
+    <w>Μᾶρκον</w>
+    <suffix></suffix>
+    <w>ἀναλαβὼν</w>
+    <suffix></suffix>
+    <w>ἄγε</w>
+    <suffix></suffix>
+    <w>μετὰ</w>
+    <suffix></suffix>
+    <w>σεαυτοῦ</w>
+    <suffix>,  </suffix>
+    <w>ἔστιν</w>
+    <suffix></suffix>
+    <w>γάρ</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>εὔχρηστος</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>διακονίαν</w>
+    <suffix>,  </suffix>
+    <verse-number id="2 Timothy 4:12">12</verse-number>
+    <w>Τυχικὸν</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>ἀπέστειλα</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>Ἔφεσον</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:13">13</verse-number>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>φαιλόνην</w>
+    <suffix>,  </suffix>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπέλιπον</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Τρῳάδι</w>
+    <suffix></suffix>
+    <w>παρὰ</w>
+    <suffix></suffix>
+    <w>Κάρπῳ</w>
+    <suffix>,  </suffix>
+    <w>ἐρχόμενος</w>
+    <suffix></suffix>
+    <w>φέρε</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>βιβλία</w>
+    <suffix>,  </suffix>
+    <w>μάλιστα</w>
+    <suffix></suffix>
+    <w>τὰς</w>
+    <suffix></suffix>
+    <w>μεμβράνας</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:14">14</verse-number>
+    <w>Ἀλέξανδρος</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>χαλκεὺς</w>
+    <suffix></suffix>
+    <w>πολλά</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>κακὰ</w>
+    <suffix></suffix>
+    <w>ἐνεδείξατο</w>
+    <suffix>—  </suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀποδώσει</w>
+    <suffix></suffix>
+    <w>αὐτῷ</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>κατὰ</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>ἔργα</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix>—  </suffix>
+    <verse-number id="2 Timothy 4:15">15</verse-number>
+    <w>ὃν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σὺ</w>
+    <suffix></suffix>
+    <w>φυλάσσου</w>
+    <suffix>,  </suffix>
+    <w>λίαν</w>
+    <suffix></suffix>
+    <w>γὰρ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀντέστη</w>
+    <suffix></suffix>
+    <w>τοῖς</w>
+    <suffix></suffix>
+    <w>ἡμετέροις</w>
+    <suffix></suffix>
+    <w>λόγοις</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 4:16">16</verse-number>
+    <w>Ἐν</w>
+    <suffix></suffix>
+    <w>τῇ</w>
+    <suffix></suffix>
+    <w>πρώτῃ</w>
+    <suffix></suffix>
+    <w>μου</w>
+    <suffix></suffix>
+    <w>ἀπολογίᾳ</w>
+    <suffix></suffix>
+    <w>οὐδείς</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>παρεγένετο</w>
+    <suffix>,  </suffix>
+    <w>ἀλλὰ</w>
+    <suffix></suffix>
+    <w>πάντες</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἐγκατέλιπον</w>
+    <suffix>—  </suffix>
+    <w>μὴ</w>
+    <suffix></suffix>
+    <w>αὐτοῖς</w>
+    <suffix></suffix>
+    <w>λογισθείη</w>
+    <suffix>—  </suffix>
+    <verse-number id="2 Timothy 4:17">17</verse-number>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <w>κύριός</w>
+    <suffix></suffix>
+    <w>μοι</w>
+    <suffix></suffix>
+    <w>παρέστη</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐνεδυνάμωσέν</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix>,  </suffix>
+    <w>ἵνα</w>
+    <suffix></suffix>
+    <w>δι’</w>
+    <suffix></suffix>
+    <w>ἐμοῦ</w>
+    <suffix></suffix>
+    <w>τὸ</w>
+    <suffix></suffix>
+    <w>κήρυγμα</w>
+    <suffix></suffix>
+    <w>πληροφορηθῇ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀκούσωσιν</w>
+    <suffix></suffix>
+    <w>πάντα</w>
+    <suffix></suffix>
+    <w>τὰ</w>
+    <suffix></suffix>
+    <w>ἔθνη</w>
+    <suffix>,  </suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>ἐρρύσθην</w>
+    <suffix></suffix>
+    <w>ἐκ</w>
+    <suffix></suffix>
+    <w>στόματος</w>
+    <suffix></suffix>
+    <w>λέοντος</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:18">18</verse-number>
+    <prefix> ⸀</prefix>
+    <w>ῥύσεταί</w>
+    <suffix></suffix>
+    <w>με</w>
+    <suffix></suffix>
+    <w>ὁ</w>
+    <suffix></suffix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>ἀπὸ</w>
+    <suffix></suffix>
+    <w>παντὸς</w>
+    <suffix></suffix>
+    <w>ἔργου</w>
+    <suffix></suffix>
+    <w>πονηροῦ</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>σώσει</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>βασιλείαν</w>
+    <suffix></suffix>
+    <w>αὐτοῦ</w>
+    <suffix></suffix>
+    <w>τὴν</w>
+    <suffix></suffix>
+    <w>ἐπουράνιον</w>
+    <suffix>·  </suffix>
+    <w>ᾧ</w>
+    <suffix></suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>δόξα</w>
+    <suffix></suffix>
+    <w>εἰς</w>
+    <suffix></suffix>
+    <w>τοὺς</w>
+    <suffix></suffix>
+    <w>αἰῶνας</w>
+    <suffix></suffix>
+    <w>τῶν</w>
+    <suffix></suffix>
+    <w>αἰώνων</w>
+    <suffix>,  </suffix>
+    <w>ἀμήν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 4:19">19</verse-number>
+    <w>Ἄσπασαι</w>
+    <suffix></suffix>
+    <w>Πρίσκαν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Ἀκύλαν</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>τὸν</w>
+    <suffix></suffix>
+    <w>Ὀνησιφόρου</w>
+    <suffix></suffix>
+    <w>οἶκον</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:20">20</verse-number>
+    <w>Ἔραστος</w>
+    <suffix></suffix>
+    <w>ἔμεινεν</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Κορίνθῳ</w>
+    <suffix>,  </suffix>
+    <w>Τρόφιμον</w>
+    <suffix></suffix>
+    <w>δὲ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ἀπέλιπον</w>
+    <suffix></suffix>
+    <w>ἐν</w>
+    <suffix></suffix>
+    <w>Μιλήτῳ</w>
+    <suffix></suffix>
+    <w>ἀσθενοῦντα</w>
+    <suffix>.  </suffix>
+    <verse-number id="2 Timothy 4:21">21</verse-number>
+    <w>Σπούδασον</w>
+    <suffix></suffix>
+    <w>πρὸ</w>
+    <suffix></suffix>
+    <w>χειμῶνος</w>
+    <suffix></suffix>
+    <w>ἐλθεῖν</w>
+    <suffix>.  </suffix>
+    <w>Ἀσπάζεταί</w>
+    <suffix></suffix>
+    <w>σε</w>
+    <suffix></suffix>
+    <w>Εὔβουλος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Πούδης</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Λίνος</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>Κλαυδία</w>
+    <suffix></suffix>
+    <w>καὶ</w>
+    <suffix></suffix>
+    <w>οἱ</w>
+    <suffix></suffix>
+    <w>ἀδελφοὶ</w>
+    <suffix></suffix>
+    <w>πάντες</w>
+    <suffix>.  </suffix>
+  </p>
+  <p>
+    <verse-number id="2 Timothy 4:22">22</verse-number>
+    <w>Ὁ</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>κύριος</w>
+    <suffix></suffix>
+    <w>μετὰ</w>
+    <suffix></suffix>
+    <w>τοῦ</w>
+    <suffix></suffix>
+    <w>πνεύματός</w>
+    <suffix></suffix>
+    <w>σου</w>
+    <suffix>.  </suffix>
+    <w>ἡ</w>
+    <suffix></suffix>
+    <w>χάρις</w>
+    <suffix></suffix>
+    <w>μεθ’</w>
+    <suffix></suffix>
+    <prefix> ⸀</prefix>
+    <w>ὑμῶν</w>
+    <suffix>.  </suffix>
+  </p>
+  <p />
+</book>

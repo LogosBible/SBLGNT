@@ -1,0 +1,49 @@
+
+1Th 1:1	Thessalonians Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+1Th 1:1	εἰρήνη WH Treg NIV ] + ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ RP
+1Th 1:2	μνείαν WH Treg NIV ] + ὑμῶν RP
+1Th 1:4	θεοῦ Treg RP ] τοῦ θεοῦ WH NIV
+1Th 1:5	καὶ WH ] + ἐν Treg NIV RP • ἐν Treg NIV RP ] – WH
+1Th 1:7	τύπον WH Treg NIV ] τύπους RP • ἐν WH Treg NIV ] – RP
+1Th 1:8	καὶ WH Treg ] + ἐν τῇ NIV RP • ἀλλ᾽ WH Treg NIV ] ἀλλὰ καὶ RP • ἔχειν ἡμᾶς WH Treg NIV ] ἡμᾶς ἔχειν RP
+1Th 1:10	ἐκ WH Treg NIV ] ἀπὸ RP
+
+1Th 2:3	οὐδὲ WH Treg NIV ] οὔτε RP
+1Th 2:4	θεῷ WH Treg NIV ] τῷ θεῷ RP
+1Th 2:5	ἐν Treg NIV RP ] – WH
+1Th 2:7	ἤπιοι Treg NIV RP ] νήπιοι WH NA • ἐὰν WH Treg NIV ] ἂν RP
+1Th 2:8	ἐγενήθητε WH Treg NIV ] γεγένησθε RP
+1Th 2:9	νυκτὸς WH Treg NIV ] + γάρ RP
+1Th 2:12	περιπατεῖν WH Treg NIV ] περιπατῆσαι RP
+1Th 2:13	Καὶ WH Treg NIV ] – RP • ἀληθῶς ἐστὶν WH ] ἐστιν ἀληθῶς Treg NIV RP
+1Th 2:15	τοὺς WH Treg NIV ] + ἰδίους RP
+1Th 2:16	ὀργὴ WH Treg RP NA ] + τοῦ θεοῦ NIV
+1Th 2:18	διότι WH Treg NIV ] διό RP
+
+1Th 3:2	συνεργὸν NIV ] διάκονον WH Treg RP • θεοῦ WH Treg NIV ] + καὶ συνεργὸν ἡμῶν RP • ὑπὲρ WH Treg NIV ] ὑμᾶς περὶ RP
+1Th 3:7	ἀνάγκῃ καὶ θλίψει WH Treg NIV ] θλίψει καὶ ἀνάγκῃ RP
+1Th 3:11	Ἰησοῦς WH Treg NIV ] + Χριστός RP
+1Th 3:13	Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP • αὐτοῦ WH Treg NIV RP ] + ἀμήν NA
+
+1Th 4:1	οὖν Treg NIV RP ] – WH • ἵνα WH Treg NIV ] – RP • καθὼς καὶ περιπατεῖτε WH Treg NIV ] – RP
+1Th 4:6	κύριος WH Treg NIV ] ὁ κύριος RP
+1Th 4:8	καὶ NIV RP ] – WH Treg • διδόντα WH Treg NIV ] δόντα RP
+1Th 4:11	ταῖς WH Treg NIV ] + ἰδίαις RP NA
+1Th 4:13	κοιμωμένων WH Treg NIV ] κεκοιμημένων RP
+
+1Th 5:2	ὅτι WH Treg NIV ] + ἡ RP
+1Th 5:3	ὅταν WH Treg NIV ] + γὰρ RP
+1Th 5:4	κλέπτης Treg NIV RP ] κλέπτας WH
+1Th 5:5	γὰρ WH Treg NIV ] – RP
+1Th 5:6	ὡς WH Treg NIV ] + καὶ RP
+1Th 5:10	περὶ WH Treg ] ὑπὲρ NIV RP
+1Th 5:13	ὑπερεκπερισσοῦ WH NIV RP ] ὑπερεκπερισσῶς Treg • ἑαυτοῖς WH NIV RP ] αὐτοῖς Treg
+1Th 5:15	διώκετε WH Treg ] + καὶ NIV RP
+1Th 5:25	προσεύχεσθε Treg RP ] + καὶ WH NIV
+1Th 5:27	ἐνορκίζω WH Treg NIV ] Ὁρκίζω RP • τοῖς WH Treg NIV ] + ἁγίοις RP
+1Th 5:28	ὑμῶν WH Treg NIV ] + Ἀμήν RP
+
+
+

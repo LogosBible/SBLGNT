@@ -1,0 +1,81 @@
+
+Ephesians Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+Eph 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP • ἐν Ἐφέσῳ WH Treg NIV RP ] – WHapp
+Eph 1:6	ἧς WH Treg NIV ] ἐν ᾗ RP
+Eph 1:7	τὸ πλοῦτος WH Treg NIV ] τὸν πλοῦτον RP
+Eph 1:14	ὅ WH NIV ] ὅς Treg RP
+Eph 1:15	ἀγάπην τὴν Treg NIV RP ] – WH
+Eph 1:16	μνείαν WH Treg NIV ] + ὑμῶν RP
+Eph 1:18	τίς WH Treg NIV] καὶ τίς RP
+Eph 1:20	ἐνήργηκεν WH ] ἐνήργησεν Treg NIV RP • ἐκ WH Treg NIV ] + τῶν RP • καθίσας WH Treg NIV ] ἐκάθισεν RP
+
+Eph 2:1	ὑμῶν WH Treg NIV ] – RP
+Eph 2:3	ἤμεθα WH Treg NIV ] ἦμεν RP
+Eph 2:7	τὸ ὑπερβάλλον πλοῦτος WH Treg NIV ] τὸν ὑπερβάλλοντα πλοῦτον RP
+Eph 2:8	διὰ WH Treg NIV ] + τῆς RP
+Eph 2:11	ποτὲ ὑμεῖς WH Treg NIV ] ὑμεῖς ποτὲ RP
+Eph 2:12	ἦτε WH Treg NIV ] + ἐν RP
+Eph 2:13	ἐγενήθητε ἐγγὺς WH Treg NIV ] ἐγγὺς ἐγενήθητε RP
+Eph 2:15	αὑτῷ WH ] αὐτῷ Treg NA; ἑαυτῷ NIV RP
+Eph 2:17	εἰρήνην WH Treg NIV ] – RP
+Eph 2:19	ἐστὲ WH Treg NIV ] – RP
+Eph 2:20	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+Eph 2:21	πᾶσα WH Treg RP NA ] + ἡ NIV
+
+Eph 3:3	κατὰ Holmes WHmarg  ] ὅτι κατὰ WH Treg NIV RP • ἐγνωρίσθη WH Treg NIV ] ἐγνώρισέν RP
+Eph 3:6	ἐν Χριστῷ Ἰησοῦ WH Treg NIV ] αὐτοῦ ἐν τῷ Χριστῷ RP 
+Eph 3:7	ἐγενήθην WH Treg NIV ] ἐγενόμην RP • τῆς δοθείσης WH Treg NIV ] τὴν δοθεῖσάν RP
+Eph 3:8	τοῖς WH Treg NIV] ἐν τοῖς RP • τὸ ἀνεξιχνίαστον πλοῦτος WH Treg NIV ] τὸν ἀνεξιχνίαστον πλοῦτον RP
+Eph 3:9	πάντας Treg NIV RP ] – WH • κτίσαντι WH Treg NIV ] + διὰ Ἰησοῦ Χριστοῦ RP
+Eph 3:11	τῷ WH Treg NIV ] – RP
+Eph 3:12	καὶ WH Treg NIV ] + τὴν RP
+Eph 3:13	ἐγκακεῖν WH Treg NIV ] ἐκκακεῖν RP
+Eph 3:14	πατέρα WH Treg NIV ] + τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ RP
+Eph 3:16	δῷ WH Treg NIV ] δῴη RP • τὸ πλοῦτος WH Treg NIV ] τὸν πλοῦτον RP
+Eph 3:18	ὕψος καὶ βάθος WH Treg NIV ] βάθος καὶ ὕψος RP
+Eph 3:21	καὶ WH Treg NIV ] – RP
+
+Eph 4:6	πᾶσιν WH Treg NIV ] + ἡμῖν RP
+Eph 4:7	ἡ WH NIV RP ] – Treg
+Eph 4:8	ἔδωκεν NIV ] καὶ ἔδωκεν WH Treg RP
+Eph 4:9	κατέβη WH Treg NIV ] + πρῶτον RP
+Eph 4:15	Χριστός WH Treg NIV ] ὁ Χριστός RP
+Eph 4:17	τὰ WH Treg NIV ] + λοιπὰ RP
+Eph 4:18	ἐσκοτωμένοι WH Treg NIV ] ἐσκοτισμένοι RP
+Eph 4:26	ἐπὶ WH Treg ] + τῷ NIV RP
+Eph 4:28	ταῖς ἰδίαις χερσὶν τὸ ἀγαθόν Treg NIV ] ταῖς χερσὶν τὸ ἀγαθόν WH; τὸ ἀγαθόν ταῖς χερσὶν RP
+Eph 4:32	γίνεσθε Holmes WHmarg ] + δὲ WH Treg NIV RP • ὑμῖν WH Treg NIV ] ἡμῖν RP
+
+Eph 5:2	ἡμᾶς RP NIV ] ὑμᾶς WH Treg • ἡμῶν RP NIV Treg ] ὑμῶν WH
+Eph 5:3	ἀκαθαρσία πᾶσα WH Treg NIV ] πᾶσα ἀκαθαρσία RP
+Eph 5:4	ἃ οὐκ ἀνῆκεν WH Treg NIV ] τὰ οὐκ ἀνήκοντα RP
+Eph 5:5	ἴστε WH Treg NIV ] ἔστε RP • ὅ WH Treg NIV ] ὅς RP
+Eph 5:9	φωτὸς WH Treg NIV ] πνεύματος RP
+Eph 5:15	ἀκριβῶς πῶς WH NIV ] πῶς ἀκριβῶς Treg RP
+Eph 5:17	συνίετε WH Treg NIV ] συνιέντες RP
+Eph 5:19	ἑαυτοῖς WH Treg RP ] + ἐν NIV • ψάλλοντες WH NIV ] + ἐν Treg RP
+Eph 5:22	ἀνδράσιν WH NIV ] + ὑποτασσέσθωσαν Treg; + ὑποτάσσεσθε RP
+Eph 5:23	αὐτὸς WH Treg NIV ] καὶ αὐτὸς ἐστιν RP
+Eph 5:24	ὡς WH Treg NIV ] ὡσπερ RP • τοῖς WH Treg NIV ] + ἰδίοις RP
+Eph 5:25	γυναῖκας WH Treg NIV ] + ἑαυτῶν RP
+Eph 5:27	αὐτὸς WH Treg NIV ] αὐτὴν RP
+Eph 5:28	καὶ WH Treg NIV ] – RP
+Eph 5:29	Χριστὸς WH Treg NIV ] κύριος RP
+Eph 5:30	αὐτοῦ WH Treg NIV ] + ἐκ τῆς σαρκός αὐτοῦ καί ἐκ τῶν ὀστέων αὐτοῦ RP
+Eph 5:31	τὸν WH NIV RP ] – Treg • πατέρα WH Treg NIV ] + αὐτοῦ RP • τὴν WH NIV RP ] – Treg • τῇ γυναικὶ Treg ] πρὸς τὴν γυναῖκα WH NIV RP
+
+Eph 6:5	κατὰ σάρκα κυρίοις WH Treg NIV ] κυρίοις κατὰ σάρκα RP
+Eph 6:6	δοῦλοι WH Treg NIV ] + τοῦ RP
+Eph 6:8	ἕκαστος ὃ ἂν Treg ] ἕκαστος ἐάν τι WH NIV; ὃ ἐάν τι ἕκαστος RP • κομίσεται WH Treg NIV ] κομιεῖται RP • παρὰ WH Treg NIV ] + τοῦ RP
+Eph 6:9	αὐτῶν καὶ ὑμῶν WH Treg NIV ] ὑμῶν αὐτῶν RP
+Eph 6:10	Τοῦ λοιποῦ WH Treg NIV ] Τὸ λοιπόν ἀδελφοί μου RP
+Eph 6:12	σκότους WH Treg NIV ] + τοῦ αἰῶνος RP
+Eph 6:16	ἐν WH Treg NIV ] ἐπὶ RP • πονηροῦ Holmes WHmarg Tregmarg ] + τὰ WH Treg NIV RP
+Eph 6:17	δέξασθε WH Treg NIV ] δέξασθαι RP
+Eph 6:18	αὐτὸ WH Treg NIV ] + τοῦτο RP
+Eph 6:21	εἰδῆτε καὶ ὑμεῖς WH NIV RP ] καὶ ὑμεῖς εἰδῆτε Treg • γνωρίσει ὑμῖν WH Treg NIV ] ὑμῖν γνωρίσει RP
+Eph 6:24	ἀφθαρσίᾳ WH Treg NIV ] + Ἀμήν RP
+
+

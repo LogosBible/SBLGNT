@@ -1,0 +1,45 @@
+
+Philippians Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+Php 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+Php 1:5	τῆς WH Treg NIV ] – RP
+Php 1:6	Χριστοῦ Ἰησοῦ Treg NIV RP ] Ἰησοῦ Χριστοῦ WH
+Php 1:8	μου WH Treg NIV ] + ἐστιν RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+Php 1:11	καρπὸν δικαιοσύνης τὸν WH Treg NIV ] καρπῶν δικαιοσύνης τῶν RP
+Php 1:14	λόγον RP NA ] + τοῦ θεοῦ WH Treg NIV
+Php 1:16–17	ἀγάπης … κεῖμαι WH Treg NIV ] ἐριθείας τὸν Χριστὸν καταγγέλλουσιν, οὐχ ἁγνῶς, οἰόμενοι θλῖψιν ἐπιφέρειν τοῖς δεσμοῖς μου RP • ἐριθείας … δεσμοῖς μου WH Treg NIV ] ἀγάπης, εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι RP
+Php 1:18	ὅτι WH Treg NIV ] – RP
+Php 1:23	γὰρ WH Treg NIV ] – RP
+Php 1:24	ἐν Treg NIV RP ] – WH
+Php 1:25	παραμενῶ WH Treg NIV ] συμπαραμενῶ RP
+Php 1:27	ἀκούω WH Treg NIV ] ἀκούσω RP
+Php 1:28	ἐστὶν αὐτοῖς WH Treg NIV ] αὐτοῖς μέν ἐστιν RP • ὑμῶν WH Treg NIV ] ὑμῖν RP
+
+Php 2:3	μηδὲ κατὰ WH Treg NIV ] ἢ RP
+Php 2:4	⸀ἕκαστοι WH Treg ] ἕκαστος NIV RP • σκοποῦντες WH Treg NIV ] σκοπεῖτε RP • ⸁ἕκαστοι WH Treg NIV ] ἕκαστος RP
+Php 2:5	φρονεῖτε WH Treg NIV ] γὰρ φρονείσθω RP
+Php 2:9	τὸ WH Treg NIV ] – RP
+Php 2:13	θεὸς WH Treg NIV ] ὁ θεὸς RP
+Php 2:15	ἄμωμα μέσον WH Treg NIV ] ἀμώμητα ἐν μέσῳ RP
+Php 2:21	Ἰησοῦ Χριστοῦ Treg NIV ] Χριστοῦ Ἰησοῦ WH RP
+Php 2:26	ὑμᾶς Treg NIV RP ] + ἰδεῖν WH
+Php 2:27	θανάτῳ Treg NIV RP ] θανάτου WH • ἠλέησεν αὐτόν WH Treg NIV ] αὐτόν ἠλέησεν RP
+Php 2:30	Χριστοῦ Treg NIV ] Κυρίου WH; τοῦ Χριστοῦ RP • παραβολευσάμενος WH Treg NIV ] παραβουλευσάμενος RP
+
+Php 3:6	ζῆλος WH Treg NIV ] ζῆλον RP
+Php 3:8	μενοῦνγε WH NIV ] μέν οὖν Treg RP • σκύβαλα WH Treg NIV ] + εἶναι RP
+Php 3:10	κοινωνίαν WH Treg ] τὴν κοινωνίαν τῶν NIV RP • συμμορφιζόμενος WH Treg NIV ] συμμορφούμενος RP
+Php 3:11	τὴν ἐκ WH Treg NIV ] τῶν RP
+Php 3:12	Χριστοῦ Treg ] Χριστοῦ Ἰησοῦ WH NIV; τοῦ Χριστοῦ Ἰησοῦ RP
+Php 3:13	οὐ Treg RP NA ] οὔπω WH NIV
+Php 3:14	εἰς WH Treg NIV ] ἐπὶ RP
+Php 3:16	στοιχεῖν WH Treg NIV ] + κανόνι τὸ ἀυτὸ φρονεῖν RP
+Php 3:21	ἡμῶν WH Treg NIV ] + εἰς τὸ γενέσθαι αὐτὸ RP • αὑτῷ WH ] αὐτῷ Treg NIV; ἑαυτῷ RP
+
+Php 4:3	γνήσιε σύζυγε WH Treg NIV ] σύζυγε γνήσιε RP
+Php 4:13	με WH Treg NIV ] + Χριστῷ RP
+Php 4:19	τὸ πλοῦτος WH Treg NIV ] τὸν πλοῦτον RP
+Php 4:23	τοῦ πνεύματος WH Treg NIV ] πάντων RP • ὑμῶν WH Treg NIV ] + Ἀμην RP
+
+

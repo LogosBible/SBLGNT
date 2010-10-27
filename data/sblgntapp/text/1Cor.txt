@@ -1,0 +1,244 @@
+
+1Co 1:1	Corinthians Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+
+1Co 1:1	Χριστοῦ Ἰησοῦ Treg NIV ] Ἰησοῦ Χριστοῦ WH RP
+1Co 1:2	ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ τῇ οὔσῃ ἐν Κορίνθῳ Treg ] τῇ οὔσῃ ἐν Κορίνθῳ ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ WH NIV RP • αὐτῶν WH Treg NIV ] + τε RP
+1Co 1:4	μου Treg NIV RP ] – WH
+1Co 1:14	εὐχαριστῶ WH NIV ] + τῷ θεῷ Treg RP NA
+1Co 1:15	ἐβαπτίσθητε WH Treg NIV ] ἐβάπτισα RP
+1Co 1:20	κόσμου WH Treg NIV ] + τούτου RP
+1Co 1:22	σημεῖα WH Treg NIV ] σημεῖον RP
+1Co 1:23	ἔθνεσιν WH Treg NIV ] Ἕλλησιν RP
+1Co 1:25	ἀνθρώπων WH Treg NIV ] + ἐστίν RP
+1Co 1:27	καταισχύνῃ τοὺς σοφούς WH Treg NIV ] τοὺς σοφούς καταισχύνῃ RP
+1Co 1:28	τὰ Treg NIV ] καὶ τὰ WH RP
+1Co 1:30	σοφία ἡμῖν WH Treg NIV ] ἡμῖν σοφία RP
+
+1Co 2:1	μαρτύριον Treg NIV RP ] μυστήριον WH NA
+1Co 2:2	τι εἰδέναι WH Treg NIV ] τοῦ εἰδέναι τι RP
+1Co 2:4	πειθοῖ σοφίας Holmes ] πειθοῖς σοφίας λόγοις WH Treg NIV; πειθοῖς ἀνθρωπίνης σοφίας λόγοις RP
+1Co 2:7	θεοῦ σοφίαν WH Treg NIV ] σοφίαν θεοῦ RP
+1Co 2:9	ὅσα WH Treg ] ἃ NIV RP
+1Co 2:10	γὰρ WH ] δὲ Treg NIV RP • ἀπεκάλυψεν ὁ θεὸς WH Treg NIV ] ὁ θεὸς ἀπεκάλυψεν RP • πνεύματος WH Treg NIV ] + αὐτοῦ RP
+1Co 2:11	ἔγνωκεν WH Treg NIV ] οἶδεν RP
+1Co 2:13	πνεύματος WH Treg NIV ] + ἁγίου RP
+1Co 2:15	τὰ NIV ] μὲν WH Treg RP
+
+1Co 3:1	λαλῆσαι ὑμῖν WH Treg NIV ] ὑμῖν λαλῆσαι RP • σαρκίνοις WH Treg NIV ] σαρκικοῖς RP
+1Co 3:2	οὐ WH Treg NIV ] καὶ οὐ RP • οὐδὲ WH Treg NIV ] οὖτε RP
+1Co 3:3	ἔρις WH Treg NIV ] + καὶ διχοστασίαι RP
+1Co 3:4	οὐκ ἄνθρωποί WH Treg NIV ] οὐχὶ σαρκικοί RP
+1Co 3:5	Τί WH Treg NIV ] Τίς RP • Ἀπολλῶς τί δέ ἐστιν Παῦλος WH Treg NIV] Παῦλος τίς δὲ Ἀπολλώς RP • διάκονοι WH Treg NIV ] ἀλλ᾽ ἢ διάκονοι RP
+1Co 3:10	ἔθηκα WH Treg NIV ] τέθεικα RP
+1Co 3:12	θεμέλιον WH Treg NIV ] + τοῦτον RP • χρυσόν ἄργυρον WH NIV RP ] χρυσίον ἀργύριον Treg
+1Co 3:13	αὐτὸ WH Treg NA ] – NIV RP
+1Co 3:16	οἰκεῖ ἐν ὑμῖν Treg NIV RP ] ἐν ὑμῖν οἰκεῖ WH
+1Co 3:22	ὑμῶν WH Treg NIV ] + ἐστιν RP
+
+1Co 4:2	ὧδε WH Treg NIV ] Ὃ δὲ RP
+1Co 4:6	Ἀπολλῶν WH Treg NIV ] Ἀπολλὼ RP • ἃ WH Treg NIV ] ὃ RP • γέγραπται WH Treg NIV ] + φρονεῖν RP
+1Co 4:9	γάρ WH Treg NA ] + ὅτι NIV RP
+1Co 4:13	δυσφημούμενοι WH NIV ] βλασφημούμενοι Treg RP
+1Co 4:14	νουθετῶν WH NIV ] νουθετῶ Treg RP
+1Co 4:17	μου τέκνον WH Treg NIV ] τέκνον μου RP • Ἰησοῦ WH NIV ] – Treg RP
+
+1Co 5:1	ἔθνεσιν WH Treg NIV ] + ὀνομάζεται RP
+1Co 5:2	ἀρθῇ WH Treg NIV ] ἐξαρθῇ RP • ποιήσας Treg RP ] πράξας WH NIV
+1Co 5:3	ἀπὼν WH Treg NIV ] ὡς ἀπὼν RP
+1Co 5:4	⸀Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP • ⸁Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP
+1Co 5:5	κυρίου WH NIV ] + Ἰησοῦ Treg RP
+1Co 5:7	ἡμῶν WH Treg NIV ] + ὑπὲρ ἡμῶν RP
+1Co 5:10	οὐ WH Treg NIV ] καὶ οὐ RP • καὶ WH Treg NIV ] ἢ RP • ὠφείλετε WH Treg NIV ] ὀφείλετε RP
+1Co 5:12	μοι WH Treg NIV ] + καί RP
+1Co 5:13	κρίνει WH Treg ] κρινεῖ NIV RP • ἐξάρατε WH Treg NIV ] Καί ἐξαρεῖτε RP
+
+1Co 6:2	ἢ WH Treg NIV ] – RP
+1Co 6:5	οὐδεὶς σοφὸς WH Treg NIV ] σοφὸς οὐδὲ εἷς RP • ἀδελφοῦ WH Treg NIV RP ] + καὶ τοῦ ἀδελφοῦ em Holmes
+1Co 6:7	οὖν WH Treg RP NA ] – NIV
+1Co 6:8	τοῦτο WH Treg NIV ] ταῦτα RP
+1Co 6:9	θεοῦ βασιλείαν WH Treg NIV ] βασιλείαν θεοῦ RP
+1Co 6:10	κλέπται οὔτε πλεονέκται WH Treg NIV ] πλεονέκται οὔτε κλέπται RP • οὐ WH Treg NIV ] οὔτε RP • θεοῦ WH Treg NIV ] + οὐ RP
+1Co 6:11	Ἰησοῦ RP ] Ἰησοῦ Χριστοῦ Treg NIV; ἡμῶν Ἰησοῦ Χριστοῦ WH
+1Co 6:16	ἢ WH Treg NIV ] – RP
+1Co 6:20	ὑμῶν WH Treg NIV ] + καὶ ἐν τῷ πνεύματι ὑμῶν ἅτινά ἐστιν τοῦ θεοῦ RP
+
+1Co 7:1	ἐγράψατε WH NIV ] + μοι Treg RP
+1Co 7:3	ὀφειλὴν WH Treg NIV ] ὀφειλομένην εὔνοιαν RP
+1Co 7:5	σχολάσητε WH Treg NIV ]  σχολάζητε RP • τῇ WH Treg NIV ]  + νηστείᾳ καὶ τῇ RP • ἦτε WH Treg NIV ] συνέρχησθε RP
+1Co 7:7	δὲ WH Treg NIV ] γὰρ RP • ἔχει χάρισμα WH Treg NIV ] χάρισμα ἔχει RP • ⸀ὁ WH Treg NIV ] ὃς RP • ⸁ὁ WH Treg NIV ] ὃς RP
+1Co 7:8	αὐτοῖς WH Treg NIV ] + ἐστιν RP
+1Co 7:9	γαμῆσαι Treg NIV RP ] γαμεῖν WH
+1Co 7:12	λέγω ἐγώ WH Treg NIV ] ἐγώ λέγω RP
+1Co 7:13	εἴ τις NIV ] ἥτις WH Treg RP • οὗτος WH Treg NIV ] αὑτὸς RP • τὸν ἄνδρα WH Treg NIV ] αὐτόν RP
+1Co 7:14	ἀδελφῷ WH Treg NIV ] ἀνδρί RP
+1Co 7:15	ἡμᾶς Treg NIV RP ] ὑμᾶς WH NA
+1Co 7:17	ἐμέρισεν NIV RP ] μεμέρικεν WH Treg • κύριος WH Treg NIV ] θεός RP • θεός WH Treg NIV ] κύριος RP
+1Co 7:18	κέκληταί τις WH Treg NIV ] τις ἐκλήθη RP
+1Co 7:22	ὁμοίως WH Treg NIV ] + καὶ RP
+1Co 7:28	γαμήσῃς WH Treg NIV ] γήμῃς RP
+1Co 7:29	ἐστίν τὸ λοιπὸν WH Treg NIV ] τὸ λοιπὸν ἐστίν RP
+1Co 7:31	τὸν κόσμον WH Treg NIV ] τῷ κόσμῳ τούτῳ RP
+1Co 7:32	ἀρέσῃ WH Treg NIV ] ἀρέσει RP
+1Co 7:33	ἀρέσῃ WH Treg NIV ] ἀρέσει RP
+1Co 7:34	καὶ WH Treg NIV ] – RP • ἡ ἄγαμος WH Treg NIV ] – RP• παρθένος WH Treg NIV ] + Ἡ ἄγαμος RP • ⸀τῷ WH Treg NIV ] – RP • ⸁τῷ WH Treg NIV ] – RP • ἀρέσῃ WH Treg NIV ] ἀρέσει RP
+1Co 7:35	σύμφορον WH Treg NIV ] συμφέρον RP • εὐπάρεδρον WH Treg NIV ] εὐπρόσεδρον RP
+1Co 7:37	ἐν τῇ καρδίᾳ αὐτοῦ ἑδραῖος WH Treg NIV ] ἑδραῖος ἐν τῇ καρδίᾳ RP • ἰδίᾳ καρδίᾳ WH Treg NIV ] καρδίᾳ αὐτοῦ RP • τηρεῖν WH Treg NIV ] τοῦ τηρεῖν RP • ποιήσει WH Treg NIV ] ποιεῖ RP
+1Co 7:38	⸀γαμίζων WH Treg NIV ] ἐκγαμίζων RP • τὴν παρθένον ἑαυτοῦ Treg ] τὴν ἑαυτοῦ παρθένον WH NIV; – RP • καὶ ὁ WH Treg NIV ] ὁ δὲ RP • ⸁γαμίζων WH Treg NIV ] ἑκγαμίζων RP • ποιήσει WH Treg NIV ] ποιεῖ RP
+1Co 7:39	δέδεται WH Treg NIV ] + νόμῳ RP • δὲ WH Treg NIV ] + καί RP
+1Co 7:40	δὲ Treg NIV RP ] γὰρ WH
+
+1Co 8:2	εἴ WH Treg NIV ] + δέ RP • ἐγνωκέναι WH Treg NIV ] εἰδέναι RP • οὔπω WH Treg NIV ] οὐδέπω οὐδὲν RP • ἔγνω WH Treg NIV ] ἔγνωκεν RP
+1Co 8:4	θεὸς WH Treg NIV ] + ἕτερος RP
+1Co 8:7	συνηθείᾳ WH Treg NIV ] συνειδήσει RP • ἕως ἄρτι τοῦ εἰδώλου WH Treg NIV ] τοῦ εἰδώλου ἕως ἄρτι RP
+1Co 8:8	παραστήσει WH Treg NIV ] παρίστησιν RP • γὰρ ἐὰν φάγωμεν, περισσεύομεν, οὔτε ἐὰν μὴ φάγωμεν, ὑστερούμεθα RP ] ἐὰν μὴ φάγωμεν, ὑστερούμεθα, οὔτε ἐὰν φάγωμεν, περισσεύομεν WH NIV; ἐὰν μὴ φάγωμεν, ὑστερούμεθα, οὔτε ἐὰν φάγωμεν, περισσεύομεθα Treg
+1Co 8:9	ἀσθενέσιν WH Treg NIV ] ἀσθενοῦσιν RP
+1Co 8:11	ἀπόλλυται γὰρ WH Treg NIV ] Καὶ ἀπολεῖται RP • ἐν WH Treg NIV ] ἀδελφὸς ἐπὶ RP • ὁ ἀδελφὸς WH Treg NIV ] – RP
+
+1Co 9:1	ἐλεύθερος οὐκ εἰμὶ ἀπόστολος WH Treg NIV ] ἀπόστολος οὐκ εἰμὶ ἐλεύθερος RP • Ἰησοῦν WH Treg NIV ] + Χριστὸν RP
+1Co 9:2	μου τῆς WH Treg NIV ] τῆς μου RP
+1Co 9:3	ἐστιν αὕτη WH Treg NIV ] αὕτη ἐστιν RP
+1Co 9:4	πεῖν WH NIV ] πιεῖν Treg RP
+1Co 9:6	μὴ WH Treg NIV] τοῦ μὴ RP
+1Co 9:7	τὸν καρπὸν WH Treg NIV ] ἐκ τοῦ καρποῦ RP • τίς Holmes Tregmarg] ἢ τίς WH Treg NIV RP
+1Co 9:8	καὶ … ταῦτα οὐ WH Treg NIV ] οὐχὶ καὶ … ταῦτα RP
+1Co 9:9	κημώσεις Treg NIV ] φιμώσεις WH RP
+1Co 9:10	ὀφείλει ἐπ’ ἐλπίδι WH Treg NIV ] ἐπ’ ἐλπίδι ὀφείλει RP • ἐπ’ ἐλπίδι τοῦ μετέχειν WH Treg NIV ] τῆς ἐλπίδος αὐτοῦ μετέχειν ἐπ᾽ ἐλπίδι RP
+1Co 9:12	ὑμῶν ἐξουσίας WH Treg NIV ] ἐξουσίας ὑμῶν RP • τινα ἐγκοπὴν WH Treg NIV ] ἐγκοπὴν τινα RP
+1Co 9:13	τὰ WH Treg NIV ] – RP • παρεδρεύοντες WH Treg NIV ] προσεδρεύοντες RP
+1Co 9:15	οὐ κέχρημαι οὐδενὶ WH Treg NIV ] οὐδενὶ ἐχρησάμην RP • οὐδεὶς κενώσει WH Treg NIV ] ἵνα τις κενώσῃ RP
+1Co 9:16	γάρ WH Treg NIV ] δέ RP • εὐαγγελίσωμαι WH Treg NIV ] εὐαγγελίζωμαι RP
+1Co 9:18	μού WH Treg NIV ] μοί RP • εὐαγγέλιον WH Treg NIV ] + τοῦ Χριστοῦ RP
+1Co 9:20	μὴ ὢν αὐτὸς ὑπὸ νόμον WH Treg NIV ] – RP
+1Co 9:21	θεοῦ WH Treg NIV ] θεῷ RP • Χριστοῦ WH Treg NIV ] Χριστῷ RP • κερδάνω WH Treg NIV ] κερδήσω RP • τοὺς WH Treg NIV ] – RP
+1Co 9:22	ἀσθενέσιν WH Treg NIV ] + ὡς RP • γέγονα WH Treg NIV ] + τὰ RP
+1Co 9:23	πάντα WH Treg NIV ] Τοῦτο RP
+
+1Co 10:1	γὰρ WH Treg NIV ] δὲ RP
+1Co 10:2	ἐβαπτίσαντο WH Treg RP ] ἐβαπτίσθησαν NIV
+1Co 10:3	πνευματικὸν βρῶμα WH Treg NIV ] βρῶμα πνευματικὸν RP
+1Co 10:4	πνευματικὸν ἔπιον πόμα WH Treg NIV ] πόμα πνευματικὸν ἔπιον RP • πέτρα δὲ WH Treg NIV ] δὲ πέτρα RP
+1Co 10:9	Χριστόν RP NA ] κύριον WH Treg NIV • καθώς WH Treg NIV ] + καί RP • ἀπώλλυντο WH Treg NIV ] ἀπώλοντο RP
+1Co 10:10	καθάπερ WH Treg NIV ] καθὼς καί RP
+1Co 10:11	δὲ WH Treg NIV ] + πάντα RP • τυπικῶς συνέβαινεν WH Treg NIV ] τύποι συνέβαινον RP • κατήντηκεν WH Treg NIV ] κατήντησεν RP
+1Co 10:13	δύνασθαι WH Treg NIV ] + ὑμᾶς RP
+1Co 10:16	ἐστὶν τοῦ αἵματος τοῦ Χριστοῦ WH Treg NIV ] τοῦ αἵματος τοῦ Χριστοῦ ἐστὶν RP
+1Co 10:18	οὐχ WH NIV ] οὐχὶ RP Treg
+1Co 10:19	εἰδωλόθυτόν τί … ὅτι εἴδωλόν WH Treg NIV] εἴδωλόν τί … ὅτι εἰδωλόθυτόν RP
+1Co 10:20	θύουσιν NIV ] θύουσιν τὰ ἔθνη WH Treg; θύει τὰ ἔθνη RP • καὶ οὐ θεῷ θύουσιν WH Treg NIV ] θύει καὶ οὐ θεῷ RP
+1Co 10:23	⸀Πάντα WH Treg NIV ] + μοι RP • ⸁πάντα WH Treg NIV ] + μοι RP
+1Co 10:24	ἑτέρου WH Treg NIV ] + ἕκαστος RP
+1Co 10:26	κυρίου γὰρ WH Treg NIV ] γὰρ κυρίου RP
+1Co 10:27	εἴ WH Treg NIV ] + δέ RP
+1Co 10:28	ἱερόθυτόν WH Treg NIV ] εἰδωλόθυτόν RP • συνείδησιν WH Treg NIV ] + Τοῦ γὰρ κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς RP
+1Co 10:32	καὶ Ἰουδαίοις γίνεσθε WH Treg NIV ] γίνεσθε καὶ Ἰουδαίοις RP
+1Co 10:33	σύμφορον WH Treg NIV ] συμφέρον RP
+
+1Co 11:2	ὑμᾶς WH Treg NIV ] + ἀδελφοί RP
+1Co 11:3	τοῦ WH Treg NIV ] – RP
+1Co 11:5	αὐτῆς WH Treg NIV ] ἑαυτῆς RP
+1Co 11:7	ἡ WH Treg NIV ] – RP
+1Co 11:11	γυνὴ χωρὶς ἀνδρὸς οὔτε ἀνὴρ χωρὶς γυναικὸς WH Treg NIV ] ἀνὴρ χωρὶς γυναικὸς οὔτε γυνὴ χωρὶς ἀνδρὸς RP
+1Co 11:14	οὐδὲ WH Treg NIV] ἢ οὐδὲ RP • ἡ φύσις αὐτὴ WH Treg NIV ] αὐτὴ ἡ φύσις RP
+1Co 11:15	δέδοται RP ] + αὐτῇ WH Treg NIV
+1Co 11:17	παραγγέλλων οὐκ ἐπαινῶ WH NIV RP ] παραγγέλλω οὐκ ἐπαινῶν Treg
+1Co 11:19	καὶ WH Treg NIV ] – RP
+1Co 11:22	εἴπω ὑμῖν WH Treg NIV ] ὑμῖν εἴπω RP
+1Co 11:23	παρεδίδετο WH Treg NIV ] παρεδίδοτο RP
+1Co 11:24	εἶπεν WH Treg NIV ] + Λάβετε φάγετε RP • ὑμῶν WH Treg NIV ] + κλώμενον RP
+1Co 11:25	ἐὰν WH Treg NIV ] ἂν RP
+1Co 11:26	ἐὰν WH Treg NIV ] ἂν RP • ποτήριον WH Treg NIV ] + τοῦτο RP • οὗ WH Treg NIV ] + ἂν RP
+1Co 11:27	ἄρτον WH Treg NIV ] + τοῦτον RP • ἀναξίως WH Treg NIV ] + τοῦ κυρίου RP
+1Co 11:29	πίνων WH Treg NIV ] + ἀναξίως RP • σῶμα WH Treg NA ] + τοῦ κυρίου NIV RP
+1Co 11:31	δὲ WH Treg NIV ] γὰρ RP
+1Co 11:32	ὑπὸ RP ] + τοῦ WH Treg NIV
+1Co 11:34	εἴ WH Treg NIV ] + δέ RP
+
+1Co 12:3	Ἰησοῦς WH Treg NIV ] Ἰησοῦν RP • Κύριος Ἰησοῦς WH Treg NIV ] Κύριον Ἰησοῦν RP
+1Co 12:6	ὁ δὲ Treg NIV RP ] καὶ ὁ WH • αὐτὸς WH Treg NIV ] + ἐστιν RP
+1Co 12:9	ἑτέρῳ WH Treg NIV ] + δὲ RP • ἄλλῳ Holmes ] + δὲ WH Treg NIV RP • ἑνὶ WH Treg NIV ] αὐτῷ RP 
+1Co 12:10	⸀ἄλλῳ Holmes ] + δὲ WH Treg NIV RP • ⸁ἄλλῳ Treg ] + δὲ WH NIV RP • ⸀1ἄλλῳ Treg ] + δὲ WH NIV RP • ἑτέρῳ WH Treg NIV ] + δὲ RP • ⸀2ἄλλῳ Holmes ] + δὲ WH Treg NIV RP
+1Co 12:12	πολλὰ ἔχει WH Treg NIV ] ἔχει πολλὰ RP • σώματος WH Treg NIV ] + τοῦ ἑνός RP
+1Co 12:13	πάντες WH Treg NIV ] + εἰς RP
+1Co 12:18	νυνὶ NIV RP ] νῦν WH Treg
+1Co 12:20	μὲν Treg NIV RP ] – WH
+1Co 12:24	ἔχει WH Treg RP NA ] + τιμῆς NIV • ὑστεροῦντι RP ] ὑστερουμένῳ WH Treg NIV
+1Co 12:25	σχίσμα WH Treg NIV ] σχίσματα RP
+1Co 12:26	εἴτε WH NIV RP ] εἴ τι Treg • μέλος WH Treg ] ἓν μέλος NIV RP
+1Co 12:28	ἔπειτα WH Treg NIV ] εἶτα RP
+1Co 12:31	μείζονα WH Treg NIV ] κρείττονα RP
+
+1Co 13:2	⸂καὶ ἐὰν⸃ Treg NIV RP ] κἂν WH • ⸄καὶ ἐὰν⸅ NIV RP ] κἂν WH Treg • μεθιστάναι Treg NIV ] μεθιστάνειν WH RP
+1Co 13:3	⸂καὶ ἐὰν⸃ RP ] κἂν WH Treg NIV • ⸄καὶ ἐὰν⸅ Treg NIV RP ] κἂν WH • καυθήσομαι NIV ] καυθήσωμαι Treg RP; καυχήσωμαι WH NA
+1Co 13:4	ἡ ἀγάπη Treg NIV RP ] – WH
+1Co 13:8	πίπτει WH Treg NIV ] ἐκπίπτει RP
+1Co 13:9	γὰρ WH Treg NIV ] δὲ RP
+1Co 13:10	τὸ WH Treg NIV ] τότε τὸ RP
+1Co 13:11	ἐλάλουν … ἐλογιζόμην ὡς νήπιος WH Treg NIV ] ὡς νήπιος ἐλάλουν … ἐλογιζόμην RP • ὅτε WH Treg NIV ] + δὲ RP
+
+1Co 14:2	ἀλλὰ WH Treg NIV ] + τῷ RP
+1Co 14:5	δὲ WH Treg NIV ] γὰρ RP • διερμηνεύῃ WH Treg NIV ] διερμηνεύει RP
+1Co 14:6	Νῦν WH Treg NIV ] Νυνὶ RP
+1Co 14:7	δῷ WH Treg NIV ] διδῶ RP
+1Co 14:8	φωνὴν σάλπιγξ Treg RP ] σάλπιγξ φωνὴν WH NIV
+1Co 14:10	εἰσιν WH Treg NIV ] ἐστὶν RP • οὐδὲν WH Treg NIV ] + αὐτῶν RP
+1Co 14:13	Διὸ WH Treg NIV ] Διόπερ RP
+1Co 14:16	εὐλογῇς WH Treg NIV ] εὐλογήσῃς RP • πνεύματι Treg] ἐν πνεύματι WH NIV; τῷ πνεύματι RP
+1Co 14:18	θεῷ WH Treg NIV ] + μου RP • γλώσσαις WH NIV RP ] γλώσσῃ Treg • λαλῶ WH Treg NIV ] λαλῶν RP
+1Co 14:19	τῷ νοΐ WH Treg NIV ] διὰ τοῦ νοός RP
+1Co 14:21	ἑτέρων WH Treg NIV ] ἑτέροις RP
+1Co 14:23	λαλῶσιν γλώσσαις WH Treg NIV ] γλώσσαις λαλῶσιν RP
+1Co 14:25	τὰ WH Treg NIV ] καὶ οὕτως τὰ RP • Ὄντως ὁ θεὸς WH Treg NIV ] Ὁ θεὸς ὄντως RP
+1Co 14:26	ἕκαστος WH Treg NIV ] +ὑμῶν RP • ἀποκάλυψιν ἔχει γλῶσσαν WH Treg NIV ] γλῶσσαν ἀποκάλυψιν ἔχει RP
+1Co 14:28	διερμηνευτής WH NIV RP ] ἑρμηνευτής Treg
+1Co 14:34	γυναῖκες WH Treg NIV ] + ὑμῶν RP • ἐπιτρέπεται WH Treg NIV ] ἐπιτέτραπται RP • ὑποτασσέσθωσαν WH Treg NIV ] ὑποτάσσεσθαι RP
+1Co 14:35	μαθεῖν Treg NIV RP ] μανθάνειν WH • λαλεῖν ἐν ἐκκλησίᾳ WH Treg NIV ] ἐν ἐκκλησίᾳ λαλεῖν RP
+1Co 14:37	ἐστὶν Holmes ] ἐστὶν ἐντολή WH Treg NIV; εἰσὶν ἐντολαί RP
+1Co 14:38	ἀγνοεῖται WH NIV ] ἀγνοείτω Treg RP
+1Co 14:39	μου WH Treg NIV ] – RP • μὴ κωλύετε γλώσσαις WH Treg NIV ] γλώσσαις μὴ κωλύετε RP
+1Co 14:40	δὲ WH Treg NIV ] – RP
+
+1Co 15:4	ἡμέρᾳ τῇ τρίτῃ WH Treg NIV ] τρίτῃ ἡμέρᾳ RP
+1Co 15:6	πλείονες WH Treg NIV ] πλείους RP • δὲ WH Treg NIV ] + καὶ RP
+1Co 15:10	ἡ NIV RP ] – WH Treg
+1Co 15:12	ἐν ὑμῖν τινες WH Treg NIV ] τινες ἐν ὑμῖν RP
+1Co 15:14	ἄρα WH Treg RP ] + καὶ NIV • κενὴ WH Treg NIV ] + δὲ RP • ὑμῶν Treg NIV RP ] ἡμῶν WH
+1Co 15:17	ὑμῶν Treg NIV RP ] + ἐστίν WH
+1Co 15:19	ἐν Χριστῷ ἠλπικότες ἐσμὲν WH Treg NIV ] ἠλπικότες ἐσμὲν ἐν Χριστῷ RP
+1Co 15:20	κεκοιμημένων WH Treg NIV ] + ἐγένετο RP
+1Co 15:21	θάνατος WH Treg NIV ] ὁ θάνατος RP
+1Co 15:24	παραδιδῷ WH NIV ] παραδιδοῖ Treg; παραδῷ RP 
+1Co 15:25	οὗ WH Treg NIV ] + ἄν RP
+1Co 15:28	τότε Treg NIV ] + καὶ WH RP NA • πάντα WH Treg NIV ] τὰ πάντα RP NA
+1Co 15:29	αὐτῶν WH Treg NIV ] τῶν νεκρῶν RP
+1Co 15:31	καύχησιν RP ] + ἀδελφοί WH Treg NIV
+1Co 15:34	λαλῶ WH Treg NIV ] λέγω RP
+1Co 15:36	ἄφρων WH Treg NIV ] Ἄφρον RP
+1Co 15:38	δίδωσιν αὐτῷ WH Treg NIV ] αὐτῷ δίδωσιν RP • ἴδιον WH Treg NIV ] τὸ  ἴδιον RP
+1Co 15:39	σὰρξ πτηνῶν WH Treg NIV ] ἰχθύων RP • ἰχθύων WH Treg NIV ] πτηνῶν RP
+1Co 15:44	Εἰ WH Treg NIV ] – RP • ἔστιν καὶ WH Treg NIV ] καὶ ἔστιν σῶμα RP
+1Co 15:47	ἄνθρωπος WH Treg NIV ] + ὁ κύριος RP
+1Co 15:49	φορέσομεν NIV ] φορέσωμεν WH Treg RP
+1Co 15:50	δύναται WH Treg NIV ] δύνανται RP
+1Co 15:51	πάντες WH Treg NIV ] + μὲν RP
+1Co 15:54	φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ Treg NIV RP ] – WH • ἀθανασίαν Treg NIV RP ] τὴν ἀθανασίαν WH
+1Co 15:55	νῖκος ποῦ σου θάνατε τὸ κέντρον WH Treg NIV ] κέντρον Ποῦ σου ᾍδη τὸ νῖκος RP
+
+1Co 16:2	σαββάτου WH Treg NIV ] σαββάτων RP • ἐὰν WH Treg NIV ] ἂν RP
+1Co 16:3	ἐὰν WH NIV RP ] ἂν Treg
+1Co 16:4	ἄξιον ᾖ WH Treg NIV ] ᾖ ἄξιον RP
+1Co 16:6	παραμενῶ Treg NIV RP ] καταμενῶ WH • καὶ Treg NIV RP ] – WH
+1Co 16:7	γὰρ WH Treg NIV ] δὲ RP • ἐπιτρέψῃ WH Treg NIV ] ἐπιτρέπῃ RP
+1Co 16:8	ἐπιμενῶ Treg NIV RP ] ἐπιμένω WH
+1Co 16:10	κἀγώ NIV Treg RP ] ἐγώ WH
+1Co 16:11	με WH NIV RP ] ἐμέ Treg
+1Co 16:17	ὑμέτερον WH Treg NIV ] ὑμῶν RP
+1Co 16:19	ἀσπάζεται WH NIV ] ἀσπάζονται Treg RP • Πρίσκα WH Treg NIV ] Πρίσκιλλα RP
+1Co 16:22	κύριον WH Treg NIV ] + Ἰησοῦν Χριστόν RP • Μαράνα θά NIV] Μαρὰν ἀθά WH Treg RP
+1Co 16:23	Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP
+1Co 16:24	Ἰησοῦ WH Treg NIV ] + Ἀμήν RP
+
+
+
+

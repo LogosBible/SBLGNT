@@ -1,0 +1,76 @@
+
+Galatians Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+Ga 1:3	καὶ κυρίου ἡμῶν Treg RP] ἡμῶν καὶ κυρίου WH NIV
+Ga 1:4	ὑπὲρ WH NIV] περὶ Treg RP • αἰῶνος τοῦ ἐνεστῶτος WH Treg NIV] ἐνεστῶτος αἰῶνος RP
+Ga 1:8	εὐαγγελίζηται Treg NIV RP] εὐαγγελίσηται WH • ὑμῖν WH Treg RP NA] – NIV
+Ga 1:10	εἰ WH Treg NIV] + γὰρ RP
+Ga 1:11	γὰρ WH Treg NIV] δὲ RP
+Ga 1:12	οὔτε WH NIV RP] οὐδὲ Treg
+Ga 1:15	εὐδόκησεν Holmes WHmarg] + ὁ θεὸς WH Treg NIV RP
+Ga 1:18	ἔτη τρία Treg NIV RP] τρία ἔτη WH • Κηφᾶν WH Treg NIV] Πέτρον RP
+
+Ga 2:4	καταδουλώσουσιν WH Treg NIV] καταδουλώσωνται RP
+Ga 2:6	θεὸς Treg RP] ὁ θεὸς WH NIV
+Ga 2:9	ἡμεῖς WH Treg NIV] + μὲν RP
+Ga 2:11	Κηφᾶς WH Treg NIV] Πέτρος RP
+Ga 2:12	ἦλθον WH NIV RP] ἦλθεν Treg
+Ga 2:13	καὶ WH Treg RP NA] – NIV
+Ga 2:14	Κηφᾷ WH Treg NIV] Πέτρῳ RP • καὶ … Ἰουδαϊκῶς ζῇς WH Treg NIV] ζῇς καὶ … Ἰουδαϊκῶς RP • οὐκ WH Treg RP] οὐχὶ NIV • πῶς WH Treg NIV] τί RP
+Ga 2:16	δὲ WH Treg NIV] – RP • Ἰησοῦ Χριστοῦ NIV RP] Χριστοῦ Ἰησοῦ WH Treg • ὅτι ἐξ ἔργων νόμου οὐ δικαιωθήσεται WH Treg NIV] διότι οὐ δικαιωθήσεται ἐξ ἔργων νόμου RP
+Ga 2:18	συνιστάνω WH Treg NIV] συνίστημι RP
+Ga 2:20	υἱοῦ τοῦ θεοῦ WH NIV RP] θεοῦ καὶ Χριστοῦ Treg
+
+Ga 3:1	ἐβάσκανεν WH Treg NIV] + τῇ ἀληθείᾳ μὴ πείθεσθαι RP • προεγράφη WH Treg NIV] + ἐν ὑμῖν RP
+Ga 3:7	υἱοί εἰσιν WH Treg NIV] εἰσιν υἱοὶ RP
+Ga 3:10	ὅτι WH Treg NIV] – RP • ἐμμένει WH Treg NIV] + ἐν RP
+Ga 3:12	αὐτὰ WH Treg NIV] + ἄνθρωπος RP
+Ga 3:13	ὅτι γέγραπται WH Treg NIV] γέγραπται γάρ RP
+Ga 3:14	Χριστῷ Ἰησοῦ NIV RP] Ἰησοῦ Χριστῷ WH Treg
+Ga 3:17	θεοῦ WH Treg NIV] + εἰς Χριστὸν RP • τετρακόσια καὶ τριάκοντα ἔτη WH Treg NIV] ἔτη τετρακόσια καὶ τριάκοντα RP
+Ga 3:19	οὗ Treg NIV RP] ἂν WH
+Ga 3:21	ἐκ νόμου ἂν Treg NIV] ἐν νόμῳ ἂν WH; ἂν ἐκ νόμου RP
+Ga 3:23	συγκλειόμενοι WH Treg NIV] συγκεκλεισμένοι RP
+Ga 3:28	πάντες WH NIV RP] ἅπαντες Treg
+Ga 3:29	κατ᾽ WH Treg NIV] καὶ κατ᾽ RP
+
+Ga 4:3	ἤμεθα WH NIV] ἦμεν Treg RP
+Ga 4:6	ἡμῶν WH Treg NIV] ὑμῶν RP
+Ga 4:7	διὰ θεοῦ WH Treg NIV] θεοῦ διὰ Χριστοῦ RP
+Ga 4:8	φύσει μὴ WH Treg NIV] μὴ φύσει RP
+Ga 4:9	δουλεύειν NIV RP] δουλεῦσαι WH Treg
+Ga 4:14	ὑμῶν WH Treg NIV] μου τὸν RP
+Ga 4:15	ποῦ WH Treg NIV] Τίς RP • οὖν WH Treg NIV] + ἦν RP • ἐξορύξαντες WH Treg NIV] + ἂν RP
+Ga 4:18	δὲ WH Treg NIV] + τὸ RP
+Ga 4:19	τέκνα Treg NIV] τεκνία WH RP • μέχρις WH Treg NIV] ἄχρι RP
+Ga 4:23	δι᾽ WH Treg NIV] διὰ τῆς RP
+Ga 4:25	δὲ WH NIV] γὰρ RP Treg • γὰρ WH Treg NIV] δὲ RP
+Ga 4:26	μήτηρ WH Treg NIV] + πάντων RP
+Ga 4:28	ὑμεῖς δέ … τέκνα ἐστέ Treg NIV] ἡμεῖς δὲ … τέκνα ἐσμέν WH RP
+Ga 4:30	κληρονομήσει WH Treg NIV] κληρονομήσῃ RP
+Ga 4:31	διό WH Treg NIV] Ἄρα RP
+
+Ga 5:1	ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν WH Treg NIV] οὖν ᾗ Χριστὸς ἡμᾶς ἠλευθέρωσεν στήκετε RP
+Ga 5:4	ἀπὸ WH Treg NIV] + τοῦ RP
+Ga 5:7	τῇ NIV RP] – WH Treg
+Ga 5:10	ἐὰν WH Treg NIV] ἂν RP
+Ga 5:14	πεπλήρωται WH Treg NIV] πληροῦται RP • σεαυτόν WH Treg NIV] ἑαυτόν RP
+Ga 5:17	γὰρ WH Treg NIV] δὲ RP • ἀλλήλοις ἀντίκειται WH Treg NIV] ἀντίκειται ἀλλήλοις RP • ἐὰν WH Treg NIV] ἂν RP
+Ga 5:19	ἐστιν WH Treg NIV] + μοιχεία RP
+Ga 5:20	ἔρις ζῆλος WH Treg NIV] ἔρεις ζῆλοι RP
+Ga 5:21	φθόνοι WH NIV] + φόνοι Treg RP • καθὼς WH Treg NIV] + καὶ RP
+Ga 5:24	Χριστοῦ RP] + Ἰησοῦ WH Treg NIV
+
+Ga 6:2	ἀναπληρώσετε Treg NIV] ἀναπληρώσατε WH RP
+Ga 6:3	φρεναπατᾷ ἑαυτόν WH Treg NIV] ἑαυτόν φρεναπατᾷ RP
+Ga 6:7	ἐὰν WH NIV RP] ἂν Treg
+Ga 6:9	ἐγκακῶμεν WH Treg NIV] ἐκκακῶμεν RP
+Ga 6:10	ἔχομεν Treg NIV RP] ἔχωμεν WH
+Ga 6:12	ἵνα WH Treg NIV] + μὴ RP • Χριστοῦ NIV Treg RP] + Ἰησοῦ WH • μὴ WH Treg NIV] – RP
+Ga 6:13	περιτεμνόμενοι WH Treg NIV] περιτετμημένοι RP
+Ga 6:14	κἀγὼ WH Treg NIV] + τῷ RP
+Ga 6:15	οὔτε γὰρ WH Treg NIV] ἐν γὰρ Χριστῷ Ἰησοῦ οὔτε RP • ἐστιν WH Treg NIV] ἰσχύει RP
+Ga 6:17	τοῦ WH Treg NIV] + κυρίου RP
+
+

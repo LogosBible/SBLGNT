@@ -1,0 +1,29 @@
+
+2Th 1:2	Thessalonians Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+2Th 1:2	πατρὸς WH NIV ] + ἡμῶν Treg RP NA
+2Th 1:4	αὐτοὺς ἡμᾶς WH Treg NIV ] ἡμᾶς αὐτοὺς RP • ἐγκαυχᾶσθαι WH Treg NIV ] καυχᾶσθαι RP
+2Th 1:8	φλογὶ πυρός Treg ] πυρὶ φλογός WH NIV RP
+
+2Th 2:2	μηδὲ WH Treg NIV ] μήτε RP • κυρίου WH Treg NIV ] Χριστοῦ RP
+2Th 2:3	ἀνομίας WH Treg NIV ] ἁμαρτίας RP
+2Th 2:4	θεοῦ WH Treg NIV ] + ὡς θεὸν RP
+2Th 2:6	ἑαυτοῦ NIV RP ] αὐτοῦ WH Treg
+2Th 2:8	Ἰησοῦς WH Treg NIV ] – RP • ἀνελεῖ WH Treg NIV ] ἀναλώσει RP
+2Th 2:10	ἀδικίας WH Treg NIV ] τῆς ἀδικίας ἐν RP
+2Th 2:11	πέμπει WH Treg NIV ] πέμψει RP
+2Th 2:12	πάντες WH Treg NIV ] ἅπαντες RP • τῇ WH Treg NIV ] ἐν τῇ RP
+2Th 2:13	ἀπαρχὴν Holmes WHmarg NA ] ἀπ᾽ ἀρχῆς WH Treg NIV RP
+2Th 2:14	ὃ WH Treg RP ] + καὶ NIV
+2Th 2:16	θεὸς Treg ] ὁ θεὸς WH NIV RP • ὁ WH Treg NIV ] καὶ RP
+2Th 2:17	στηρίξαι WH Treg NIV ] + ὑμᾶς RP • ἔργῳ καὶ λόγῳ WH Treg NIV ] λόγῳ καὶ ἔργῳ RP
+
+2Th 3:4	παραγγέλλομεν WH Treg NIV ] + ὑμῖν RP
+2Th 3:6	ἡμῶν Treg RP NA ] – WH NIV • παρελάβοσαν Holmes WHmarg NA ] παρελάβετε WH Treg NIV;  παρέλαβον RP
+2Th 3:8	νυκτὸς καὶ ἡμέρας WH Treg NIV ] νύκτα καὶ ἡμέραν RP
+2Th 3:12	ἐν κυρίῳ Ἰησοῦ Χριστῷ WH Treg NIV ] διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστου RP
+2Th 3:13	ἐγκακήσητε WH Treg NIV ] ἐκκακήσητε RP
+2Th 3:14	μὴ WH Treg NIV ] καὶ μὴ RP • συναναμίγνυσθαι WH Treg NIV ] συναναμίγνυσθε RP
+2Th 3:18	ὑμῶν WH Treg NIV ] + Ἀμήν RP
+

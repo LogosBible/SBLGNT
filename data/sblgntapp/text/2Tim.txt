@@ -1,0 +1,40 @@
+
+2Ti 1:2	Timothy Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+2Ti 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+2Ti 1:5	λαβὼν WH Treg NIV ] λαμβάνων RP
+2Ti 1:10	Ἰησοῦ Χριστοῦ RP ] Χριστοῦ Ἰησοῦ WH Treg NIV
+2Ti 1:11	διδάσκαλος WH NIV ] + ἐθνῶν Treg RP
+2Ti 1:17	σπουδαίως WH Treg NIV ] σπουδαιότερον RP
+
+2Ti 2:3	συγκακοπάθησον WH Treg NIV ] Σὺ οὖν κακοπάθησον RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ χριστοῦ RP
+2Ti 2:7	ὃ WH Treg NIV ] ἃ RP • δώσει WH Treg NIV ] δῴη RP
+2Ti 2:12	ἀρνησόμεθα WH Treg NIV ] ἀρνούμεθα RP
+2Ti 2:13	ἀρνήσασθαι RP ] + γὰρ WH Treg NIV
+2Ti 2:14	κυρίου RP ] θεοῦ WH Treg NIV • ἐπ᾽ WH Treg NIV ] εἰς RP
+2Ti 2:18	λέγοντες WH Treg ] + τὴν NIV RP
+2Ti 2:21	εὔχρηστον WH Treg NIV ] καὶ εὔχρηστον RP
+2Ti 2:25	δώῃ NIV ] δῴη WH Treg; δῷ RP
+
+2Ti 3:6	αἰχμαλωτίζοντες WH Treg NIV ] αἰχμαλωτεύοντες RP
+2Ti 3:10	παρηκολούθησάς WH Treg NIV ] παρηκολούθηκάς RP
+2Ti 3:12	ζῆν εὐσεβῶς WH Treg ] εὐσεβῶς ζῆν NIV RP
+2Ti 3:14	τίνων WH Treg NIV ] τίνος RP
+2Ti 3:15	ἱερὰ WH ] τὰ ἱερὰ Treg NIV RP
+2Ti 3:16	ἐλεγμόν WH Treg NIV ] ἔλεγχον RP
+
+2Ti 4:1	Διαμαρτύρομαι WH Treg NIV ] + οὖν ἐγὼ RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] τοῦ κυρίου Ἰησοῦ χριστοῦ RP • καὶ WH Treg NIV ] κατὰ RP
+2Ti 4:3	ἰδίας ἐπιθυμίας WH Treg NIV ] ἐπιθυμίας τὰς ἰδίας RP
+2Ti 4:6	ἀναλύσεώς μου WH Treg NIV ] ἐμῆς ἀναλύσεως RP
+2Ti 4:7	καλὸν ἀγῶνα WH Treg NIV ] ἀγῶνα τὸν καλὸν RP
+2Ti 4:10	ἐγκατέλιπεν Treg NIV RP ] ἐγκατέλειπεν WH 
+2Ti 4:13	ἀπέλιπον Treg NIV RP ] ἀπέλειπον WH
+2Ti 4:14	ἀποδώσει WH Treg NIV ] ἀποδῴη RP
+2Ti 4:15	ἀντέστη WH Treg NIV ] ἀνθέστηκεν RP
+2Ti 4:16	παρεγένετο WH Treg NIV ] συμπαρεγένετο RP • ἐγκατέλιπον Treg NIV RP ] ἐγκατέλειπον WH
+2Ti 4:17	ἀκούσωσιν WH Treg NIV ] ἀκούσῃ RP
+2Ti 4:18	ῥύσεταί WH Treg NIV] Καὶ ῥύσεταί RP
+2Ti 4:20	ἀπέλιπον Treg NIV RP ] ἀπέλειπον WH
+2Ti 4:22	κύριος WH Treg NIV ] + Ἰησοῦς χριστὸς RP • ὑμῶν WH Treg NIV ] + Ἀμήν RP
+

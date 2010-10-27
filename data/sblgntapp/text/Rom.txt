@@ -1,0 +1,185 @@
+
+Romans Apparatus Data
+Order of edition citation: WH Treg NIV RP
+
+
+Ro 1:1	Χριστοῦ Ἰησοῦ Treg NIV ] Ἰησοῦ Χριστοῦ WH RP
+Ro 1:8	περὶ WH Treg NIV ] ὑπὲρ RP
+Ro 1:16	εὐαγγέλιον WH Treg NIV ] + τοῦ χριστοῦ RP
+Ro 1:19	θεὸς γὰρ WH Treg NIV ] γὰρ θεὸς RP
+Ro 1:24	Διὸ WH Treg NIV ] + καὶ RP • αὐτοῖς WH Treg NIV ] ἑαυτοῖς RP
+Ro 1:27	ἑαυτοῖς Treg NIV RP ] αὑτοῖς WH
+Ro 1:29	ἀδικίᾳ WH Treg NIV ] + πορνείᾳ RP
+Ro 1:31	ἀστόργους WH Treg NIV ] + ἀσπόνδους RP
+
+Ro 2:5	ἀποκαλύψεως WH Treg NIV ] + καὶ RP
+Ro 2:8	ἀπειθοῦσι WH Treg NIV ] + μὲν RP • ὀργὴ καὶ θυμός WH Treg NIV ] θυμὸς καὶ ὀργή RP
+Ro 2:13	⸀νόμου WH Treg NIV ] τοῦ νόμου RP • τῷ WH NIV RP ] – Treg • ⸁νόμου WH Treg NIV ] τοῦ νόμου RP
+Ro 2:14	ποιῶσιν WH Treg NIV ] ποιῇ RP
+Ro 2:16	ἡμέρᾳ ὅτε Treg NIV RP ] ᾗ ἡμέρᾳ WH • κρίνει WH NIV ] κρινεῖ Treg RP • Χριστοῦ Ἰησοῦ WH NA ] Ἰησοῦ Χριστοῦ Treg NIV RP
+Ro 2:17	Εἰ δὲ WH Treg NIV ] Ἴδε RP • νόμῳ WH Treg NIV ] τῷ νόμῳ RP
+Ro 2:26	οὐχ WH Treg NIV ] οὐχὶ RP
+
+Ro 3:2	γὰρ WH NIV RP ] – Treg
+Ro 3:4	καθὼς NIV RP ] καθάπερ WH Treg • νικήσεις WH NIV ] νικήσῃς Treg RP
+Ro 3:7	δὲ WH NIV ] γὰρ Treg RP
+Ro 3:11	⸀ὁ Treg NIV RP ] – WH • ⸁ὁ Treg NIV RP ] – WH
+Ro 3:12	ἔστιν WH Treg RP ] + ὁ NIV
+Ro 3:22	πάντας WH Treg NIV ] καὶ ἐπὶ πάντας RP
+Ro 3:25	διὰ WH Treg ] + τῆς NIV RP
+Ro 3:26	τὴν WH Treg NIV ] – RP
+Ro 3:28	γὰρ WH Treg NIV ] οὖν RP • δικαιοῦσθαι πίστει WH Treg NIV ] πίστει δικαιοῦσθαι RP
+Ro 3:29	οὐχὶ WH Treg NIV ] + δὲ RP
+Ro 3:30	εἴπερ WH Treg NIV] ἐπείπερ RP 
+Ro 3:31	ἱστάνομεν WH Treg NIV ] ἱστῶμεν RP
+
+Ro 4:1	εὑρηκέναι Treg NIV ] – WH RP • προπάτορα WH Treg NIV ] πατέρα RP • ἡμῶν WH Treg NIV ] + εὑρηκέναι RP
+Ro 4:2	πρὸς WH Treg NIV ] + τὸν RP
+Ro 4:8	οὗ WH Treg NIV ] ᾧ RP
+Ro 4:9	γάρ WH Treg NIV ] + ὅτι RP
+Ro 4:11	λογισθῆναι WH Treg NIV ] + καὶ RP NA
+Ro 4:12	ἐν ἀκροβυστίᾳ πίστεως WH Treg NIV ] πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ RP
+Ro 4:13	εἶναι WH Treg NIV ] + τοῦ RP
+Ro 4:15	δὲ WH Treg NIV ] γὰρ RP
+Ro 4:19	πίστει WH Treg NIV ] + οὐ RP • σῶμα Holmes WHmarg ] + ἤδη WH Treg NIV RP
+Ro 4:22	διὸ Holmes WHmarg ] + καὶ WH Treg NIV RP
+
+Ro 5:1	ἔχομεν NIV RP ] ἔχωμεν WH Treg
+Ro 5:3	καυχώμεθα WH NIV RP ] καυχώμενοι Treg
+Ro 5:6	Ἔτι γὰρ Treg NIV RP ] Εἴ γε WH • ἔτι WH Treg NIV ] – RP
+
+Ro 6:1	ἐπιμένωμεν WH Treg NIV ] Ἐπιμένομεν RP
+Ro 6:11	εἶναι νεκροὺς μὲν WH Treg NA ] νεκροὺς μὲν εἶναι RP; νεκροὺς μὲν NIV • Ἰησοῦ WH Treg NIV ] + τῷ κυρίῳ ἡμῶν RP
+Ro 6:12	ὑπακούειν WH Treg NIV ] + αὐτῇ ἐν RP
+Ro 6:13	ὡσεὶ WH Treg NIV ] ὡς RP
+Ro 6:15	ἁμαρτήσωμεν WH Treg NIV ] Ἁμαρτήσομεν RP
+
+Ro 7:13	ἐγένετο WH Treg NIV ] γέγονεν RP
+Ro 7:14	σάρκινός WH Treg NIV ] σαρκικός RP
+Ro 7:17	οἰκοῦσα Treg NIV RP ] ἐνοικοῦσα WH
+Ro 7:18	οὔ WH Treg NIV ] + οὐχ εὑρίσκω RP
+Ro 7:20	θέλω WH Treg ] + ἐγώ NIV RP
+Ro 7:23	ἐν WH Treg NIV ] – RP
+Ro 7:25	χάρις Treg ] χάρις δὲ WH NIV; εὐχαριστῶ RP
+
+Ro 8:1	Ἰησοῦ WH Treg NIV ] + μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα RP
+Ro 8:2	σε WH NA ] με Treg NIV RP
+Ro 8:11	τὸν WH Treg NIV ] – RP • ἐκ νεκρῶν Χριστὸν Ἰησοῦν WH ] χριστὸν ἐκ νεκρῶν Treg NIV; τὸν χριστὸν ἐκ νεκρῶν RP • τὸ ἐνοικοῦν αὐτοῦ πνεῦμα Treg RP ] τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος WH NIV
+Ro 8:14	υἱοί εἰσιν θεοῦ Treg ] υἱοὶ θεοῦ εἰσιν WH NIV; εἰσιν υἱοὶ θεοῦ RP
+Ro 8:20	ἐφ᾽ WH NIV ] ἐπ᾽ RP Treg
+Ro 8:23	καὶ αὐτοὶ WH Treg RP NA ] – NIV • ἡμεῖς καὶ WH Treg NIV] καὶ ἡμεῖς RP
+Ro 8:24	τίς WH NIV ] + τί Treg; + τί καὶ RP
+Ro 8:26	τῇ ἀσθενείᾳ WH Treg NIV ] ταῖς ἀσθενείαις RP • προσευξώμεθα WH Treg NIV ] προσευξόμεθα RP • ὑπερεντυγχάνει WH Treg NIV ] + ὑπὲρ ἡμῶν RP
+Ro 8:28	συνεργεῖ Treg NIV RP ] + ὁ θεὸς WH
+Ro 8:34	 κατακρινῶν WH NIV ] κατακρίνων Treg RP • Χριστὸς Treg RP ] + Ἰησοῦς WH NIV • δὲ WH Treg NIV ] + καὶ RP • ἐγερθείς Treg NIV RP ] + ἐκ νεκρῶν WH • καί Treg NIV RP ] – WH
+Ro 8:38	ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις WH Treg NIV ] δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα RP
+
+Ro 9:3	ἀνάθεμα εἶναι αὐτὸς ἐγὼ WH Treg NIV ] αὐτὸς ἐγὼ ἀνάθεμα εἶναι RP
+Ro 9:11	φαῦλον WH Treg NIV ] κακόν RP
+Ro 9:13	καθὼς Treg NIV RP ] καθάπερ WH
+Ro 9:15	Μωϋσεῖ γὰρ WH Treg NIV ] γὰρ Μωϋσεῖ RP
+Ro 9:19	μοι οὖν WH Treg NIV ] οὖν μοι RP • οὖν NIV ] – WH Treg RP
+Ro 9:20	ὦ ἄνθρωπε μενοῦνγε WH Treg NIV ] Μενοῦνγε ὦ ἄνθρωπε RP
+Ro 9:23	καὶ Treg NIV RP ] – WH
+Ro 9:26	αὐτοῖς WH NIV RP ] – Treg
+Ro 9:27	ὑπόλειμμα WH Treg NIV ] κατάλειμμα RP
+Ro 9:28	συντέμνων WH Treg NIV ] + ἐν δικαιοσύνῃ ὅτι λόγον συντετμημένον RP
+Ro 9:31	νόμον WH Treg NIV ] + δικαιοσύνης RP
+Ro 9:32	ἔργων WH Treg NIV ] + νόμου RP • προσέκοψαν WH Treg NIV ] + γὰρ RP
+Ro 9:33	καὶ WH Treg NIV ] + πᾶς RP
+
+Ro 10:1	δέησις WH Treg NIV ] + ἡ RP • αὐτῶν WH Treg NIV ] τοῦ Ἰσραήλ ἐστιν RP
+Ro 10:3	ἰδίαν WH Treg ] + δικαιοσύνην NIV RP
+Ro 10:5	ὅτι τὴν … νόμου WH ] τὴν … νόμου ὅτι Treg NIV RP • τοῦ NIV RP ] – WH Treg • ποιήσας WH ] + αὐτὰ Treg NIV RP • αὐτῇ WH Treg ] αὐτοῖς NIV RP
+Ro 10:9	ὁμολογήσῃς Treg NIV RP ] + τὸ ῥῆμα WH • σου Treg NIV RP ] + ὅτι WH
+Ro 10:14	ἐπικαλέσωνται WH Treg NIV ] ἐπικαλέσονται RP • πιστεύσωσιν WH Treg NIV ] πιστεύσουσιν RP • ἀκούσωσιν WH Treg NIV] ἀκούσουσιν RP
+Ro 10:15	κηρύξωσιν WH Treg NIV ] κηρύξουσιν RP • καθὼς Treg NIV RP ] καθάπερ WH • εὐαγγελιζομένων WH Treg NIV ] + εἰρήνην τῶν εὐαγγελιζομένων RP • τὰ NIV RP ] – WH Treg
+Ro 10:17	Χριστοῦ WH Treg NIV ] θεοῦ RP
+Ro 10:19	Ἰσραὴλ οὐκ ἔγνω WH Treg NIV ] οὐκ ἔγνω Ἰσραὴλ RP
+Ro 10:20	ἐν Treg NIV ] – WH RP • ἐγενόμην WH NIV RP ] + ἐν Treg
+
+Ro 11:2	Ἰσραήλ WH Treg NIV ] + λέγων RP
+Ro 11:3	τὰ WH Treg NIV] καὶ τὰ RP
+Ro 11:6	χάρις WH Treg NIV ] + Εἰ δὲ ἐξ ἔργων οὐκέτι ἐστὶν χάρις ἐπεὶ τὸ ἔργον οὐκέτι ἐστὶν ἔργον RP
+Ro 11:8	καθὼς NIV RP ] καθάπερ WH Treg
+Ro 11:13	δὲ WH Treg NIV ] γὰρ RP • οὖν WH Treg NIV ] – RP
+Ro 11:17	ῥίζης WH NIV ] + καὶ Treg RP
+Ro 11:20	ὑψηλὰ φρόνει WH Treg NIV ] ὑψηλοφρόνει RP
+Ro 11:21	οὐδὲ WH Treg NIV ] μήπως οὐδέ RP NA
+Ro 11:22	ἀποτομία WH Treg NIV ] ἀποτομίαν RP • χρηστότης θεοῦ WH Treg NIV ] χρηστότητα RP • ἐπιμένῃς WH Treg NIV ] ἐπιμείνῃς RP
+Ro 11:23	ἐπιμένωσι WH Treg NIV ] ἐπιμείνωσιν RP • ἐστιν ὁ θεὸς WH Treg NIV ] ὁ θεὸς ἐστιν RP
+Ro 11:25	ἦτε Holmes ] + ἐν WH Treg; + παρ᾽ NIV RP
+Ro 11:26	ῥυόμενος WH Treg NIV ] + καὶ RP
+Ro 11:30	γὰρ WH Treg NIV ] + καὶ RP
+Ro 11:31	νῦν WH NIV ] – Treg RP
+
+Ro 12:1	εὐάρεστον τῷ θεῷ Treg NIV RP ] τῷ θεῷ εὐάρεστον WH
+Ro 12:2	συσχηματίζεσθε WH Treg NIV ] συσχηματίζεσθαι RP • μεταμορφοῦσθε WH Treg NIV ] μεταμορφοῦσθαι RP • νοός WH Treg NIV ] + ὑμῶν RP
+Ro 12:4	πολλὰ μέλη WH Treg NIV ] μέλη πολλὰ RP
+Ro 12:5	τὸ WH Treg NIV ] ὁ RP
+Ro 12:14	διώκοντας WH ] + ὑμᾶς Treg NIV RP
+Ro 12:15	χαιρόντων WH Treg NIV ] + καὶ RP
+Ro 12:20	ἀλλὰ ἐὰν WH Treg NIV ] Ἐὰν οὖν RP
+
+Ro 13:1	οὖσαι WH Treg NIV ] + ἐξουσίαι RP • ὑπὸ WH Treg NIV ] + τοῦ RP
+Ro 13:3	τῷ ἀγαθῷ ἔργῳ WH Treg NIV ] τῶν ἀγαθῶν ἔργων RP • τῷ κακῷ WH Treg NIV ] τῶν κακῶν RP
+Ro 13:7	ἀπόδοτε WH Treg NIV ] + οὖν RP
+Ro 13:8	ἀλλήλους ἀγαπᾶν WH Treg NIV ] ἀγαπᾶν ἀλλήλους RP
+Ro 13:9	τῷ λόγῳ τούτῳ WH Treg NIV ] τούτῳ τῷ λόγῳ RP • ἐν τῷ WH Treg RP NA ] – NIV
+Ro 13:11	ἤδη ὑμᾶς WH NIV ] ἤδη ἡμᾶς Treg; ἡμᾶς ἤδη RP
+Ro 13:12	ἀποβαλώμεθα Holmes ] ἀποθώμεθα WH Treg NIV RP • ἐνδυσώμεθα δὲ WH Treg NIV ] καὶ ἐνδυσώμεθα RP
+
+Ro 14:3	ὁ δὲ WH Treg NIV ] καὶ ὁ RP
+Ro 14:4	δυνατεῖ γὰρ WH Treg NIV ] δυνατὸς γάρ ἐστιν RP • κύριος WH Treg NIV ] θεὸς RP
+Ro 14:5	μὲν Treg NIV RP ] + γάρ WH NA
+Ro 14:6	φρονεῖ WH Treg NIV ] + καὶ ὁ μὴ φρονῶν τὴν ἡμέραν κυρίῳ οὐ φρονεῖ RP
+Ro 14:9	Χριστὸς WH Treg NIV ] + καὶ RP • ἀπέθανεν WH Treg NIV ] + καὶ ἀνέστη RP
+Ro 14:10	θεοῦ WH Treg NIV ] χριστοῦ RP
+Ro 14:11	πᾶσα γλῶσσα ἐξομολογήσεται WH NIV RP ] ἐξομολογήσεται πᾶσα γλῶσσα Treg
+Ro 14:12	ἄρα Treg ] + οὖν WH NIV RP • δώσει Holmes WHmarg ] + τῷ θεῷ WH NIV RP; ἀποδώσει τῷ θεῷ Treg
+Ro 14:14	ἑαυτοῦ WH NIV ] αὐτοῦ Treg RP
+Ro 14:15	γὰρ WH Treg NIV ] δὲ RP
+Ro 14:18	τούτῳ WH Treg NIV ] τούτοις RP
+Ro 14:21	ἢ σκανδαλίζεται ἢ ἀσθενεῖ Treg RP ] – WH NIV
+Ro 14:22	ἣν WH Treg NIV ] – RP
+Ro 14:23	ἐστίν WH Treg NIV ] + 24 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 25 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατʼ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 26 μόνῳ σοφῷ θεῷ, διὰ Ἰησοῦ χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν. RP
+
+Ro 15:4	εἰς Treg NIV RP ] πάντα εἰς WH • ἐγράφη WH Treg NIV ] προεγράφη RP
+Ro 15:5	Χριστὸν Ἰησοῦν WH NIV RP ] Ἰησοῦν Χριστὸν Treg
+Ro 15:7	ὑμᾶς Treg NIV RP ] ἡμᾶς WH • τοῦ WH Treg NIV ] – RP
+Ro 15:8	γὰρ WH Treg NIV ] δέ RP • Χριστὸν WH Treg NIV ] + Ἰησοῦν RP • γεγενῆσθαι WH NIV RP ] γένεσθαι Treg
+Ro 15:11	πάντα τὰ ἔθνη τὸν κύριον WH Treg NIV ] τὸν κύριον πάντα τὰ ἔθνη RP • ἐπαινεσάτωσαν WH Treg NIV ] ἐπαινέσατε RP
+Ro 15:14	πάσης Treg RP ] + τῆς WH NIV • ἀλλήλους WH Treg NIV ] ἄλλους RP
+Ro 15:15	τολμηρότερον NIV RP ] τολμηροτέρως WH Treg • ὑμῖν WH Treg NIV ] + ἀδελφοί RP • ὑπὸ NIV RP ] ἀπὸ WH Treg
+Ro 15:16	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
+Ro 15:17	τὴν WH Treg NIV ] – RP
+Ro 15:18	τι λαλεῖν WH Treg NIV ] λαλεῖν τι RP
+Ro 15:19	πνεύματος NIV ] + ἁγίου WH Treg; + θεοῦ RP NA
+Ro 15:20	φιλοτιμούμενον WH NIV RP ] φιλοτιμοῦμαι Treg
+Ro 15:21	Οἷς … αὐτοῦ ὄψονται Treg NIV RP ] Ὄψονται οἷς … αὐτοῦ WH
+Ro 15:23	ἱκανῶν WH Treg ] πολλῶν NIV RP
+Ro 15:24	ἂν WH Treg NIV ] ἐὰν RP • Σπανίαν WH Treg NIV ] + ἐλεύσομαι πρὸς ὑμᾶς RP
+Ro 15:27	εἰσὶν αὐτῶν WH Treg NIV ] αὐτῶν εἰσὶν RP
+Ro 15:28	εἰς WH Treg NIV ] + τὴν RP
+Ro 15:29	εὐλογίας WH Treg NIV ] + τοῦ εὐαγγελίου τοῦ RP
+Ro 15:31	καὶ WH Treg NIV ] + ἵνα RP • τοῖς ἁγίοις γένηται WH Treg NIV ] γένηται τοῖς ἁγίοις RP
+Ro 15:32	ἐλθὼν WH NIV ] ἔλθω Treg RP • θεοῦ WH NIV ] + καὶ Treg RP
+
+Ro 16:1	καὶ WH NIV ] – Treg RP
+Ro 16:2	αὐτὴν προσδέξησθε NIV RP ] προσδέξησθε αὐτὴν WH Treg • ἐμοῦ αὐτοῦ WH Treg NIV ] αὐτοῦ ἐμοῦ RP
+Ro 16:5	Ἀσίας WH Treg NIV ] Ἀχαΐας RP
+Ro 16:6	Μαριάμ RP ] Μαρίαν WH Treg NIV • ὑμᾶς WH Treg NIV ] ἡμᾶς RP
+Ro 16:7	Ἰουνίαν WH Treg RP ] Ἰουνιᾶν NIV • γέγοναν WH Treg NIV ] γεγόνασιν RP
+Ro 16:8	Ἀμπλιᾶτον WH NIV Treg ] Ἀμπλίαν RP
+Ro 16:11	συγγενῆ WH NIV RP ] συγγενῆν Treg
+Ro 16:14	Ἑρμῆν Πατροβᾶν Ἑρμᾶν WH Treg NIV ] Ἑρμᾶν Πατρόβαν Ἑρμῆν RP
+Ro 16:16	πᾶσαι WH Treg NIV ] – RP
+Ro 16:17	ἐκκλίνετε WH Treg NIV ] ἐκκλίνατε RP
+Ro 16:18	ἡμῶν WH Treg NIV ] + Ἰησοῦ RP
+Ro 16:19	ἐφ’ ὑμῖν οὖν χαίρω WH Treg NIV ] Χαίρω οὖν τὸ ἐφ᾽ ὑμῖν RP • σοφοὺς Treg NIV ] + μὲν WH RP
+Ro 16:20	Χριστοῦ Treg RP ] – WH NIV
+Ro 16:21	Ἀσπάζεται WH Treg NIV ] Ἀσπάζονται RP
+Ro 16:23	ὅλης τῆς ἐκκλησίας WH Treg NIV ] τῆς ἐκκλησίας ὅλης RP
+Ro 16:24	Ἡ χάρις … ὑμῶν RP ] – WH Treg NIV • Ἀμήν RP ] 25 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 26 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατ’ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 27 μόνῳ σοφῷ θεῷ διὰ Ἰησοῦ Χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν. WH Treg NIV
+
+
