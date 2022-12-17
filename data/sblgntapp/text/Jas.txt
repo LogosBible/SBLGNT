@@ -1,66 +1,208 @@
+ΙΑΚΩΒΟΥ
 
-James Apparatus Data
-Order of edition citation: WH Treg NIV RP
+James 1:5
+1:5 μὴ WH Treg NA28 ] οὐκ RP
 
-Jas 1:5	μὴ WH Treg NIV ] οὐκ RP
-Jas 1:12	ἐπηγγείλατο WH Treg NIV ] + ὁ κύριος RP
-Jas 1:19	Ἴστε WH Treg NIV ] Ὥστε RP • δὲ WH Treg NIV ] – RP
-Jas 1:20	οὐκ ἐργάζεται WH Treg NIV ] οὐ κατεργάζεται RP
-Jas 1:22	ἀκροαταὶ μόνον WH Treg ] μόνον ἀκροαταὶ NIV RP
-Jas 1:25	οὐκ WH Treg NIV] οὗτος οὐκ RP
-Jas 1:26	εἶναι WH Treg NIV ] + ἐν ὑμῖν RP • αὐτοῦ Treg NIV RP ] ἑαυτοῦ WH • αὐτοῦ Treg NIV RP ] ἑαυτοῦ WH
-Jas 1:27	τῷ WH Treg NIV ] – RP
+James 1:12
+12 ἐπηγγείλατο WH Treg NA28 ] + ὁ κύριος RP
 
-Jas 2:2	εἰς WH Treg NIV ] + τὴν RP
-Jas 2:3	ἐπιβλέψητε δὲ WH NIV ] καὶ ἐπιβλέψητε Treg RP • εἴπητε WH Treg NIV ] + αὐτῷ RP • ἢ κάθου ἐκεῖ WH ] ἐκεῖ ἢ κάθου Treg NIV; ἐκεῖ ἢ κάθου ὧδε RP
-Jas 2:4	οὐ WH Treg NIV] καὶ οὐ RP
-Jas 2:5	τῷ κόσμῳ WH Treg NIV ] τοῦ κόσμου RP
-Jas 2:10	τηρήσῃ πταίσῃ WH Treg NIV ] τηρήσει πταίσει RP
-Jas 2:11	μοιχεύσῃς WH Treg NIV ] μοιχεύσεις RP • φονεύσῃς WH Treg NIV ] φονεύσεις RP • μοιχεύεις φονεύεις WH Treg NIV ] μοιχεύσεις φονεύσεις RP
-Jas 2:13	ἔλεος WH Treg NIV ] ἔλεον RP
-Jas 2:14	Τί WH ] + τὸ Treg NIV RP
-Jas 2:15	ἐὰν WH Treg NIV ] + δὲ RP • λειπόμενοι WH Treg NIV ] + ὦσιν RP
-Jas 2:16	τί WH ] + τὸ Treg NIV RP
-Jas 2:17	ἔχῃ ἔργα WH Treg NIV ] ἔργα ἔχῃ RP
-Jas 2:18	χωρὶς WH Treg NIV ] ἐκ RP • ἔργων WH Treg NIV ] + σου RP • σοι δείξω WH Treg NIV ] δείξω σοι RP • πίστιν WH Treg NIV ] + μου RP
-Jas 2:19	εἷς ἐστιν ὁ θεός Treg NIV ] εἷς θεός ἐστιν WH; ὁ θεὸς εἷς ἐστιν RP
-Jas 2:20	ἀργή WH Treg NIV ] νεκρά RP
-Jas 2:24	ὁρᾶτε WH Treg NIV ] + τοίνυν RP
-Jas 2:26	γὰρ Treg NIV RP ] – WH • χωρὶς WH NIV ] + τῶν Treg RP
+James 1:19
+19 Ἴστε WH Treg NA28 ] Ὥστε RP 
+• δὲ WH Treg NA28 ] – RP
 
-Jas 3:3	εἰ δὲ WH Treg NIV ] Ἴδε RP • εἰς WH Treg NIV ] πρὸς RP
-Jas 3:4	ἀνέμων σκληρῶν WH Treg NIV ] σκληρῶν ἀνέμων RP • ἡ … βούλεται WH Treg NIV ] ἂν ἡ … βούληται RP
-Jas 3:5	μεγάλα αὐχεῖ WH Treg NIV ] μεγαλαυχεῖ RP • ἡλίκον WH Treg NIV ] ὀλίγον RP
-Jas 3:6	ἀδικίας WH Treg NIV ] + οὕτως RP
-Jas 3:8	δαμάσαι δύναται ἀνθρώπων WH Treg NIV ] δύναται ἀνθρώπων δαμάσαι RP • ἀκατάστατον WH Treg NIV ] ἀκατάσχετον RP
-Jas 3:9	κύριον WH Treg NIV ] θεὸν RP
-Jas 3:12	οὔτε ἁλυκὸν WH Treg NIV ] Οὕτως οὐδεμια πηγὴ ἁλυκὸν καὶ RP
-Jas 3:17	ἀδιάκριτος WH Treg NIV ] + καὶ RP
-Jas 3:18	δὲ WH Treg NIV ] + τῆς RP
+James 1:20
+20 οὐκ ἐργάζεται WH Treg NA27 ] οὐ κατεργάζεται NA28 RP
 
-Jas 4:1	πόθεν WH Treg NIV ] – RP
-Jas 4:4	μοιχαλίδες WH Treg NIV ] Μοιχοὶ καὶ μοιχαλίδες RP • ἐὰν WH NIV ] ἂν Treg RP
-Jas 4:5	κατῴκισεν WH Treg NIV ] κατῴκησεν RP
-Jas 4:8	ἐγγιεῖ Treg NIV RP ] ἐγγίσει WH
-Jas 4:9	μετατραπήτω WH NIV ] μεταστραφήτω Treg RP
-Jas 4:10	κυρίου WH Treg NIV ] τοῦ κυρίου RP
-Jas 4:11	ἢ WH Treg NIV ] καὶ RP
-Jas 4:12	ἐστιν WH ] + ὁ Treg NIV RP • καὶ κριτής WH Treg NIV ] – RP • ὁ κρίνων WH Treg NIV ] ὃς κρίνεις RP • πλησίον WH Treg NIV ] ἕτερον RP
-Jas 4:13	ἢ WH Treg NIV ] καὶ RP • πορευσόμεθα WH Treg NIV ] πορευσώμεθα RP • ποιήσομεν WH NIV ] ποιήσωμεν Treg RP • ἐνιαυτὸν WH Treg NIV ] + ἕνα RP • ἐμπορευσόμεθα WH Treg NIV ] ἐμπορευσώμεθα RP • κερδήσομεν WH Treg NIV ] κερδήσωμεν RP
-Jas 4:14	τὸ Treg NIV RP ] – WH • ποία WH NIV ] + γὰρ Treg RP • ἐστε WH Treg NIV ] ἔσται RP • ἡ Treg NIV RP ] – WH • ἔπειτα WH Treg NIV ] + δὲ RP
-Jas 4:15	θελήσῃ Treg NIV RP ] θέλῃ WH • ζήσομεν WH Treg NIV ] ζήσωμεν RP • ποιήσομεν WH Treg NIV ] ποιήσωμεν RP
+James 1:22
+22 ἀκροαταὶ μόνον WH Treg ] μόνον ἀκροαταὶ NA28 RP
 
-Jas 5:4	ἀφυστερημένος WH Treg ] ἀπεστερημένος NIV RP • εἰσεληλύθασιν NIV RP ] εἰσελήλυθαν WH Treg
-Jas 5:5	ὑμῶν WH Treg NIV ] + ὡς RP
-Jas 5:7	αὐτῷ WH Treg NIV ] αὐτόν RP • λάβῃ WH Treg NIV ] + ὑετὸν RP
-Jas 5:9	ἀδελφοί κατ᾽ ἀλλήλων WH Treg NIV ] κατ᾽ ἀλλήλων ἀδελφοί RP
-Jas 5:10	ἀδελφοί WH Treg NIV ] + μου RP • ἐν WH Treg NIV ] – RP
-Jas 5:11	ὑπομείναντας WH Treg NIV ] ὑπομένοντας RP • εἴδετε WH Treg NIV ] ἴδετε RP • ὁ κύριος WH Treg NIV ] – RP
-Jas 5:12	ὑπὸ κρίσιν WH Treg NIV ] εἴς ὑπὸκρίσιν RP
-Jas 5:14	αὐτὸν Treg NIV RP ] – WH
-Jas 5:16	οὖν WH Treg NIV ] – RP • τὰς ἁμαρτίας WH Treg NIV ] τὰ παραπτώματα RP • εὔχεσθε Treg NIV RP ] προσεύχεσθε WH
-Jas 5:18	ὑετὸν ἔδωκεν WH NIV RP ] ἔδωκεν ὑετὸν Treg
-Jas 5:19	μου WH Treg NIV ] – RP
-Jas 5:20	γινωσκέτω Treg NIV RP ] γινώσκετε WH • αὐτοῦ WH NIV ] – Treg RP
+James 1:25
+25 οὐκ WH Treg NA28 ] οὗτος οὐκ RP
 
+James 1:26
+26 εἶναι WH Treg NA28 ] + ἐν ὑμῖν RP 
+• αὐτοῦ Treg NA28 RP ] ἑαυτοῦ WH 
+• αὐτοῦ Treg NA28 RP ] ἑαυτοῦ WH
 
+James 1:27
+27 τῷ WH Treg NA28 ] – RP
+
+James 2:2
+2:2 εἰς WH Treg NA28 ] + τὴν RP
+
+James 2:3
+3 ἐπιβλέψητε δὲ WH NA28 ] καὶ ἐπιβλέψητε Treg RP 
+• εἴπητε WH Treg NA28 ] + αὐτῷ RP 
+• ἢ κάθου ἐκεῖ WH NA28 ] ἐκεῖ ἢ κάθου Treg NA27; ἐκεῖ ἢ κάθου ὧδε RP
+
+James 2:4
+4 οὐ WH Treg NA27 ] καὶ οὐ NA28 RP
+
+James 2:5
+5 τῷ κόσμῳ WH Treg NA28 ] τοῦ κόσμου RP
+
+James 2:10
+10 τηρήσῃ πταίσῃ WH Treg NA28 ] τηρήσει πταίσει RP
+
+James 2:11
+11 μοιχεύσῃς WH Treg NA28 ] μοιχεύσεις RP 
+• φονεύσῃς WH Treg NA28 ] φονεύσεις RP 
+• μοιχεύεις φονεύεις WH Treg NA28 ] μοιχεύσεις φονεύσεις RP
+
+James 2:13
+13 ἔλεος WH Treg NA28 ] ἔλεον RP
+
+James 2:14
+14 Τί WH ] + τὸ Treg NA28 RP
+
+James 2:15
+15 ἐὰν WH Treg NA28 ] + δὲ RP 
+• λειπόμενοι WH Treg NA27 ] + ὦσιν NA28 RP
+
+James 2:16
+16 τί WH ] + τὸ Treg NA28 RP
+
+James 2:17
+17 ἔχῃ ἔργα WH Treg NA28 ] ἔργα ἔχῃ RP
+
+James 2:18
+18 χωρὶς WH Treg NA28 ] ἐκ RP 
+• ἔργων WH Treg NA28 ] + σου RP 
+• σοι δείξω WH Treg NA28 ] δείξω σοι RP 
+• πίστιν WH Treg NA28 ] + μου RP
+
+James 2:19
+19 εἷς ἐστιν ὁ θεός Treg NA28 ] εἷς θεός ἐστιν WH; ὁ θεὸς εἷς ἐστιν RP
+
+James 2:20
+20 ἀργή WH Treg NA28 ] νεκρά RP
+
+James 2:24
+24 ὁρᾶτε WH Treg NA28 ] + τοίνυν RP
+
+James 2:26
+26 γὰρ Treg NA28 RP ] – WH 
+• χωρὶς WH NA28 ] + τῶν Treg RP
+
+James 3:3
+3:3 εἰ δὲ WH Treg NA28 ] Ἴδε RP 
+• εἰς WH Treg NA28 ] πρὸς RP
+
+James 3:4
+4 ἀνέμων σκληρῶν WH Treg NA28 ] σκληρῶν ἀνέμων RP 
+• ἡ … βούλεται WH Treg NA28 ] ἂν ἡ … βούληται RP
+
+James 3:5
+5 μεγάλα αὐχεῖ WH Treg NA28 ] μεγαλαυχεῖ RP 
+• ἡλίκον WH Treg NA28 ] ὀλίγον RP
+
+James 3:6
+6 ἀδικίας WH Treg NA28 ] + οὕτως RP
+
+James 3:8
+8 δαμάσαι δύναται ἀνθρώπων WH Treg NA28 ] δύναται ἀνθρώπων δαμάσαι RP 
+• ἀκατάστατον WH Treg NA28 ] ἀκατάσχετον RP
+
+James 3:9
+9 κύριον WH Treg NA28 ] θεὸν RP
+
+James 3:12
+12 οὔτε ἁλυκὸν WH Treg NA28 ] Οὕτως οὐδεμια πηγὴ ἁλυκὸν καὶ RP
+
+James 3:17
+17 ἀδιάκριτος WH Treg NA28 ] + καὶ RP
+
+James 3:18
+18 δὲ WH Treg NA28 ] + τῆς RP
+
+James 4:1
+4:1 πόθεν WH Treg NA28 ] – RP
+
+James 4:4
+4 μοιχαλίδες WH Treg NA28 ] Μοιχοὶ καὶ μοιχαλίδες RP 
+• ἐὰν WH NA28 ] ἂν Treg RP
+
+James 4:5
+5 κατῴκισεν WH Treg NA28 ] κατῴκησεν RP
+
+James 4:8
+8 ἐγγιεῖ Treg NA28 RP ] ἐγγίσει WH
+
+James 4:9
+9 μετατραπήτω WH NA28 ] μεταστραφήτω Treg RP
+
+James 4:10
+10 κυρίου WH Treg NA27 ] τοῦ κυρίου NA28 RP
+
+James 4:11
+11 ἢ WH Treg NA28 ] καὶ RP
+
+James 4:12
+12 ἐστιν WH ] + ὁ Treg NA28 RP 
+• καὶ κριτής WH Treg NA28 ] – RP 
+• ὁ κρίνων WH Treg NA28 ] ὃς κρίνεις RP 
+• πλησίον WH Treg NA28 ] ἕτερον RP
+
+James 4:13
+13 ἢ WH Treg NA28 ] καὶ RP 
+• πορευσόμεθα WH Treg NA28 ] πορευσώμεθα RP 
+• ποιήσομεν WH NA28 ] ποιήσωμεν Treg RP 
+• ἐνιαυτὸν WH Treg NA28 ] + ἕνα RP 
+• ἐμπορευσόμεθα WH Treg NA28 ] ἐμπορευσώμεθα RP 
+• κερδήσομεν WH Treg NA28 ] κερδήσωμεν RP
+
+James 4:14
+14 τὸ Treg NA28 RP ] – WH 
+• ποία WH NA28 ] + γὰρ Treg RP 
+• ἐστε WH Treg NA28 ] ἔσται RP 
+• ἡ Treg NA28 RP ] – WH 
+• ἔπειτα WH Treg NA28 ] + δὲ RP
+
+James 4:15
+15 θελήσῃ Treg NA28 RP ] θέλῃ WH 
+• ζήσομεν WH Treg NA28 ] ζήσωμεν RP 
+• ποιήσομεν WH Treg NA28 ] ποιήσωμεν RP
+
+James 5:4
+5:4 ἀφυστερημένος WH Treg ] ἀπεστερημένος NA28 RP 
+• εἰσεληλύθασιν NA28 RP ] εἰσελήλυθαν WH Treg
+
+James 5:5
+5 ὑμῶν WH Treg NA28 ] + ὡς RP
+
+James 5:7
+7 αὐτῷ WH Treg NA28 ] αὐτόν RP 
+• λάβῃ WH Treg NA28 ] + ὑετὸν RP
+
+James 5:9
+9 ἀδελφοί κατʼ ἀλλήλων WH Treg NA28 ] κατʼ ἀλλήλων ἀδελφοί RP
+
+James 5:10
+10 ἀδελφοί WH Treg NA28 ] + μου RP 
+• ἐν WH Treg NA28 ] – RP
+
+James 5:11
+11 ὑπομείναντας WH Treg NA28 ] ὑπομένοντας RP 
+• εἴδετε WH Treg NA28 ] ἴδετε RP 
+• ὁ κύριος WH Treg NA28 ] – RP
+
+James 5:12
+12 ὑπὸ κρίσιν WH Treg NA28 ] εἴς ὑπὸκρίσιν RP
+
+James 5:14
+14 αὐτὸν Treg NA28 RP ] – WH
+
+James 5:16
+16 οὖν WH Treg NA28 ] – RP 
+• τὰς ἁμαρτίας WH Treg NA28 ] τὰ παραπτώματα RP 
+• εὔχεσθε Treg NA28 RP ] προσεύχεσθε WH
+
+James 5:18
+18 ὑετὸν ἔδωκεν WH NA28 RP ] ἔδωκεν ὑετὸν Treg
+
+James 5:19
+19 μου WH Treg NA28 ] – RP
+
+James 5:20
+20 γινωσκέτω Treg NA28 RP ] γινώσκετε WH 
+• αὐτοῦ WH NA28 ] – Treg RP

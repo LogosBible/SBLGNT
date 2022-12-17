@@ -1,19 +1,29 @@
 <book>
-<title>ΙΩΑΝΝΟΥ Γ</title>
+<book-name>ΙΩΑΝΝΟΥ Γ</book-name>
 
+<verse>3 John 1:4</verse>
+<note>4 χαράν Treg NA28 RP ] χάριν WH </note>
+<note>• τῇ WH Treg NA27 ] – NA28 RP</note>
 
+<verse>3 John 1:5</verse>
+<note>5 τοῦτο WH Treg NA28 ] εἰς τοὺς RP</note>
 
+<verse>3 John 1:7</verse>
+<note>7 ἐθνικῶν WH Treg NA28 ] ἐθνῶν RP</note>
 
+<verse>3 John 1:8</verse>
+<note>8 ὑπολαμβάνειν WH Treg NA28 ] ἀπολαμβάνειν RP</note>
 
-<p><verse-number id="3Jn 1:4">4</verse-number> <b>χαράν</b> Treg NIV RP ] χάριν WH • <b>τῇ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="3Jn 1:5">5</verse-number> <b>τοῦτο</b> WH Treg NIV ] εἰς τοὺς RP</p>
-<p><verse-number id="3Jn 1:7">7</verse-number> <b>ἐθνικῶν</b> WH Treg NIV ] ἐθνῶν RP</p>
-<p><verse-number id="3Jn 1:8">8</verse-number> <b>ὑπολαμβάνειν</b> WH Treg NIV ] ἀπολαμβάνειν RP</p>
-<p><verse-number id="3Jn 1:9">9</verse-number> <b>τι</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="3Jn 1:12">12</verse-number> <b>οἶδας</b> WH Treg NIV ] οἴδατε RP</p>
-<p><verse-number id="3Jn 1:13">13</verse-number> <b>γράψαι σοι</b> WH Treg NIV ] γράφειν RP • <b>γράφειν</b> WH Treg NIV ] γράψαι RP</p>
-<p><verse-number id="3Jn 1:14">14</verse-number> <b>σε ἰδεῖν</b> WH Treg NIV ] ἰδεῖν σε RP</p>
+<verse>3 John 1:9</verse>
+<note>9 τι WH Treg NA28 ] – RP</note>
 
+<verse>3 John 1:12</verse>
+<note>12 οἶδας WH Treg NA28 ] οἴδατε RP</note>
 
+<verse>3 John 1:13</verse>
+<note>13 γράψαι σοι WH Treg NA28 ] γράφειν RP </note>
+<note>• γράφειν WH Treg NA28 ] γράψαι RP</note>
 
+<verse>3 John 1:14</verse>
+<note>14 σε ἰδεῖν WH Treg NA28 ] ἰδεῖν σε RP</note>
 </book>

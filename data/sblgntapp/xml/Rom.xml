@@ -1,188 +1,558 @@
 <book>
-<title>ΠΡΟΣ ΡΩΜΑΙΟΥΣ</title>
+<book-name>ΠΡΟΣ ΡΩΜΑΙΟΥΣ</book-name>
 
+<verse>Romans 1:1</verse>
+<note>1:1 Χριστοῦ Ἰησοῦ Treg NA28 ] Ἰησοῦ Χριστοῦ WH RP</note>
 
+<verse>Romans 1:8</verse>
+<note>8 περὶ WH Treg NA28 ] ὑπὲρ RP</note>
 
+<verse>Romans 1:16</verse>
+<note>16 εὐαγγέλιον WH Treg NA28 ] + τοῦ χριστοῦ RP</note>
 
+<verse>Romans 1:19</verse>
+<note>19 θεὸς γὰρ WH Treg NA28 ] γὰρ θεὸς RP</note>
 
-<p><verse-number id="Ro 1:1">1:1</verse-number> <b>Χριστοῦ Ἰησοῦ</b> Treg NIV ] Ἰησοῦ Χριστοῦ WH RP</p>
-<p><verse-number id="Ro 1:8">8</verse-number> <b>περὶ</b> WH Treg NIV ] ὑπὲρ RP</p>
-<p><verse-number id="Ro 1:16">16</verse-number> <b>εὐαγγέλιον</b> WH Treg NIV ] + τοῦ χριστοῦ RP</p>
-<p><verse-number id="Ro 1:19">19</verse-number> <b>θεὸς γὰρ</b> WH Treg NIV ] γὰρ θεὸς RP</p>
-<p><verse-number id="Ro 1:24">24</verse-number> <b>Διὸ</b> WH Treg NIV ] + καὶ RP • <b>αὐτοῖς</b> WH Treg NIV ] ἑαυτοῖς RP</p>
-<p><verse-number id="Ro 1:27">27</verse-number> <b>ἑαυτοῖς</b> Treg NIV RP ] αὑτοῖς WH</p>
-<p><verse-number id="Ro 1:29">29</verse-number> <b>ἀδικίᾳ</b> WH Treg NIV ] + πορνείᾳ RP</p>
-<p><verse-number id="Ro 1:31">31</verse-number> <b>ἀστόργους</b> WH Treg NIV ] + ἀσπόνδους RP</p>
+<verse>Romans 1:24</verse>
+<note>24 Διὸ WH Treg NA28 ] + καὶ RP </note>
+<note>• αὐτοῖς WH Treg NA28 ] ἑαυτοῖς RP</note>
 
-<p><verse-number id="Ro 2:5">2:5</verse-number> <b>ἀποκαλύψεως</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Ro 2:8">8</verse-number> <b>ἀπειθοῦσι</b> WH Treg NIV ] + μὲν RP • <b>ὀργὴ καὶ θυμός</b> WH Treg NIV ] θυμὸς καὶ ὀργή RP</p>
-<p><verse-number id="Ro 2:13">13</verse-number> <b>⸀νόμου</b> WH Treg NIV ] τοῦ νόμου RP • <b>τῷ</b> WH NIV RP ] – Treg • <b>⸁νόμου</b> WH Treg NIV ] τοῦ νόμου RP</p>
-<p><verse-number id="Ro 2:14">14</verse-number> <b>ποιῶσιν</b> WH Treg NIV ] ποιῇ RP</p>
-<p><verse-number id="Ro 2:16">16</verse-number> <b>ἡμέρᾳ ὅτε</b> Treg NIV RP ] ᾗ ἡμέρᾳ WH • <b>κρίνει</b> WH NIV ] κρινεῖ Treg RP • <b>Χριστοῦ Ἰησοῦ</b> WH NA ] Ἰησοῦ Χριστοῦ Treg NIV RP</p>
-<p><verse-number id="Ro 2:17">17</verse-number> <b>Εἰ δὲ</b> WH Treg NIV ] Ἴδε RP • <b>νόμῳ</b> WH Treg NIV ] τῷ νόμῳ RP</p>
-<p><verse-number id="Ro 2:26">26</verse-number> <b>οὐχ</b> WH Treg NIV ] οὐχὶ RP</p>
+<verse>Romans 1:27</verse>
+<note>27 ἑαυτοῖς Treg NA28 RP ] αὑτοῖς WH</note>
 
-<p><verse-number id="Ro 3:2">3:2</verse-number> <b>γὰρ</b> WH NIV RP ] – Treg</p>
-<p><verse-number id="Ro 3:4">4</verse-number> <b>καθὼς</b> NIV RP ] καθάπερ WH Treg • <b>νικήσεις</b> WH NIV ] νικήσῃς Treg RP</p>
-<p><verse-number id="Ro 3:7">7</verse-number> <b>δὲ</b> WH NIV ] γὰρ Treg RP</p>
-<p><verse-number id="Ro 3:11">11</verse-number> <b>⸀ὁ</b> Treg NIV RP ] – WH • <b>⸁ὁ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Ro 3:12">12</verse-number> <b>ἔστιν</b> WH Treg RP ] + ὁ NIV</p>
-<p><verse-number id="Ro 3:22">22</verse-number> <b>πάντας</b> WH Treg NIV ] καὶ ἐπὶ πάντας RP</p>
-<p><verse-number id="Ro 3:25">25</verse-number> <b>διὰ</b> WH Treg ] + τῆς NIV RP</p>
-<p><verse-number id="Ro 3:26">26</verse-number> <b>τὴν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Ro 3:28">28</verse-number> <b>γὰρ</b> WH Treg NIV ] οὖν RP • <b>δικαιοῦσθαι πίστει</b> WH Treg NIV ] πίστει δικαιοῦσθαι RP</p>
-<p><verse-number id="Ro 3:29">29</verse-number> <b>οὐχὶ</b> WH Treg NIV ] + δὲ RP</p>
-<p><verse-number id="Ro 3:30">30</verse-number> <b>εἴπερ</b> WH Treg NIV] ἐπείπερ RP </p>
-<p><verse-number id="Ro 3:31">31</verse-number> <b>ἱστάνομεν</b> WH Treg NIV ] ἱστῶμεν RP</p>
+<verse>Romans 1:29</verse>
+<note>29 ἀδικίᾳ WH Treg NA28 ] + πορνείᾳ RP</note>
 
-<p><verse-number id="Ro 4:1">4:1</verse-number> <b>εὑρηκέναι</b> Treg NIV ] – WH RP • <b>προπάτορα</b> WH Treg NIV ] πατέρα RP • <b>ἡμῶν</b> WH Treg NIV ] + εὑρηκέναι RP</p>
-<p><verse-number id="Ro 4:2">2</verse-number> <b>πρὸς</b> WH Treg NIV ] + τὸν RP</p>
-<p><verse-number id="Ro 4:8">8</verse-number> <b>οὗ</b> WH Treg NIV ] ᾧ RP</p>
-<p><verse-number id="Ro 4:9">9</verse-number> <b>γάρ</b> WH Treg NIV ] + ὅτι RP</p>
-<p><verse-number id="Ro 4:11">11</verse-number> <b>λογισθῆναι</b> WH Treg NIV ] + καὶ RP NA</p>
-<p><verse-number id="Ro 4:12">12</verse-number> <b>ἐν ἀκροβυστίᾳ πίστεως</b> WH Treg NIV ] πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ RP</p>
-<p><verse-number id="Ro 4:13">13</verse-number> <b>εἶναι</b> WH Treg NIV ] + τοῦ RP</p>
-<p><verse-number id="Ro 4:15">15</verse-number> <b>δὲ</b> WH Treg NIV ] γὰρ RP</p>
-<p><verse-number id="Ro 4:19">19</verse-number> <b>πίστει</b> WH Treg NIV ] + οὐ RP • <b>σῶμα</b> Holmes WHmarg ] + ἤδη WH Treg NIV RP</p>
-<p><verse-number id="Ro 4:22">22</verse-number> <b>διὸ</b> Holmes WHmarg ] + καὶ WH Treg NIV RP</p>
+<verse>Romans 1:31</verse>
+<note>31 ἀστόργους WH Treg NA28 ] + ἀσπόνδους RP</note>
 
-<p><verse-number id="Ro 5:1">5:1</verse-number> <b>ἔχομεν</b> NIV RP ] ἔχωμεν WH Treg</p>
-<p><verse-number id="Ro 5:3">3</verse-number> <b>καυχώμεθα</b> WH NIV RP ] καυχώμενοι Treg</p>
-<p><verse-number id="Ro 5:6">6</verse-number> <b>Ἔτι γὰρ</b> Treg NIV RP ] Εἴ γε WH • <b>ἔτι</b> WH Treg NIV ] – RP</p>
+<verse>Romans 2:5</verse>
+<note>2:5 ἀποκαλύψεως WH Treg NA28 ] + καὶ RP</note>
 
-<p><verse-number id="Ro 6:1">6:1</verse-number> <b>ἐπιμένωμεν</b> WH Treg NIV ] Ἐπιμένομεν RP</p>
-<p><verse-number id="Ro 6:11">11</verse-number> <b>εἶναι νεκροὺς μὲν</b> WH Treg NA ] νεκροὺς μὲν εἶναι RP; νεκροὺς μὲν NIV • <b>Ἰησοῦ</b> WH Treg NIV ] + τῷ κυρίῳ ἡμῶν RP</p>
-<p><verse-number id="Ro 6:12">12</verse-number> <b>ὑπακούειν</b> WH Treg NIV ] + αὐτῇ ἐν RP</p>
-<p><verse-number id="Ro 6:13">13</verse-number> <b>ὡσεὶ</b> WH Treg NIV ] ὡς RP</p>
-<p><verse-number id="Ro 6:15">15</verse-number> <b>ἁμαρτήσωμεν</b> WH Treg NIV ] Ἁμαρτήσομεν RP</p>
+<verse>Romans 2:8</verse>
+<note>8 ἀπειθοῦσι WH Treg NA28 ] + μὲν RP </note>
+<note>• ὀργὴ καὶ θυμός WH Treg NA28 ] θυμὸς καὶ ὀργή RP</note>
 
-<p><verse-number id="Ro 7:13">7:13</verse-number> <b>ἐγένετο</b> WH Treg NIV ] γέγονεν RP</p>
-<p><verse-number id="Ro 7:14">14</verse-number> <b>σάρκινός</b> WH Treg NIV ] σαρκικός RP</p>
-<p><verse-number id="Ro 7:17">17</verse-number> <b>οἰκοῦσα</b> Treg NIV RP ] ἐνοικοῦσα WH</p>
-<p><verse-number id="Ro 7:18">18</verse-number> <b>οὔ</b> WH Treg NIV ] + οὐχ εὑρίσκω RP</p>
-<p><verse-number id="Ro 7:20">20</verse-number> <b>θέλω</b> WH Treg ] + ἐγώ NIV RP</p>
-<p><verse-number id="Ro 7:23">23</verse-number> <b>ἐν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Ro 7:25">25</verse-number> <b>χάρις</b> Treg ] χάρις δὲ WH NIV; εὐχαριστῶ RP</p>
+<verse>Romans 2:13</verse>
+<note>13 ⸀νόμου WH Treg NA28 ] τοῦ νόμου RP </note>
+<note>• τῷ WH NA28 RP ] – Treg </note>
+<note>• ⸁νόμου WH Treg NA28 ] τοῦ νόμου RP</note>
 
-<p><verse-number id="Ro 8:1">8:1</verse-number> <b>Ἰησοῦ</b> WH Treg NIV ] + μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα RP</p>
-<p><verse-number id="Ro 8:2">2</verse-number> <b>σε</b> WH NA ] με Treg NIV RP</p>
-<p><verse-number id="Ro 8:11">11</verse-number> <b>τὸν</b> WH Treg NIV ] – RP • <b>ἐκ νεκρῶν Χριστὸν Ἰησοῦν</b> WH ] χριστὸν ἐκ νεκρῶν Treg NIV; τὸν χριστὸν ἐκ νεκρῶν RP • <b>τὸ ἐνοικοῦν αὐτοῦ πνεῦμα</b> Treg RP ] τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος WH NIV</p>
-<p><verse-number id="Ro 8:14">14</verse-number> <b>υἱοί εἰσιν θεοῦ</b> Treg ] υἱοὶ θεοῦ εἰσιν WH NIV; εἰσιν υἱοὶ θεοῦ RP</p>
-<p><verse-number id="Ro 8:20">20</verse-number> <b>ἐφ᾽</b> WH NIV ] ἐπ᾽ RP Treg</p>
-<p><verse-number id="Ro 8:23">23</verse-number> <b>καὶ αὐτοὶ</b> WH Treg RP NA ] – NIV • <b>ἡμεῖς καὶ</b> WH Treg NIV] καὶ ἡμεῖς RP</p>
-<p><verse-number id="Ro 8:24">24</verse-number> <b>τίς</b> WH NIV ] + τί Treg; + τί καὶ RP</p>
-<p><verse-number id="Ro 8:26">26</verse-number> <b>τῇ ἀσθενείᾳ</b> WH Treg NIV ] ταῖς ἀσθενείαις RP • <b>προσευξώμεθα</b> WH Treg NIV ] προσευξόμεθα RP • <b>ὑπερεντυγχάνει</b> WH Treg NIV ] + ὑπὲρ ἡμῶν RP</p>
-<p><verse-number id="Ro 8:28">28</verse-number> <b>συνεργεῖ</b> Treg NIV RP ] + ὁ θεὸς WH</p>
-<p><verse-number id="Ro 8:34">34</verse-number>  <b>κατακρινῶν</b> WH NIV ] κατακρίνων Treg RP • <b>Χριστὸς</b> Treg RP ] + Ἰησοῦς WH NIV • <b>δὲ</b> WH Treg NIV ] + καὶ RP • <b>ἐγερθείς</b> Treg NIV RP ] + ἐκ νεκρῶν WH • <b>καί</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Ro 8:38">38</verse-number> <b>ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις</b> WH Treg NIV ] δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα RP</p>
+<verse>Romans 2:14</verse>
+<note>14 ποιῶσιν WH Treg NA28 ] ποιῇ RP</note>
 
-<p><verse-number id="Ro 9:3">9:3</verse-number> <b>ἀνάθεμα εἶναι αὐτὸς ἐγὼ</b> WH Treg NIV ] αὐτὸς ἐγὼ ἀνάθεμα εἶναι RP</p>
-<p><verse-number id="Ro 9:11">11</verse-number> <b>φαῦλον</b> WH Treg NIV ] κακόν RP</p>
-<p><verse-number id="Ro 9:13">13</verse-number> <b>καθὼς</b> Treg NIV RP ] καθάπερ WH</p>
-<p><verse-number id="Ro 9:15">15</verse-number> <b>Μωϋσεῖ γὰρ</b> WH Treg NIV ] γὰρ Μωϋσεῖ RP</p>
-<p><verse-number id="Ro 9:19">19</verse-number> <b>μοι οὖν</b> WH Treg NIV ] οὖν μοι RP • <b>οὖν</b> NIV ] – WH Treg RP</p>
-<p><verse-number id="Ro 9:20">20</verse-number> <b>ὦ ἄνθρωπε μενοῦνγε</b> WH Treg NIV ] Μενοῦνγε ὦ ἄνθρωπε RP</p>
-<p><verse-number id="Ro 9:23">23</verse-number> <b>καὶ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Ro 9:26">26</verse-number> <b>αὐτοῖς</b> WH NIV RP ] – Treg</p>
-<p><verse-number id="Ro 9:27">27</verse-number> <b>ὑπόλειμμα</b> WH Treg NIV ] κατάλειμμα RP</p>
-<p><verse-number id="Ro 9:28">28</verse-number> <b>συντέμνων</b> WH Treg NIV ] + ἐν δικαιοσύνῃ ὅτι λόγον συντετμημένον RP</p>
-<p><verse-number id="Ro 9:31">31</verse-number> <b>νόμον</b> WH Treg NIV ] + δικαιοσύνης RP</p>
-<p><verse-number id="Ro 9:32">32</verse-number> <b>ἔργων</b> WH Treg NIV ] + νόμου RP • <b>προσέκοψαν</b> WH Treg NIV ] + γὰρ RP</p>
-<p><verse-number id="Ro 9:33">33</verse-number> <b>καὶ</b> WH Treg NIV ] + πᾶς RP</p>
+<verse>Romans 2:16</verse>
+<note>16 ἡμέρᾳ ὅτε Treg NA28 RP ] ᾗ ἡμέρᾳ WH </note>
+<note>• κρίνει WH NA28 ] κρινεῖ Treg RP </note>
+<note>• Χριστοῦ Ἰησοῦ WH NA28 ] Ἰησοῦ Χριστοῦ Treg NIV RP</note>
 
-<p><verse-number id="Ro 10:1">10:1</verse-number> <b>δέησις</b> WH Treg NIV ] + ἡ RP • <b>αὐτῶν</b> WH Treg NIV ] τοῦ Ἰσραήλ ἐστιν RP</p>
-<p><verse-number id="Ro 10:3">3</verse-number> <b>ἰδίαν</b> WH Treg ] + δικαιοσύνην NIV RP</p>
-<p><verse-number id="Ro 10:5">5</verse-number> <b>ὅτι</b> <b>τὴν … νόμου </b>WH ] τὴν … νόμου ὅτι Treg NIV RP • <b>τοῦ</b> NIV RP ] – WH Treg • <b>ποιήσας</b> WH ] + <b>αὐτὰ</b> Treg NIV RP • <b>αὐτῇ</b> WH Treg ] αὐτοῖς NIV RP</p>
-<p><verse-number id="Ro 10:9">9</verse-number> <b>ὁμολογήσῃς</b> Treg NIV RP ] + τὸ ῥῆμα WH • <b>σου</b> Treg NIV RP ] + ὅτι WH</p>
-<p><verse-number id="Ro 10:14">14</verse-number> <b>ἐπικαλέσωνται</b> WH Treg NIV ] ἐπικαλέσονται RP • <b>πιστεύσωσιν</b> WH Treg NIV ] πιστεύσουσιν RP • <b>ἀκούσωσιν</b> WH Treg NIV] ἀκούσουσιν RP</p>
-<p><verse-number id="Ro 10:15">15</verse-number> <b>κηρύξωσιν</b> WH Treg NIV ] κηρύξουσιν RP • <b>καθὼς</b> Treg NIV RP ] καθάπερ WH • <b>εὐαγγελιζομένων</b> WH Treg NIV ] + εἰρήνην τῶν εὐαγγελιζομένων RP • <b>τὰ</b> NIV RP ] – WH Treg</p>
-<p><verse-number id="Ro 10:17">17</verse-number> <b>Χριστοῦ</b> WH Treg NIV ] θεοῦ RP</p>
-<p><verse-number id="Ro 10:19">19</verse-number> <b>Ἰσραὴλ οὐκ ἔγνω</b> WH Treg NIV ] οὐκ ἔγνω Ἰσραὴλ RP</p>
-<p><verse-number id="Ro 10:20">20</verse-number> <b>ἐν</b> Treg NIV ] – WH RP • <b>ἐγενόμην</b> WH NIV RP ] + ἐν Treg</p>
+<verse>Romans 2:17</verse>
+<note>17 Εἰ δὲ WH Treg NA28 ] Ἴδε RP </note>
+<note>• νόμῳ WH Treg NA28 ] τῷ νόμῳ RP</note>
 
-<p><verse-number id="Ro 11:2">11:2</verse-number> <b>Ἰσραήλ</b> WH Treg NIV ] + λέγων RP</p>
-<p><verse-number id="Ro 11:3">3</verse-number> <b>τὰ</b> WH Treg NIV] καὶ τὰ RP</p>
-<p><verse-number id="Ro 11:6">6</verse-number> <b>χάρις</b> WH Treg NIV ] + Εἰ δὲ ἐξ ἔργων οὐκέτι ἐστὶν χάρις ἐπεὶ τὸ ἔργον οὐκέτι ἐστὶν ἔργον RP</p>
-<p><verse-number id="Ro 11:8">8</verse-number> <b>καθὼς</b> NIV RP ] καθάπερ WH Treg</p>
-<p><verse-number id="Ro 11:13">13</verse-number> <b>δὲ</b> WH Treg NIV ] γὰρ RP • <b>οὖν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Ro 11:17">17</verse-number> <b>ῥίζης</b> WH NIV ] + καὶ Treg RP</p>
-<p><verse-number id="Ro 11:20">20</verse-number> <b>ὑψηλὰ φρόνει</b> WH Treg NIV ] ὑψηλοφρόνει RP</p>
-<p><verse-number id="Ro 11:21">21</verse-number> <b>οὐδὲ</b> WH Treg NIV ] μήπως οὐδέ RP NA</p>
-<p><verse-number id="Ro 11:22">22</verse-number> <b>ἀποτομία</b> WH Treg NIV ] ἀποτομίαν RP • <b>χρηστότης θεοῦ</b> WH Treg NIV ] χρηστότητα RP • <b>ἐπιμένῃς</b> WH Treg NIV ] ἐπιμείνῃς RP</p>
-<p><verse-number id="Ro 11:23">23</verse-number> <b>ἐπιμένωσι</b> WH Treg NIV ] ἐπιμείνωσιν RP • <b>ἐστιν ὁ θεὸς</b> WH Treg NIV ] ὁ θεὸς ἐστιν RP</p>
-<p><verse-number id="Ro 11:25">25</verse-number> <b>ἦτε</b> Holmes ] + ἐν WH Treg; + παρ᾽ NIV RP</p>
-<p><verse-number id="Ro 11:26">26</verse-number> <b>ῥυόμενος</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Ro 11:30">30</verse-number> <b>γὰρ</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Ro 11:31">31</verse-number> <b>νῦν</b> WH NIV ] – Treg RP</p>
+<verse>Romans 2:26</verse>
+<note>26 οὐχ WH Treg NA28 ] οὐχὶ RP</note>
 
-<p><verse-number id="Ro 12:1">12:1</verse-number> <b>εὐάρεστον τῷ θεῷ</b> Treg NIV RP ] τῷ θεῷ εὐάρεστον WH</p>
-<p><verse-number id="Ro 12:2">2</verse-number> <b>συσχηματίζεσθε</b> WH Treg NIV ] συσχηματίζεσθαι RP • <b>μεταμορφοῦσθε</b> WH Treg NIV ] μεταμορφοῦσθαι RP • <b>νοός</b> WH Treg NIV ] + ὑμῶν RP</p>
-<p><verse-number id="Ro 12:4">4</verse-number> <b>πολλὰ μέλη</b> WH Treg NIV ] μέλη πολλὰ RP</p>
-<p><verse-number id="Ro 12:5">5</verse-number> <b>τὸ</b> WH Treg NIV ] ὁ RP</p>
-<p><verse-number id="Ro 12:14">14</verse-number> <b>διώκοντας</b> WH ] + ὑμᾶς Treg NIV RP</p>
-<p><verse-number id="Ro 12:15">15</verse-number> <b>χαιρόντων</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Ro 12:20">20</verse-number> <b>ἀλλὰ ἐὰν</b> WH Treg NIV ] Ἐὰν οὖν RP</p>
+<verse>Romans 3:2</verse>
+<note>3:2 γὰρ WH NA28 RP ] – Treg</note>
 
-<p><verse-number id="Ro 13:1">13:1</verse-number> <b>οὖσαι</b> WH Treg NIV ] + ἐξουσίαι RP • <b>ὑπὸ</b> WH Treg NIV ] + τοῦ RP</p>
-<p><verse-number id="Ro 13:3">3</verse-number> <b>τῷ ἀγαθῷ ἔργῳ</b> WH Treg NIV ] τῶν ἀγαθῶν ἔργων RP • <b>τῷ κακῷ</b> WH Treg NIV ] τῶν κακῶν RP</p>
-<p><verse-number id="Ro 13:7">7</verse-number> <b>ἀπόδοτε</b> WH Treg NIV ] + οὖν RP</p>
-<p><verse-number id="Ro 13:8">8</verse-number> <b>ἀλλήλους ἀγαπᾶν</b> WH Treg NIV ] ἀγαπᾶν ἀλλήλους RP</p>
-<p><verse-number id="Ro 13:9">9</verse-number> <b>τῷ λόγῳ τούτῳ</b> WH Treg NIV ] τούτῳ τῷ λόγῳ RP • <b>ἐν τῷ</b> WH Treg RP NA ] – NIV</p>
-<p><verse-number id="Ro 13:11">11</verse-number> <b>ἤδη ὑμᾶς</b> WH NIV ] ἤδη ἡμᾶς Treg; ἡμᾶς ἤδη RP</p>
-<p><verse-number id="Ro 13:12">12</verse-number> <b>ἀποβαλώμεθα</b> Holmes ] ἀποθώμεθα WH Treg NIV RP • <b>ἐνδυσώμεθα δὲ</b> WH Treg NIV ] καὶ ἐνδυσώμεθα RP</p>
+<verse>Romans 3:4</verse>
+<note>4 καθὼς NA28 RP ] καθάπερ WH Treg </note>
+<note>• νικήσεις WH NA28 ] νικήσῃς Treg RP</note>
 
-<p><verse-number id="Ro 14:3">14:3</verse-number> <b>ὁ δὲ</b> WH Treg NIV ] καὶ ὁ RP</p>
-<p><verse-number id="Ro 14:4">4</verse-number> <b>δυνατεῖ γὰρ</b> WH Treg NIV ] δυνατὸς γάρ ἐστιν RP • <b>κύριος</b> WH Treg NIV ] θεὸς RP</p>
-<p><verse-number id="Ro 14:5">5</verse-number> <b>μὲν</b> Treg NIV RP ] + γάρ WH NA</p>
-<p><verse-number id="Ro 14:6">6</verse-number> <b>φρονεῖ</b> WH Treg NIV ] + καὶ ὁ μὴ φρονῶν τὴν ἡμέραν κυρίῳ οὐ φρονεῖ RP</p>
-<p><verse-number id="Ro 14:9">9</verse-number> <b>Χριστὸς</b> WH Treg NIV ] + καὶ RP • <b>ἀπέθανεν</b> WH Treg NIV ] + καὶ ἀνέστη RP</p>
-<p><verse-number id="Ro 14:10">10</verse-number> <b>θεοῦ</b> WH Treg NIV ] χριστοῦ RP</p>
-<p><verse-number id="Ro 14:11">11</verse-number> <b>πᾶσα γλῶσσα ἐξομολογήσεται</b> WH NIV RP ] ἐξομολογήσεται πᾶσα γλῶσσα Treg</p>
-<p><verse-number id="Ro 14:12">12</verse-number> <b>ἄρα</b> Treg ] + οὖν WH NIV RP • <b>δώσει</b> Holmes WHmarg ] + τῷ θεῷ WH NIV RP; ἀποδώσει τῷ θεῷ Treg</p>
-<p><verse-number id="Ro 14:14">14</verse-number> <b>ἑαυτοῦ</b> WH NIV ] αὐτοῦ Treg RP</p>
-<p><verse-number id="Ro 14:15">15</verse-number> <b>γὰρ</b> WH Treg NIV ] δὲ RP</p>
-<p><verse-number id="Ro 14:18">18</verse-number> <b>τούτῳ</b> WH Treg NIV ] τούτοις RP</p>
-<p><verse-number id="Ro 14:21">21</verse-number> <b>ἢ σκανδαλίζεται ἢ ἀσθενεῖ</b> Treg RP ] – WH NIV</p>
-<p><verse-number id="Ro 14:22">22</verse-number> <b>ἣν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Ro 14:23">23</verse-number> <b>ἐστίν</b> WH Treg NIV ] + 24 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 25 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατʼ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 26 μόνῳ σοφῷ θεῷ, διὰ Ἰησοῦ χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν. RP</p>
+<verse>Romans 3:7</verse>
+<note>7 δὲ WH NA28 ] γὰρ Treg RP</note>
 
-<p><verse-number id="Ro 15:4">15:4</verse-number> <b>εἰς</b> Treg NIV RP ] πάντα εἰς WH • <b>ἐγράφη</b> WH Treg NIV ] προεγράφη RP</p>
-<p><verse-number id="Ro 15:5">5</verse-number> <b>Χριστὸν Ἰησοῦν</b> WH NIV RP ] Ἰησοῦν Χριστὸν Treg</p>
-<p><verse-number id="Ro 15:7">7</verse-number> <b>ὑμᾶς</b> Treg NIV RP ] ἡμᾶς WH • <b>τοῦ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Ro 15:8">8</verse-number> <b>γὰρ</b> WH Treg NIV ] δέ RP • <b>Χριστὸν</b> WH Treg NIV ] + Ἰησοῦν RP • <b>γεγενῆσθαι</b> WH NIV RP ] γένεσθαι Treg</p>
-<p><verse-number id="Ro 15:11">11</verse-number> <b>πάντα τὰ ἔθνη τὸν κύριον</b> WH Treg NIV ] τὸν κύριον πάντα τὰ ἔθνη RP • <b>ἐπαινεσάτωσαν</b> WH Treg NIV ] ἐπαινέσατε RP</p>
-<p><verse-number id="Ro 15:14">14</verse-number> <b>πάσης</b> Treg RP ] + τῆς WH NIV • <b>ἀλλήλους</b> WH Treg NIV ] ἄλλους RP</p>
-<p><verse-number id="Ro 15:15">15</verse-number> <b>τολμηρότερον</b> NIV RP ] τολμηροτέρως WH Treg • <b>ὑμῖν</b> WH Treg NIV ] + ἀδελφοί RP • <b>ὑπὸ</b> NIV RP ] ἀπὸ WH Treg</p>
-<p><verse-number id="Ro 15:16">16</verse-number> <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] Ἰησοῦ Χριστοῦ RP</p>
-<p><verse-number id="Ro 15:17">17</verse-number> <b>τὴν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Ro 15:18">18</verse-number> <b>τι λαλεῖν</b> WH Treg NIV ] λαλεῖν τι RP</p>
-<p><verse-number id="Ro 15:19">19</verse-number> <b>πνεύματος</b> NIV ] + ἁγίου WH Treg; + θεοῦ RP NA</p>
-<p><verse-number id="Ro 15:20">20</verse-number> <b>φιλοτιμούμενον</b> WH NIV RP ] φιλοτιμοῦμαι Treg</p>
-<p><verse-number id="Ro 15:21">21</verse-number> <b>Οἷς … αὐτοῦ ὄψονται</b> Treg NIV RP ] Ὄψονται οἷς … αὐτοῦ WH</p>
-<p><verse-number id="Ro 15:23">23</verse-number> <b>ἱκανῶν</b> WH Treg ] πολλῶν NIV RP</p>
-<p><verse-number id="Ro 15:24">24</verse-number> <b>ἂν</b> WH Treg NIV ] ἐὰν RP • <b>Σπανίαν</b> WH Treg NIV ] + ἐλεύσομαι πρὸς ὑμᾶς RP</p>
-<p><verse-number id="Ro 15:27">27</verse-number> <b>εἰσὶν αὐτῶν</b> WH Treg NIV ] αὐτῶν εἰσὶν RP</p>
-<p><verse-number id="Ro 15:28">28</verse-number> <b>εἰς</b> WH Treg NIV ] + τὴν RP</p>
-<p><verse-number id="Ro 15:29">29</verse-number> <b>εὐλογίας</b> WH Treg NIV ] + τοῦ εὐαγγελίου τοῦ RP</p>
-<p><verse-number id="Ro 15:31">31</verse-number> <b>καὶ</b> WH Treg NIV ] + ἵνα RP • <b>τοῖς ἁγίοις γένηται</b> WH Treg NIV ] γένηται τοῖς ἁγίοις RP</p>
-<p><verse-number id="Ro 15:32">32</verse-number> <b>ἐλθὼν</b> WH NIV ] ἔλθω Treg RP • <b>θεοῦ</b> WH NIV ] + καὶ Treg RP</p>
+<verse>Romans 3:11</verse>
+<note>11 ⸀ὁ Treg NA28 RP ] – WH </note>
+<note>• ⸁ὁ Treg NA28 RP ] – WH</note>
 
-<p><verse-number id="Ro 16:1">16:1</verse-number> <b>καὶ</b> WH NIV ] – Treg RP</p>
-<p><verse-number id="Ro 16:2">2</verse-number> <b>αὐτὴν προσδέξησθε</b> NIV RP ] προσδέξησθε αὐτὴν WH Treg • <b>ἐμοῦ αὐτοῦ</b> WH Treg NIV ] αὐτοῦ ἐμοῦ RP</p>
-<p><verse-number id="Ro 16:5">5</verse-number> <b>Ἀσίας</b> WH Treg NIV ] Ἀχαΐας RP</p>
-<p><verse-number id="Ro 16:6">6</verse-number> <b>Μαριάμ</b> RP ] Μαρίαν WH Treg NIV • <b>ὑμᾶς</b> WH Treg NIV ] ἡμᾶς RP</p>
-<p><verse-number id="Ro 16:7">7</verse-number> <b>Ἰουνίαν</b> WH Treg RP ] Ἰουνιᾶν NIV • <b>γέγοναν</b> WH Treg NIV ] γεγόνασιν RP</p>
-<p><verse-number id="Ro 16:8">8</verse-number> <b>Ἀμπλιᾶτον</b> WH NIV Treg ] Ἀμπλίαν RP</p>
-<p><verse-number id="Ro 16:11">11</verse-number> <b>συγγενῆ</b> WH NIV RP ] συγγενῆν Treg</p>
-<p><verse-number id="Ro 16:14">14</verse-number> <b>Ἑρμῆν Πατροβᾶν Ἑρμᾶν</b> WH Treg NIV ] Ἑρμᾶν Πατρόβαν Ἑρμῆν RP</p>
-<p><verse-number id="Ro 16:16">16</verse-number> <b>πᾶσαι</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Ro 16:17">17</verse-number> <b>ἐκκλίνετε</b> WH Treg NIV ] ἐκκλίνατε RP</p>
-<p><verse-number id="Ro 16:18">18</verse-number> <b>ἡμῶν</b> WH Treg NIV ] + Ἰησοῦ RP</p>
-<p><verse-number id="Ro 16:19">19</verse-number> <b>ἐφ’ ὑμῖν οὖν χαίρω</b> WH Treg NIV ] Χαίρω οὖν τὸ ἐφ᾽ ὑμῖν RP • <b>σοφοὺς</b> Treg NIV ] + μὲν WH RP</p>
-<p><verse-number id="Ro 16:20">20</verse-number> <b>Χριστοῦ</b> Treg RP ] – WH NIV</p>
-<p><verse-number id="Ro 16:21">21</verse-number> <b>Ἀσπάζεται</b> WH Treg NIV ] Ἀσπάζονται RP</p>
-<p><verse-number id="Ro 16:23">23</verse-number> <b>ὅλης τῆς ἐκκλησίας</b> WH Treg NIV ] τῆς ἐκκλησίας ὅλης RP</p>
-<p><verse-number id="Ro 16:24">24</verse-number> <b>Ἡ χάρις … ὑμῶν </b>RP ] – WH Treg NIV • <b>Ἀμήν</b> RP ] 25 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 26 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατ’ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 27 μόνῳ σοφῷ θεῷ διὰ Ἰησοῦ Χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν. WH Treg NIV</p>
+<verse>Romans 3:12</verse>
+<note>12 ἔστιν WH Treg RP ] + ὁ NA28</note>
 
+<verse>Romans 3:22</verse>
+<note>22 πάντας WH Treg NA28 ] καὶ ἐπὶ πάντας RP</note>
 
+<verse>Romans 3:25</verse>
+<note>25 διὰ WH Treg ] + τῆς NA28 RP</note>
+
+<verse>Romans 3:26</verse>
+<note>26 τὴν WH Treg NA28 ] – RP</note>
+
+<verse>Romans 3:28</verse>
+<note>28 γὰρ WH Treg NA28 ] οὖν RP </note>
+<note>• δικαιοῦσθαι πίστει WH Treg NA28 ] πίστει δικαιοῦσθαι RP</note>
+
+<verse>Romans 3:29</verse>
+<note>29 οὐχὶ WH Treg NA28 ] + δὲ RP</note>
+
+<verse>Romans 3:30</verse>
+<note>30 εἴπερ WH Treg NA28 ] ἐπείπερ RP </note>
+
+<verse>Romans 3:31</verse>
+<note>31 ἱστάνομεν WH Treg NA28 ] ἱστῶμεν RP</note>
+
+<verse>Romans 4:1</verse>
+<note>4:1 εὑρηκέναι Treg NA28 ] – WH RP </note>
+<note>• προπάτορα WH Treg NA28 ] πατέρα RP </note>
+<note>• ἡμῶν WH Treg NA28 ] + εὑρηκέναι RP</note>
+
+<verse>Romans 4:2</verse>
+<note>2 πρὸς WH Treg NA28 ] + τὸν RP</note>
+
+<verse>Romans 4:8</verse>
+<note>8 οὗ WH Treg NA28 ] ᾧ RP</note>
+
+<verse>Romans 4:9</verse>
+<note>9 γάρ WH Treg NA28 ] + ὅτι RP</note>
+
+<verse>Romans 4:11</verse>
+<note>11 λογισθῆναι WH Treg NIV ] + καὶ RP NA28</note>
+
+<verse>Romans 4:12</verse>
+<note>12 ἐν ἀκροβυστίᾳ πίστεως WH Treg NA28 ] πίστεως τῆς ἐν τῇ ἀκροβυστίᾳ RP</note>
+
+<verse>Romans 4:13</verse>
+<note>13 εἶναι WH Treg NA28 ] + τοῦ RP</note>
+
+<verse>Romans 4:15</verse>
+<note>15 δὲ WH Treg NA28 ] γὰρ RP</note>
+
+<verse>Romans 4:19</verse>
+<note>19 πίστει WH Treg NA28 ] + οὐ RP </note>
+<note>• σῶμα Holmes WHmarg ] + ἤδη WH Treg NA28 RP</note>
+
+<verse>Romans 4:22</verse>
+<note>22 διὸ Holmes WHmarg ] + καὶ WH Treg NA28 RP</note>
+
+<verse>Romans 5:1</verse>
+<note>5:1 ἔχομεν NA28 RP ] ἔχωμεν WH Treg</note>
+
+<verse>Romans 5:3</verse>
+<note>3 καυχώμεθα WH NA28 RP ] καυχώμενοι Treg</note>
+
+<verse>Romans 5:6</verse>
+<note>6 Ἔτι γὰρ Treg NA28 RP ] Εἴ γε WH </note>
+<note>• ἔτι WH Treg NA28 ] – RP</note>
+
+<verse>Romans 6:1</verse>
+<note>6:1 ἐπιμένωμεν WH Treg NA28 ] Ἐπιμένομεν RP</note>
+
+<verse>Romans 6:11</verse>
+<note>11 εἶναι νεκροὺς μὲν WH Treg NA28 ] νεκροὺς μὲν εἶναι RP; νεκροὺς μὲν NIV </note>
+<note>• Ἰησοῦ WH Treg NA28 ] + τῷ κυρίῳ ἡμῶν RP</note>
+
+<verse>Romans 6:12</verse>
+<note>12 ὑπακούειν WH Treg NA28 ] + αὐτῇ ἐν RP</note>
+
+<verse>Romans 6:13</verse>
+<note>13 ὡσεὶ WH Treg NA28 ] ὡς RP</note>
+
+<verse>Romans 6:15</verse>
+<note>15 ἁμαρτήσωμεν WH Treg NA28 ] Ἁμαρτήσομεν RP</note>
+
+<verse>Romans 7:13</verse>
+<note>7:13 ἐγένετο WH Treg NA28 ] γέγονεν RP</note>
+
+<verse>Romans 7:14</verse>
+<note>14 σάρκινός WH Treg NA28 ] σαρκικός RP</note>
+
+<verse>Romans 7:17</verse>
+<note>17 οἰκοῦσα Treg NA28 RP ] ἐνοικοῦσα WH</note>
+
+<verse>Romans 7:18</verse>
+<note>18 οὔ WH Treg NA28 ] + οὐχ εὑρίσκω RP</note>
+
+<verse>Romans 7:20</verse>
+<note>20 θέλω WH Treg ] + ἐγώ NA28 RP</note>
+
+<verse>Romans 7:23</verse>
+<note>23 ἐν WH Treg NA28 ] – RP</note>
+
+<verse>Romans 7:25</verse>
+<note>25 χάρις Treg ] χάρις δὲ WH NA28; εὐχαριστῶ RP</note>
+
+<verse>Romans 8:1</verse>
+<note>8:1 Ἰησοῦ WH Treg NA28 ] + μὴ κατὰ σάρκα περιπατοῦσιν ἀλλὰ κατὰ πνεῦμα RP</note>
+
+<verse>Romans 8:2</verse>
+<note>2 σε WH NA28 ] με Treg NIV RP</note>
+
+<verse>Romans 8:11</verse>
+<note>11 τὸν WH Treg NA28 ] – RP </note>
+<note>• ἐκ νεκρῶν Χριστὸν Ἰησοῦν WH ] χριστὸν ἐκ νεκρῶν Treg NA28; τὸν χριστὸν ἐκ νεκρῶν RP </note>
+<note>• τὸ ἐνοικοῦν αὐτοῦ πνεῦμα Treg RP ] τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος WH NA28</note>
+
+<verse>Romans 8:14</verse>
+<note>14 υἱοί εἰσιν θεοῦ Treg ] υἱοὶ θεοῦ εἰσιν WH NA28; εἰσιν υἱοὶ θεοῦ RP</note>
+
+<verse>Romans 8:20</verse>
+<note>20 ἐφʼ WH NA28 ] ἐπʼ RP Treg</note>
+
+<verse>Romans 8:23</verse>
+<note>23 καὶ αὐτοὶ WH Treg RP NA28 ] – NIV </note>
+<note>• ἡμεῖς καὶ WH Treg NA28 ] καὶ ἡμεῖς RP</note>
+
+<verse>Romans 8:24</verse>
+<note>24 τίς WH NA28 ] + τί Treg; + τί καὶ RP</note>
+
+<verse>Romans 8:26</verse>
+<note>26 τῇ ἀσθενείᾳ WH Treg NA28 ] ταῖς ἀσθενείαις RP </note>
+<note>• προσευξώμεθα WH Treg NA28 ] προσευξόμεθα RP </note>
+<note>• ὑπερεντυγχάνει WH Treg NA28 ] + ὑπὲρ ἡμῶν RP</note>
+
+<verse>Romans 8:28</verse>
+<note>28 συνεργεῖ Treg NA28 RP ] + ὁ θεὸς WH</note>
+
+<verse>Romans 8:34</verse>
+<note>34 κατακρινῶν WH NA28 ] κατακρίνων Treg RP </note>
+<note>• Χριστὸς Treg RP ] + Ἰησοῦς WH NA28 </note>
+<note>• δὲ WH Treg NA28 ] + καὶ RP </note>
+<note>• ἐγερθείς Treg NA28 RP ] + ἐκ νεκρῶν WH </note>
+<note>• καί Treg NA28 RP ] – WH</note>
+
+<verse>Romans 8:38</verse>
+<note>38 ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις WH Treg NA28 ] δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα RP</note>
+
+<verse>Romans 9:3</verse>
+<note>9:3 ἀνάθεμα εἶναι αὐτὸς ἐγὼ WH Treg NA28 ] αὐτὸς ἐγὼ ἀνάθεμα εἶναι RP</note>
+
+<verse>Romans 9:11</verse>
+<note>11 φαῦλον WH Treg NA28 ] κακόν RP</note>
+
+<verse>Romans 9:13</verse>
+<note>13 καθὼς Treg NA28 RP ] καθάπερ WH</note>
+
+<verse>Romans 9:15</verse>
+<note>15 Μωϋσεῖ γὰρ WH Treg NA28 ] γὰρ Μωϋσεῖ RP</note>
+
+<verse>Romans 9:19</verse>
+<note>19 μοι οὖν WH Treg NA28 ] οὖν μοι RP </note>
+<note>• οὖν NA28 ] – WH Treg RP</note>
+
+<verse>Romans 9:20</verse>
+<note>20 ὦ ἄνθρωπε μενοῦνγε WH Treg NA28 ] Μενοῦνγε ὦ ἄνθρωπε RP</note>
+
+<verse>Romans 9:23</verse>
+<note>23 καὶ Treg NA28 RP ] – WH</note>
+
+<verse>Romans 9:26</verse>
+<note>26 αὐτοῖς WH NA28 RP ] – Treg</note>
+
+<verse>Romans 9:27</verse>
+<note>27 ὑπόλειμμα WH Treg NA28 ] κατάλειμμα RP</note>
+
+<verse>Romans 9:28</verse>
+<note>28 συντέμνων WH Treg NA28 ] + ἐν δικαιοσύνῃ ὅτι λόγον συντετμημένον RP</note>
+
+<verse>Romans 9:31</verse>
+<note>31 νόμον WH Treg NA28 ] + δικαιοσύνης RP</note>
+
+<verse>Romans 9:32</verse>
+<note>32 ἔργων WH Treg NA28 ] + νόμου RP </note>
+<note>• προσέκοψαν WH Treg NA28 ] + γὰρ RP</note>
+
+<verse>Romans 9:33</verse>
+<note>33 καὶ WH Treg NA28 ] + πᾶς RP</note>
+
+<verse>Romans 10:1</verse>
+<note>10:1 δέησις WH Treg NA28 ] + ἡ RP </note>
+<note>• αὐτῶν WH Treg NA28 ] τοῦ Ἰσραήλ ἐστιν RP</note>
+
+<verse>Romans 10:3</verse>
+<note>3 ἰδίαν WH Treg ] + δικαιοσύνην NA28 RP</note>
+
+<verse>Romans 10:5</verse>
+<note>5 ὅτι τὴν … νόμου WH ] τὴν … νόμου ὅτι Treg NA28 RP </note>
+<note>• τοῦ NA28 RP ] – WH Treg </note>
+<note>• ποιήσας WH ] + αὐτὰ Treg NA28 RP </note>
+<note>• αὐτῇ WH Treg ] αὐτοῖς NA28 RP</note>
+
+<verse>Romans 10:9</verse>
+<note>9 ὁμολογήσῃς Treg NA28 RP ] + τὸ ῥῆμα WH </note>
+<note>• σου Treg NA28 RP ] + ὅτι WH</note>
+
+<verse>Romans 10:14</verse>
+<note>14 ἐπικαλέσωνται WH Treg NA28 ] ἐπικαλέσονται RP </note>
+<note>• πιστεύσωσιν WH Treg NA28 ] πιστεύσουσιν RP </note>
+<note>• ἀκούσωσιν WH Treg NA28 ] ἀκούσουσιν RP</note>
+
+<verse>Romans 10:15</verse>
+<note>15 κηρύξωσιν WH Treg NA28 ] κηρύξουσιν RP </note>
+<note>• καθὼς Treg NA28 RP ] καθάπερ WH </note>
+<note>• εὐαγγελιζομένων WH Treg NA28 ] + εἰρήνην τῶν εὐαγγελιζομένων RP </note>
+<note>• τὰ NA28 RP ] – WH Treg</note>
+
+<verse>Romans 10:17</verse>
+<note>17 Χριστοῦ WH Treg NA28 ] θεοῦ RP</note>
+
+<verse>Romans 10:19</verse>
+<note>19 Ἰσραὴλ οὐκ ἔγνω WH Treg NA28 ] οὐκ ἔγνω Ἰσραὴλ RP</note>
+
+<verse>Romans 10:20</verse>
+<note>20 ἐν Treg NA28 ] – WH RP </note>
+<note>• ἐγενόμην WH NA28 RP ] + ἐν Treg</note>
+
+<verse>Romans 11:2</verse>
+<note>11:2 Ἰσραήλ WH Treg NA28 ] + λέγων RP</note>
+
+<verse>Romans 11:3</verse>
+<note>3 τὰ WH Treg NA28 ] καὶ τὰ RP</note>
+
+<verse>Romans 11:6</verse>
+<note>6 χάρις WH Treg NA28 ] + Εἰ δὲ ἐξ ἔργων οὐκέτι ἐστὶν χάρις ἐπεὶ τὸ ἔργον οὐκέτι ἐστὶν ἔργον RP</note>
+
+<verse>Romans 11:8</verse>
+<note>8 καθὼς NA28 RP ] καθάπερ WH Treg</note>
+
+<verse>Romans 11:13</verse>
+<note>13 δὲ WH Treg NA28 ] γὰρ RP </note>
+<note>• οὖν WH Treg NA28 ] – RP</note>
+
+<verse>Romans 11:17</verse>
+<note>17 ῥίζης WH NA28 ] + καὶ Treg RP</note>
+
+<verse>Romans 11:20</verse>
+<note>20 ὑψηλὰ φρόνει WH Treg NA28 ] ὑψηλοφρόνει RP</note>
+
+<verse>Romans 11:21</verse>
+<note>21 οὐδὲ WH Treg NIV ] μήπως οὐδέ RP NA28</note>
+
+<verse>Romans 11:22</verse>
+<note>22 ἀποτομία WH Treg NA28 ] ἀποτομίαν RP </note>
+<note>• χρηστότης θεοῦ WH Treg NA28 ] χρηστότητα RP </note>
+<note>• ἐπιμένῃς WH Treg NA28 ] ἐπιμείνῃς RP</note>
+
+<verse>Romans 11:23</verse>
+<note>23 ἐπιμένωσι WH Treg NA28 ] ἐπιμείνωσιν RP </note>
+<note>• ἐστιν ὁ θεὸς WH Treg NA28 ] ὁ θεὸς ἐστιν RP</note>
+
+<verse>Romans 11:25</verse>
+<note>25 ἦτε Holmes ] + ἐν WH Treg; + παρʼ NA28 RP</note>
+
+<verse>Romans 11:26</verse>
+<note>26 ῥυόμενος WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Romans 11:30</verse>
+<note>30 γὰρ WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Romans 11:31</verse>
+<note>31 νῦν WH NA28 ] – Treg RP</note>
+
+<verse>Romans 12:1</verse>
+<note>12:1 εὐάρεστον τῷ θεῷ Treg NA28 RP ] τῷ θεῷ εὐάρεστον WH</note>
+
+<verse>Romans 12:2</verse>
+<note>2 συσχηματίζεσθε WH Treg NA28 ] συσχηματίζεσθαι RP </note>
+<note>• μεταμορφοῦσθε WH Treg NA28 ] μεταμορφοῦσθαι RP </note>
+<note>• νοός WH Treg NA28 ] + ὑμῶν RP</note>
+
+<verse>Romans 12:4</verse>
+<note>4 πολλὰ μέλη WH Treg NA28 ] μέλη πολλὰ RP</note>
+
+<verse>Romans 12:5</verse>
+<note>5 τὸ WH Treg NA28 ] ὁ RP</note>
+
+<verse>Romans 12:14</verse>
+<note>14 διώκοντας WH ] + ὑμᾶς Treg NA28 RP</note>
+
+<verse>Romans 12:15</verse>
+<note>15 χαιρόντων WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Romans 12:20</verse>
+<note>20 ἀλλὰ ἐὰν WH Treg NA28 ] Ἐὰν οὖν RP</note>
+
+<verse>Romans 13:1</verse>
+<note>13:1 οὖσαι WH Treg NA28 ] + ἐξουσίαι RP </note>
+<note>• ὑπὸ WH Treg NA28 ] + τοῦ RP</note>
+
+<verse>Romans 13:3</verse>
+<note>3 τῷ ἀγαθῷ ἔργῳ WH Treg NA28 ] τῶν ἀγαθῶν ἔργων RP </note>
+<note>• τῷ κακῷ WH Treg NA28 ] τῶν κακῶν RP</note>
+
+<verse>Romans 13:7</verse>
+<note>7 ἀπόδοτε WH Treg NA28 ] + οὖν RP</note>
+
+<verse>Romans 13:8</verse>
+<note>8 ἀλλήλους ἀγαπᾶν WH Treg NA28 ] ἀγαπᾶν ἀλλήλους RP</note>
+
+<verse>Romans 13:9</verse>
+<note>9 τῷ λόγῳ τούτῳ WH Treg NA28 ] τούτῳ τῷ λόγῳ RP </note>
+<note>• ἐν τῷ WH Treg RP NA28 ] – NIV</note>
+
+<verse>Romans 13:11</verse>
+<note>11 ἤδη ὑμᾶς WH NA28 ] ἤδη ἡμᾶς Treg; ἡμᾶς ἤδη RP</note>
+
+<verse>Romans 13:12</verse>
+<note>12 ἀποβαλώμεθα Holmes ] ἀποθώμεθα WH Treg NA28 RP </note>
+<note>• ἐνδυσώμεθα δὲ WH Treg NA28 ] καὶ ἐνδυσώμεθα RP</note>
+
+<verse>Romans 14:3</verse>
+<note>14:3 ὁ δὲ WH Treg NA28 ] καὶ ὁ RP</note>
+
+<verse>Romans 14:4</verse>
+<note>4 δυνατεῖ γὰρ WH Treg NA28 ] δυνατὸς γάρ ἐστιν RP </note>
+<note>• κύριος WH Treg NA28 ] θεὸς RP</note>
+
+<verse>Romans 14:5</verse>
+<note>5 μὲν Treg NIV RP ] + γάρ WH NA28</note>
+
+<verse>Romans 14:6</verse>
+<note>6 φρονεῖ WH Treg NA28 ] + καὶ ὁ μὴ φρονῶν τὴν ἡμέραν κυρίῳ οὐ φρονεῖ RP</note>
+
+<verse>Romans 14:9</verse>
+<note>9 Χριστὸς WH Treg NA28 ] + καὶ RP </note>
+<note>• ἀπέθανεν WH Treg NA28 ] + καὶ ἀνέστη RP</note>
+
+<verse>Romans 14:10</verse>
+<note>10 θεοῦ WH Treg NA28 ] χριστοῦ RP</note>
+
+<verse>Romans 14:11</verse>
+<note>11 πᾶσα γλῶσσα ἐξομολογήσεται WH NA28 RP ] ἐξομολογήσεται πᾶσα γλῶσσα Treg</note>
+
+<verse>Romans 14:12</verse>
+<note>12 ἄρα Treg ] + οὖν WH NA28 RP </note>
+<note>• δώσει Holmes WHmarg ] + τῷ θεῷ WH NA28 RP; ἀποδώσει τῷ θεῷ Treg</note>
+
+<verse>Romans 14:14</verse>
+<note>14 ἑαυτοῦ WH NA28 ] αὐτοῦ Treg RP</note>
+
+<verse>Romans 14:15</verse>
+<note>15 γὰρ WH Treg NA28 ] δὲ RP</note>
+
+<verse>Romans 14:18</verse>
+<note>18 τούτῳ WH Treg NA28 ] τούτοις RP</note>
+
+<verse>Romans 14:21</verse>
+<note>21 ἢ σκανδαλίζεται ἢ ἀσθενεῖ Treg RP ] – WH NA28</note>
+
+<verse>Romans 14:22</verse>
+<note>22 ἣν WH Treg NA28 ] – RP</note>
+
+<verse>Romans 14:23</verse>
+<note>23 ἐστίν WH Treg NA28 ] + 24 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 25 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατʼ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 26 μόνῳ σοφῷ θεῷ, διὰ Ἰησοῦ χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν. RP</note>
+
+<verse>Romans 15:4</verse>
+<note>15:4 εἰς Treg NA28 RP ] πάντα εἰς WH </note>
+<note>• ἐγράφη WH Treg NA28 ] προεγράφη RP</note>
+
+<verse>Romans 15:5</verse>
+<note>5 Χριστὸν Ἰησοῦν WH NA28 RP ] Ἰησοῦν Χριστὸν Treg</note>
+
+<verse>Romans 15:7</verse>
+<note>7 ὑμᾶς Treg NA28 RP ] ἡμᾶς WH </note>
+<note>• τοῦ WH Treg NA28 ] – RP</note>
+
+<verse>Romans 15:8</verse>
+<note>8 γὰρ WH Treg NA28 ] δέ RP </note>
+<note>• Χριστὸν WH Treg NA28 ] + Ἰησοῦν RP </note>
+<note>• γεγενῆσθαι WH NA28 RP ] γένεσθαι Treg</note>
+
+<verse>Romans 15:11</verse>
+<note>11 πάντα τὰ ἔθνη τὸν κύριον WH Treg NA28 ] τὸν κύριον πάντα τὰ ἔθνη RP </note>
+<note>• ἐπαινεσάτωσαν WH Treg NA28 ] ἐπαινέσατε RP</note>
+
+<verse>Romans 15:14</verse>
+<note>14 πάσης Treg RP ] + τῆς WH NA28 </note>
+<note>• ἀλλήλους WH Treg NA28 ] ἄλλους RP</note>
+
+<verse>Romans 15:15</verse>
+<note>15 τολμηρότερον NA28 RP ] τολμηροτέρως WH Treg </note>
+<note>• ὑμῖν WH Treg NA28 ] + ἀδελφοί RP </note>
+<note>• ὑπὸ NA28 RP ] ἀπὸ WH Treg</note>
+
+<verse>Romans 15:16</verse>
+<note>16 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP</note>
+
+<verse>Romans 15:17</verse>
+<note>17 τὴν WH Treg NA28 ] – RP</note>
+
+<verse>Romans 15:18</verse>
+<note>18 τι λαλεῖν WH Treg NA28 ] λαλεῖν τι RP</note>
+
+<verse>Romans 15:19</verse>
+<note>19 πνεύματος NIV ] + ἁγίου WH Treg; + θεοῦ RP NA28</note>
+
+<verse>Romans 15:20</verse>
+<note>20 φιλοτιμούμενον WH NA28 RP ] φιλοτιμοῦμαι Treg</note>
+
+<verse>Romans 15:21</verse>
+<note>21 Οἷς … αὐτοῦ ὄψονται Treg NA28 RP ] Ὄψονται οἷς … αὐτοῦ WH</note>
+
+<verse>Romans 15:23</verse>
+<note>23 ἱκανῶν WH Treg ] πολλῶν NA28 RP</note>
+
+<verse>Romans 15:24</verse>
+<note>24 ἂν WH Treg NA28 ] ἐὰν RP </note>
+<note>• Σπανίαν WH Treg NA28 ] + ἐλεύσομαι πρὸς ὑμᾶς RP</note>
+
+<verse>Romans 15:27</verse>
+<note>27 εἰσὶν αὐτῶν WH Treg NA28 ] αὐτῶν εἰσὶν RP</note>
+
+<verse>Romans 15:28</verse>
+<note>28 εἰς WH Treg NA28 ] + τὴν RP</note>
+
+<verse>Romans 15:29</verse>
+<note>29 εὐλογίας WH Treg NA28 ] + τοῦ εὐαγγελίου τοῦ RP</note>
+
+<verse>Romans 15:31</verse>
+<note>31 καὶ WH Treg NA28 ] + ἵνα RP </note>
+<note>• τοῖς ἁγίοις γένηται WH Treg NA28 ] γένηται τοῖς ἁγίοις RP</note>
+
+<verse>Romans 15:32</verse>
+<note>32 ἐλθὼν WH NA28 ] ἔλθω Treg RP </note>
+<note>• θεοῦ WH NA28 ] + καὶ Treg RP</note>
+
+<verse>Romans 16:1</verse>
+<note>16:1 καὶ WH NA28 ] – Treg RP</note>
+
+<verse>Romans 16:2</verse>
+<note>2 αὐτὴν προσδέξησθε NA28 RP ] προσδέξησθε αὐτὴν WH Treg </note>
+<note>• ἐμοῦ αὐτοῦ WH Treg NA28 ] αὐτοῦ ἐμοῦ RP</note>
+
+<verse>Romans 16:5</verse>
+<note>5 Ἀσίας WH Treg NA28 ] Ἀχαΐας RP</note>
+
+<verse>Romans 16:6</verse>
+<note>6 Μαριάμ RP ] Μαρίαν WH Treg NA28 </note>
+<note>• ὑμᾶς WH Treg NA28 ] ἡμᾶς RP</note>
+
+<verse>Romans 16:7</verse>
+<note>7 Ἰουνίαν WH Treg RP ] Ἰουνιᾶν NA28 </note>
+<note>• γέγοναν WH Treg NA28 ] γεγόνασιν RP</note>
+
+<verse>Romans 16:8</verse>
+<note>8 Ἀμπλιᾶτον WH NA28 Treg ] Ἀμπλίαν RP</note>
+
+<verse>Romans 16:11</verse>
+<note>11 συγγενῆ WH NA28 RP ] συγγενῆν Treg</note>
+
+<verse>Romans 16:14</verse>
+<note>14 Ἑρμῆν Πατροβᾶν Ἑρμᾶν WH Treg NA28 ] Ἑρμᾶν Πατρόβαν Ἑρμῆν RP</note>
+
+<verse>Romans 16:16</verse>
+<note>16 πᾶσαι WH Treg NA28 ] – RP</note>
+
+<verse>Romans 16:17</verse>
+<note>17 ἐκκλίνετε WH Treg NA28 ] ἐκκλίνατε RP</note>
+
+<verse>Romans 16:18</verse>
+<note>18 ἡμῶν WH Treg NA28 ] + Ἰησοῦ RP</note>
+
+<verse>Romans 16:19</verse>
+<note>19 ἐφʼ ὑμῖν οὖν χαίρω WH Treg NA28 ] Χαίρω οὖν τὸ ἐφʼ ὑμῖν RP </note>
+<note>• σοφοὺς Treg NA28 ] + μὲν WH RP</note>
+
+<verse>Romans 16:20</verse>
+<note>20 Χριστοῦ Treg RP ] – WH NA28</note>
+
+<verse>Romans 16:21</verse>
+<note>21 Ἀσπάζεται WH Treg NA28 ] Ἀσπάζονται RP</note>
+
+<verse>Romans 16:23</verse>
+<note>23 ὅλης τῆς ἐκκλησίας WH Treg NA28 ] τῆς ἐκκλησίας ὅλης RP</note>
+
+<verse>Romans 16:24</verse>
+<note>24 Ἡ χάρις … ὑμῶν RP ] – WH Treg NA28 </note>
+<note>• Ἀμήν RP ] 25 Τῷ δὲ δυναμένῳ ὑμᾶς στηρίξαι κατὰ τὸ εὐαγγέλιόν μου καὶ τὸ κήρυγμα Ἰησοῦ Χριστοῦ, κατὰ ἀποκάλυψιν μυστηρίου χρόνοις αἰωνίοις σεσιγημένου, 26 φανερωθέντος δὲ νῦν διά τε γραφῶν προφητικῶν κατʼ ἐπιταγὴν τοῦ αἰωνίου θεοῦ εἰς ὑπακοὴν πίστεως εἰς πάντα τὰ ἔθνη γνωρισθέντος, 27 μόνῳ σοφῷ θεῷ διὰ Ἰησοῦ Χριστοῦ ᾧ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν. WH Treg NA28</note>
 </book>

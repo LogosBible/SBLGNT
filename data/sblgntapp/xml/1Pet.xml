@@ -1,74 +1,211 @@
 <book>
-<title>ΠΕΤΡΟΥ Α</title>
+<book-name>ΠΕΤΡΟΥ Α</book-name>
 
+<verse>1 Peter 1:6</verse>
+<note>1.6 δέον WH Treg ] + ἐστίν NA28 RP </note>
+<note>• λυπηθέντες WH Treg NA27 RP ] λυπηθέντας NA28</note>
 
+<verse>1 Peter 1:7</verse>
+<note>7 πολυτιμότερον WH Treg NA28 ] πολὺ τιμιώτερον RP </note>
+<note>• δόξαν καὶ τιμὴν WH Treg NA28 ] τιμὴν καὶ εἰς δόξαν RP</note>
 
+<verse>1 Peter 1:8</verse>
+<note>8 ἰδόντες WH Treg NA28 ] εἰδότες RP </note>
+<note>• ἀγαλλιᾶσθε Treg NA28 RP ] ἀγαλλιᾶτε WH</note>
 
-<p><verse-number id="1Pe 1:6">1:6</verse-number> <b>δέον</b> WH Treg] + ἐστίν NIV RP</p>
-<p><verse-number id="1Pe 1:7">7</verse-number> <b>πολυτιμότερον</b> WH Treg NIV] πολὺ τιμιώτερον RP • <b>δόξαν καὶ τιμὴν</b> WH Treg NIV] τιμὴν καὶ εἰς δόξαν RP</p>
-<p><verse-number id="1Pe 1:8">8</verse-number> <b>ἰδόντες</b> WH Treg NIV] εἰδότες RP • <b>ἀγαλλιᾶσθε</b> Treg NIV RP] ἀγαλλιᾶτε WH</p>
-<p><verse-number id="1Pe 1:9">9</verse-number> <b>ὑμῶν</b> Treg NIV RP] – WH</p>
-<p><verse-number id="1Pe 1:12">12</verse-number> <b>ὑμᾶς</b> WH Treg] + ἐν NIV RP</p>
-<p><verse-number id="1Pe 1:16">16</verse-number> <b>ὅτι</b> WH NIV] – Treg RP • <b>ἔσεσθε</b> WH Treg NIV] γίνεσθε RP • <b>ἅγιος</b> WH Treg] + εἰμι NIV RP</p>
-<p><verse-number id="1Pe 1:20">20</verse-number> <b>ἐσχάτου</b> WH Treg NIV] ἐσχάτων RP</p>
-<p><verse-number id="1Pe 1:21">21</verse-number> <b>πιστοὺς</b> WH Treg NIV] πιστεύοντας RP</p>
-<p><verse-number id="1Pe 1:22">22</verse-number> <b>ἀληθείας</b> WH Treg NIV] + διὰ πνεύματος RP • <b>ἐκ</b> WH Treg NIV] + καθαρᾶς RP NA</p>
-<p><verse-number id="1Pe 1:23">23</verse-number> <b>μένοντος</b> WH Treg NIV] + εἰς τὸν αἰῶνα RP</p>
-<p><verse-number id="1Pe 1:24">24</verse-number> <b>αὐτῆς</b> WH Treg NIV] ἀνθρώπου RP • <b>ἄνθος</b> WH Treg NIV] + αὐτοῦ RP</p>
+<verse>1 Peter 1:9</verse>
+<note>9 ὑμῶν Treg NA28 RP ] – WH</note>
 
-<p><verse-number id="1Pe 2:1">2:1</verse-number> <b>ὑποκρίσεις</b> Treg NIV RP] ὑπόκρισιν WH</p>
-<p><verse-number id="1Pe 2:2">2</verse-number> <b>εἰς σωτηρίαν</b> WH Treg NIV] – RP</p>
-<p><verse-number id="1Pe 2:3">3</verse-number> <b>εἰ</b> WH Treg NIV] εἴπερ RP</p>
-<p><verse-number id="1Pe 2:5">5</verse-number> <b>εἰς</b> WH Treg NIV] – RP • <b>εὐπροσδέκτους</b> WH Treg] + τῷ NIV RP</p>
-<p><verse-number id="1Pe 2:6">6</verse-number> <b>ἐν</b> WH Treg NIV] + τῇ RP • <b>ἀκρογωνιαῖον ἐκλεκτὸν</b> Treg NIV RP] ἐκλεκτὸν ἀκρογωνιαῖον WH</p>
-<p><verse-number id="1Pe 2:7">7</verse-number> <b>ἀπιστοῦσιν</b> WH Treg NIV] ἀπειθοῦσιν RP • <b>λίθος</b> WH Treg NIV] Λίθον RP</p>
-<p><verse-number id="1Pe 2:12">12</verse-number> <b>ἐν τοῖς ἔθνεσιν ἔχοντες καλήν</b> WH Treg NIV] ἔχοντες καλήν ἐν τοῖς ἔθνεσιν RP • <b>ἐποπτεύοντες</b> WH Treg NIV] ἐποπτεύσαντες RP</p>
-<p><verse-number id="1Pe 2:13">13</verse-number> <b>Ὑποτάγητε</b> WH Treg NIV] + οὖν RP</p>
-<p><verse-number id="1Pe 2:16">16</verse-number> <b>θεοῦ δοῦλοι</b> WH Treg NIV] δοῦλοι θεοῦ RP</p>
-<p><verse-number id="1Pe 2:17">17</verse-number> <b>ἀγαπᾶτε</b> WH Treg NIV] ἀγαπήσατε RP</p>
-<p><verse-number id="1Pe 2:21">21</verse-number> <b>ὑμῶν</b> WH Treg NIV] ἡμῶν RP</p>
-<p><verse-number id="1Pe 2:24">24</verse-number> <b>μώλωπι</b> WH Treg NIV] + αὐτοῦ RP</p>
-<p><verse-number id="1Pe 2:25">25</verse-number> <b>πλανώμενοι</b> WH Treg NIV] πλανώμενα RP</p>
+<verse>1 Peter 1:12</verse>
+<note>12 ὑμᾶς WH Treg ] + ἐν NA28 RP</note>
 
-<p><verse-number id="1Pe 3:1">3:1</verse-number> <b>Ὁμοίως</b> WH Treg] + αἱ NIV RP • <b>καὶ</b> Treg NIV RP] – WH</p>
-<p><verse-number id="1Pe 3:4">4</verse-number> <b>πραέως καὶ ἡσυχίου</b> Treg NIV RP] ἡσυχίου καὶ πραέως WH</p>
-<p><verse-number id="1Pe 3:5">5</verse-number> <b>εἰς</b> WH Treg NIV] ἐπὶ RP</p>
-<p><verse-number id="1Pe 3:6">6</verse-number> <b>ὑπήκουσεν</b> Treg NIV RP] ὑπήκουεν WH</p>
-<p><verse-number id="1Pe 3:7">7</verse-number> <b>συγκληρονόμοις</b> WH Treg NIV] συγκληρονόμοι RP</p>
-<p><verse-number id="1Pe 3:8">8</verse-number> <b>ταπεινόφρονες</b> WH Treg NIV] φιλόφρονες RP</p>
-<p><verse-number id="1Pe 3:9">9</verse-number> <b>εὐλογοῦντες</b> WH Treg NIV] + εἰδότες RP</p>
-<p><verse-number id="1Pe 3:10">10</verse-number> <b>γλῶσσαν</b> WH Treg NIV] + αὐτοῦ RP • <b>χείλη</b> WH Treg NIV] + αὐτοῦ RP</p>
-<p><verse-number id="1Pe 3:11">11</verse-number> <b>δὲ</b> WH Treg NIV] – RP</p>
-<p><verse-number id="1Pe 3:13">13</verse-number> <b>ζηλωταὶ</b> WH Treg NIV] μιμηταὶ RP</p>
-<p><verse-number id="1Pe 3:15">15</verse-number> <b>Χριστὸν</b> WH Treg NIV] θεὸν RP • <b>ἕτοιμοι</b> WH Treg NIV] + δὲ RP </p>
-<p><verse-number id="1Pe 3:16">16</verse-number> <b>ἀλλὰ</b> WH Treg NIV] – RP • <b>καταλαλεῖσθε</b> WH NIV] καταλαλοῦσιν ὑμῶν ὡς κακοποιῶν Treg RP</p>
-<p><verse-number id="1Pe 3:18">18</verse-number> <b>ἔπαθεν</b> RP NA] ἀπέθανεν WH Treg NIV • <b>ὑμᾶς</b> WH NIV RP] ἡμᾶς Treg</p>
-<p><verse-number id="1Pe 3:20">20</verse-number> <b>ὀλίγοι</b> WH Treg NIV] <b>ὀλίγαι</b> RP</p>
-<p><verse-number id="1Pe 3:21">21</verse-number> <b>καὶ ὑμᾶς ἀντίτυπον νῦν</b> WH Treg NIV] ἀντίτυπον νῦν καὶ ἡμᾶς RP</p>
-<p><verse-number id="1Pe 3:22">22</verse-number> <b>δεξιᾷ</b> WH Treg] + τοῦ NIV RP</p>
+<verse>1 Peter 1:16</verse>
+<note>16 ὅτι WH NA27 ] – Treg NA28 RP </note>
+<note>• ἔσεσθε WH Treg NA28 ] γίνεσθε RP </note>
+<note>• ἅγιος WH Treg NA28 ] + εἰμι NA27 RP</note>
 
-<p><verse-number id="1Pe 4:1">4:1</verse-number> <b>παθόντος</b> WH Treg NIV] + ὑπὲρ ἡμῶν RP • <b>παθὼν</b> WH Treg NIV] + ἐν RP • <b>ἁμαρτίας</b> Treg NIV RP] ἁμαρτίαις WH</p>
-<p><verse-number id="1Pe 4:3">3</verse-number> <b>γὰρ</b> WH Treg NIV] + ἡμῖν RP • <b>χρόνος</b> WH Treg NIV] + τοῦ βίου RP • <b>βούλημα</b> WH Treg NIV] θέλημα RP • <b>κατειργάσθαι</b> WH Treg NIV] κατεργάσασθαι RP</p>
-<p><verse-number id="1Pe 4:5">5</verse-number> <b>ἔχοντι κρῖναι</b> Treg NIV RP] κρίνοντι WH</p>
-<p><verse-number id="1Pe 4:7">7</verse-number> <b>εἰς</b> WH Treg NIV] + τὰς RP</p>
-<p><verse-number id="1Pe 4:8">8</verse-number> <b>πάντων</b> WH Treg NIV] + δὲ RP • <b>καλύπτει</b> WH Treg NIV] καλύψει RP</p>
-<p><verse-number id="1Pe 4:9">9</verse-number> <b>γογγυσμοῦ</b> WH Treg NIV] + γογγυσμῶν RP</p>
-<p><verse-number id="1Pe 4:11">11</verse-number> <b>ἧς</b> WH Treg NIV] ὡς RP</p>
-<p><verse-number id="1Pe 4:14">14</verse-number> <b>ἀναπαύεται</b> WH Treg NIV] + κατὰ μὲν αὐτοὺς βλασφημεῖται κατὰ δὲ ὑμᾶς δοξάζεται RP</p>
-<p><verse-number id="1Pe 4:16">16</verse-number> <b>ὀνόματι</b> WH Treg NIV] μέρει RP</p>
-<p><verse-number id="1Pe 4:18">18</verse-number> <b>ὁ</b> Treg NIV RP] + δὲ WH</p>
-<p><verse-number id="1Pe 4:19">19</verse-number> <b>θεοῦ</b> WH Treg NIV] + ὡς RP • <b>αὐτῶν</b> Treg NIV RP] – WH</p>
+<verse>1 Peter 1:20</verse>
+<note>20 ἐσχάτου WH Treg NA28 ] ἐσχάτων RP</note>
 
-<p><verse-number id="1Pe 5:1">5:1</verse-number> <b>οὖν</b> WH Treg NIV] τοὺς RP</p>
-<p><verse-number id="1Pe 5:2">2</verse-number> <b>ἐπισκοποῦντες</b> Treg NIV RP] – WH • <b>κατὰ θεόν</b> Treg NIV] – WH RP</p>
-<p><verse-number id="1Pe 5:5">5</verse-number> <b>ἀλλήλοις</b> WH Treg NIV] + ὑποτασσόμενοι RP</p>
-<p><verse-number id="1Pe 5:8">8</verse-number> <b>τινα</b> NIV] τίνα RP; – WH Treg • <b>καταπιεῖν</b> WH Treg NIV] καταπίῃ RP</p>
-<p><verse-number id="1Pe 5:9">9</verse-number> <b>τῷ</b> WH Treg NIV] – RP</p>
-<p><verse-number id="1Pe 5:10">10</verse-number> <b>Χριστῷ</b> WH NIV] + Ἰησοῦ Treg RP NA • <b>καταρτίσει</b> WH Treg NIV] καταρτίσαι ὑμᾶς RP • <b>θεμελιώσει</b> NIV RP] – WH Treg</p>
-<p><verse-number id="1Pe 5:11">11</verse-number> <b>αὐτῷ</b> WH Treg NIV] + ἡ δόξα καὶ RP • <b>τῶν αἰώνων</b> Treg NIV RP] – WH NA</p>
-<p><verse-number id="1Pe 5:12">12</verse-number> <b>στῆτε</b> WH Treg NIV] ἑστήκατε RP</p>
-<p><verse-number id="1Pe 5:14">14</verse-number> <b>Χριστῷ</b> WH Treg NIV] + Ἰησοῦ ἀμήν RP</p>
+<verse>1 Peter 1:21</verse>
+<note>21 πιστοὺς WH Treg NA28 ] πιστεύοντας RP</note>
 
+<verse>1 Peter 1:22</verse>
+<note>22 ἀληθείας WH Treg NA28 ] + διὰ πνεύματος RP </note>
+<note>• ἐκ WH Treg NIV ] + καθαρᾶς RP NA28</note>
 
+<verse>1 Peter 1:23</verse>
+<note>23 μένοντος WH Treg NA28 ] + εἰς τὸν αἰῶνα RP</note>
 
+<verse>1 Peter 1:24</verse>
+<note>24 αὐτῆς WH Treg NA28 ] ἀνθρώπου RP </note>
+<note>• ἄνθος WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>1 Peter 2:1</verse>
+<note>2.1 ὑποκρίσεις Treg NA28 RP ] ὑπόκρισιν WH</note>
+
+<verse>1 Peter 2:2</verse>
+<note>2 εἰς σωτηρίαν WH Treg NA28 ] – RP</note>
+
+<verse>1 Peter 2:3</verse>
+<note>3 εἰ WH Treg NA28 ] εἴπερ RP</note>
+
+<verse>1 Peter 2:5</verse>
+<note>5 εἰς WH Treg NA28 ] – RP </note>
+<note>• εὐπροσδέκτους WH Treg NA28 ] + τῷ NA27 RP</note>
+
+<verse>1 Peter 2:6</verse>
+<note>6 ἐν WH Treg NA28 ] + τῇ RP </note>
+<note>• ἀκρογωνιαῖον ἐκλεκτὸν Treg NA28 RP ] ἐκλεκτὸν ἀκρογωνιαῖον WH</note>
+
+<verse>1 Peter 2:7</verse>
+<note>7 ἀπιστοῦσιν WH Treg NA28 ] ἀπειθοῦσιν RP </note>
+<note>• λίθος WH Treg NA28 ] Λίθον RP</note>
+
+<verse>1 Peter 2:12</verse>
+<note>12 ἐν τοῖς ἔθνεσιν ἔχοντες καλήν WH Treg NA28 ] ἔχοντες καλήν ἐν τοῖς ἔθνεσιν RP </note>
+<note>• ἐποπτεύοντες WH Treg NA28 ] ἐποπτεύσαντες RP</note>
+
+<verse>1 Peter 2:13</verse>
+<note>13 Ὑποτάγητε WH Treg NA28 ] + οὖν RP</note>
+
+<verse>1 Peter 2:16</verse>
+<note>16 θεοῦ δοῦλοι WH Treg NA28 ] δοῦλοι θεοῦ RP</note>
+
+<verse>1 Peter 2:17</verse>
+<note>17 ἀγαπᾶτε WH Treg NA28 ] ἀγαπήσατε RP</note>
+
+<verse>1 Peter 2:21</verse>
+<note>21 ὑμῶν WH Treg NA28 ] ἡμῶν RP</note>
+
+<verse>1 Peter 2:24</verse>
+<note>24 μώλωπι WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>1 Peter 2:25</verse>
+<note>25 πλανώμενοι WH Treg NA28 ] πλανώμενα RP</note>
+
+<verse>1 Peter 3:1</verse>
+<note>3.1 Ὁμοίως WH Treg ] + αἱ NA28 RP </note>
+<note>• καὶ Treg NA28 RP ] – WH</note>
+
+<verse>1 Peter 3:4</verse>
+<note>4 πραέως καὶ ἡσυχίου Treg NA28 RP ] ἡσυχίου καὶ πραέως WH</note>
+
+<verse>1 Peter 3:5</verse>
+<note>5 εἰς WH Treg NA28 ] ἐπὶ RP</note>
+
+<verse>1 Peter 3:6</verse>
+<note>6 ὑπήκουσεν Treg NA28 RP ] ὑπήκουεν WH</note>
+
+<verse>1 Peter 3:7</verse>
+<note>7 συγκληρονόμοις WH Treg NA28 ] συγκληρονόμοι RP</note>
+
+<verse>1 Peter 3:8</verse>
+<note>8 ταπεινόφρονες WH Treg NA28 ] φιλόφρονες RP</note>
+
+<verse>1 Peter 3:9</verse>
+<note>9 εὐλογοῦντες WH Treg NA28 ] + εἰδότες RP</note>
+
+<verse>1 Peter 3:10</verse>
+<note>10 γλῶσσαν WH Treg NA28 ] + αὐτοῦ RP </note>
+<note>• χείλη WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>1 Peter 3:11</verse>
+<note>11 δὲ WH Treg NA28 ] – RP</note>
+
+<verse>1 Peter 3:13</verse>
+<note>13 ζηλωταὶ WH Treg NA28 ] μιμηταὶ RP</note>
+
+<verse>1 Peter 3:15</verse>
+<note>15 Χριστὸν WH Treg NA28 ] θεὸν RP </note>
+<note>• ἕτοιμοι WH Treg NA28 ] + δὲ RP </note>
+
+<verse>1 Peter 3:16</verse>
+<note>16 ἀλλὰ WH Treg NA28 ] – RP </note>
+<note>• καταλαλεῖσθε WH NA28 ] καταλαλοῦσιν ὑμῶν ὡς κακοποιῶν Treg RP</note>
+
+<verse>1 Peter 3:18</verse>
+<note>18 ἔπαθεν RP NA28 ] ἀπέθανεν WH Treg NIV </note>
+<note>• ὑμᾶς WH NA28 RP ] ἡμᾶς Treg</note>
+
+<verse>1 Peter 3:20</verse>
+<note>20 ὀλίγοι WH Treg NA28 ] ὀλίγαι RP</note>
+
+<verse>1 Peter 3:21</verse>
+<note>21 καὶ ὑμᾶς ἀντίτυπον νῦν WH Treg NA28 ] ἀντίτυπον νῦν καὶ ἡμᾶς RP</note>
+
+<verse>1 Peter 3:22</verse>
+<note>22 δεξιᾷ WH Treg ] + τοῦ NA28 RP</note>
+
+<verse>1 Peter 4:1</verse>
+<note>4.1 παθόντος WH Treg NA28 ] + ὑπὲρ ἡμῶν RP </note>
+<note>• παθὼν WH Treg NA28 ] + ἐν RP </note>
+<note>• ἁμαρτίας Treg NA28 RP ] ἁμαρτίαις WH</note>
+
+<verse>1 Peter 4:3</verse>
+<note>3 γὰρ WH Treg NA28 ] + ἡμῖν RP </note>
+<note>• χρόνος WH Treg NA28 ] + τοῦ βίου RP </note>
+<note>• βούλημα WH Treg NA28 ] θέλημα RP </note>
+<note>• κατειργάσθαι WH Treg NA28 ] κατεργάσασθαι RP</note>
+
+<verse>1 Peter 4:5</verse>
+<note>5 ἔχοντι κρῖναι Treg NA28 RP ] κρίνοντι WH</note>
+
+<verse>1 Peter 4:7</verse>
+<note>7 εἰς WH Treg NA28 ] + τὰς RP</note>
+
+<verse>1 Peter 4:8</verse>
+<note>8 πάντων WH Treg NA28 ] + δὲ RP </note>
+<note>• καλύπτει WH Treg NA28 ] καλύψει RP</note>
+
+<verse>1 Peter 4:9</verse>
+<note>9 γογγυσμοῦ WH Treg NA28 ] + γογγυσμῶν RP</note>
+
+<verse>1 Peter 4:11</verse>
+<note>11 ἧς WH Treg NA28 ] ὡς RP</note>
+
+<verse>1 Peter 4:14</verse>
+<note>14 ἀναπαύεται WH Treg NA28 ] + κατὰ μὲν αὐτοὺς βλασφημεῖται κατὰ δὲ ὑμᾶς δοξάζεται RP</note>
+
+<verse>1 Peter 4:16</verse>
+<note>16 ὀνόματι WH Treg NA27 ] μέρει NA28 RP</note>
+
+<verse>1 Peter 4:18</verse>
+<note>18 ὁ Treg NA28 RP ] + δὲ WH</note>
+
+<verse>1 Peter 4:19</verse>
+<note>19 θεοῦ WH Treg NA28 ] + ὡς RP </note>
+<note>• αὐτῶν Treg NA28 RP ] – WH</note>
+
+<verse>1 Peter 5:1</verse>
+<note>5.1 οὖν WH Treg NA27 ] τοὺς NA28 RP</note>
+
+<verse>1 Peter 5:2</verse>
+<note>2 ἐπισκοποῦντες Treg NA28 RP ] – WH </note>
+<note>• κατὰ θεόν Treg NA28 ] – WH RP</note>
+
+<verse>1 Peter 5:5</verse>
+<note>5 ἀλλήλοις WH Treg NA28 ] + ὑποτασσόμενοι RP</note>
+
+<verse>1 Peter 5:8</verse>
+<note>8 τινα NA28 ] τίνα RP; – WH Treg </note>
+<note>• καταπιεῖν WH Treg NA28 ] καταπίῃ RP</note>
+
+<verse>1 Peter 5:9</verse>
+<note>9 τῷ WH Treg NA27 ] – NA28 RP</note>
+
+<verse>1 Peter 5:10</verse>
+<note>10 Χριστῷ WH NA28 ] + Ἰησοῦ Treg NA27 RP </note>
+<note>• καταρτίσει WH Treg NA28 ] καταρτίσαι ὑμᾶς RP </note>
+<note>• θεμελιώσει NA28 RP ] – WH Treg</note>
+
+<verse>1 Peter 5:11</verse>
+<note>11 αὐτῷ WH Treg NA28 ] + ἡ δόξα καὶ RP </note>
+<note>• τῶν αἰώνων Treg NIV RP ] – WH NA28</note>
+
+<verse>1 Peter 5:12</verse>
+<note>12 στῆτε WH Treg NA28 ] ἑστήκατε RP</note>
+
+<verse>1 Peter 5:14</verse>
+<note>14 Χριστῷ WH Treg NA28 ] + Ἰησοῦ ἀμήν RP</note>
 </book>

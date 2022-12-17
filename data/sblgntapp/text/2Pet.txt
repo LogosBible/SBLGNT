@@ -1,40 +1,113 @@
+ΠΕΤΡΟΥ Β
 
-Second Peter Apparatus Data
-Order of edition citation: WH Treg NIV RP
+2 Peter 1:1
+1:1 Συμεὼν Treg NA28 RP ] Σιμων WH
 
-2Pe 1:1	Συμεὼν Treg NIV RP] Σιμων WH
-2Pe 1:3	ἰδίᾳ δόξῃ καὶ ἀρετῇ Treg NIV] διὰ δόξης καὶ ἀρετῆς WH RP
-2Pe 1:4	τίμια καὶ μέγιστα ἡμῖν WH NIV] μέγιστα καὶ τίμια ἡμῖν Treg; τίμια ἡμῖν καὶ μέγιστα RP • τῷ WH Treg NIV] – RP
-2Pe 1:9	ἁμαρτημάτων Treg] ἁμαρτιῶν WH NIV RP
-2Pe 1:12	μελλήσω WH Treg NIV] οὐκ ἀμελήσω RP
-2Pe 1:17	Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν WH NIV] οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός Treg RP
-2Pe 1:18	ἁγίῳ ὄρει WH Treg NIV] ὄρει τῷ ἁγίῳ RP
-2Pe 1:21	προφητεία ποτέ WH Treg NIV] ποτὲ προφητεία RP • ἀπὸ WH NIV] ἅγιοι Treg RP
+2 Peter 1:3
+3 ἰδίᾳ δόξῃ καὶ ἀρετῇ Treg NA28 ] διὰ δόξης καὶ ἀρετῆς WH RP
 
-2Pe 2:3	νυστάζει WH Treg NIV] νυστάξει RP
-2Pe 2:4	σειραῖς RP NA] σιροις WH Treg NIV 
-2Pe 2:6	καταστροφῇ Treg RP NA] – WH NIV • ἀσεβέσιν WH NIV] ἀσεβεῖν Treg RP
-2Pe 2:8	ὁ Treg NIV RP] – WH
-2Pe 2:11	αὐτῶν Holmes WHmarg] + παρὰ κυρίῳ WH Treg RP; + παρὰ κυρίου NIV 
-2Pe 2:12	γεγεννημένα φυσικὰ WH Treg NIV] φυσικὰ γεγενημένα RP • καὶ φθαρήσονται WH Treg NIV] καταφθαρήσονται RP
-2Pe 2:13	ἀδικούμενοι WH NIV] κομιούμενοι Treg RP • ἀπάταις WH NIV RP] ἀγάπαις Treg
-2Pe 2:14	ἀκαταπαύστους Treg NIV RP] ἀκαταπάστους WH
-2Pe 2:15	καταλιπόντες Treg RP] καταλείποντες WH NIV • Βοσὸρ Treg RP NA] Βεὼρ WH NIV
-2Pe 2:17	καὶ ὁμίχλαι WH Treg NIV] νεφέλαι RP • σκότους WH Treg NIV] + εἰς αἰῶνα RP
-2Pe 2:18	ὀλίγως WH Treg NIV] ὄντως RP • ἀποφεύγοντας WH Treg NIV] ἀποφυγόντας RP
-2Pe 2:19	καὶ Treg RP] – WH NIV
-2Pe 2:20	κυρίου WH Treg RP] + ἡμῶν NIV
-2Pe 2:21	ὑποστρέψαι WH Treg NIV] ἐπιστρέψαι RP
-2Pe 2:22	συμβέβηκεν WH Treg NIV] + δὲ RP • κυλισμὸν WH Treg NIV] κύλισμα RP
+2 Peter 1:4
+4 τίμια καὶ μέγιστα ἡμῖν WH NA28 ] μέγιστα καὶ τίμια ἡμῖν Treg; τίμια ἡμῖν καὶ μέγιστα RP 
+• τῷ WH Treg NA28 ] – RP
 
-2Pe 3:3	ἐσχάτων WH Treg NIV] ἐσχάτου RP • ἐν ἐμπαιγμονῇ WH Treg NIV] – RP
-2Pe 3:7	αὐτῷ WH NIV] αὐτοῦ Treg RP
-2Pe 3:9	κύριος WH Treg NIV] ὁ κύριος RP • ὑμᾶς WH Treg NIV] ἡμᾶς RP
-2Pe 3:10	ἡμέραWH Treg NIV] ἡ ἡμέρα RP • κλέπτης WH Treg NIV] + ἐν νυκτί RP • λυθήσεται WH Treg NIV] λυθήσονται RP • εὑρεθήσεται WH Treg NIV] κατακαήσεται RP; οὐχ εὑρεθήσεται em ECM
-2Pe 3:11	οὕτως WH NIV] οὖν Treg RP
-2Pe 3:15	δοθεῖσαν αὐτῷ WH Treg NIV] αὐτῷ δοθεῖσαν RP
-2Pe 3:16	ταῖς RP] – WH Treg NIV • αἷς WH Treg NIV] οἷς RP
-2Pe 3:18	ἀμήν Treg NIV RP] – WH
+2 Peter 1:9
+9 ἁμαρτημάτων Treg ] ἁμαρτιῶν WH NA28 RP
 
+2 Peter 1:12
+12 μελλήσω WH Treg NA28 ] οὐκ ἀμελήσω RP
 
+2 Peter 1:17
+17 Ὁ υἱός μου ὁ ἀγαπητός μου οὗτός ἐστιν WH NA28 ] οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός Treg RP
 
+2 Peter 1:18
+18 ἁγίῳ ὄρει WH Treg NA28 ] ὄρει τῷ ἁγίῳ RP
+
+2 Peter 1:21
+21 προφητεία ποτέ WH Treg NA28 ] ποτὲ προφητεία RP 
+• ἀπὸ WH NA28 ] ἅγιοι Treg RP
+
+2 Peter 2:3
+2:3 νυστάζει WH Treg NA28 ] νυστάξει RP
+
+2 Peter 2:4
+4 σειραῖς RP NA28 ] σιροις WH Treg NIV 
+
+2 Peter 2:6
+6 καταστροφῇ Treg NA28 RP ] – WH NIV 
+• ἀσεβέσιν WH NA27 ] ἀσεβεῖν Treg NA28 RP
+
+2 Peter 2:8
+8 ὁ Treg NA28 RP ] – WH
+
+2 Peter 2:11
+11 αὐτῶν Holmes WHmarg ] + παρὰ κυρίῳ WH Treg NA28 RP; + παρὰ κυρίου NA27 
+
+2 Peter 2:12
+12 γεγεννημένα φυσικὰ WH Treg NA28 ] φυσικὰ γεγενημένα RP 
+• καὶ φθαρήσονται WH Treg NA28 ] καταφθαρήσονται RP
+
+2 Peter 2:13
+13 ἀδικούμενοι WH NA28 ] κομιούμενοι Treg RP 
+• ἀπάταις WH NA28 RP ] ἀγάπαις Treg
+
+2 Peter 2:14
+14 ἀκαταπαύστους Treg NA28 RP ] ἀκαταπάστους WH
+
+2 Peter 2:15
+15 καταλιπόντες Treg NA28 RP ] καταλείποντες WH NA27 
+• Βοσὸρ Treg RP NA28 ] Βεὼρ WH NIV
+
+2 Peter 2:17
+17 καὶ ὁμίχλαι WH Treg NA28 ] νεφέλαι RP 
+• σκότους WH Treg NA28 ] + εἰς αἰῶνα RP
+
+2 Peter 2:18
+18 ὀλίγως WH Treg NA27 ] ὄντως NA28 RP 
+• ἀποφεύγοντας WH Treg NA28 ] ἀποφυγόντας RP
+
+2 Peter 2:19
+19 καὶ Treg RP ] – WH NA28
+
+2 Peter 2:20
+20 κυρίου WH Treg NA28 RP ] + ἡμῶν NA27
+
+2 Peter 2:21
+21 ὑποστρέψαι WH Treg NA28 ] ἐπιστρέψαι RP
+
+2 Peter 2:22
+22 συμβέβηκεν WH Treg NA28 ] + δὲ RP 
+• κυλισμὸν WH Treg NA28 ] κύλισμα RP
+
+2 Peter 3:3
+3:3 ἐσχάτων WH Treg NA28 ] ἐσχάτου RP 
+• ἐν ἐμπαιγμονῇ WH Treg NA28 ] – RP
+
+2 Peter 3:6
+6 διʼ ὧν WH Treg NA27 RP ] διʼ ὃν NA28
+
+2 Peter 3:7
+7 αὐτῷ WH NA28 ] αὐτοῦ Treg RP
+
+2 Peter 3:9
+9 κύριος WH Treg NA28 ] ὁ κύριος RP 
+• ὑμᾶς WH Treg NA28 ] ἡμᾶς RP
+
+2 Peter 3:10
+10 ἡμέρα WH Treg NA28 ] ἡ ἡμέρα RP 
+• κλέπτης WH Treg NA28 ] + ἐν νυκτί RP 
+• λυθήσεται WH Treg NA28 ] λυθήσονται RP 
+• εὑρεθήσεται WH Treg NA27 ] κατακαήσεται RP; οὐχ εὑρεθήσεται em NA28 
+
+2 Peter 3:11
+11 οὕτως WH NA28 ] οὖν Treg RP
+
+2 Peter 3:15
+15 δοθεῖσαν αὐτῷ WH Treg NA28 ] αὐτῷ δοθεῖσαν RP
+
+2 Peter 3:16
+16 ταῖς NA28 RP ] – WH Treg NA27 
+• αἷς WH Treg NA28 ] οἷς RP 
+• στρεβλοῦσιν WH Treg NA27 RP ] στρεβλώσουσιν NA28
+
+2 Peter 3:18
+18 ἀμήν Treg NA27 RP ] – WH NA28

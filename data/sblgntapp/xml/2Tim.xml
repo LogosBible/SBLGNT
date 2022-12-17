@@ -1,43 +1,106 @@
 <book>
-<title>ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β</title>
+<book-name>ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β</book-name>
 
+<verse>2 Timothy 1:1</verse>
+<note>1:1 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP</note>
 
+<verse>2 Timothy 1:5</verse>
+<note>5 λαβὼν WH Treg NA28 ] λαμβάνων RP</note>
 
+<verse>2 Timothy 1:10</verse>
+<note>10 Ἰησοῦ Χριστοῦ RP ] Χριστοῦ Ἰησοῦ WH Treg NA28</note>
 
-<p><verse-number id="2Ti 1:1">1:1</verse-number> <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] Ἰησοῦ Χριστοῦ RP</p>
-<p><verse-number id="2Ti 1:5">5</verse-number> <b>λαβὼν</b> WH Treg NIV ] λαμβάνων RP</p>
-<p><verse-number id="2Ti 1:10">10</verse-number> <b>Ἰησοῦ Χριστοῦ</b> RP ] Χριστοῦ Ἰησοῦ WH Treg NIV</p>
-<p><verse-number id="2Ti 1:11">11</verse-number> <b>διδάσκαλος</b> WH NIV ] + ἐθνῶν Treg RP</p>
-<p><verse-number id="2Ti 1:17">17</verse-number> <b>σπουδαίως</b> WH Treg NIV ] σπουδαιότερον RP</p>
+<verse>2 Timothy 1:11</verse>
+<note>11 διδάσκαλος WH NA28 ] + ἐθνῶν Treg RP</note>
 
-<p><verse-number id="2Ti 2:3">2:3</verse-number> <b>συγκακοπάθησον</b> WH Treg NIV ] Σὺ οὖν κακοπάθησον RP • <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] Ἰησοῦ χριστοῦ RP</p>
-<p><verse-number id="2Ti 2:7">7</verse-number> <b>ὃ</b> WH Treg NIV ] ἃ RP • <b>δώσει</b> WH Treg NIV ] δῴη RP</p>
-<p><verse-number id="2Ti 2:12">12</verse-number> <b>ἀρνησόμεθα</b> WH Treg NIV ] ἀρνούμεθα RP</p>
-<p><verse-number id="2Ti 2:13">13</verse-number> <b>ἀρνήσασθαι</b> RP ] + γὰρ WH Treg NIV</p>
-<p><verse-number id="2Ti 2:14">14</verse-number> <b>κυρίου</b> RP ] θεοῦ WH Treg NIV • <b>ἐπ᾽</b> WH Treg NIV ] εἰς RP</p>
-<p><verse-number id="2Ti 2:18">18</verse-number> <b>λέγοντες</b> WH Treg ] + τὴν NIV RP</p>
-<p><verse-number id="2Ti 2:21">21</verse-number> <b>εὔχρηστον</b> WH Treg NIV ] καὶ εὔχρηστον RP</p>
-<p><verse-number id="2Ti 2:25">25</verse-number> <b>δώῃ</b> NIV ] δῴη WH Treg; δῷ RP</p>
+<verse>2 Timothy 1:17</verse>
+<note>17 σπουδαίως WH Treg NA28 ] σπουδαιότερον RP</note>
 
-<p><verse-number id="2Ti 3:6">3:6</verse-number> <b>αἰχμαλωτίζοντες</b> WH Treg NIV ] αἰχμαλωτεύοντες RP</p>
-<p><verse-number id="2Ti 3:10">10</verse-number> <b>παρηκολούθησάς</b> WH Treg NIV ] παρηκολούθηκάς RP</p>
-<p><verse-number id="2Ti 3:12">12</verse-number> <b>ζῆν εὐσεβῶς</b> WH Treg ] εὐσεβῶς ζῆν NIV RP</p>
-<p><verse-number id="2Ti 3:14">14</verse-number> <b>τίνων</b> WH Treg NIV ] τίνος RP</p>
-<p><verse-number id="2Ti 3:15">15</verse-number> <b>ἱερὰ</b> WH ] τὰ ἱερὰ Treg NIV RP</p>
-<p><verse-number id="2Ti 3:16">16</verse-number> <b>ἐλεγμόν</b> WH Treg NIV ] ἔλεγχον RP</p>
+<verse>2 Timothy 2:3</verse>
+<note>2:3 συγκακοπάθησον WH Treg NA28 ] Σὺ οὖν κακοπάθησον RP </note>
+<note>• Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ χριστοῦ RP</note>
 
-<p><verse-number id="2Ti 4:1">4:1</verse-number> <b>Διαμαρτύρομαι</b> WH Treg NIV ] + οὖν ἐγὼ RP • <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] τοῦ κυρίου Ἰησοῦ χριστοῦ RP • <b>καὶ</b> WH Treg NIV ] κατὰ RP</p>
-<p><verse-number id="2Ti 4:3">3</verse-number> <b>ἰδίας ἐπιθυμίας</b> WH Treg NIV ] ἐπιθυμίας τὰς ἰδίας RP</p>
-<p><verse-number id="2Ti 4:6">6</verse-number> <b>ἀναλύσεώς μου</b> WH Treg NIV ] ἐμῆς ἀναλύσεως RP</p>
-<p><verse-number id="2Ti 4:7">7</verse-number> <b>καλὸν ἀγῶνα</b> WH Treg NIV ] ἀγῶνα τὸν καλὸν RP</p>
-<p><verse-number id="2Ti 4:10">10</verse-number> <b>ἐγκατέλιπεν</b> Treg NIV RP ] ἐγκατέλειπεν WH </p>
-<p><verse-number id="2Ti 4:13">13</verse-number> <b>ἀπέλιπον</b> Treg NIV RP ] ἀπέλειπον WH</p>
-<p><verse-number id="2Ti 4:14">14</verse-number> <b>ἀποδώσει</b> WH Treg NIV ] ἀποδῴη RP</p>
-<p><verse-number id="2Ti 4:15">15</verse-number> <b>ἀντέστη</b> WH Treg NIV ] ἀνθέστηκεν RP</p>
-<p><verse-number id="2Ti 4:16">16</verse-number> <b>παρεγένετο</b> WH Treg NIV ] συμπαρεγένετο RP • <b>ἐγκατέλιπον</b> Treg NIV RP ] ἐγκατέλειπον WH</p>
-<p><verse-number id="2Ti 4:17">17</verse-number> <b>ἀκούσωσιν</b> WH Treg NIV ] ἀκούσῃ RP</p>
-<p><verse-number id="2Ti 4:18">18</verse-number> <b>ῥύσεταί</b> WH Treg NIV] Καὶ ῥύσεταί RP</p>
-<p><verse-number id="2Ti 4:20">20</verse-number> <b>ἀπέλιπον</b> Treg NIV RP ] ἀπέλειπον WH</p>
-<p><verse-number id="2Ti 4:22">22</verse-number> <b>κύριος</b> WH Treg NIV ] + Ἰησοῦς χριστὸς RP • <b>ὑμῶν</b> WH Treg NIV ] + Ἀμήν RP</p>
+<verse>2 Timothy 2:7</verse>
+<note>7 ὃ WH Treg NA28 ] ἃ RP </note>
+<note>• δώσει WH Treg NA28 ] δῴη RP</note>
 
+<verse>2 Timothy 2:12</verse>
+<note>12 ἀρνησόμεθα WH Treg NA28 ] ἀρνούμεθα RP</note>
+
+<verse>2 Timothy 2:13</verse>
+<note>13 ἀρνήσασθαι RP ] + γὰρ WH Treg NA28</note>
+
+<verse>2 Timothy 2:14</verse>
+<note>14 κυρίου RP ] θεοῦ WH Treg NA28 </note>
+<note>• ἐπʼ WH Treg NA28 ] εἰς RP</note>
+
+<verse>2 Timothy 2:18</verse>
+<note>18 λέγοντες WH Treg ] + τὴν NA28 RP</note>
+
+<verse>2 Timothy 2:21</verse>
+<note>21 εὔχρηστον WH Treg NA28 ] καὶ εὔχρηστον RP</note>
+
+<verse>2 Timothy 2:25</verse>
+<note>25 δώῃ NA28 ] δῴη WH Treg; δῷ RP</note>
+
+<verse>2 Timothy 3:6</verse>
+<note>3:6 αἰχμαλωτίζοντες WH Treg NA28 ] αἰχμαλωτεύοντες RP</note>
+
+<verse>2 Timothy 3:10</verse>
+<note>10 παρηκολούθησάς WH Treg NA28 ] παρηκολούθηκάς RP</note>
+
+<verse>2 Timothy 3:12</verse>
+<note>12 ζῆν εὐσεβῶς WH Treg ] εὐσεβῶς ζῆν NA28 RP</note>
+
+<verse>2 Timothy 3:14</verse>
+<note>14 τίνων WH Treg NA28 ] τίνος RP</note>
+
+<verse>2 Timothy 3:15</verse>
+<note>15 ἱερὰ WH ] τὰ ἱερὰ Treg NA28 RP</note>
+
+<verse>2 Timothy 3:16</verse>
+<note>16 ἐλεγμόν WH Treg NA28 ] ἔλεγχον RP</note>
+
+<verse>2 Timothy 4:1</verse>
+<note>4:1 Διαμαρτύρομαι WH Treg NA28 ] + οὖν ἐγὼ RP </note>
+<note>• Χριστοῦ Ἰησοῦ WH Treg NA28 ] τοῦ κυρίου Ἰησοῦ χριστοῦ RP </note>
+<note>• καὶ WH Treg NA28 ] κατὰ RP</note>
+
+<verse>2 Timothy 4:3</verse>
+<note>3 ἰδίας ἐπιθυμίας WH Treg NA28 ] ἐπιθυμίας τὰς ἰδίας RP</note>
+
+<verse>2 Timothy 4:6</verse>
+<note>6 ἀναλύσεώς μου WH Treg NA28 ] ἐμῆς ἀναλύσεως RP</note>
+
+<verse>2 Timothy 4:7</verse>
+<note>7 καλὸν ἀγῶνα WH Treg NA28 ] ἀγῶνα τὸν καλὸν RP</note>
+
+<verse>2 Timothy 4:10</verse>
+<note>10 ἐγκατέλιπεν Treg NA28 RP ] ἐγκατέλειπεν WH </note>
+
+<verse>2 Timothy 4:13</verse>
+<note>13 ἀπέλιπον Treg NA28 RP ] ἀπέλειπον WH</note>
+
+<verse>2 Timothy 4:14</verse>
+<note>14 ἀποδώσει WH Treg NA28 ] ἀποδῴη RP</note>
+
+<verse>2 Timothy 4:15</verse>
+<note>15 ἀντέστη WH Treg NA28 ] ἀνθέστηκεν RP</note>
+
+<verse>2 Timothy 4:16</verse>
+<note>16 παρεγένετο WH Treg NA28 ] συμπαρεγένετο RP </note>
+<note>• ἐγκατέλιπον Treg NA28 RP ] ἐγκατέλειπον WH</note>
+
+<verse>2 Timothy 4:17</verse>
+<note>17 ἀκούσωσιν WH Treg NA28 ] ἀκούσῃ RP</note>
+
+<verse>2 Timothy 4:18</verse>
+<note>18 ῥύσεταί WH Treg NA28 ] Καὶ ῥύσεταί RP</note>
+
+<verse>2 Timothy 4:20</verse>
+<note>20 ἀπέλιπον Treg NA28 RP ] ἀπέλειπον WH</note>
+
+<verse>2 Timothy 4:22</verse>
+<note>22 κύριος WH Treg NA28 ] + Ἰησοῦς χριστὸς RP </note>
+<note>• ὑμῶν WH Treg NA28 ] + Ἀμήν RP</note>
 </book>

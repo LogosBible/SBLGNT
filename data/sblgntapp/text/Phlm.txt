@@ -1,20 +1,46 @@
+ΠΡΟΣ ΦΙΛΗΜΟΝΑ
 
-Philemon Apparatus Data
-Order of edition citation: WH Treg NIV RP
+Philemon 1:2
+1:2 ἀδελφῇ WH Treg NA28 ] ἀγαπητῇ RP
 
-Phm 1:2	ἀδελφῇ WH Treg NIV ] ἀγαπητῇ RP
-Phm 1:5	πρὸς NIV RP ] εἰς WH Treg
-Phm 1:6	τοῦ WH NIV RP ] – Treg • Χριστόν WH Treg NIV ] + Ἰησοῦν RP
-Phm 1:7	χαρὰν WH Treg NIV ] Χάριν RP • πολλὴν ἔσχον WH Treg NIV ] ἔχομεν πολλὴν RP
-Phm 1:9	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
-Phm 1:10	δεσμοῖς WH Treg NIV ] + μου RP
-Phm 1:11	δὲ WH Treg RP ] + καὶ NIV
-Phm 1:12	σοι αὐτόν … σπλάγχνα WH Treg NIV ] σὺ δὲ αὐτόν … σπλάγχνα προσλαβοῦ RP
-Phm 1:13	μοι διακονῇ WH Treg NIV ] διακονῇ μοι RP
-Phm 1:18	ἐλλόγα WH Treg NIV ] ἐλλόγει RP
-Phm 1:20	Χριστῷ WH Treg NIV ] κυρίῳ RP
-Phm 1:21	ἃ WH Treg NIV ] ὃ RP
-Phm 1:23	Ἀσπάζεταί WH Treg NIV ] Ἀσπάζονταί RP
-Phm 1:25	κυρίου WH NIV ] + ἡμῶν Treg RP • ὑμῶν WH Treg NIV ] + Ἀμήν RP
+Philemon 1:5
+5 πρὸς NA28 RP ] εἰς WH Treg
 
+Philemon 1:6
+6 τοῦ WH NA28 RP ] – Treg 
+• Χριστόν WH Treg NA28 ] + Ἰησοῦν RP
 
+Philemon 1:7
+7 χαρὰν WH Treg NA28 ] Χάριν RP 
+• πολλὴν ἔσχον WH Treg NA28 ] ἔχομεν πολλὴν RP
+
+Philemon 1:9
+9 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP
+
+Philemon 1:10
+10 δεσμοῖς WH Treg NA28 ] + μου RP
+
+Philemon 1:11
+11 δὲ WH Treg RP ] + καὶ NA28
+
+Philemon 1:12
+12 σοι αὐτόν … σπλάγχνα WH Treg NA28 ] σὺ δὲ αὐτόν … σπλάγχνα προσλαβοῦ RP
+
+Philemon 1:13
+13 μοι διακονῇ WH Treg NA28 ] διακονῇ μοι RP
+
+Philemon 1:18
+18 ἐλλόγα WH Treg NA28 ] ἐλλόγει RP
+
+Philemon 1:20
+20 Χριστῷ WH Treg NA28 ] κυρίῳ RP
+
+Philemon 1:21
+21 ἃ WH Treg NA28 ] ὃ RP
+
+Philemon 1:23
+23 Ἀσπάζεταί WH Treg NA28 ] Ἀσπάζονταί RP
+
+Philemon 1:25
+25 κυρίου WH NA28 ] + ἡμῶν Treg RP 
+• ὑμῶν WH Treg NA28 ] + Ἀμήν RP

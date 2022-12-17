@@ -1,48 +1,122 @@
 <book>
-<title>ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ</title>
+<book-name>ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ</book-name>
 
+<verse>Philippians 1:1</verse>
+<note>1:1 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP</note>
 
+<verse>Philippians 1:5</verse>
+<note>5 τῆς WH Treg NA28 ] – RP</note>
 
+<verse>Philippians 1:6</verse>
+<note>6 Χριστοῦ Ἰησοῦ Treg NA28 RP ] Ἰησοῦ Χριστοῦ WH</note>
 
-<p><verse-number id="Php 1:1">1:1</verse-number> <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] Ἰησοῦ Χριστοῦ RP</p>
-<p><verse-number id="Php 1:5">5</verse-number> <b>τῆς</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Php 1:6">6</verse-number> <b>Χριστοῦ Ἰησοῦ</b> Treg NIV RP ] Ἰησοῦ Χριστοῦ WH</p>
-<p><verse-number id="Php 1:8">8</verse-number> <b>μου</b> WH Treg NIV ] + ἐστιν RP • <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] Ἰησοῦ Χριστοῦ RP</p>
-<p><verse-number id="Php 1:11">11</verse-number> <b>καρπὸν δικαιοσύνης τὸν</b> WH Treg NIV ] καρπῶν δικαιοσύνης τῶν RP</p>
-<p><verse-number id="Php 1:14">14</verse-number> <b>λόγον</b> RP NA ] + τοῦ θεοῦ WH Treg NIV</p>
-<p><verse-number id="Php 1:16-17">16–17</verse-number> <b>ἀγάπης … κεῖμαι</b> WH Treg NIV ] ἐριθείας τὸν Χριστὸν καταγγέλλουσιν, οὐχ ἁγνῶς, οἰόμενοι θλῖψιν ἐπιφέρειν τοῖς δεσμοῖς μου RP • <b>ἐριθείας … δεσμοῖς μου</b> WH Treg NIV ] ἀγάπης, εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι RP</p>
-<p><verse-number id="Php 1:18">18</verse-number> <b>ὅτι</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Php 1:23">23</verse-number> <b>γὰρ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Php 1:24">24</verse-number> <b>ἐν</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Php 1:25">25</verse-number> <b>παραμενῶ</b> WH Treg NIV ] συμπαραμενῶ RP</p>
-<p><verse-number id="Php 1:27">27</verse-number> <b>ἀκούω</b> WH Treg NIV ] ἀκούσω RP</p>
-<p><verse-number id="Php 1:28">28</verse-number> <b>ἐστὶν αὐτοῖς</b> WH Treg NIV ] αὐτοῖς μέν ἐστιν RP • <b>ὑμῶν</b> WH Treg NIV ] ὑμῖν RP</p>
+<verse>Philippians 1:8</verse>
+<note>8 μου WH Treg NA28 ] + ἐστιν RP </note>
+<note>• Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP</note>
 
-<p><verse-number id="Php 2:3">2:3</verse-number> <b>μηδὲ κατὰ</b> WH Treg NIV ] ἢ RP</p>
-<p><verse-number id="Php 2:4">4</verse-number> <b>⸀ἕκαστοι</b> WH Treg ] ἕκαστος NIV RP • <b>σκοποῦντες</b> WH Treg NIV ] σκοπεῖτε RP • <b>⸁ἕκαστοι</b> WH Treg NIV ] ἕκαστος RP</p>
-<p><verse-number id="Php 2:5">5</verse-number> <b>φρονεῖτε</b> WH Treg NIV ] γὰρ φρονείσθω RP</p>
-<p><verse-number id="Php 2:9">9</verse-number> <b>τὸ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Php 2:13">13</verse-number> <b>θεὸς</b> WH Treg NIV ] ὁ θεὸς RP</p>
-<p><verse-number id="Php 2:15">15</verse-number> <b>ἄμωμα μέσον</b> WH Treg NIV ] ἀμώμητα ἐν μέσῳ RP</p>
-<p><verse-number id="Php 2:21">21</verse-number> <b>Ἰησοῦ Χριστοῦ</b> Treg NIV ] Χριστοῦ Ἰησοῦ WH RP</p>
-<p><verse-number id="Php 2:26">26</verse-number> <b>ὑμᾶς</b> Treg NIV RP ] + ἰδεῖν WH</p>
-<p><verse-number id="Php 2:27">27</verse-number> <b>θανάτῳ</b> Treg NIV RP ] θανάτου WH • <b>ἠλέησεν αὐτόν</b> WH Treg NIV ] αὐτόν ἠλέησεν RP</p>
-<p><verse-number id="Php 2:30">30</verse-number> <b>Χριστοῦ</b> Treg NIV ] Κυρίου WH; τοῦ Χριστοῦ RP • <b>παραβολευσάμενος</b> WH Treg NIV ] παραβουλευσάμενος RP</p>
+<verse>Philippians 1:11</verse>
+<note>11 καρπὸν δικαιοσύνης τὸν WH Treg NA28 ] καρπῶν δικαιοσύνης τῶν RP</note>
 
-<p><verse-number id="Php 3:6">3:6</verse-number> <b>ζῆλος</b> WH Treg NIV ] ζῆλον RP</p>
-<p><verse-number id="Php 3:8">8</verse-number> <b>μενοῦνγε</b> WH NIV ] μέν οὖν Treg RP • <b>σκύβαλα</b> WH Treg NIV ] + εἶναι RP</p>
-<p><verse-number id="Php 3:10">10</verse-number> <b>κοινωνίαν</b> WH Treg ] τὴν κοινωνίαν τῶν NIV RP • <b>συμμορφιζόμενος</b> WH Treg NIV ] συμμορφούμενος RP</p>
-<p><verse-number id="Php 3:11">11</verse-number> <b>τὴν ἐκ</b> WH Treg NIV ] τῶν RP</p>
-<p><verse-number id="Php 3:12">12</verse-number> <b>Χριστοῦ</b> Treg ] Χριστοῦ Ἰησοῦ WH NIV; τοῦ Χριστοῦ Ἰησοῦ RP</p>
-<p><verse-number id="Php 3:13">13</verse-number> <b>οὐ</b> Treg RP NA ] οὔπω WH NIV</p>
-<p><verse-number id="Php 3:14">14</verse-number> <b>εἰς</b> WH Treg NIV ] ἐπὶ RP</p>
-<p><verse-number id="Php 3:16">16</verse-number> <b>στοιχεῖν</b> WH Treg NIV ] + κανόνι τὸ ἀυτὸ φρονεῖν RP</p>
-<p><verse-number id="Php 3:21">21</verse-number> <b>ἡμῶν</b> WH Treg NIV ] + εἰς τὸ γενέσθαι αὐτὸ RP • <b>αὑτῷ</b> WH ] αὐτῷ Treg NIV; ἑαυτῷ RP</p>
+<verse>Philippians 1:14</verse>
+<note>14 λόγον RP NA28 ] + τοῦ θεοῦ WH Treg NIV</note>
 
-<p><verse-number id="Php 4:3">4:3</verse-number> <b>γνήσιε σύζυγε</b> WH Treg NIV ] σύζυγε γνήσιε RP</p>
-<p><verse-number id="Php 4:13">13</verse-number> <b>με</b> WH Treg NIV ] + Χριστῷ RP</p>
-<p><verse-number id="Php 4:19">19</verse-number> <b>τὸ πλοῦτος</b> WH Treg NIV ] τὸν πλοῦτον RP</p>
-<p><verse-number id="Php 4:23">23</verse-number> <b>τοῦ πνεύματος</b> WH Treg NIV ] πάντων RP • <b>ὑμῶν</b> WH Treg NIV ] + Ἀμην RP</p>
+<verse>Philippians 1:16</verse>
+<note>16–17 ἀγάπης … κεῖμαι WH Treg NA28 ] ἐριθείας τὸν Χριστὸν καταγγέλλουσιν, οὐχ ἁγνῶς, οἰόμενοι θλῖψιν ἐπιφέρειν τοῖς δεσμοῖς μου RP </note>
+<note>• ἐριθείας … δεσμοῖς μου WH Treg NA28 ] ἀγάπης, εἰδότες ὅτι εἰς ἀπολογίαν τοῦ εὐαγγελίου κεῖμαι RP</note>
 
+<verse>Philippians 1:18</verse>
+<note>18 ὅτι WH Treg NA28 ] – RP</note>
 
+<verse>Philippians 1:23</verse>
+<note>23 γὰρ WH Treg NA28 ] – RP</note>
+
+<verse>Philippians 1:24</verse>
+<note>24 ἐν Treg NA28 RP ] – WH</note>
+
+<verse>Philippians 1:25</verse>
+<note>25 παραμενῶ WH Treg NA28 ] συμπαραμενῶ RP</note>
+
+<verse>Philippians 1:27</verse>
+<note>27 ἀκούω WH Treg NA28 ] ἀκούσω RP</note>
+
+<verse>Philippians 1:28</verse>
+<note>28 ἐστὶν αὐτοῖς WH Treg NA28 ] αὐτοῖς μέν ἐστιν RP </note>
+<note>• ὑμῶν WH Treg NA28 ] ὑμῖν RP</note>
+
+<verse>Philippians 2:3</verse>
+<note>2:3 μηδὲ κατὰ WH Treg NA28 ] ἢ RP</note>
+
+<verse>Philippians 2:4</verse>
+<note>4 ⸀ἕκαστοι WH Treg ] ἕκαστος NA28 RP </note>
+<note>• σκοποῦντες WH Treg NA28 ] σκοπεῖτε RP </note>
+<note>• ⸁ἕκαστοι WH Treg NA28 ] ἕκαστος RP</note>
+
+<verse>Philippians 2:5</verse>
+<note>5 φρονεῖτε WH Treg NA28 ] γὰρ φρονείσθω RP</note>
+
+<verse>Philippians 2:9</verse>
+<note>9 τὸ WH Treg NA28 ] – RP</note>
+
+<verse>Philippians 2:13</verse>
+<note>13 θεὸς WH Treg NA28 ] ὁ θεὸς RP</note>
+
+<verse>Philippians 2:15</verse>
+<note>15 ἄμωμα μέσον WH Treg NA28 ] ἀμώμητα ἐν μέσῳ RP</note>
+
+<verse>Philippians 2:21</verse>
+<note>21 Ἰησοῦ Χριστοῦ Treg NA28 ] Χριστοῦ Ἰησοῦ WH RP</note>
+
+<verse>Philippians 2:26</verse>
+<note>26 ὑμᾶς Treg NA28 RP ] + ἰδεῖν WH</note>
+
+<verse>Philippians 2:27</verse>
+<note>27 θανάτῳ Treg NA28 RP ] θανάτου WH </note>
+<note>• ἠλέησεν αὐτόν WH Treg NA28 ] αὐτόν ἠλέησεν RP</note>
+
+<verse>Philippians 2:30</verse>
+<note>30 Χριστοῦ Treg NA28 ] Κυρίου WH; τοῦ Χριστοῦ RP </note>
+<note>• παραβολευσάμενος WH Treg NA28 ] παραβουλευσάμενος RP</note>
+
+<verse>Philippians 3:6</verse>
+<note>3:6 ζῆλος WH Treg NA28 ] ζῆλον RP</note>
+
+<verse>Philippians 3:8</verse>
+<note>8 μενοῦνγε WH NA28 ] μέν οὖν Treg RP </note>
+<note>• σκύβαλα WH Treg NA28 ] + εἶναι RP</note>
+
+<verse>Philippians 3:10</verse>
+<note>10 κοινωνίαν WH Treg ] τὴν κοινωνίαν τῶν NA28 RP </note>
+<note>• συμμορφιζόμενος WH Treg NA28 ] συμμορφούμενος RP</note>
+
+<verse>Philippians 3:11</verse>
+<note>11 τὴν ἐκ WH Treg NA28 ] τῶν RP</note>
+
+<verse>Philippians 3:12</verse>
+<note>12 Χριστοῦ Treg ] Χριστοῦ Ἰησοῦ WH NA28; τοῦ Χριστοῦ Ἰησοῦ RP</note>
+
+<verse>Philippians 3:13</verse>
+<note>13 οὐ Treg RP NA28 ] οὔπω WH NIV</note>
+
+<verse>Philippians 3:14</verse>
+<note>14 εἰς WH Treg NA28 ] ἐπὶ RP</note>
+
+<verse>Philippians 3:16</verse>
+<note>16 στοιχεῖν WH Treg NA28 ] + κανόνι τὸ ἀυτὸ φρονεῖν RP</note>
+
+<verse>Philippians 3:21</verse>
+<note>21 ἡμῶν WH Treg NA28 ] + εἰς τὸ γενέσθαι αὐτὸ RP </note>
+<note>• αὑτῷ WH ] αὐτῷ Treg NA28; ἑαυτῷ RP</note>
+
+<verse>Philippians 4:3</verse>
+<note>4:3 γνήσιε σύζυγε WH Treg NA28 ] σύζυγε γνήσιε RP</note>
+
+<verse>Philippians 4:13</verse>
+<note>13 με WH Treg NA28 ] + Χριστῷ RP</note>
+
+<verse>Philippians 4:19</verse>
+<note>19 τὸ πλοῦτος WH Treg NA28 ] τὸν πλοῦτον RP</note>
+
+<verse>Philippians 4:23</verse>
+<note>23 τοῦ πνεύματος WH Treg NA28 ] πάντων RP </note>
+<note>• ὑμῶν WH Treg NA28 ] + Ἀμην RP</note>
 </book>

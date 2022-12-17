@@ -1,32 +1,77 @@
 <book>
-<title>ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β</title>
+<book-name>ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β</book-name>
 
+<verse>2 Thessalonians 1:2</verse>
+<note>1:2 πατρὸς WH NIV ] + ἡμῶν Treg RP NA28</note>
 
+<verse>2 Thessalonians 1:4</verse>
+<note>4 αὐτοὺς ἡμᾶς WH Treg NA28 ] ἡμᾶς αὐτοὺς RP </note>
+<note>• ἐγκαυχᾶσθαι WH Treg NA28 ] καυχᾶσθαι RP</note>
 
+<verse>2 Thessalonians 1:8</verse>
+<note>8 φλογὶ πυρός Treg ] πυρὶ φλογός WH NA28 RP</note>
 
-<p><verse-number id="2Th 1:2">1:2</verse-number> <b>πατρὸς</b> WH NIV ] + ἡμῶν Treg RP NA</p>
-<p><verse-number id="2Th 1:4">4</verse-number> <b>αὐτοὺς ἡμᾶς</b> WH Treg NIV ] ἡμᾶς αὐτοὺς RP • <b>ἐγκαυχᾶσθαι</b> WH Treg NIV ] καυχᾶσθαι RP</p>
-<p><verse-number id="2Th 1:8">8</verse-number> <b>φλογὶ πυρός</b> Treg ] πυρὶ φλογός WH NIV RP</p>
+<verse>2 Thessalonians 2:2</verse>
+<note>2:2 μηδὲ WH Treg NA28 ] μήτε RP </note>
+<note>• κυρίου WH Treg NA28 ] Χριστοῦ RP</note>
 
-<p><verse-number id="2Th 2:2">2:2</verse-number> <b>μηδὲ</b> WH Treg NIV ] μήτε RP • <b>κυρίου</b> WH Treg NIV ] Χριστοῦ RP</p>
-<p><verse-number id="2Th 2:3">3</verse-number> <b>ἀνομίας</b> WH Treg NIV ] ἁμαρτίας RP</p>
-<p><verse-number id="2Th 2:4">4</verse-number> <b>θεοῦ</b> WH Treg NIV ] + ὡς θεὸν RP</p>
-<p><verse-number id="2Th 2:6">6</verse-number> <b>ἑαυτοῦ</b> NIV RP ] αὐτοῦ WH Treg</p>
-<p><verse-number id="2Th 2:8">8</verse-number> <b>Ἰησοῦς</b> WH Treg NIV ] – RP • <b>ἀνελεῖ</b> WH Treg NIV ] ἀναλώσει RP</p>
-<p><verse-number id="2Th 2:10">10</verse-number> <b>ἀδικίας</b> WH Treg NIV ] τῆς ἀδικίας ἐν RP</p>
-<p><verse-number id="2Th 2:11">11</verse-number> <b>πέμπει</b> WH Treg NIV ] πέμψει RP</p>
-<p><verse-number id="2Th 2:12">12</verse-number> <b>πάντες</b> WH Treg NIV ] ἅπαντες RP • <b>τῇ</b> WH Treg NIV ] ἐν τῇ RP</p>
-<p><verse-number id="2Th 2:13">13</verse-number> <b>ἀπαρχὴν</b> Holmes WHmarg NA ] ἀπ᾽ ἀρχῆς WH Treg NIV RP</p>
-<p><verse-number id="2Th 2:14">14</verse-number> <b>ὃ</b> WH Treg RP ] + καὶ NIV</p>
-<p><verse-number id="2Th 2:16">16</verse-number> <b>θεὸς</b> Treg ] ὁ θεὸς WH NIV RP • <b>ὁ</b> WH Treg NIV ] καὶ RP</p>
-<p><verse-number id="2Th 2:17">17</verse-number> <b>στηρίξαι</b> WH Treg NIV ] + ὑμᾶς RP • <b>ἔργῳ καὶ λόγῳ</b> WH Treg NIV ] λόγῳ καὶ ἔργῳ RP</p>
+<verse>2 Thessalonians 2:3</verse>
+<note>3 ἀνομίας WH Treg NA28 ] ἁμαρτίας RP</note>
 
-<p><verse-number id="2Th 3:4">3:4</verse-number> <b>παραγγέλλομεν</b> WH Treg NIV ] + ὑμῖν RP</p>
-<p><verse-number id="2Th 3:6">6</verse-number> <b>ἡμῶν</b> Treg RP NA ] – WH NIV • <b>παρελάβοσαν</b> Holmes WHmarg NA ] παρελάβετε WH Treg NIV;  παρέλαβον RP</p>
-<p><verse-number id="2Th 3:8">8</verse-number> <b>νυκτὸς καὶ ἡμέρας</b> WH Treg NIV ] νύκτα καὶ ἡμέραν RP</p>
-<p><verse-number id="2Th 3:12">12</verse-number> <b>ἐν κυρίῳ Ἰησοῦ Χριστῷ</b> WH Treg NIV ] διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστου RP</p>
-<p><verse-number id="2Th 3:13">13</verse-number> <b>ἐγκακήσητε</b> WH Treg NIV ] ἐκκακήσητε RP</p>
-<p><verse-number id="2Th 3:14">14</verse-number> <b>μὴ</b> WH Treg NIV ] καὶ μὴ RP • <b>συναναμίγνυσθαι</b> WH Treg NIV ] συναναμίγνυσθε RP</p>
-<p><verse-number id="2Th 3:18">18</verse-number> <b>ὑμῶν</b> WH Treg NIV ] + Ἀμήν RP</p>
+<verse>2 Thessalonians 2:4</verse>
+<note>4 θεοῦ WH Treg NA28 ] + ὡς θεὸν RP</note>
 
+<verse>2 Thessalonians 2:6</verse>
+<note>6 ἑαυτοῦ NA28 RP ] αὐτοῦ WH Treg</note>
+
+<verse>2 Thessalonians 2:8</verse>
+<note>8 Ἰησοῦς WH Treg NA28 ] – RP </note>
+<note>• ἀνελεῖ WH Treg NA28 ] ἀναλώσει RP</note>
+
+<verse>2 Thessalonians 2:10</verse>
+<note>10 ἀδικίας WH Treg NA28 ] τῆς ἀδικίας ἐν RP</note>
+
+<verse>2 Thessalonians 2:11</verse>
+<note>11 πέμπει WH Treg NA28 ] πέμψει RP</note>
+
+<verse>2 Thessalonians 2:12</verse>
+<note>12 πάντες WH Treg NA28 ] ἅπαντες RP </note>
+<note>• τῇ WH Treg NA28 ] ἐν τῇ RP</note>
+
+<verse>2 Thessalonians 2:13</verse>
+<note>13 ἀπαρχὴν NA28 ] ἀπʼ ἀρχῆς WH Treg NIV RP</note>
+
+<verse>2 Thessalonians 2:14</verse>
+<note>14 ὃ WH Treg RP ] + καὶ NA28</note>
+
+<verse>2 Thessalonians 2:16</verse>
+<note>16 θεὸς Treg ] ὁ θεὸς WH NA28 RP </note>
+<note>• ὁ WH Treg NA28 ] καὶ RP</note>
+
+<verse>2 Thessalonians 2:17</verse>
+<note>17 στηρίξαι WH Treg NA28 ] + ὑμᾶς RP </note>
+<note>• ἔργῳ καὶ λόγῳ WH Treg NA28 ] λόγῳ καὶ ἔργῳ RP</note>
+
+<verse>2 Thessalonians 3:4</verse>
+<note>3:4 παραγγέλλομεν WH Treg NA28 ] + ὑμῖν RP</note>
+
+<verse>2 Thessalonians 3:6</verse>
+<note>6 ἡμῶν Treg RP NA28 ] – WH NIV </note>
+<note>• παρελάβοσαν NA28 ] παρελάβετε WH Treg NIV;  παρέλαβον RP</note>
+
+<verse>2 Thessalonians 3:8</verse>
+<note>8 νυκτὸς καὶ ἡμέρας WH Treg NA28 ] νύκτα καὶ ἡμέραν RP</note>
+
+<verse>2 Thessalonians 3:12</verse>
+<note>12 ἐν κυρίῳ Ἰησοῦ Χριστῷ WH Treg NA28 ] διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστου RP</note>
+
+<verse>2 Thessalonians 3:13</verse>
+<note>13 ἐγκακήσητε WH Treg NA28 ] ἐκκακήσητε RP</note>
+
+<verse>2 Thessalonians 3:14</verse>
+<note>14 μὴ WH Treg NA28 ] καὶ μὴ RP </note>
+<note>• συναναμίγνυσθαι WH Treg NA28 ] συναναμίγνυσθε RP</note>
+
+<verse>2 Thessalonians 3:18</verse>
+<note>18 ὑμῶν WH Treg NA28 ] + Ἀμήν RP</note>
 </book>

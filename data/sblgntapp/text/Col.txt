@@ -1,59 +1,173 @@
-Colossians Apparatus Data
-Order of edition citation: WH Treg NIV RP
+ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ
 
-Col 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
-Col 1:2	Κολοσσαῖς WH NIV ] Κολασσαῖς Treg RP • ἡμῶν WH Treg NIV ] + καὶ κυρίου Ἰησοῦ Χριστοῦ RP
-Col 1:3	θεῷ WH NIV ] + καὶ Treg RP • περὶ WH NIV RP ] ὑπὲρ Treg
-Col 1:4	ἣν ἔχετε WH Treg NIV ] τὴν RP
-Col 1:6	κόσμῳ WH Treg NIV ] + καὶ RP
-Col 1:7	καθὼς WH Treg NIV ] + καὶ RP • ἡμῶν WH Treg NIV ] ὑμῶν RP NA
-Col 1:10	περιπατῆσαι WH Treg NIV ] + ὑμᾶς RP • τῇ ἐπιγνώσει WH Treg NIV ] εἰς τὴν ἐπίγνωσιν RP
-Col 1:12	ὑμᾶς WH NIV ] ἡμᾶς Treg RP
-Col 1:16	πάντα WH Treg NIV ] + τὰ RP • καὶ WH NIV ] + τὰ Treg RP 
-Col 1:18	ἐστιν Treg NIV RP ] + ἡ WH
-Col 1:20	δι’ αὐτοῦ WH RP NA ] – Treg NIV • ἐν WH Treg NIV ] ἐπὶ RP
-Col 1:22	ἀποκατηλλάγητε Holmes ] ἀποκατήλλαξεν WH Treg NIV RP
-Col 1:23	πάσῃ WH Treg NIV ] + τῇ RP
-Col 1:26	νῦν WH Treg NIV ] νυνὶ RP
-Col 1:27	ὅ WH Treg NIV ] ὅς RP
-Col 1:28	Χριστῷ WH Treg NIV ] + Ἰησοῦ RP
+Colossians 1:1
+1:1 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP
 
-Col 2:1	ὑπὲρ WH Treg NIV ] περὶ RP
-Col 2:2	συμβιβασθέντες WH Treg NIV ] συμβιβασθέντων RP • πᾶν πλοῦτος WH NIV ] πᾶν τὸ πλοῦτος Treg; πάντα πλοῦτον RP • θεοῦ WH Treg NIV ] + καὶ πατρὸς καὶ τοῦ RP
-Col 2:3	καὶ WH Treg NIV ] + τῆς RP
-Col 2:4	τοῦτο WH NIV ] + δὲ Treg RP • μηδεὶς WH Treg NIV ] μή τις RP
-Col 2:7	βεβαιούμενοι WH Treg NIV ] + ἐν RP • περισσεύοντες Treg NIV ] + ἐν αὐτῇ WH RP
-Col 2:11	σώματος WH Treg NIV ] + τῶν ἁμαρτιῶν RP
-Col 2:12	βαπτισμῷ Treg NIV ] βαπτίσματι WH RP • ἐκ WH Treg NIV ] + τῶν RP
-Col 2:13	ἐν NIV RP ] – WH Treg
-Col 2:16	ἢ Treg RP ] καὶ WH NIV
-Col 2:17	τοῦ WH Treg NIV ] – RP
-Col 2:18	ἃ WH Treg NIV ] + μὴ RP
+Colossians 1:2
+2 Κολοσσαῖς WH NA28 ] Κολασσαῖς Treg RP 
+• ἡμῶν WH Treg NA28 ] + καὶ κυρίου Ἰησοῦ Χριστοῦ RP
 
-Col 3:4	ὑμῶν Treg NIV ] ἡμῶν WH RP
-Col 3:5	μέλη WH Treg NA ] + ὑμῶν NIV RP
-Col 3:6	ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας RP NA ] – WH Treg NIV
-Col 3:7	τούτοις WH Treg NIV ] αὐτοῖς RP
-Col 3:11	τὰ Treg NIV RP ] – WH
-Col 3:13	κύριος WH Treg NIV ] Χριστὸς RP
-Col 3:14	ὅ WH Treg NIV ] ἥτις RP
-Col 3:15	Χριστοῦ WH Treg NIV ] θεοῦ RP
-Col 3:16	ψαλμοῖς WH Treg NIV ] + καὶ RP • ὕμνοις WH Treg NIV ] + καὶ RP • ἐν WH RP ] + τῇ Treg NIV • ταῖς καρδίαις WH Treg NIV ] τῇ καρδίᾳ RP • θεῷ WH Treg NIV ] κυρίῳ RP
-Col 3:17	ὅ τι Treg NIV RP ] ὅτι WH • ἐὰν WH Treg NIV ] ἂν RP • θεῷ WH Treg NIV ] + καὶ RP
-Col 3:18	τοῖς WH Treg NIV ] + ἰδίοις RP
-Col 3:20	εὐάρεστόν ἐστιν WH Treg NIV ] ἐστιν εὐάρεστον RP
-Col 3:22	ὀφθαλμοδουλίαις WH Treg RP ] ὀφθαλμοδουλίᾳ NIV • κύριον WH Treg NIV ] θεόν RP
-Col 3:23	ὃ WH Treg NIV ] καὶ πᾶν ὃ τι RP
-Col 3:24	ἀπολήμψεσθε WH Treg NIV ] λήψεσθε RP • τῷ WH Treg NIV ] + γὰρ RP
-Col 3:25	γὰρ WH Treg NIV ] δὲ RP
+Colossians 1:3
+3 θεῷ WH NA28 ] + καὶ Treg RP 
+• περὶ WH NA28 RP ] ὑπὲρ Treg
 
-Col 4:1	οὐρανῷ WH Treg NIV ] οὐρανοῖς RP
-Col 4:8	γνῶτε WH Treg NIV ] γνῷ RP • ἡμῶν WH Treg NIV ] ὑμῶν RP
-Col 4:12	Χριστοῦ RP ] + Ἰησοῦ WH Treg NIV • σταθῆτε WH Treg NIV ] στῆτε RP • πεπληροφορημένοι WH Treg NIV ] πεπληρωμένοι RP
-Col 4:13	πολὺν πόνον WH Treg NIV ] ζῆλον πολὺν RP
-Col 4:15	Νύμφαν καὶ … οἶκον αὐτῆς WH NIV ] Νυμφᾶν καὶ … οἶκον αὐτῶν Treg; Νυμφᾶν καὶ … οἶκον αὐτοῦ RP
-Col 4:16	Λαοδικέων WH Treg NIV ] Λαοδικαίων RP
-Col 4:18	ὑμῶν WH Treg NIV ] + Ἀμήν RP
+Colossians 1:4
+4 ἣν ἔχετε WH Treg NA28 ] τὴν RP
 
+Colossians 1:6
+6 κόσμῳ WH Treg NA28 ] + καὶ RP
 
+Colossians 1:7
+7 καθὼς WH Treg NA28 ] + καὶ RP 
+• ἡμῶν WH Treg NIV ] ὑμῶν RP NA28
 
+Colossians 1:10
+10 περιπατῆσαι WH Treg NA28 ] + ὑμᾶς RP 
+• τῇ ἐπιγνώσει WH Treg NA28 ] εἰς τὴν ἐπίγνωσιν RP
+
+Colossians 1:12
+12 ὑμᾶς WH NA28 ] ἡμᾶς Treg RP
+
+Colossians 1:16
+16 πάντα WH Treg NA28 ] + τὰ RP 
+• καὶ WH NA28 ] + τὰ Treg RP 
+
+Colossians 1:18
+18 ἐστιν Treg NA28 RP ] + ἡ WH
+
+Colossians 1:20
+20 διʼ αὐτοῦ WH RP NA28 ] – Treg NIV 
+• ἐν WH Treg NA28 ] ἐπὶ RP
+
+Colossians 1:22
+22 ἀποκατηλλάγητε Holmes ] ἀποκατήλλαξεν WH Treg NA28 RP
+
+Colossians 1:23
+23 πάσῃ WH Treg NA28 ] + τῇ RP
+
+Colossians 1:26
+26 νῦν WH Treg NA28 ] νυνὶ RP
+
+Colossians 1:27
+27 ὅ WH Treg NA28 ] ὅς RP
+
+Colossians 1:28
+28 Χριστῷ WH Treg NA28 ] + Ἰησοῦ RP
+
+Colossians 2:1
+2:1 ὑπὲρ WH Treg NA28 ] περὶ RP
+
+Colossians 2:2
+2 συμβιβασθέντες WH Treg NA28 ] συμβιβασθέντων RP 
+• πᾶν πλοῦτος WH NA28 ] πᾶν τὸ πλοῦτος Treg; πάντα πλοῦτον RP 
+• θεοῦ WH Treg NA28 ] + καὶ πατρὸς καὶ τοῦ RP
+
+Colossians 2:3
+3 καὶ WH Treg NA28 ] + τῆς RP
+
+Colossians 2:4
+4 τοῦτο WH NA28 ] + δὲ Treg RP 
+• μηδεὶς WH Treg NA28 ] μή τις RP
+
+Colossians 2:7
+7 βεβαιούμενοι WH Treg NA28 ] + ἐν RP 
+• περισσεύοντες Treg NA28 ] + ἐν αὐτῇ WH RP
+
+Colossians 2:11
+11 σώματος WH Treg NA28 ] + τῶν ἁμαρτιῶν RP
+
+Colossians 2:12
+12 βαπτισμῷ Treg NA28 ] βαπτίσματι WH RP 
+• ἐκ WH Treg NA28 ] + τῶν RP
+
+Colossians 2:13
+13 ἐν NA28 RP ] – WH Treg
+
+Colossians 2:16
+16 ἢ Treg RP ] καὶ WH NA28
+
+Colossians 2:17
+17 τοῦ WH Treg NA28 ] – RP
+
+Colossians 2:18
+18 ἃ WH Treg NA28 ] + μὴ RP
+
+Colossians 3:4
+3:4 ὑμῶν Treg NA28 ] ἡμῶν WH RP
+
+Colossians 3:5
+5 μέλη WH Treg NA28 ] + ὑμῶν NIV RP
+
+Colossians 3:6
+6 ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας RP NA28 ] – WH Treg NIV
+
+Colossians 3:7
+7 τούτοις WH Treg NA28 ] αὐτοῖς RP
+
+Colossians 3:11
+11 τὰ Treg NA28 RP ] – WH
+
+Colossians 3:13
+13 κύριος WH Treg NA28 ] Χριστὸς RP
+
+Colossians 3:14
+14 ὅ WH Treg NA28 ] ἥτις RP
+
+Colossians 3:15
+15 Χριστοῦ WH Treg NA28 ] θεοῦ RP
+
+Colossians 3:16
+16 ψαλμοῖς WH Treg NA28 ] + καὶ RP 
+• ὕμνοις WH Treg NA28 ] + καὶ RP 
+• ἐν WH RP ] + τῇ Treg NA28 
+• ταῖς καρδίαις WH Treg NA28 ] τῇ καρδίᾳ RP 
+• θεῷ WH Treg NA28 ] κυρίῳ RP
+
+Colossians 3:17
+17 ὅ τι Treg NA28 RP ] ὅτι WH 
+• ἐὰν WH Treg NA28 ] ἂν RP 
+• θεῷ WH Treg NA28 ] + καὶ RP
+
+Colossians 3:18
+18 τοῖς WH Treg NA28 ] + ἰδίοις RP
+
+Colossians 3:20
+20 εὐάρεστόν ἐστιν WH Treg NA28 ] ἐστιν εὐάρεστον RP
+
+Colossians 3:22
+22 ὀφθαλμοδουλίαις WH Treg RP ] ὀφθαλμοδουλίᾳ NA28 
+• κύριον WH Treg NA28 ] θεόν RP
+
+Colossians 3:23
+23 ὃ WH Treg NA28 ] καὶ πᾶν ὃ τι RP
+
+Colossians 3:24
+24 ἀπολήμψεσθε WH Treg NA28 ] λήψεσθε RP 
+• τῷ WH Treg NA28 ] + γὰρ RP
+
+Colossians 3:25
+25 γὰρ WH Treg NA28 ] δὲ RP
+
+Colossians 4:1
+4:1 οὐρανῷ WH Treg NA28 ] οὐρανοῖς RP
+
+Colossians 4:8
+8 γνῶτε WH Treg NA28 ] γνῷ RP 
+• ἡμῶν WH Treg NA28 ] ὑμῶν RP
+
+Colossians 4:12
+12 Χριστοῦ RP ] + Ἰησοῦ WH Treg NA28 
+• σταθῆτε WH Treg NA28 ] στῆτε RP 
+• πεπληροφορημένοι WH Treg NA28 ] πεπληρωμένοι RP
+
+Colossians 4:13
+13 πολὺν πόνον WH Treg NA28 ] ζῆλον πολὺν RP
+
+Colossians 4:15
+15 Νύμφαν καὶ … οἶκον αὐτῆς WH NA28 ] Νυμφᾶν καὶ … οἶκον αὐτῶν Treg; Νυμφᾶν καὶ … οἶκον αὐτοῦ RP
+
+Colossians 4:16
+16 Λαοδικέων WH Treg NA28 ] Λαοδικαίων RP
+
+Colossians 4:18
+18 ὑμῶν WH Treg NA28 ] + Ἀμήν RP

@@ -1,52 +1,131 @@
 <book>
-<title>ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α</title>
+<book-name>ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α</book-name>
 
+<verse>1 Thessalonians 1:1</verse>
+<note>1:1 εἰρήνη WH Treg NA28 ] + ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ RP</note>
 
+<verse>1 Thessalonians 1:2</verse>
+<note>2 μνείαν WH Treg NA28 ] + ὑμῶν RP</note>
 
+<verse>1 Thessalonians 1:4</verse>
+<note>4 θεοῦ Treg RP ] τοῦ θεοῦ WH NA28</note>
 
-<p><verse-number id="1Th 1:1">1:1</verse-number> <b>εἰρήνη</b> WH Treg NIV ] + ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ RP</p>
-<p><verse-number id="1Th 1:2">2</verse-number> <b>μνείαν</b> WH Treg NIV ] + ὑμῶν RP</p>
-<p><verse-number id="1Th 1:4">4</verse-number> <b>θεοῦ</b> Treg RP ] τοῦ θεοῦ WH NIV</p>
-<p><verse-number id="1Th 1:5">5</verse-number> <b>καὶ</b> WH ] + ἐν Treg NIV RP • <b>ἐν</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="1Th 1:7">7</verse-number> <b>τύπον</b> WH Treg NIV ] τύπους RP • <b>ἐν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="1Th 1:8">8</verse-number> <b>καὶ</b> WH Treg ] + ἐν τῇ NIV RP • <b>ἀλλ᾽</b> WH Treg NIV ] ἀλλὰ καὶ RP • <b>ἔχειν ἡμᾶς</b> WH Treg NIV ] ἡμᾶς ἔχειν RP</p>
-<p><verse-number id="1Th 1:10">10</verse-number> <b>ἐκ</b> WH Treg NIV ] ἀπὸ RP</p>
+<verse>1 Thessalonians 1:5</verse>
+<note>5 καὶ WH ] + ἐν Treg NA28 RP </note>
+<note>• ἐν Treg NA28 RP ] – WH</note>
 
-<p><verse-number id="1Th 2:3">2:3</verse-number> <b>οὐδὲ</b> WH Treg NIV ] οὔτε RP</p>
-<p><verse-number id="1Th 2:4">4</verse-number> <b>θεῷ</b> WH Treg NIV ] τῷ θεῷ RP</p>
-<p><verse-number id="1Th 2:5">5</verse-number> <b>ἐν</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="1Th 2:7">7</verse-number> <b>ἤπιοι</b> Treg NIV RP ] νήπιοι WH NA • <b>ἐὰν</b> WH Treg NIV ] ἂν RP</p>
-<p><verse-number id="1Th 2:8">8</verse-number> <b>ἐγενήθητε</b> WH Treg NIV ] γεγένησθε RP</p>
-<p><verse-number id="1Th 2:9">9</verse-number> <b>νυκτὸς</b> WH Treg NIV ] + γάρ RP</p>
-<p><verse-number id="1Th 2:12">12</verse-number> <b>περιπατεῖν</b> WH Treg NIV ] περιπατῆσαι RP</p>
-<p><verse-number id="1Th 2:13">13</verse-number> <b>Καὶ</b> WH Treg NIV ] – RP • <b>ἀληθῶς ἐστὶν</b> WH ] ἐστιν ἀληθῶς Treg NIV RP</p>
-<p><verse-number id="1Th 2:15">15</verse-number> <b>τοὺς</b> WH Treg NIV ] + ἰδίους RP</p>
-<p><verse-number id="1Th 2:16">16</verse-number> <b>ὀργὴ</b> WH Treg RP NA ] + τοῦ θεοῦ NIV</p>
-<p><verse-number id="1Th 2:18">18</verse-number> <b>διότι</b> WH Treg NIV ] διό RP</p>
+<verse>1 Thessalonians 1:7</verse>
+<note>7 τύπον WH Treg NA28 ] τύπους RP </note>
+<note>• ἐν WH Treg NA28 ] – RP</note>
 
-<p><verse-number id="1Th 3:2">3:2</verse-number> <b>συνεργὸν</b> NIV ] διάκονον WH Treg RP • <b>θεοῦ</b> WH Treg NIV ] + καὶ συνεργὸν ἡμῶν RP • <b>ὑπὲρ</b> WH Treg NIV ] ὑμᾶς περὶ RP</p>
-<p><verse-number id="1Th 3:7">7</verse-number> <b>ἀνάγκῃ καὶ θλίψει</b> WH Treg NIV ] θλίψει καὶ ἀνάγκῃ RP</p>
-<p><verse-number id="1Th 3:11">11</verse-number> <b>Ἰησοῦς</b> WH Treg NIV ] + Χριστός RP</p>
-<p><verse-number id="1Th 3:13">13</verse-number> <b>Ἰησοῦ</b> WH Treg NIV ] + Χριστοῦ RP • <b>αὐτοῦ</b> WH Treg NIV RP ] + ἀμήν NA</p>
+<verse>1 Thessalonians 1:8</verse>
+<note>8 καὶ WH Treg ] + ἐν τῇ NA28 RP </note>
+<note>• ἀλλʼ WH Treg NA28 ] ἀλλὰ καὶ RP </note>
+<note>• ἔχειν ἡμᾶς WH Treg NA28 ] ἡμᾶς ἔχειν RP</note>
 
-<p><verse-number id="1Th 4:1">4:1</verse-number> <b>οὖν</b> Treg NIV RP ] – WH • <b>ἵνα</b> WH Treg NIV ] – RP • <b>καθὼς καὶ περιπατεῖτε</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="1Th 4:6">6</verse-number> <b>κύριος</b> WH Treg NIV ] ὁ κύριος RP</p>
-<p><verse-number id="1Th 4:8">8</verse-number> <b>καὶ</b> NIV RP ] – WH Treg • <b>διδόντα</b> WH Treg NIV ] δόντα RP</p>
-<p><verse-number id="1Th 4:11">11</verse-number> <b>ταῖς</b> WH Treg NIV ] + ἰδίαις RP NA</p>
-<p><verse-number id="1Th 4:13">13</verse-number> <b>κοιμωμένων</b> WH Treg NIV ] κεκοιμημένων RP</p>
+<verse>1 Thessalonians 1:10</verse>
+<note>10 ἐκ WH Treg NA28 ] ἀπὸ RP</note>
 
-<p><verse-number id="1Th 5:2">5:2</verse-number> <b>ὅτι</b> WH Treg NIV ] + ἡ RP</p>
-<p><verse-number id="1Th 5:3">3</verse-number> <b>ὅταν</b> WH Treg NIV ] + γὰρ RP</p>
-<p><verse-number id="1Th 5:4">4</verse-number> <b>κλέπτης</b> Treg NIV RP ] κλέπτας WH</p>
-<p><verse-number id="1Th 5:5">5</verse-number> <b>γὰρ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="1Th 5:6">6</verse-number> <b>ὡς</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="1Th 5:10">10</verse-number> <b>περὶ</b> WH Treg ] ὑπὲρ NIV RP</p>
-<p><verse-number id="1Th 5:13">13</verse-number> <b>ὑπερεκπερισσοῦ</b> WH NIV RP ] ὑπερεκπερισσῶς Treg • <b>ἑαυτοῖς</b> WH NIV RP ] αὐτοῖς Treg</p>
-<p><verse-number id="1Th 5:15">15</verse-number> <b>διώκετε</b> WH Treg ] + καὶ NIV RP</p>
-<p><verse-number id="1Th 5:25">25</verse-number> <b>προσεύχεσθε</b> Treg RP ] + καὶ WH NIV</p>
-<p><verse-number id="1Th 5:27">27</verse-number> <b>ἐνορκίζω</b> WH Treg NIV ] Ὁρκίζω RP • <b>τοῖς</b> WH Treg NIV ] + ἁγίοις RP</p>
-<p><verse-number id="1Th 5:28">28</verse-number> <b>ὑμῶν</b> WH Treg NIV ] + Ἀμήν RP</p>
+<verse>1 Thessalonians 2:3</verse>
+<note>2:3 οὐδὲ WH Treg NA28 ] οὔτε RP</note>
 
+<verse>1 Thessalonians 2:4</verse>
+<note>4 θεῷ WH Treg NA28 ] τῷ θεῷ RP</note>
 
+<verse>1 Thessalonians 2:5</verse>
+<note>5 ἐν Treg NA28 RP ] – WH</note>
 
+<verse>1 Thessalonians 2:7</verse>
+<note>7 ἤπιοι Treg NIV RP ] νήπιοι WH NA28 </note>
+<note>• ἐὰν WH Treg NA28 ] ἂν RP</note>
+
+<verse>1 Thessalonians 2:8</verse>
+<note>8 ἐγενήθητε WH Treg NA28 ] γεγένησθε RP</note>
+
+<verse>1 Thessalonians 2:9</verse>
+<note>9 νυκτὸς WH Treg NA28 ] + γάρ RP</note>
+
+<verse>1 Thessalonians 2:12</verse>
+<note>12 περιπατεῖν WH Treg NA28 ] περιπατῆσαι RP</note>
+
+<verse>1 Thessalonians 2:13</verse>
+<note>13 Καὶ WH Treg NA28 ] – RP </note>
+<note>• ἀληθῶς ἐστὶν WH ] ἐστιν ἀληθῶς Treg NA28 RP</note>
+
+<verse>1 Thessalonians 2:15</verse>
+<note>15 τοὺς WH Treg NA28 ] + ἰδίους RP</note>
+
+<verse>1 Thessalonians 2:16</verse>
+<note>16 ὀργὴ WH Treg RP NA28 ] + τοῦ θεοῦ NIV</note>
+
+<verse>1 Thessalonians 2:18</verse>
+<note>18 διότι WH Treg NA28 ] διό RP</note>
+
+<verse>1 Thessalonians 3:2</verse>
+<note>3:2 συνεργὸν NA28 ] διάκονον WH Treg RP </note>
+<note>• θεοῦ WH Treg NA28 ] + καὶ συνεργὸν ἡμῶν RP </note>
+<note>• ὑπὲρ WH Treg NA28 ] ὑμᾶς περὶ RP</note>
+
+<verse>1 Thessalonians 3:7</verse>
+<note>7 ἀνάγκῃ καὶ θλίψει WH Treg NA28 ] θλίψει καὶ ἀνάγκῃ RP</note>
+
+<verse>1 Thessalonians 3:11</verse>
+<note>11 Ἰησοῦς WH Treg NA28 ] + Χριστός RP</note>
+
+<verse>1 Thessalonians 3:13</verse>
+<note>13 Ἰησοῦ WH Treg NA28 ] + Χριστοῦ RP </note>
+<note>• αὐτοῦ WH Treg NIV RP ] + ἀμήν NA28</note>
+
+<verse>1 Thessalonians 4:1</verse>
+<note>4:1 οὖν Treg NA28 RP ] – WH </note>
+<note>• ἵνα WH Treg NA28 ] – RP </note>
+<note>• καθὼς καὶ περιπατεῖτε WH Treg NA28 ] – RP</note>
+
+<verse>1 Thessalonians 4:6</verse>
+<note>6 κύριος WH Treg NA28 ] ὁ κύριος RP</note>
+
+<verse>1 Thessalonians 4:8</verse>
+<note>8 καὶ NA28 RP ] – WH Treg </note>
+<note>• διδόντα WH Treg NA28 ] δόντα RP</note>
+
+<verse>1 Thessalonians 4:11</verse>
+<note>11 ταῖς WH Treg NIV ] + ἰδίαις RP NA28</note>
+
+<verse>1 Thessalonians 4:13</verse>
+<note>13 κοιμωμένων WH Treg NA28 ] κεκοιμημένων RP</note>
+
+<verse>1 Thessalonians 5:2</verse>
+<note>5:2 ὅτι WH Treg NA28 ] + ἡ RP</note>
+
+<verse>1 Thessalonians 5:3</verse>
+<note>3 ὅταν WH Treg NA28 ] + γὰρ RP</note>
+
+<verse>1 Thessalonians 5:4</verse>
+<note>4 κλέπτης Treg NA28 RP ] κλέπτας WH</note>
+
+<verse>1 Thessalonians 5:5</verse>
+<note>5 γὰρ WH Treg NA28 ] – RP</note>
+
+<verse>1 Thessalonians 5:6</verse>
+<note>6 ὡς WH Treg NA28 ] + καὶ RP</note>
+
+<verse>1 Thessalonians 5:10</verse>
+<note>10 περὶ WH Treg ] ὑπὲρ NA28 RP</note>
+
+<verse>1 Thessalonians 5:13</verse>
+<note>13 ὑπερεκπερισσοῦ WH NA28 RP ] ὑπερεκπερισσῶς Treg </note>
+<note>• ἑαυτοῖς WH NA28 RP ] αὐτοῖς Treg</note>
+
+<verse>1 Thessalonians 5:15</verse>
+<note>15 διώκετε WH Treg ] + καὶ NA28 RP</note>
+
+<verse>1 Thessalonians 5:25</verse>
+<note>25 προσεύχεσθε Treg RP ] + καὶ WH NA28</note>
+
+<verse>1 Thessalonians 5:27</verse>
+<note>27 ἐνορκίζω WH Treg NA28 ] Ὁρκίζω RP </note>
+<note>• τοῖς WH Treg NA28 ] + ἁγίοις RP</note>
+
+<verse>1 Thessalonians 5:28</verse>
+<note>28 ὑμῶν WH Treg NA28 ] + Ἀμήν RP</note>
 </book>

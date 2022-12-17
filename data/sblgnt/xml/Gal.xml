@@ -5,16 +5,16 @@
     <w>Παῦλος</w>
     <suffix></suffix>
     <w>ἀπόστολος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀνθρώπων</w>
     <suffix></suffix>
     <w>οὐδὲ</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἀνθρώπου</w>
     <suffix></suffix>
@@ -41,7 +41,7 @@
     <w>ἐκ</w>
     <suffix></suffix>
     <w>νεκρῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:2">2</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -54,7 +54,7 @@
     <w>πάντες</w>
     <suffix></suffix>
     <w>ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ταῖς</w>
     <suffix></suffix>
     <w>ἐκκλησίαις</w>
@@ -62,7 +62,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>Γαλατίας</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 1:3">3</verse-number>
     <w>χάρις</w>
     <suffix></suffix>
@@ -84,11 +84,11 @@
     <w>κυρίου</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>Ἰησοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:4">4</verse-number>
     <w>τοῦ</w>
     <suffix></suffix>
@@ -121,7 +121,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>ἐνεστῶτος</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>πονηροῦ</w>
     <suffix></suffix>
     <w>κατὰ</w>
@@ -139,7 +139,7 @@
     <w>πατρὸς</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:5">5</verse-number>
     <w>ᾧ</w>
     <suffix></suffix>
@@ -156,9 +156,9 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>αἰώνων</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἀμήν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 1:6">6</verse-number>
@@ -191,7 +191,7 @@
     <w>ἕτερον</w>
     <suffix></suffix>
     <w>εὐαγγέλιον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:7">7</verse-number>
     <w>ὃ</w>
     <suffix></suffix>
@@ -200,7 +200,7 @@
     <w>ἔστιν</w>
     <suffix></suffix>
     <w>ἄλλο</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>μή</w>
@@ -228,7 +228,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 1:8">8</verse-number>
     <w>ἀλλὰ</w>
     <suffix></suffix>
@@ -252,23 +252,23 @@
     <prefix> ⸀</prefix>
     <w>ὑμῖν</w>
     <suffix></suffix>
-    <w>παρ’</w>
+    <w>παρʼ</w>
     <suffix></suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>εὐηγγελισάμεθα</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀνάθεμα</w>
     <suffix></suffix>
     <w>ἔστω</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 1:9">9</verse-number>
     <w>ὡς</w>
     <suffix></suffix>
     <w>προειρήκαμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἄρτι</w>
@@ -276,7 +276,7 @@
     <w>πάλιν</w>
     <suffix></suffix>
     <w>λέγω</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἴ</w>
     <suffix></suffix>
     <w>τις</w>
@@ -285,16 +285,16 @@
     <suffix></suffix>
     <w>εὐαγγελίζεται</w>
     <suffix></suffix>
-    <w>παρ’</w>
+    <w>παρʼ</w>
     <suffix></suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>παρελάβετε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀνάθεμα</w>
     <suffix></suffix>
     <w>ἔστω</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 1:10">10</verse-number>
@@ -311,7 +311,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>ἢ</w>
     <suffix></suffix>
     <w>ζητῶ</w>
@@ -319,7 +319,7 @@
     <w>ἀνθρώποις</w>
     <suffix></suffix>
     <w>ἀρέσκειν</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <prefix> ⸀</prefix>
     <w>εἰ</w>
     <suffix></suffix>
@@ -328,7 +328,7 @@
     <w>ἀνθρώποις</w>
     <suffix></suffix>
     <w>ἤρεσκον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>Χριστοῦ</w>
     <suffix></suffix>
     <w>δοῦλος</w>
@@ -338,7 +338,7 @@
     <w>ἂν</w>
     <suffix></suffix>
     <w>ἤμην</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 1:11">11</verse-number>
@@ -348,9 +348,9 @@
     <w>γὰρ</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὸ</w>
     <suffix></suffix>
     <w>εὐαγγέλιον</w>
@@ -359,7 +359,7 @@
     <suffix></suffix>
     <w>εὐαγγελισθὲν</w>
     <suffix></suffix>
-    <w>ὑπ’</w>
+    <w>ὑπʼ</w>
     <suffix></suffix>
     <w>ἐμοῦ</w>
     <suffix></suffix>
@@ -372,7 +372,7 @@
     <w>κατὰ</w>
     <suffix></suffix>
     <w>ἄνθρωπον</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 1:12">12</verse-number>
     <w>οὐδὲ</w>
     <suffix></suffix>
@@ -387,22 +387,22 @@
     <w>παρέλαβον</w>
     <suffix></suffix>
     <w>αὐτό</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>οὔτε</w>
     <suffix></suffix>
     <w>ἐδιδάχθην</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἀποκαλύψεως</w>
     <suffix></suffix>
     <w>Ἰησοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 1:13">13</verse-number>
@@ -423,10 +423,10 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>Ἰουδαϊσμῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
-    <w>καθ’</w>
+    <w>καθʼ</w>
     <suffix></suffix>
     <w>ὑπερβολὴν</w>
     <suffix></suffix>
@@ -445,7 +445,7 @@
     <w>ἐπόρθουν</w>
     <suffix></suffix>
     <w>αὐτήν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:14">14</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -470,7 +470,7 @@
     <w>γένει</w>
     <suffix></suffix>
     <w>μου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>περισσοτέρως</w>
     <suffix></suffix>
     <w>ζηλωτὴς</w>
@@ -484,7 +484,7 @@
     <w>μου</w>
     <suffix></suffix>
     <w>παραδόσεων</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 1:15">15</verse-number>
     <w>ὅτε</w>
     <suffix></suffix>
@@ -543,7 +543,7 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>ἔθνεσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εὐθέως</w>
     <suffix></suffix>
     <w>οὐ</w>
@@ -555,7 +555,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>αἵματι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:17">17</verse-number>
     <w>οὐδὲ</w>
     <suffix></suffix>
@@ -574,7 +574,7 @@
     <w>ἐμοῦ</w>
     <suffix></suffix>
     <w>ἀποστόλους</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>ἀπῆλθον</w>
@@ -582,7 +582,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>Ἀραβίαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>πάλιν</w>
@@ -592,7 +592,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>Δαμασκόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 1:18">18</verse-number>
@@ -604,7 +604,7 @@
     <w>ἔτη</w>
     <suffix></suffix>
     <w>τρία</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ἀνῆλθον</w>
     <suffix></suffix>
     <w>εἰς</w>
@@ -615,7 +615,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>Κηφᾶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐπέμεινα</w>
@@ -627,7 +627,7 @@
     <w>ἡμέρας</w>
     <suffix></suffix>
     <w>δεκαπέντε</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 1:19">19</verse-number>
     <w>ἕτερον</w>
     <suffix></suffix>
@@ -640,7 +640,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>εἶδον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -654,7 +654,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>κυρίου</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 1:20">20</verse-number>
     <w>ἃ</w>
     <suffix></suffix>
@@ -663,7 +663,7 @@
     <w>γράφω</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἰδοὺ</w>
     <suffix></suffix>
     <w>ἐνώπιον</w>
@@ -677,7 +677,7 @@
     <w>οὐ</w>
     <suffix></suffix>
     <w>ψεύδομαι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 1:21">21</verse-number>
     <w>ἔπειτα</w>
     <suffix></suffix>
@@ -698,7 +698,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>Κιλικίας</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 1:22">22</verse-number>
     <w>ἤμην</w>
     <suffix></suffix>
@@ -723,7 +723,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>Χριστῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:23">23</verse-number>
     <w>μόνον</w>
     <suffix></suffix>
@@ -756,7 +756,7 @@
     <w>ποτε</w>
     <suffix></suffix>
     <w>ἐπόρθει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 1:24">24</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -769,7 +769,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 2:1">2:1</verse-number>
@@ -798,7 +798,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>Τίτον</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 2:2">2</verse-number>
     <w>ἀνέβην</w>
     <suffix></suffix>
@@ -807,7 +807,7 @@
     <w>κατὰ</w>
     <suffix></suffix>
     <w>ἀποκάλυψιν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἀνεθέμην</w>
@@ -827,8 +827,8 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>ἔθνεσιν</w>
-    <suffix>,  </suffix>
-    <w>κατ’</w>
+    <suffix>, </suffix>
+    <w>κατʼ</w>
     <suffix></suffix>
     <w>ἰδίαν</w>
     <suffix></suffix>
@@ -837,7 +837,7 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>δοκοῦσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μή</w>
     <suffix></suffix>
     <w>πως</w>
@@ -851,9 +851,9 @@
     <w>ἢ</w>
     <suffix></suffix>
     <w>ἔδραμον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:3">3</verse-number>
-    <w>ἀλλ’</w>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>οὐδὲ</w>
     <suffix></suffix>
@@ -864,15 +864,15 @@
     <w>σὺν</w>
     <suffix></suffix>
     <w>ἐμοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>Ἕλλην</w>
     <suffix></suffix>
     <w>ὤν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἠναγκάσθη</w>
     <suffix></suffix>
     <w>περιτμηθῆναι</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 2:4">4</verse-number>
     <w>διὰ</w>
     <suffix></suffix>
@@ -883,7 +883,7 @@
     <w>παρεισάκτους</w>
     <suffix></suffix>
     <w>ψευδαδέλφους</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἵτινες</w>
     <suffix></suffix>
     <w>παρεισῆλθον</w>
@@ -905,14 +905,14 @@
     <w>Χριστῷ</w>
     <suffix></suffix>
     <w>Ἰησοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>ἡμᾶς</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>καταδουλώσουσιν</w>
-    <suffix>—  </suffix>
+    <suffix>—</suffix>
     <verse-number id="Galatians 2:5">5</verse-number>
     <w>οἷς</w>
     <suffix></suffix>
@@ -927,7 +927,7 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>ὑποταγῇ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -943,7 +943,7 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:6">6</verse-number>
     <w>ἀπὸ</w>
     <suffix></suffix>
@@ -956,7 +956,7 @@
     <w>εἶναί</w>
     <suffix></suffix>
     <w>τι</w>
-    <suffix>—  </suffix>
+    <suffix>—</suffix>
     <w>ὁποῖοί</w>
     <suffix></suffix>
     <w>ποτε</w>
@@ -968,7 +968,7 @@
     <w>μοι</w>
     <suffix></suffix>
     <w>διαφέρει</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>πρόσωπον</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -979,7 +979,7 @@
     <w>οὐ</w>
     <suffix></suffix>
     <w>λαμβάνει</w>
-    <suffix>—  </suffix>
+    <suffix>—</suffix>
     <w>ἐμοὶ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -991,7 +991,7 @@
     <w>οὐδὲν</w>
     <suffix></suffix>
     <w>προσανέθεντο</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 2:7">7</verse-number>
     <w>ἀλλὰ</w>
     <suffix></suffix>
@@ -1018,7 +1018,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>περιτομῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 2:8">8</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -1047,7 +1047,7 @@
     <w>τὰ</w>
     <suffix></suffix>
     <w>ἔθνη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 2:9">9</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1062,7 +1062,7 @@
     <w>δοθεῖσάν</w>
     <suffix></suffix>
     <w>μοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>Ἰάκωβος</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -1072,7 +1072,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>Ἰωάννης</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἱ</w>
     <suffix></suffix>
     <w>δοκοῦντες</w>
@@ -1080,7 +1080,7 @@
     <w>στῦλοι</w>
     <suffix></suffix>
     <w>εἶναι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>δεξιὰς</w>
     <suffix></suffix>
     <w>ἔδωκαν</w>
@@ -1092,7 +1092,7 @@
     <w>Βαρναβᾷ</w>
     <suffix></suffix>
     <w>κοινωνίας</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -1103,7 +1103,7 @@
     <w>τὰ</w>
     <suffix></suffix>
     <w>ἔθνη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>αὐτοὶ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -1113,7 +1113,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>περιτομήν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 2:10">10</verse-number>
     <w>μόνον</w>
     <suffix></suffix>
@@ -1124,7 +1124,7 @@
     <w>ἵνα</w>
     <suffix></suffix>
     <w>μνημονεύωμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -1136,9 +1136,7 @@
     <w>τοῦτο</w>
     <suffix></suffix>
     <w>ποιῆσαι</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:11">11</verse-number>
     <w>Ὅτε</w>
     <suffix></suffix>
@@ -1152,7 +1150,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>Ἀντιόχειαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κατὰ</w>
     <suffix></suffix>
     <w>πρόσωπον</w>
@@ -1160,13 +1158,13 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>ἀντέστην</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>κατεγνωσμένος</w>
     <suffix></suffix>
     <w>ἦν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 2:12">12</verse-number>
     <w>πρὸ</w>
     <suffix></suffix>
@@ -1189,14 +1187,14 @@
     <w>ἐθνῶν</w>
     <suffix></suffix>
     <w>συνήσθιεν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὅτε</w>
     <suffix></suffix>
     <w>δὲ</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἦλθον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὑπέστελλεν</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -1204,7 +1202,7 @@
     <w>ἀφώριζεν</w>
     <suffix></suffix>
     <w>ἑαυτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>φοβούμενος</w>
     <suffix></suffix>
     <w>τοὺς</w>
@@ -1212,7 +1210,7 @@
     <w>ἐκ</w>
     <suffix></suffix>
     <w>περιτομῆς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:13">13</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1228,7 +1226,7 @@
     <w>λοιποὶ</w>
     <suffix></suffix>
     <w>Ἰουδαῖοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὥστε</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -1242,9 +1240,9 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>ὑποκρίσει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:14">14</verse-number>
-    <w>ἀλλ’</w>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὅτε</w>
     <suffix></suffix>
@@ -1265,7 +1263,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>εὐαγγελίου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἶπον</w>
     <suffix></suffix>
     <w>τῷ</w>
@@ -1276,7 +1274,7 @@
     <w>ἔμπροσθεν</w>
     <suffix></suffix>
     <w>πάντων</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Εἰ</w>
     <suffix></suffix>
     <w>σὺ</w>
@@ -1296,7 +1294,7 @@
     <w>Ἰουδαϊκῶς</w>
     <suffix></suffix>
     <w>ζῇς</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <prefix> ⸀</prefix>
     <w>πῶς</w>
     <suffix></suffix>
@@ -1307,9 +1305,7 @@
     <w>ἀναγκάζεις</w>
     <suffix></suffix>
     <w>Ἰουδαΐζειν</w>
-    <suffix>;  </suffix>
-  </p>
-  <p>
+    <suffix>; </suffix>
     <verse-number id="Galatians 2:15">15</verse-number>
     <w>Ἡμεῖς</w>
     <suffix></suffix>
@@ -1326,7 +1322,7 @@
     <w>ἐθνῶν</w>
     <suffix></suffix>
     <w>ἁμαρτωλοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 2:16">16</verse-number>
     <w>εἰδότες</w>
     <suffix></suffix>
@@ -1359,7 +1355,7 @@
     <w>Ἰησοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡμεῖς</w>
@@ -1371,7 +1367,7 @@
     <w>Ἰησοῦν</w>
     <suffix></suffix>
     <w>ἐπιστεύσαμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>δικαιωθῶμεν</w>
@@ -1391,7 +1387,7 @@
     <w>ἔργων</w>
     <suffix></suffix>
     <w>νόμου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸂</prefix>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -1404,11 +1400,11 @@
     <w>οὐ</w>
     <suffix></suffix>
     <w>δικαιωθήσεται</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>πᾶσα</w>
     <suffix></suffix>
     <w>σάρξ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:17">17</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -1429,7 +1425,7 @@
     <w>αὐτοὶ</w>
     <suffix></suffix>
     <w>ἁμαρτωλοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἆρα</w>
     <suffix></suffix>
     <w>Χριστὸς</w>
@@ -1437,11 +1433,11 @@
     <w>ἁμαρτίας</w>
     <suffix></suffix>
     <w>διάκονος</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>γένοιτο</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 2:18">18</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -1456,14 +1452,14 @@
     <w>πάλιν</w>
     <suffix></suffix>
     <w>οἰκοδομῶ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>παραβάτην</w>
     <suffix></suffix>
     <w>ἐμαυτὸν</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>συνιστάνω</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:19">19</verse-number>
     <w>ἐγὼ</w>
     <suffix></suffix>
@@ -1482,11 +1478,11 @@
     <w>θεῷ</w>
     <suffix></suffix>
     <w>ζήσω</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Χριστῷ</w>
     <suffix></suffix>
     <w>συνεσταύρωμαι</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 2:20">20</verse-number>
     <w>ζῶ</w>
     <suffix></suffix>
@@ -1495,7 +1491,7 @@
     <w>οὐκέτι</w>
     <suffix></suffix>
     <w>ἐγώ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ζῇ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -1505,7 +1501,7 @@
     <w>ἐμοὶ</w>
     <suffix></suffix>
     <w>Χριστός</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -1517,7 +1513,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>σαρκί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>πίστει</w>
@@ -1534,7 +1530,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>τοῦ</w>
     <suffix></suffix>
     <w>ἀγαπήσαντός</w>
@@ -1550,7 +1546,7 @@
     <w>ὑπὲρ</w>
     <suffix></suffix>
     <w>ἐμοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 2:21">21</verse-number>
     <w>οὐκ</w>
     <suffix></suffix>
@@ -1563,7 +1559,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -1573,7 +1569,7 @@
     <w>νόμου</w>
     <suffix></suffix>
     <w>δικαιοσύνη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἄρα</w>
     <suffix></suffix>
     <w>Χριστὸς</w>
@@ -1581,26 +1577,24 @@
     <w>δωρεὰν</w>
     <suffix></suffix>
     <w>ἀπέθανεν</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:1">3:1</verse-number>
     <w>Ὦ</w>
     <suffix></suffix>
     <w>ἀνόητοι</w>
     <suffix></suffix>
     <w>Γαλάται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τίς</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἐβάσκανεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἷς</w>
     <suffix></suffix>
-    <w>κατ’</w>
+    <w>κατʼ</w>
     <suffix></suffix>
     <w>ὀφθαλμοὺς</w>
     <suffix></suffix>
@@ -1612,7 +1606,7 @@
     <w>προεγράφη</w>
     <suffix></suffix>
     <w>ἐσταυρωμένος</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 3:2">2</verse-number>
     <w>τοῦτο</w>
     <suffix></suffix>
@@ -1622,10 +1616,10 @@
     <suffix></suffix>
     <w>μαθεῖν</w>
     <suffix></suffix>
-    <w>ἀφ’</w>
+    <w>ἀφʼ</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐξ</w>
     <suffix></suffix>
     <w>ἔργων</w>
@@ -1645,14 +1639,14 @@
     <w>ἀκοῆς</w>
     <suffix></suffix>
     <w>πίστεως</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 3:3">3</verse-number>
     <w>οὕτως</w>
     <suffix></suffix>
     <w>ἀνόητοί</w>
     <suffix></suffix>
     <w>ἐστε</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>ἐναρξάμενοι</w>
     <suffix></suffix>
     <w>πνεύματι</w>
@@ -1662,14 +1656,14 @@
     <w>σαρκὶ</w>
     <suffix></suffix>
     <w>ἐπιτελεῖσθε</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 3:4">4</verse-number>
     <w>τοσαῦτα</w>
     <suffix></suffix>
     <w>ἐπάθετε</w>
     <suffix></suffix>
     <w>εἰκῇ</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>εἴ</w>
     <suffix></suffix>
     <w>γε</w>
@@ -1677,7 +1671,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>εἰκῇ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:5">5</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -1714,7 +1708,7 @@
     <w>ἀκοῆς</w>
     <suffix></suffix>
     <w>πίστεως</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 3:6">6</verse-number>
     <w>καθὼς</w>
     <suffix></suffix>
@@ -1725,7 +1719,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>θεῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐλογίσθη</w>
@@ -1735,9 +1729,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>δικαιοσύνην</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:7">7</verse-number>
     <w>Γινώσκετε</w>
     <suffix></suffix>
@@ -1750,16 +1742,16 @@
     <w>ἐκ</w>
     <suffix></suffix>
     <w>πίστεως</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὗτοι</w>
     <suffix></suffix>
     <prefix> ⸂</prefix>
     <w>υἱοί</w>
     <suffix></suffix>
     <w>εἰσιν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>Ἀβραάμ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:8">8</verse-number>
     <w>προϊδοῦσα</w>
     <suffix></suffix>
@@ -1804,7 +1796,7 @@
     <w>τὰ</w>
     <suffix></suffix>
     <w>ἔθνη</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:9">9</verse-number>
     <w>ὥστε</w>
     <suffix></suffix>
@@ -1823,9 +1815,7 @@
     <w>πιστῷ</w>
     <suffix></suffix>
     <w>Ἀβραάμ</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:10">10</verse-number>
     <w>Ὅσοι</w>
     <suffix></suffix>
@@ -1844,7 +1834,7 @@
     <w>κατάραν</w>
     <suffix></suffix>
     <w>εἰσίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>γέγραπται</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -1884,7 +1874,7 @@
     <w>ποιῆσαι</w>
     <suffix></suffix>
     <w>αὐτά</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:11">11</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -1905,7 +1895,7 @@
     <w>θεῷ</w>
     <suffix></suffix>
     <w>δῆλον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>Ὁ</w>
@@ -1917,7 +1907,7 @@
     <w>πίστεως</w>
     <suffix></suffix>
     <w>ζήσεται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 3:12">12</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -1932,9 +1922,9 @@
     <w>ἐκ</w>
     <suffix></suffix>
     <w>πίστεως</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
-    <suffix>·  </suffix>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
+    <suffix>· </suffix>
     <w>Ὁ</w>
     <suffix></suffix>
     <w>ποιήσας</w>
@@ -1947,7 +1937,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτοῖς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:13">13</verse-number>
     <w>Χριστὸς</w>
     <suffix></suffix>
@@ -1972,12 +1962,12 @@
     <w>ἡμῶν</w>
     <suffix></suffix>
     <w>κατάρα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸂</prefix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>γέγραπται</w>
-    <suffix>⸃·  </suffix>
+    <suffix>⸃· </suffix>
     <w>Ἐπικατάρατος</w>
     <suffix></suffix>
     <w>πᾶς</w>
@@ -1989,7 +1979,7 @@
     <w>ἐπὶ</w>
     <suffix></suffix>
     <w>ξύλου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 3:14">14</verse-number>
     <w>ἵνα</w>
     <suffix></suffix>
@@ -2015,7 +2005,7 @@
     <w>Χριστῷ</w>
     <suffix></suffix>
     <w>Ἰησοῦ</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>τὴν</w>
@@ -2033,18 +2023,16 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>πίστεως</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:15">15</verse-number>
     <w>Ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κατὰ</w>
     <suffix></suffix>
     <w>ἄνθρωπον</w>
     <suffix></suffix>
     <w>λέγω</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὅμως</w>
     <suffix></suffix>
     <w>ἀνθρώπου</w>
@@ -2060,7 +2048,7 @@
     <w>ἢ</w>
     <suffix></suffix>
     <w>ἐπιδιατάσσεται</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:16">16</verse-number>
     <w>τῷ</w>
     <suffix></suffix>
@@ -2081,31 +2069,31 @@
     <w>σπέρματι</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>οὐ</w>
     <suffix></suffix>
     <w>λέγει</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Καὶ</w>
     <suffix></suffix>
     <w>τοῖς</w>
     <suffix></suffix>
     <w>σπέρμασιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὡς</w>
     <suffix></suffix>
     <w>ἐπὶ</w>
     <suffix></suffix>
     <w>πολλῶν</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὡς</w>
     <suffix></suffix>
-    <w>ἐφ’</w>
+    <w>ἐφʼ</w>
     <suffix></suffix>
     <w>ἑνός</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Καὶ</w>
     <suffix></suffix>
     <w>τῷ</w>
@@ -2113,20 +2101,20 @@
     <w>σπέρματί</w>
     <suffix></suffix>
     <w>σου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅς</w>
     <suffix></suffix>
     <w>ἐστιν</w>
     <suffix></suffix>
     <w>Χριστός</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:17">17</verse-number>
     <w>τοῦτο</w>
     <suffix></suffix>
     <w>δὲ</w>
     <suffix></suffix>
     <w>λέγω</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>διαθήκην</w>
     <suffix></suffix>
     <w>προκεκυρωμένην</w>
@@ -2150,7 +2138,7 @@
     <w>τριάκοντα</w>
     <suffix></suffix>
     <w>ἔτη</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>γεγονὼς</w>
     <suffix></suffix>
     <w>νόμος</w>
@@ -2158,7 +2146,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἀκυροῖ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰς</w>
     <suffix></suffix>
     <w>τὸ</w>
@@ -2168,7 +2156,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ἐπαγγελίαν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:18">18</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -2181,20 +2169,20 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>κληρονομία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκέτι</w>
     <suffix></suffix>
     <w>ἐξ</w>
     <suffix></suffix>
     <w>ἐπαγγελίας</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>τῷ</w>
     <suffix></suffix>
     <w>δὲ</w>
     <suffix></suffix>
     <w>Ἀβραὰμ</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἐπαγγελίας</w>
     <suffix></suffix>
@@ -2203,9 +2191,7 @@
     <w>ὁ</w>
     <suffix></suffix>
     <w>θεός</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:19">19</verse-number>
     <w>Τί</w>
     <suffix></suffix>
@@ -2214,7 +2200,7 @@
     <w>ὁ</w>
     <suffix></suffix>
     <w>νόμος</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>τῶν</w>
     <suffix></suffix>
     <w>παραβάσεων</w>
@@ -2222,7 +2208,7 @@
     <w>χάριν</w>
     <suffix></suffix>
     <w>προσετέθη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἄχρις</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -2237,10 +2223,10 @@
     <w>ᾧ</w>
     <suffix></suffix>
     <w>ἐπήγγελται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>διαταγεὶς</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἀγγέλων</w>
     <suffix></suffix>
@@ -2249,7 +2235,7 @@
     <w>χειρὶ</w>
     <suffix></suffix>
     <w>μεσίτου</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 3:20">20</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -2262,7 +2248,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -2272,9 +2258,7 @@
     <w>εἷς</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:21">21</verse-number>
     <w>Ὁ</w>
     <suffix></suffix>
@@ -2291,11 +2275,11 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>γένοιτο</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -2309,22 +2293,22 @@
     <w>δυνάμενος</w>
     <suffix></suffix>
     <w>ζῳοποιῆσαι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὄντως</w>
     <suffix></suffix>
     <prefix> ⸂</prefix>
     <w>ἐκ</w>
     <suffix></suffix>
-    <w>νόμου</w>
+    <w>νόμου</w>
     <suffix></suffix>
     <w>ἂν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ἦν</w>
     <suffix></suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>δικαιοσύνη</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:22">22</verse-number>
     <w>ἀλλὰ</w>
     <suffix></suffix>
@@ -2361,9 +2345,7 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>πιστεύουσιν</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:23">23</verse-number>
     <w>Πρὸ</w>
     <suffix></suffix>
@@ -2395,7 +2377,7 @@
     <w>πίστιν</w>
     <suffix></suffix>
     <w>ἀποκαλυφθῆναι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:24">24</verse-number>
     <w>ὥστε</w>
     <suffix></suffix>
@@ -2412,7 +2394,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>Χριστόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>ἐκ</w>
@@ -2420,7 +2402,7 @@
     <w>πίστεως</w>
     <suffix></suffix>
     <w>δικαιωθῶμεν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 3:25">25</verse-number>
     <w>ἐλθούσης</w>
     <suffix></suffix>
@@ -2437,7 +2419,7 @@
     <w>παιδαγωγόν</w>
     <suffix></suffix>
     <w>ἐσμεν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:26">26</verse-number>
     <w>πάντες</w>
     <suffix></suffix>
@@ -2460,7 +2442,7 @@
     <w>Χριστῷ</w>
     <suffix></suffix>
     <w>Ἰησοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:27">27</verse-number>
     <w>ὅσοι</w>
     <suffix></suffix>
@@ -2471,11 +2453,11 @@
     <w>Χριστὸν</w>
     <suffix></suffix>
     <w>ἐβαπτίσθητε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>Χριστὸν</w>
     <suffix></suffix>
     <w>ἐνεδύσασθε</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 3:28">28</verse-number>
     <w>οὐκ</w>
     <suffix></suffix>
@@ -2486,7 +2468,7 @@
     <w>οὐδὲ</w>
     <suffix></suffix>
     <w>Ἕλλην</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔνι</w>
@@ -2496,7 +2478,7 @@
     <w>οὐδὲ</w>
     <suffix></suffix>
     <w>ἐλεύθερος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔνι</w>
@@ -2506,7 +2488,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>θῆλυ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <prefix> ⸀</prefix>
     <w>πάντες</w>
     <suffix></suffix>
@@ -2523,7 +2505,7 @@
     <w>Χριστῷ</w>
     <suffix></suffix>
     <w>Ἰησοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 3:29">29</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -2532,7 +2514,7 @@
     <w>ὑμεῖς</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἄρα</w>
     <suffix></suffix>
     <w>τοῦ</w>
@@ -2542,22 +2524,20 @@
     <w>σπέρμα</w>
     <suffix></suffix>
     <w>ἐστέ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
-    <w>κατ’</w>
+    <w>κατʼ</w>
     <suffix></suffix>
     <w>ἐπαγγελίαν</w>
     <suffix></suffix>
     <w>κληρονόμοι</w>
-    <suffix>.  </suffix>
-  </p>
-  <p>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:1">4:1</verse-number>
     <w>Λέγω</w>
     <suffix></suffix>
     <w>δέ</w>
-    <suffix>,  </suffix>
-    <w>ἐφ’</w>
+    <suffix>, </suffix>
+    <w>ἐφʼ</w>
     <suffix></suffix>
     <w>ὅσον</w>
     <suffix></suffix>
@@ -2570,7 +2550,7 @@
     <w>νήπιός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐδὲν</w>
     <suffix></suffix>
     <w>διαφέρει</w>
@@ -2582,7 +2562,7 @@
     <w>πάντων</w>
     <suffix></suffix>
     <w>ὤν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 4:2">2</verse-number>
     <w>ἀλλὰ</w>
     <suffix></suffix>
@@ -2605,20 +2585,20 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>πατρός</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:3">3</verse-number>
     <w>οὕτως</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡμεῖς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτε</w>
     <suffix></suffix>
     <w>ἦμεν</w>
     <suffix></suffix>
     <w>νήπιοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὑπὸ</w>
     <suffix></suffix>
     <w>τὰ</w>
@@ -2633,7 +2613,7 @@
     <w>ἤμεθα</w>
     <suffix></suffix>
     <w>δεδουλωμένοι</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 4:4">4</verse-number>
     <w>ὅτε</w>
     <suffix></suffix>
@@ -2648,7 +2628,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>χρόνου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐξαπέστειλεν</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -2660,19 +2640,19 @@
     <w>υἱὸν</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>γενόμενον</w>
     <suffix></suffix>
     <w>ἐκ</w>
     <suffix></suffix>
     <w>γυναικός</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>γενόμενον</w>
     <suffix></suffix>
     <w>ὑπὸ</w>
     <suffix></suffix>
     <w>νόμον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 4:5">5</verse-number>
     <w>ἵνα</w>
     <suffix></suffix>
@@ -2683,7 +2663,7 @@
     <w>νόμον</w>
     <suffix></suffix>
     <w>ἐξαγοράσῃ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>τὴν</w>
@@ -2691,7 +2671,7 @@
     <w>υἱοθεσίαν</w>
     <suffix></suffix>
     <w>ἀπολάβωμεν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:6">6</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -2700,7 +2680,7 @@
     <w>ἐστε</w>
     <suffix></suffix>
     <w>υἱοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐξαπέστειλεν</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -2725,15 +2705,15 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κρᾶζον</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Αββα</w>
     <suffix></suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>πατήρ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:7">7</verse-number>
     <w>ὥστε</w>
     <suffix></suffix>
@@ -2746,13 +2726,13 @@
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>υἱός</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>δὲ</w>
     <suffix></suffix>
     <w>υἱός</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>κληρονόμος</w>
@@ -2761,7 +2741,7 @@
     <w>διὰ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>⸃.  </suffix>
+    <suffix>⸃. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 4:8">8</verse-number>
@@ -2785,11 +2765,11 @@
     <w>φύσει</w>
     <suffix></suffix>
     <w>μὴ</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>οὖσι</w>
     <suffix></suffix>
     <w>θεοῖς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 4:9">9</verse-number>
     <w>νῦν</w>
     <suffix></suffix>
@@ -2798,7 +2778,7 @@
     <w>γνόντες</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μᾶλλον</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -2808,7 +2788,7 @@
     <w>ὑπὸ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πῶς</w>
     <suffix></suffix>
     <w>ἐπιστρέφετε</w>
@@ -2826,7 +2806,7 @@
     <w>πτωχὰ</w>
     <suffix></suffix>
     <w>στοιχεῖα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἷς</w>
     <suffix></suffix>
     <w>πάλιν</w>
@@ -2837,7 +2817,7 @@
     <w>δουλεύειν</w>
     <suffix></suffix>
     <w>θέλετε</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 4:10">10</verse-number>
     <w>ἡμέρας</w>
     <suffix></suffix>
@@ -2854,7 +2834,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐνιαυτούς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:11">11</verse-number>
     <w>φοβοῦμαι</w>
     <suffix></suffix>
@@ -2871,7 +2851,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 4:12">12</verse-number>
@@ -2880,7 +2860,7 @@
     <w>ὡς</w>
     <suffix></suffix>
     <w>ἐγώ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>κἀγὼ</w>
@@ -2888,19 +2868,19 @@
     <w>ὡς</w>
     <suffix></suffix>
     <w>ὑμεῖς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>δέομαι</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>οὐδέν</w>
     <suffix></suffix>
     <w>με</w>
     <suffix></suffix>
     <w>ἠδικήσατε</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 4:13">13</verse-number>
     <w>οἴδατε</w>
     <suffix></suffix>
@@ -2908,7 +2888,7 @@
     <suffix></suffix>
     <w>ὅτι</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἀσθένειαν</w>
     <suffix></suffix>
@@ -2923,7 +2903,7 @@
     <w>τὸ</w>
     <suffix></suffix>
     <w>πρότερον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 4:14">14</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2949,7 +2929,7 @@
     <w>οὐδὲ</w>
     <suffix></suffix>
     <w>ἐξεπτύσατε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>ὡς</w>
@@ -2961,13 +2941,13 @@
     <w>ἐδέξασθέ</w>
     <suffix></suffix>
     <w>με</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὡς</w>
     <suffix></suffix>
     <w>Χριστὸν</w>
     <suffix></suffix>
     <w>Ἰησοῦν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:15">15</verse-number>
     <prefix> ⸀</prefix>
     <w>ποῦ</w>
@@ -2980,7 +2960,7 @@
     <w>μακαρισμὸς</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>μαρτυρῶ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -3005,7 +2985,7 @@
     <w>ἐδώκατέ</w>
     <suffix></suffix>
     <w>μοι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:16">16</verse-number>
     <w>ὥστε</w>
     <suffix></suffix>
@@ -3018,7 +2998,7 @@
     <w>ἀληθεύων</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 4:17">17</verse-number>
     <w>ζηλοῦσιν</w>
     <suffix></suffix>
@@ -3027,7 +3007,7 @@
     <w>οὐ</w>
     <suffix></suffix>
     <w>καλῶς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>ἐκκλεῖσαι</w>
@@ -3035,13 +3015,13 @@
     <w>ὑμᾶς</w>
     <suffix></suffix>
     <w>θέλουσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>αὐτοὺς</w>
     <suffix></suffix>
     <w>ζηλοῦτε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:18">18</verse-number>
     <w>καλὸν</w>
     <suffix></suffix>
@@ -3055,7 +3035,7 @@
     <w>καλῷ</w>
     <suffix></suffix>
     <w>πάντοτε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -3073,13 +3053,13 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 4:19">19</verse-number>
     <prefix> ⸀</prefix>
     <w>τέκνα</w>
     <suffix></suffix>
     <w>μου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὓς</w>
     <suffix></suffix>
     <w>πάλιν</w>
@@ -3098,7 +3078,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 4:20">20</verse-number>
     <w>ἤθελον</w>
     <suffix></suffix>
@@ -3111,7 +3091,7 @@
     <w>ὑμᾶς</w>
     <suffix></suffix>
     <w>ἄρτι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἀλλάξαι</w>
@@ -3121,7 +3101,7 @@
     <w>φωνήν</w>
     <suffix></suffix>
     <w>μου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἀποροῦμαι</w>
@@ -3129,14 +3109,14 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 4:21">21</verse-number>
     <w>Λέγετέ</w>
     <suffix></suffix>
     <w>μοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἱ</w>
     <suffix></suffix>
     <w>ὑπὸ</w>
@@ -3146,7 +3126,7 @@
     <w>θέλοντες</w>
     <suffix></suffix>
     <w>εἶναι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὸν</w>
     <suffix></suffix>
     <w>νόμον</w>
@@ -3154,7 +3134,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἀκούετε</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 4:22">22</verse-number>
     <w>γέγραπται</w>
     <suffix></suffix>
@@ -3169,7 +3149,7 @@
     <w>υἱοὺς</w>
     <suffix></suffix>
     <w>ἔσχεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἕνα</w>
     <suffix></suffix>
     <w>ἐκ</w>
@@ -3187,9 +3167,9 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>ἐλευθέρας</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 4:23">23</verse-number>
-    <w>ἀλλ’</w>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὁ</w>
     <suffix></suffix>
@@ -3206,7 +3186,7 @@
     <w>σάρκα</w>
     <suffix></suffix>
     <w>γεγέννηται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -3218,17 +3198,17 @@
     <w>ἐλευθέρας</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἐπαγγελίας</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:24">24</verse-number>
     <w>ἅτινά</w>
     <suffix></suffix>
     <w>ἐστιν</w>
     <suffix></suffix>
     <w>ἀλληγορούμενα</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>αὗται</w>
     <suffix></suffix>
     <w>γάρ</w>
@@ -3238,7 +3218,7 @@
     <w>δύο</w>
     <suffix></suffix>
     <w>διαθῆκαι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μία</w>
     <suffix></suffix>
     <w>μὲν</w>
@@ -3248,19 +3228,19 @@
     <w>ὄρους</w>
     <suffix></suffix>
     <w>Σινᾶ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰς</w>
     <suffix></suffix>
     <w>δουλείαν</w>
     <suffix></suffix>
     <w>γεννῶσα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἥτις</w>
     <suffix></suffix>
     <w>ἐστὶν</w>
     <suffix></suffix>
     <w>Ἁγάρ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 4:25">25</verse-number>
     <w>τὸ</w>
     <suffix></suffix>
@@ -3280,7 +3260,7 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>Ἀραβίᾳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>συστοιχεῖ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -3290,7 +3270,7 @@
     <w>νῦν</w>
     <suffix></suffix>
     <w>Ἰερουσαλήμ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>δουλεύει</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -3303,7 +3283,7 @@
     <w>τέκνων</w>
     <suffix></suffix>
     <w>αὐτῆς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 4:26">26</verse-number>
     <w>ἡ</w>
     <suffix></suffix>
@@ -3316,7 +3296,7 @@
     <w>ἐλευθέρα</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἥτις</w>
     <suffix></suffix>
     <w>ἐστὶν</w>
@@ -3325,14 +3305,14 @@
     <w>μήτηρ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 4:27">27</verse-number>
     <w>γέγραπται</w>
     <suffix></suffix>
     <w>γάρ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Εὐφράνθητι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>στεῖρα</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -3340,19 +3320,19 @@
     <w>οὐ</w>
     <suffix></suffix>
     <w>τίκτουσα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ῥῆξον</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>βόησον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ὠδίνουσα</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>πολλὰ</w>
@@ -3376,15 +3356,15 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>ἄνδρα</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:28">28</verse-number>
     <prefix> ⸂</prefix>
     <w>ὑμεῖς</w>
     <suffix></suffix>
     <w>δέ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κατὰ</w>
     <suffix></suffix>
     <w>Ἰσαὰκ</w>
@@ -3394,9 +3374,9 @@
     <w>τέκνα</w>
     <suffix></suffix>
     <w>ἐστέ</w>
-    <suffix>⸃·  </suffix>
+    <suffix>⸃· </suffix>
     <verse-number id="Galatians 4:29">29</verse-number>
-    <w>ἀλλ’</w>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὥσπερ</w>
     <suffix></suffix>
@@ -3417,13 +3397,13 @@
     <w>κατὰ</w>
     <suffix></suffix>
     <w>πνεῦμα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὕτως</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>νῦν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:30">30</verse-number>
     <w>ἀλλὰ</w>
     <suffix></suffix>
@@ -3434,7 +3414,7 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>γραφή</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>Ἔκβαλε</w>
     <suffix></suffix>
     <w>τὴν</w>
@@ -3448,7 +3428,7 @@
     <w>υἱὸν</w>
     <suffix></suffix>
     <w>αὐτῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -3475,13 +3455,13 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>ἐλευθέρας</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 4:31">31</verse-number>
     <prefix> ⸀</prefix>
     <w>διό</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἐσμὲν</w>
@@ -3495,7 +3475,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>ἐλευθέρας</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:1">5:1</verse-number>
     <w>τῇ</w>
     <suffix></suffix>
@@ -3507,11 +3487,11 @@
     <w>Χριστὸς</w>
     <suffix></suffix>
     <w>ἠλευθέρωσεν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>στήκετε</w>
     <suffix></suffix>
     <w>οὖν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -3523,7 +3503,7 @@
     <w>δουλείας</w>
     <suffix></suffix>
     <w>ἐνέχεσθε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 5:2">2</verse-number>
@@ -3550,7 +3530,7 @@
     <w>οὐδὲν</w>
     <suffix></suffix>
     <w>ὠφελήσει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:3">3</verse-number>
     <w>μαρτύρομαι</w>
     <suffix></suffix>
@@ -3577,7 +3557,7 @@
     <w>νόμον</w>
     <suffix></suffix>
     <w>ποιῆσαι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:4">4</verse-number>
     <w>κατηργήθητε</w>
     <suffix></suffix>
@@ -3593,13 +3573,13 @@
     <w>νόμῳ</w>
     <suffix></suffix>
     <w>δικαιοῦσθε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τῆς</w>
     <suffix></suffix>
     <w>χάριτος</w>
     <suffix></suffix>
     <w>ἐξεπέσατε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:5">5</verse-number>
     <w>ἡμεῖς</w>
     <suffix></suffix>
@@ -3616,7 +3596,7 @@
     <w>δικαιοσύνης</w>
     <suffix></suffix>
     <w>ἀπεκδεχόμεθα</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:6">6</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -3637,24 +3617,24 @@
     <w>οὔτε</w>
     <suffix></suffix>
     <w>ἀκροβυστία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>πίστις</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἀγάπης</w>
     <suffix></suffix>
     <w>ἐνεργουμένη</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 5:7">7</verse-number>
     <w>Ἐτρέχετε</w>
     <suffix></suffix>
     <w>καλῶς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>τίς</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
@@ -3669,7 +3649,7 @@
     <w>μὴ</w>
     <suffix></suffix>
     <w>πείθεσθαι</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Galatians 5:8">8</verse-number>
     <w>ἡ</w>
     <suffix></suffix>
@@ -3684,7 +3664,7 @@
     <w>καλοῦντος</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:9">9</verse-number>
     <w>μικρὰ</w>
     <suffix></suffix>
@@ -3697,7 +3677,7 @@
     <w>φύραμα</w>
     <suffix></suffix>
     <w>ζυμοῖ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:10">10</verse-number>
     <w>ἐγὼ</w>
     <suffix></suffix>
@@ -3718,7 +3698,7 @@
     <w>ἄλλο</w>
     <suffix></suffix>
     <w>φρονήσετε</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -3732,21 +3712,21 @@
     <w>τὸ</w>
     <suffix></suffix>
     <w>κρίμα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅστις</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>ᾖ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:11">11</verse-number>
     <w>ἐγὼ</w>
     <suffix></suffix>
     <w>δέ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>περιτομὴν</w>
@@ -3754,13 +3734,13 @@
     <w>ἔτι</w>
     <suffix></suffix>
     <w>κηρύσσω</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τί</w>
     <suffix></suffix>
     <w>ἔτι</w>
     <suffix></suffix>
     <w>διώκομαι</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>ἄρα</w>
     <suffix></suffix>
     <w>κατήργηται</w>
@@ -3772,7 +3752,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>σταυροῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:12">12</verse-number>
     <w>ὄφελον</w>
     <suffix></suffix>
@@ -3785,7 +3765,7 @@
     <w>ἀναστατοῦντες</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 5:13">13</verse-number>
@@ -3793,14 +3773,14 @@
     <suffix></suffix>
     <w>γὰρ</w>
     <suffix></suffix>
-    <w>ἐπ’</w>
+    <w>ἐπʼ</w>
     <suffix></suffix>
     <w>ἐλευθερίᾳ</w>
     <suffix></suffix>
     <w>ἐκλήθητε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀδελφοί</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>μόνον</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -3816,7 +3796,7 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>σαρκί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>διὰ</w>
@@ -3828,7 +3808,7 @@
     <w>δουλεύετε</w>
     <suffix></suffix>
     <w>ἀλλήλοις</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 5:14">14</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -3846,11 +3826,11 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>πεπλήρωται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>τῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Ἀγαπήσεις</w>
     <suffix></suffix>
     <w>τὸν</w>
@@ -3863,7 +3843,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>σεαυτόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:15">15</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -3876,24 +3856,24 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>κατεσθίετε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>βλέπετε</w>
     <suffix></suffix>
     <w>μὴ</w>
     <suffix></suffix>
-    <w>ὑπ’</w>
+    <w>ὑπʼ</w>
     <suffix></suffix>
     <w>ἀλλήλων</w>
     <suffix></suffix>
     <w>ἀναλωθῆτε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 5:16">16</verse-number>
     <w>Λέγω</w>
     <suffix></suffix>
     <w>δέ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πνεύματι</w>
     <suffix></suffix>
     <w>περιπατεῖτε</w>
@@ -3909,7 +3889,7 @@
     <w>μὴ</w>
     <suffix></suffix>
     <w>τελέσητε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:17">17</verse-number>
     <w>ἡ</w>
     <suffix></suffix>
@@ -3924,7 +3904,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>πνεύματος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὸ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -3936,7 +3916,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>σαρκός</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ταῦτα</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -3946,7 +3926,7 @@
     <w>ἀλλήλοις</w>
     <suffix></suffix>
     <w>ἀντίκειται</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -3961,7 +3941,7 @@
     <w>ταῦτα</w>
     <suffix></suffix>
     <w>ποιῆτε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:18">18</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -3970,7 +3950,7 @@
     <w>πνεύματι</w>
     <suffix></suffix>
     <w>ἄγεσθε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἐστὲ</w>
@@ -3978,7 +3958,7 @@
     <w>ὑπὸ</w>
     <suffix></suffix>
     <w>νόμον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:19">19</verse-number>
     <w>φανερὰ</w>
     <suffix></suffix>
@@ -3993,46 +3973,46 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>σαρκός</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἅτινά</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἐστιν</w>
     <suffix></suffix>
     <w>πορνεία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀκαθαρσία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀσέλγεια</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 5:20">20</verse-number>
     <w>εἰδωλολατρία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>φαρμακεία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἔχθραι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸂</prefix>
     <w>ἔρις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ζῆλος</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>θυμοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐριθεῖαι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>διχοστασίαι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>αἱρέσεις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 5:21">21</verse-number>
     <prefix> ⸀</prefix>
     <w>φθόνοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μέθαι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κῶμοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>τὰ</w>
@@ -4040,7 +4020,7 @@
     <w>ὅμοια</w>
     <suffix></suffix>
     <w>τούτοις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἃ</w>
     <suffix></suffix>
     <w>προλέγω</w>
@@ -4069,7 +4049,7 @@
     <w>οὐ</w>
     <suffix></suffix>
     <w>κληρονομήσουσιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 5:22">22</verse-number>
@@ -4086,24 +4066,24 @@
     <w>ἐστιν</w>
     <suffix></suffix>
     <w>ἀγάπη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>χαρά</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰρήνη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μακροθυμία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>χρηστότης</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀγαθωσύνη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πίστις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 5:23">23</verse-number>
     <w>πραΰτης</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐγκράτεια</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>κατὰ</w>
     <suffix></suffix>
     <w>τῶν</w>
@@ -4115,7 +4095,7 @@
     <w>ἔστιν</w>
     <suffix></suffix>
     <w>νόμος</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:24">24</verse-number>
     <w>οἱ</w>
     <suffix></suffix>
@@ -4143,40 +4123,40 @@
     <w>ταῖς</w>
     <suffix></suffix>
     <w>ἐπιθυμίαις</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:25">25</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
     <w>ζῶμεν</w>
     <suffix></suffix>
     <w>πνεύματι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πνεύματι</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>στοιχῶμεν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 5:26">26</verse-number>
     <w>μὴ</w>
     <suffix></suffix>
     <w>γινώμεθα</w>
     <suffix></suffix>
     <w>κενόδοξοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλήλους</w>
     <suffix></suffix>
     <w>προκαλούμενοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλήλοις</w>
     <suffix></suffix>
     <w>φθονοῦντες</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 6:1">6:1</verse-number>
     <w>Ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -4190,7 +4170,7 @@
     <w>τινι</w>
     <suffix></suffix>
     <w>παραπτώματι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὑμεῖς</w>
     <suffix></suffix>
     <w>οἱ</w>
@@ -4208,11 +4188,11 @@
     <w>πνεύματι</w>
     <suffix></suffix>
     <w>πραΰτητος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>σκοπῶν</w>
     <suffix></suffix>
     <w>σεαυτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -4220,7 +4200,7 @@
     <w>σὺ</w>
     <suffix></suffix>
     <w>πειρασθῇς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:2">2</verse-number>
     <w>ἀλλήλων</w>
     <suffix></suffix>
@@ -4229,7 +4209,7 @@
     <w>βάρη</w>
     <suffix></suffix>
     <w>βαστάζετε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οὕτως</w>
@@ -4244,7 +4224,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:3">3</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -4261,12 +4241,12 @@
     <w>μηδὲν</w>
     <suffix></suffix>
     <w>ὤν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸂</prefix>
     <w>φρεναπατᾷ</w>
     <suffix></suffix>
     <w>ἑαυτόν</w>
-    <suffix>⸃·  </suffix>
+    <suffix>⸃· </suffix>
     <verse-number id="Galatians 6:4">4</verse-number>
     <w>τὸ</w>
     <suffix></suffix>
@@ -4279,7 +4259,7 @@
     <w>δοκιμαζέτω</w>
     <suffix></suffix>
     <w>ἕκαστος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>τότε</w>
@@ -4305,7 +4285,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>ἕτερον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Galatians 6:5">5</verse-number>
     <w>ἕκαστος</w>
     <suffix></suffix>
@@ -4318,7 +4298,7 @@
     <w>φορτίον</w>
     <suffix></suffix>
     <w>βαστάσει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 6:6">6</verse-number>
@@ -4343,18 +4323,18 @@
     <w>πᾶσιν</w>
     <suffix></suffix>
     <w>ἀγαθοῖς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:7">7</verse-number>
     <w>μὴ</w>
     <suffix></suffix>
     <w>πλανᾶσθε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>θεὸς</w>
     <suffix></suffix>
     <w>οὐ</w>
     <suffix></suffix>
     <w>μυκτηρίζεται</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -4365,13 +4345,13 @@
     <w>σπείρῃ</w>
     <suffix></suffix>
     <w>ἄνθρωπος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τοῦτο</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>θερίσει</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 6:8">8</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -4396,7 +4376,7 @@
     <w>θερίσει</w>
     <suffix></suffix>
     <w>φθοράν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -4420,7 +4400,7 @@
     <w>ζωὴν</w>
     <suffix></suffix>
     <w>αἰώνιον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:9">9</verse-number>
     <w>τὸ</w>
     <suffix></suffix>
@@ -4434,7 +4414,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἐγκακῶμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καιρῷ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -4446,7 +4426,7 @@
     <w>μὴ</w>
     <suffix></suffix>
     <w>ἐκλυόμενοι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:10">10</verse-number>
     <w>ἄρα</w>
     <suffix></suffix>
@@ -4458,7 +4438,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἔχομεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐργαζώμεθα</w>
     <suffix></suffix>
     <w>τὸ</w>
@@ -4468,7 +4448,7 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>πάντας</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μάλιστα</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -4482,7 +4462,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>πίστεως</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 6:11">11</verse-number>
@@ -4501,7 +4481,7 @@
     <w>ἐμῇ</w>
     <suffix></suffix>
     <w>χειρί</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:12">12</verse-number>
     <w>ὅσοι</w>
     <suffix></suffix>
@@ -4512,7 +4492,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>σαρκί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὗτοι</w>
     <suffix></suffix>
     <w>ἀναγκάζουσιν</w>
@@ -4520,7 +4500,7 @@
     <w>ὑμᾶς</w>
     <suffix></suffix>
     <w>περιτέμνεσθαι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μόνον</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -4539,7 +4519,7 @@
     <w>μὴ</w>
     <suffix></suffix>
     <w>διώκωνται</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Galatians 6:13">13</verse-number>
     <w>οὐδὲ</w>
     <suffix></suffix>
@@ -4555,7 +4535,7 @@
     <w>νόμον</w>
     <suffix></suffix>
     <w>φυλάσσουσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>θέλουσιν</w>
@@ -4575,7 +4555,7 @@
     <w>σαρκὶ</w>
     <suffix></suffix>
     <w>καυχήσωνται</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:14">14</verse-number>
     <w>ἐμοὶ</w>
     <suffix></suffix>
@@ -4606,8 +4586,8 @@
     <w>Ἰησοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
-    <w>δι’</w>
+    <suffix>, </suffix>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>οὗ</w>
     <suffix></suffix>
@@ -4621,13 +4601,13 @@
     <w>κἀγὼ</w>
     <suffix></suffix>
     <w>κόσμῳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:15">15</verse-number>
     <prefix> ⸂</prefix>
     <w>οὔτε</w>
     <suffix></suffix>
     <w>γὰρ</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>περιτομή</w>
     <suffix></suffix>
     <w>τί</w>
@@ -4638,13 +4618,13 @@
     <w>οὔτε</w>
     <suffix></suffix>
     <w>ἀκροβυστία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>καινὴ</w>
     <suffix></suffix>
     <w>κτίσις</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Galatians 6:16">16</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -4657,17 +4637,17 @@
     <w>τούτῳ</w>
     <suffix></suffix>
     <w>στοιχήσουσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰρήνη</w>
     <suffix></suffix>
-    <w>ἐπ’</w>
+    <w>ἐπʼ</w>
     <suffix></suffix>
     <w>αὐτοὺς</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἔλεος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐπὶ</w>
@@ -4679,7 +4659,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 6:17">17</verse-number>
@@ -4694,7 +4674,7 @@
     <w>μηδεὶς</w>
     <suffix></suffix>
     <w>παρεχέτω</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐγὼ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -4717,7 +4697,7 @@
     <w>μου</w>
     <suffix></suffix>
     <w>βαστάζω</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Galatians 6:18">18</verse-number>
@@ -4742,11 +4722,11 @@
     <w>πνεύματος</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀδελφοί</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἀμήν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p />
 </book>

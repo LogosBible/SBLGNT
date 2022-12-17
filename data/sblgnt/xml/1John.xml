@@ -6,14 +6,14 @@
     <suffix></suffix>
     <w>ἦν</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>ἀκηκόαμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>ἑωράκαμεν</w>
@@ -23,7 +23,7 @@
     <w>ὀφθαλμοῖς</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>ἐθεασάμεθα</w>
@@ -37,7 +37,7 @@
     <w>ἡμῶν</w>
     <suffix></suffix>
     <w>ἐψηλάφησαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>περὶ</w>
     <suffix></suffix>
     <w>τοῦ</w>
@@ -47,7 +47,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>ζωῆς</w>
-    <suffix>—  </suffix>
+    <suffix>—</suffix>
     <verse-number id="1 John 1:2">2</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -56,7 +56,7 @@
     <w>ζωὴ</w>
     <suffix></suffix>
     <w>ἐφανερώθη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἑωράκαμεν</w>
@@ -94,7 +94,7 @@
     <w>ἐφανερώθη</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>—  </suffix>
+    <suffix>—</suffix>
     <verse-number id="1 John 1:3">3</verse-number>
     <w>ὃ</w>
     <suffix></suffix>
@@ -110,7 +110,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -121,10 +121,10 @@
     <suffix></suffix>
     <w>ἔχητε</w>
     <suffix></suffix>
-    <w>μεθ’</w>
+    <w>μεθʼ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -156,7 +156,7 @@
     <w>Ἰησοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 1:4">4</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -178,7 +178,7 @@
     <w>ᾖ</w>
     <suffix></suffix>
     <w>πεπληρωμένη</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 1:5">5</verse-number>
@@ -196,7 +196,7 @@
     <suffix></suffix>
     <w>ἀκηκόαμεν</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
     <suffix></suffix>
@@ -205,7 +205,7 @@
     <w>ἀναγγέλλομεν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -228,9 +228,9 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>οὐδεμία</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 1:6">6</verse-number>
     <w>ἐὰν</w>
     <suffix></suffix>
@@ -242,7 +242,7 @@
     <suffix></suffix>
     <w>ἔχομεν</w>
     <suffix></suffix>
-    <w>μετ’</w>
+    <w>μετʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
     <suffix></suffix>
@@ -255,7 +255,7 @@
     <w>σκότει</w>
     <suffix></suffix>
     <w>περιπατῶμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ψευδόμεθα</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -267,10 +267,11 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ἀλήθειαν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 1:7">7</verse-number>
     <w>ἐὰν</w>
     <suffix></suffix>
+    <prefix> ⸀</prefix>
     <w>δὲ</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -292,12 +293,12 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>φωτί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κοινωνίαν</w>
     <suffix></suffix>
     <w>ἔχομεν</w>
     <suffix></suffix>
-    <w>μετ’</w>
+    <w>μετʼ</w>
     <suffix></suffix>
     <w>ἀλλήλων</w>
     <suffix></suffix>
@@ -325,7 +326,7 @@
     <w>πάσης</w>
     <suffix></suffix>
     <w>ἁμαρτίας</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 1:8">8</verse-number>
     <w>ἐὰν</w>
     <suffix></suffix>
@@ -338,7 +339,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔχομεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἑαυτοὺς</w>
     <suffix></suffix>
     <w>πλανῶμεν</w>
@@ -357,7 +358,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>⸃.  </suffix>
+    <suffix>⸃. </suffix>
     <verse-number id="1 John 1:9">9</verse-number>
     <w>ἐὰν</w>
     <suffix></suffix>
@@ -368,7 +369,7 @@
     <w>ἁμαρτίας</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πιστός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -398,7 +399,7 @@
     <w>πάσης</w>
     <suffix></suffix>
     <w>ἀδικίας</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 1:10">10</verse-number>
     <w>ἐὰν</w>
     <suffix></suffix>
@@ -409,7 +410,7 @@
     <w>οὐχ</w>
     <suffix></suffix>
     <w>ἡμαρτήκαμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ψεύστην</w>
     <suffix></suffix>
     <w>ποιοῦμεν</w>
@@ -431,14 +432,14 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:1">2:1</verse-number>
     <w>Τεκνία</w>
     <suffix></suffix>
     <w>μου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ταῦτα</w>
     <suffix></suffix>
     <w>γράφω</w>
@@ -450,7 +451,7 @@
     <w>μὴ</w>
     <suffix></suffix>
     <w>ἁμάρτητε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐάν</w>
@@ -458,7 +459,7 @@
     <w>τις</w>
     <suffix></suffix>
     <w>ἁμάρτῃ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>παράκλητον</w>
     <suffix></suffix>
     <w>ἔχομεν</w>
@@ -474,7 +475,7 @@
     <w>Χριστὸν</w>
     <suffix></suffix>
     <w>δίκαιον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="1 John 2:2">2</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -491,7 +492,7 @@
     <w>ἁμαρτιῶν</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐ</w>
     <suffix></suffix>
     <w>περὶ</w>
@@ -515,7 +516,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>κόσμου</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:3">3</verse-number>
@@ -532,7 +533,7 @@
     <w>ἐγνώκαμεν</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>τὰς</w>
@@ -542,7 +543,7 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>τηρῶμεν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:4">4</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -570,7 +571,7 @@
     <w>ψεύστης</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -584,11 +585,11 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 2:5">5</verse-number>
     <w>ὃς</w>
     <suffix></suffix>
-    <w>δ’</w>
+    <w>δʼ</w>
     <suffix></suffix>
     <w>ἂν</w>
     <suffix></suffix>
@@ -599,7 +600,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>λόγον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀληθῶς</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -615,7 +616,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>τετελείωται</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>τούτῳ</w>
@@ -629,7 +630,7 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>ἐσμεν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 2:6">6</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -655,13 +656,13 @@
     <w>αὐτὸς</w>
     <suffix></suffix>
     <w>περιπατεῖν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:7">7</verse-number>
     <prefix> ⸀</prefix>
     <w>Ἀγαπητοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἐντολὴν</w>
@@ -671,8 +672,8 @@
     <w>γράφω</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ἐντολὴν</w>
     <suffix></suffix>
@@ -682,10 +683,10 @@
     <suffix></suffix>
     <w>εἴχετε</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἐντολὴ</w>
@@ -704,7 +705,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἠκούσατε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:8">8</verse-number>
     <w>πάλιν</w>
     <suffix></suffix>
@@ -715,7 +716,7 @@
     <w>γράφω</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅ</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -731,7 +732,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -753,7 +754,7 @@
     <w>ἤδη</w>
     <suffix></suffix>
     <w>φαίνει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:9">9</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -788,7 +789,7 @@
     <w>ἕως</w>
     <suffix></suffix>
     <w>ἄρτι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:10">10</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -807,7 +808,7 @@
     <w>φωτὶ</w>
     <suffix></suffix>
     <w>μένει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>σκάνδαλον</w>
@@ -819,7 +820,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 2:11">11</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -850,7 +851,7 @@
     <w>σκοτίᾳ</w>
     <suffix></suffix>
     <w>περιπατεῖ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οὐκ</w>
@@ -860,7 +861,7 @@
     <w>ποῦ</w>
     <suffix></suffix>
     <w>ὑπάγει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -874,16 +875,16 @@
     <w>ὀφθαλμοὺς</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:12">12</verse-number>
     <w>Γράφω</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τεκνία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἀφέωνται</w>
@@ -901,30 +902,30 @@
     <w>ὄνομα</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 2:13">13</verse-number>
     <w>γράφω</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πατέρες</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἐγνώκατε</w>
     <suffix></suffix>
     <w>τὸν</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>γράφω</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>νεανίσκοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>νενικήκατε</w>
@@ -932,15 +933,15 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>πονηρόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:14">14</verse-number>
     <prefix> ⸀</prefix>
     <w>ἔγραψα</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>παιδία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἐγνώκατε</w>
@@ -948,29 +949,29 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>πατέρα</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἔγραψα</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πατέρες</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἐγνώκατε</w>
     <suffix></suffix>
     <w>τὸν</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἔγραψα</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>νεανίσκοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἰσχυροί</w>
@@ -1000,7 +1001,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>πονηρόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:15">15</verse-number>
@@ -1021,7 +1022,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>κόσμῳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>ἐάν</w>
     <suffix></suffix>
     <w>τις</w>
@@ -1031,7 +1032,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>κόσμον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
@@ -1047,7 +1048,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 2:16">16</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -1060,7 +1061,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>κόσμῳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἐπιθυμία</w>
@@ -1088,7 +1089,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>βίου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
@@ -1098,7 +1099,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>πατρός</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>ἐκ</w>
@@ -1108,7 +1109,7 @@
     <w>κόσμου</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 2:17">17</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1125,7 +1126,7 @@
     <w>ἐπιθυμία</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -1147,18 +1148,18 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>αἰῶνα</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:18">18</verse-number>
     <w>Παιδία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐσχάτη</w>
     <suffix></suffix>
     <w>ὥρα</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>καθὼς</w>
@@ -1171,7 +1172,7 @@
     <w>ἀντίχριστος</w>
     <suffix></suffix>
     <w>ἔρχεται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>νῦν</w>
@@ -1181,7 +1182,7 @@
     <w>πολλοὶ</w>
     <suffix></suffix>
     <w>γεγόνασιν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὅθεν</w>
     <suffix></suffix>
     <w>γινώσκομεν</w>
@@ -1193,15 +1194,15 @@
     <w>ὥρα</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:19">19</verse-number>
     <w>ἐξ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
     <suffix></suffix>
     <w>ἐξῆλθαν</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>οὐκ</w>
     <suffix></suffix>
@@ -1210,7 +1211,7 @@
     <w>ἐξ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -1221,16 +1222,16 @@
     <w>ἡμῶν</w>
     <suffix></suffix>
     <w>ἦσαν</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>μεμενήκεισαν</w>
     <suffix></suffix>
     <w>ἂν</w>
     <suffix></suffix>
-    <w>μεθ’</w>
+    <w>μεθʼ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>·  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>· </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ἵνα</w>
     <suffix></suffix>
@@ -1247,7 +1248,7 @@
     <w>ἐξ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:20">20</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1270,7 +1271,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>πάντες</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 2:21">21</verse-number>
     <w>οὐκ</w>
     <suffix></suffix>
@@ -1287,15 +1288,15 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ἀλήθειαν</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>οἴδατε</w>
     <suffix></suffix>
     <w>αὐτήν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὅτι</w>
@@ -1313,7 +1314,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:22">22</verse-number>
     <w>τίς</w>
     <suffix></suffix>
@@ -1342,7 +1343,7 @@
     <w>ὁ</w>
     <suffix></suffix>
     <w>χριστός</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>οὗτός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -1350,7 +1351,7 @@
     <w>ὁ</w>
     <suffix></suffix>
     <w>ἀντίχριστος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>ἀρνούμενος</w>
@@ -1364,7 +1365,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>υἱόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:23">23</verse-number>
     <w>πᾶς</w>
     <suffix></suffix>
@@ -1383,7 +1384,7 @@
     <w>πατέρα</w>
     <suffix></suffix>
     <w>ἔχει</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <prefix> ⸂</prefix>
     <w>ὁ</w>
     <suffix></suffix>
@@ -1400,7 +1401,7 @@
     <w>πατέρα</w>
     <suffix></suffix>
     <w>ἔχει</w>
-    <suffix>⸃.  </suffix>
+    <suffix>⸃. </suffix>
     <verse-number id="1 John 2:24">24</verse-number>
     <prefix> ⸀</prefix>
     <w>ὑμεῖς</w>
@@ -1409,16 +1410,16 @@
     <suffix></suffix>
     <w>ἠκούσατε</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
     <suffix></suffix>
     <w>μενέτω</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -1429,12 +1430,12 @@
     <suffix></suffix>
     <w>ὃ</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
     <suffix></suffix>
     <w>ἠκούσατε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὑμεῖς</w>
@@ -1454,7 +1455,7 @@
     <w>πατρὶ</w>
     <suffix></suffix>
     <w>μενεῖτε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:25">25</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1473,7 +1474,7 @@
     <w>ἐπηγγείλατο</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὴν</w>
     <suffix></suffix>
     <w>ζωὴν</w>
@@ -1481,7 +1482,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>αἰώνιον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:26">26</verse-number>
@@ -1498,7 +1499,7 @@
     <w>πλανώντων</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:27">27</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1512,7 +1513,7 @@
     <suffix></suffix>
     <w>ἐλάβετε</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
     <suffix></suffix>
@@ -1522,7 +1523,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οὐ</w>
@@ -1538,8 +1539,8 @@
     <w>διδάσκῃ</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>·  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>· </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὡς</w>
     <suffix></suffix>
@@ -1557,7 +1558,7 @@
     <w>περὶ</w>
     <suffix></suffix>
     <w>πάντων</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἀληθές</w>
@@ -1571,7 +1572,7 @@
     <w>ἔστιν</w>
     <suffix></suffix>
     <w>ψεῦδος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>καθὼς</w>
@@ -1579,29 +1580,29 @@
     <w>ἐδίδαξεν</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>μένετε</w>
     <suffix></suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 2:28">28</verse-number>
     <w>Καὶ</w>
     <suffix></suffix>
     <w>νῦν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τεκνία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μένετε</w>
     <suffix></suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -1620,7 +1621,7 @@
     <suffix></suffix>
     <w>αἰσχυνθῶμεν</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
     <suffix></suffix>
@@ -1631,7 +1632,7 @@
     <w>παρουσίᾳ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 2:29">29</verse-number>
     <w>ἐὰν</w>
     <suffix></suffix>
@@ -1642,7 +1643,7 @@
     <w>δίκαιός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>γινώσκετε</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -1663,7 +1664,7 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>γεγέννηται</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:1">3:1</verse-number>
     <w>ἴδετε</w>
     <suffix></suffix>
@@ -1686,12 +1687,12 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>κληθῶμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸂</prefix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐσμέν</w>
-    <suffix>⸃.  </suffix>
+    <suffix>⸃. </suffix>
     <w>διὰ</w>
     <suffix></suffix>
     <w>τοῦτο</w>
@@ -1714,10 +1715,10 @@
     <w>ἔγνω</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:2">2</verse-number>
     <w>ἀγαπητοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>νῦν</w>
     <suffix></suffix>
     <w>τέκνα</w>
@@ -1725,7 +1726,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἐσμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οὔπω</w>
@@ -1735,7 +1736,7 @@
     <w>τί</w>
     <suffix></suffix>
     <w>ἐσόμεθα</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <prefix> ⸀</prefix>
     <w>οἴδαμεν</w>
     <suffix></suffix>
@@ -1750,7 +1751,7 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>ἐσόμεθα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ὀψόμεθα</w>
@@ -1760,7 +1761,7 @@
     <w>καθώς</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:3">3</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1776,7 +1777,7 @@
     <suffix></suffix>
     <w>ταύτην</w>
     <suffix></suffix>
-    <w>ἐπ’</w>
+    <w>ἐπʼ</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
     <suffix></suffix>
@@ -1791,7 +1792,7 @@
     <w>ἁγνός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 3:4">4</verse-number>
@@ -1812,7 +1813,7 @@
     <w>ἀνομίαν</w>
     <suffix></suffix>
     <w>ποιεῖ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -1824,7 +1825,7 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἀνομία</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:5">5</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1844,7 +1845,7 @@
     <w>ἁμαρτίας</w>
     <suffix></suffix>
     <w>ἄρῃ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἁμαρτία</w>
@@ -1856,7 +1857,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:6">6</verse-number>
     <w>πᾶς</w>
     <suffix></suffix>
@@ -1871,7 +1872,7 @@
     <w>οὐχ</w>
     <suffix></suffix>
     <w>ἁμαρτάνει</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>πᾶς</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -1889,16 +1890,17 @@
     <w>ἔγνωκεν</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:7">7</verse-number>
+    <prefix> ⸀</prefix>
     <w>τεκνία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μηδεὶς</w>
     <suffix></suffix>
     <w>πλανάτω</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>ποιῶν</w>
@@ -1910,7 +1912,7 @@
     <w>δίκαιός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καθὼς</w>
     <suffix></suffix>
     <w>ἐκεῖνος</w>
@@ -1918,7 +1920,7 @@
     <w>δίκαιός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 3:8">8</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -1935,10 +1937,10 @@
     <w>διαβόλου</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
     <suffix></suffix>
@@ -1947,7 +1949,7 @@
     <w>διάβολος</w>
     <suffix></suffix>
     <w>ἁμαρτάνει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>εἰς</w>
     <suffix></suffix>
     <w>τοῦτο</w>
@@ -1973,7 +1975,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>διαβόλου</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:9">9</verse-number>
     <w>πᾶς</w>
     <suffix></suffix>
@@ -1992,7 +1994,7 @@
     <w>οὐ</w>
     <suffix></suffix>
     <w>ποιεῖ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>σπέρμα</w>
@@ -2004,7 +2006,7 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>μένει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οὐ</w>
@@ -2012,7 +2014,7 @@
     <w>δύναται</w>
     <suffix></suffix>
     <w>ἁμαρτάνειν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἐκ</w>
@@ -2022,7 +2024,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>γεγέννηται</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:10">10</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -2049,7 +2051,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>διαβόλου</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>πᾶς</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -2069,7 +2071,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -2083,7 +2085,7 @@
     <w>ἀδελφὸν</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 3:11">11</verse-number>
@@ -2101,16 +2103,16 @@
     <suffix></suffix>
     <w>ἠκούσατε</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>ἀρχῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>ἀγαπῶμεν</w>
     <suffix></suffix>
     <w>ἀλλήλους</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 3:12">12</verse-number>
     <w>οὐ</w>
     <suffix></suffix>
@@ -2135,7 +2137,7 @@
     <w>ἀδελφὸν</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>χάριν</w>
@@ -2145,7 +2147,7 @@
     <w>ἔσφαξεν</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>τὰ</w>
@@ -2157,7 +2159,7 @@
     <w>πονηρὰ</w>
     <suffix></suffix>
     <w>ἦν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὰ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -2169,16 +2171,16 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>δίκαια</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:13">13</verse-number>
     <prefix> ⸀</prefix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>θαυμάζετε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>ἀδελφοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>μισεῖ</w>
@@ -2188,7 +2190,7 @@
     <w>ὁ</w>
     <suffix></suffix>
     <w>κόσμος</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:14">14</verse-number>
     <w>ἡμεῖς</w>
     <suffix></suffix>
@@ -2209,7 +2211,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ζωήν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἀγαπῶμεν</w>
@@ -2217,7 +2219,7 @@
     <w>τοὺς</w>
     <suffix></suffix>
     <w>ἀδελφούς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -2232,7 +2234,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>θανάτῳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:15">15</verse-number>
     <w>πᾶς</w>
     <suffix></suffix>
@@ -2249,7 +2251,7 @@
     <w>ἀνθρωποκτόνος</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οἴδατε</w>
@@ -2274,7 +2276,7 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>μένουσαν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:16">16</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -2285,7 +2287,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ἀγάπην</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἐκεῖνος</w>
@@ -2301,7 +2303,7 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>ἔθηκεν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡμεῖς</w>
@@ -2320,11 +2322,11 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>θεῖναι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:17">17</verse-number>
     <w>ὃς</w>
     <suffix></suffix>
-    <w>δ’</w>
+    <w>δʼ</w>
     <suffix></suffix>
     <w>ἂν</w>
     <suffix></suffix>
@@ -2362,10 +2364,10 @@
     <suffix></suffix>
     <w>αὐτοῦ</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πῶς</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -2381,13 +2383,13 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
   </p>
   <p>
     <verse-number id="1 John 3:18">18</verse-number>
     <prefix> ⸀</prefix>
     <w>Τεκνία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>ἀγαπῶμεν</w>
@@ -2409,7 +2411,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἀληθείᾳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:19">19</verse-number>
     <prefix> ⸀</prefix>
     <w>ἐν</w>
@@ -2428,7 +2430,7 @@
     <w>ἀληθείας</w>
     <suffix></suffix>
     <w>ἐσμέν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἔμπροσθεν</w>
@@ -2441,7 +2443,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>καρδίαν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ἡμῶν</w>
     <suffix></suffix>
     <verse-number id="1 John 3:20">20</verse-number>
@@ -2456,7 +2458,7 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>καρδία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>μείζων</w>
@@ -2478,10 +2480,10 @@
     <w>γινώσκει</w>
     <suffix></suffix>
     <w>πάντα</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:21">21</verse-number>
     <w>ἀγαπητοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -2494,7 +2496,7 @@
     <w>καταγινώσκῃ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>παρρησίαν</w>
     <suffix></suffix>
     <w>ἔχομεν</w>
@@ -2504,7 +2506,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="1 John 3:22">22</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2518,10 +2520,10 @@
     <w>λαμβάνομεν</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>τὰς</w>
@@ -2543,7 +2545,7 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>ποιοῦμεν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:23">23</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2556,7 +2558,7 @@
     <w>ἐντολὴ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -2581,7 +2583,7 @@
     <w>ἀγαπῶμεν</w>
     <suffix></suffix>
     <w>ἀλλήλους</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καθὼς</w>
     <suffix></suffix>
     <w>ἔδωκεν</w>
@@ -2590,7 +2592,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἡμῖν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 3:24">24</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2617,7 +2619,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -2633,7 +2635,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐκ</w>
     <suffix></suffix>
     <w>τοῦ</w>
@@ -2645,12 +2647,12 @@
     <w>ἡμῖν</w>
     <suffix></suffix>
     <w>ἔδωκεν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 4:1">4:1</verse-number>
     <w>Ἀγαπητοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>παντὶ</w>
@@ -2658,7 +2660,7 @@
     <w>πνεύματι</w>
     <suffix></suffix>
     <w>πιστεύετε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>δοκιμάζετε</w>
@@ -2676,7 +2678,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>πολλοὶ</w>
@@ -2690,7 +2692,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>κόσμον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:2">2</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -2706,7 +2708,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>πᾶν</w>
     <suffix></suffix>
     <w>πνεῦμα</w>
@@ -2732,7 +2734,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="1 John 4:3">3</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2761,7 +2763,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>τοῦτό</w>
@@ -2773,7 +2775,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>ἀντιχρίστου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>ἀκηκόατε</w>
@@ -2781,7 +2783,7 @@
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἔρχεται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>νῦν</w>
@@ -2795,7 +2797,7 @@
     <w>ἐστὶν</w>
     <suffix></suffix>
     <w>ἤδη</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:4">4</verse-number>
     <w>ὑμεῖς</w>
     <suffix></suffix>
@@ -2806,15 +2808,15 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἐστε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τεκνία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>νενικήκατε</w>
     <suffix></suffix>
     <w>αὐτούς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>μείζων</w>
@@ -2836,7 +2838,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>κόσμῳ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 4:5">5</verse-number>
     <w>αὐτοὶ</w>
     <suffix></suffix>
@@ -2847,7 +2849,7 @@
     <w>κόσμου</w>
     <suffix></suffix>
     <w>εἰσίν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>διὰ</w>
     <suffix></suffix>
     <w>τοῦτο</w>
@@ -2869,7 +2871,7 @@
     <w>αὐτῶν</w>
     <suffix></suffix>
     <w>ἀκούει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:6">6</verse-number>
     <w>ἡμεῖς</w>
     <suffix></suffix>
@@ -2880,7 +2882,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἐσμεν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>γινώσκων</w>
@@ -2892,7 +2894,7 @@
     <w>ἀκούει</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὃς</w>
     <suffix></suffix>
     <w>οὐκ</w>
@@ -2910,7 +2912,7 @@
     <w>ἀκούει</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>ἐκ</w>
     <suffix></suffix>
     <w>τούτου</w>
@@ -2934,16 +2936,16 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>πλάνης</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 4:7">7</verse-number>
     <w>Ἀγαπητοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀγαπῶμεν</w>
     <suffix></suffix>
     <w>ἀλλήλους</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -2957,7 +2959,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>πᾶς</w>
@@ -2981,7 +2983,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:8">8</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -2996,7 +2998,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -3006,7 +3008,7 @@
     <w>ἀγάπη</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:9">9</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -3025,7 +3027,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>τὸν</w>
@@ -3054,10 +3056,10 @@
     <suffix></suffix>
     <w>ζήσωμεν</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:10">10</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -3068,7 +3070,7 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἀγάπη</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐχ</w>
     <suffix></suffix>
     <w>ὅτι</w>
@@ -3081,8 +3083,8 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -3111,10 +3113,10 @@
     <w>ἁμαρτιῶν</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:11">11</verse-number>
     <w>ἀγαπητοί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰ</w>
     <suffix></suffix>
     <w>οὕτως</w>
@@ -3126,7 +3128,7 @@
     <w>ἠγάπησεν</w>
     <suffix></suffix>
     <w>ἡμᾶς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡμεῖς</w>
@@ -3136,7 +3138,7 @@
     <w>ἀλλήλους</w>
     <suffix></suffix>
     <w>ἀγαπᾶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:12">12</verse-number>
     <w>θεὸν</w>
     <suffix></suffix>
@@ -3145,13 +3147,13 @@
     <w>πώποτε</w>
     <suffix></suffix>
     <w>τεθέαται</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>ἀγαπῶμεν</w>
     <suffix></suffix>
     <w>ἀλλήλους</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>θεὸς</w>
@@ -3178,7 +3180,7 @@
     <w>τετελειωμένη</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>⸃.  </suffix>
+    <suffix>⸃. </suffix>
   </p>
   <p>
     <verse-number id="1 John 4:13">13</verse-number>
@@ -3203,7 +3205,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἐκ</w>
@@ -3217,7 +3219,7 @@
     <w>δέδωκεν</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:14">14</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -3246,7 +3248,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>κόσμου</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:15">15</verse-number>
     <w>ὃς</w>
     <suffix></suffix>
@@ -3269,7 +3271,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>θεὸς</w>
@@ -3289,7 +3291,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>θεῷ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:16">16</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -3316,7 +3318,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <w>Ὁ</w>
@@ -3326,7 +3328,7 @@
     <w>ἀγάπη</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -3359,7 +3361,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>μένει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:17">17</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -3371,10 +3373,10 @@
     <suffix></suffix>
     <w>ἀγάπη</w>
     <suffix></suffix>
-    <w>μεθ’</w>
+    <w>μεθʼ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>παρρησίαν</w>
@@ -3390,7 +3392,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>κρίσεως</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>καθὼς</w>
@@ -3412,7 +3414,7 @@
     <w>κόσμῳ</w>
     <suffix></suffix>
     <w>τούτῳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:18">18</verse-number>
     <w>φόβος</w>
     <suffix></suffix>
@@ -3425,8 +3427,8 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>ἀγάπῃ</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ἡ</w>
     <suffix></suffix>
@@ -3441,7 +3443,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>φόβον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -3451,7 +3453,7 @@
     <w>κόλασιν</w>
     <suffix></suffix>
     <w>ἔχει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -3467,13 +3469,13 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>ἀγάπῃ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:19">19</verse-number>
     <w>ἡμεῖς</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἀγαπῶμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>αὐτὸς</w>
@@ -3483,7 +3485,7 @@
     <w>ἠγάπησεν</w>
     <suffix></suffix>
     <w>ἡμᾶς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:20">20</verse-number>
     <w>ἐάν</w>
     <suffix></suffix>
@@ -3498,7 +3500,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>τὸν</w>
@@ -3508,11 +3510,11 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>μισῇ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ψεύστης</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -3530,7 +3532,7 @@
     <w>ὃν</w>
     <suffix></suffix>
     <w>ἑώρακεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὸν</w>
     <suffix></suffix>
     <w>θεὸν</w>
@@ -3547,7 +3549,7 @@
     <w>δύναται</w>
     <suffix></suffix>
     <w>ἀγαπᾶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 4:21">21</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -3559,10 +3561,10 @@
     <suffix></suffix>
     <w>ἔχομεν</w>
     <suffix></suffix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -3582,7 +3584,7 @@
     <w>ἀδελφὸν</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 5:1">5:1</verse-number>
@@ -3609,7 +3611,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>γεγέννηται</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>πᾶς</w>
@@ -3634,7 +3636,7 @@
     <w>ἐξ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:2">2</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -3653,7 +3655,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅταν</w>
     <suffix></suffix>
     <w>τὸν</w>
@@ -3672,7 +3674,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ποιῶμεν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 5:3">3</verse-number>
     <w>αὕτη</w>
     <suffix></suffix>
@@ -3697,7 +3699,7 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>τηρῶμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>αἱ</w>
@@ -3711,7 +3713,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>εἰσίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="1 John 5:4">4</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -3732,7 +3734,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>κόσμον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>αὕτη</w>
@@ -3750,13 +3752,13 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>κόσμον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>πίστις</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="1 John 5:5">5</verse-number>
     <w>τίς</w>
     <suffix></suffix>
@@ -3764,7 +3766,7 @@
     <w>δέ</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>νικῶν</w>
@@ -3794,7 +3796,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
   </p>
   <p>
     <verse-number id="1 John 5:6">6</verse-number>
@@ -3806,18 +3808,18 @@
     <suffix></suffix>
     <w>ἐλθὼν</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ὕδατος</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>αἵματος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>Ἰησοῦς</w>
     <suffix></suffix>
     <w>Χριστός</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -3828,7 +3830,7 @@
     <suffix></suffix>
     <w>μόνον</w>
     <suffix></suffix>
-    <w>ἀλλ’</w>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ἐν</w>
     <suffix></suffix>
@@ -3844,7 +3846,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>αἵματι</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>τὸ</w>
@@ -3856,7 +3858,7 @@
     <w>τὸ</w>
     <suffix></suffix>
     <w>μαρτυροῦν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>τὸ</w>
@@ -3868,7 +3870,7 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἀλήθεια</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:7">7</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -3879,7 +3881,7 @@
     <w>οἱ</w>
     <suffix></suffix>
     <w>μαρτυροῦντες</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="1 John 5:8">8</verse-number>
     <w>τὸ</w>
     <suffix></suffix>
@@ -3896,7 +3898,7 @@
     <w>τὸ</w>
     <suffix></suffix>
     <w>αἷμα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οἱ</w>
@@ -3910,7 +3912,7 @@
     <w>ἕν</w>
     <suffix></suffix>
     <w>εἰσιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:9">9</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -3923,7 +3925,7 @@
     <w>ἀνθρώπων</w>
     <suffix></suffix>
     <w>λαμβάνομεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>μαρτυρία</w>
@@ -3935,7 +3937,7 @@
     <w>μείζων</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>αὕτη</w>
@@ -3962,7 +3964,7 @@
     <w>υἱοῦ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:10">10</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -3988,7 +3990,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>αὑτῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -4004,7 +4006,7 @@
     <w>πεποίηκεν</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>οὐ</w>
@@ -4032,7 +4034,7 @@
     <w>υἱοῦ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:11">11</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -4043,7 +4045,7 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>μαρτυρία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ζωὴν</w>
@@ -4058,7 +4060,7 @@
     <w>θεὸς</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>αὕτη</w>
@@ -4076,7 +4078,7 @@
     <w>αὐτοῦ</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:12">12</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -4091,7 +4093,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ζωήν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὁ</w>
     <suffix></suffix>
     <w>μὴ</w>
@@ -4113,7 +4115,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἔχει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 5:13">13</verse-number>
@@ -4136,12 +4138,12 @@
     <w>ἔχετε</w>
     <suffix></suffix>
     <w>αἰώνιον</w>
-    <suffix>⸃,  </suffix>
+    <suffix>⸃, </suffix>
     <prefix> ⸂</prefix>
     <w>τοῖς</w>
     <suffix></suffix>
     <w>πιστεύουσιν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>εἰς</w>
     <suffix></suffix>
     <w>τὸ</w>
@@ -4155,7 +4157,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:14">14</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -4174,7 +4176,7 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅτι</w>
     <suffix></suffix>
     <w>ἐάν</w>
@@ -4194,7 +4196,7 @@
     <w>ἀκούει</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:15">15</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -4214,7 +4216,7 @@
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>αἰτώμεθα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἴδαμεν</w>
     <suffix></suffix>
     <w>ὅτι</w>
@@ -4230,10 +4232,10 @@
     <w>ᾐτήκαμεν</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
-    <w>ἀπ’</w>
+    <w>ἀπʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:16">16</verse-number>
     <w>ἐάν</w>
     <suffix></suffix>
@@ -4256,9 +4258,9 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>θάνατον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>αἰτήσει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>δώσει</w>
@@ -4266,7 +4268,7 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>ζωήν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τοῖς</w>
     <suffix></suffix>
     <w>ἁμαρτάνουσιν</w>
@@ -4276,7 +4278,7 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>θάνατον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>ἔστιν</w>
     <suffix></suffix>
     <w>ἁμαρτία</w>
@@ -4284,7 +4286,7 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>θάνατον</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>οὐ</w>
     <suffix></suffix>
     <w>περὶ</w>
@@ -4296,7 +4298,7 @@
     <w>ἵνα</w>
     <suffix></suffix>
     <w>ἐρωτήσῃ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:17">17</verse-number>
     <w>πᾶσα</w>
     <suffix></suffix>
@@ -4305,7 +4307,7 @@
     <w>ἁμαρτία</w>
     <suffix></suffix>
     <w>ἐστίν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἔστιν</w>
@@ -4317,7 +4319,7 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>θάνατον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 5:18">18</verse-number>
@@ -4340,8 +4342,8 @@
     <w>οὐχ</w>
     <suffix></suffix>
     <w>ἁμαρτάνει</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ὁ</w>
     <suffix></suffix>
@@ -4357,7 +4359,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>αὐτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -4369,7 +4371,7 @@
     <w>ἅπτεται</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:19">19</verse-number>
     <w>οἴδαμεν</w>
     <suffix></suffix>
@@ -4382,7 +4384,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἐσμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -4398,7 +4400,7 @@
     <w>πονηρῷ</w>
     <suffix></suffix>
     <w>κεῖται</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="1 John 5:20">20</verse-number>
     <w>οἴδαμεν</w>
     <suffix></suffix>
@@ -4415,7 +4417,7 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>ἥκει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>δέδωκεν</w>
@@ -4432,7 +4434,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>ἀληθινόν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐσμὲν</w>
@@ -4442,7 +4444,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>ἀληθινῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>τῷ</w>
@@ -4454,7 +4456,7 @@
     <w>Ἰησοῦ</w>
     <suffix></suffix>
     <w>Χριστῷ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>οὗτός</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -4470,12 +4472,12 @@
     <w>ζωὴ</w>
     <suffix></suffix>
     <w>αἰώνιος</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="1 John 5:21">21</verse-number>
     <w>Τεκνία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>φυλάξατε</w>
     <suffix></suffix>
     <w>ἑαυτὰ</w>
@@ -4486,7 +4488,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>εἰδώλων</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p />
 </book>

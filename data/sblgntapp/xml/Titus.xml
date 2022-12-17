@@ -1,30 +1,65 @@
 <book>
-<title>ΠΡΟΣ ΤΙΤΟΝ</title>
+<book-name>ΠΡΟΣ ΤΙΤΟΝ</book-name>
 
+<verse>Titus 1:4</verse>
+<note>1:4 καὶ WH Treg NA28 ] ἔλεος RP </note>
+<note>• Χριστοῦ Ἰησοῦ WH Treg NA28 ] κυρίου Ἰησοῦ χριστοῦ RP</note>
 
+<verse>Titus 1:5</verse>
+<note>5 ἀπέλιπόν Treg NA28 ] ἀπέλειπόν WH; κατέλιπόν RP</note>
 
+<verse>Titus 1:10</verse>
+<note>10 καὶ RP NA28 ] – WH Treg NIV </note>
+<note>• τῆς WH Treg NA28 ] – RP</note>
 
-<p><verse-number id="Tit 1:4">1:4</verse-number> <b>καὶ</b> WH Treg NIV ] ἔλεος RP • <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] κυρίου Ἰησοῦ χριστοῦ RP</p>
-<p><verse-number id="Tit 1:5">5</verse-number> <b>ἀπέλιπόν</b> Treg NIV] ἀπέλειπόν WH; κατέλιπόν RP</p>
-<p><verse-number id="Tit 1:10">10</verse-number> <b>καὶ</b> RP ] – WH Treg NIV • <b>τῆς</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Tit 1:15">15</verse-number> <b>πάντα</b> WH Treg NIV ] + μὲν RP</p>
+<verse>Titus 1:15</verse>
+<note>15 πάντα WH Treg NA28 ] + μὲν RP</note>
 
-<p><verse-number id="Tit 2:3">2:3</verse-number> <b>μηδὲ</b> WH Treg ] μὴ NIV RP</p>
-<p><verse-number id="Tit 2:4">4</verse-number> <b>σωφρονίζωσι</b> WH NIV RP] σωφρονίζουσιν Treg</p>
-<p><verse-number id="Tit 2:5">5</verse-number> <b>οἰκουργούς</b> WH Treg NIV ] οἰκουρούς RP</p>
-<p><verse-number id="Tit 2:7">7</verse-number> <b>ἀφθορίαν</b> WH Treg NIV ] ἀδιαφθορίαν RP • <b>σεμνότητα</b> WH Treg NIV ] + ἀφθαρσίαν RP</p>
-<p><verse-number id="Tit 2:8">8</verse-number> <b>λέγειν περὶ ἡμῶν</b> WH Treg NIV ] περὶ ἡμῶν λέγειν RP</p>
-<p><verse-number id="Tit 2:10">10</verse-number> <b>πᾶσαν πίστιν</b> WH Treg NIV ] πίστιν πᾶσαν RP • <b>τὴν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Tit 2:11">11</verse-number> <b>θεοῦ</b> WH Treg NIV ] + ἡ RP</p>
-<p><verse-number id="Tit 2:13">13</verse-number> <b>Ἰησοῦ Χριστοῦ</b> NIV RP ] Χριστοῦ Ἰησοῦ WH Treg</p>
+<verse>Titus 2:3</verse>
+<note>2:3 μηδὲ WH Treg ] μὴ NA28 RP</note>
 
-<p><verse-number id="Tit 3:1">3:1</verse-number> <b>ἀρχαῖς</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Tit 3:5">5</verse-number> <b>ἃ</b> WH Treg NIV ] ὧν RP • <b>τὸ αὐτοῦ ἔλεος</b> WH Treg NIV ] τὸν αὐτοῦ ἔλεον RP</p>
-<p><verse-number id="Tit 3:7">7</verse-number> <b>γενηθῶμεν</b> WH Treg NIV ] γενώμεθα RP</p>
-<p><verse-number id="Tit 3:8">8</verse-number> <b>ἐστιν</b> WH Treg NIV ] + τὰ RP</p>
-<p><verse-number id="Tit 3:9">9</verse-number> <b>ἔρεις</b> Treg NIV RP ] ἔριν WH</p>
-<p><verse-number id="Tit 3:13">13</verse-number> <b>Ἀπολλῶν</b> WH NIV ] Ἀπολλὼ Treg RP</p>
-<p><verse-number id="Tit 3:15">15</verse-number> <b>ὑμῶν</b> WH Treg NIV ] + Ἀμήν RP</p>
+<verse>Titus 2:4</verse>
+<note>4 σωφρονίζωσι WH NA28 RP ] σωφρονίζουσιν Treg</note>
 
+<verse>Titus 2:5</verse>
+<note>5 οἰκουργούς WH Treg NA28 ] οἰκουρούς RP</note>
 
+<verse>Titus 2:7</verse>
+<note>7 ἀφθορίαν WH Treg NA28 ] ἀδιαφθορίαν RP </note>
+<note>• σεμνότητα WH Treg NA28 ] + ἀφθαρσίαν RP</note>
+
+<verse>Titus 2:8</verse>
+<note>8 λέγειν περὶ ἡμῶν WH Treg NA28 ] περὶ ἡμῶν λέγειν RP</note>
+
+<verse>Titus 2:10</verse>
+<note>10 πᾶσαν πίστιν WH Treg NA28 ] πίστιν πᾶσαν RP </note>
+<note>• τὴν WH Treg NA28 ] – RP</note>
+
+<verse>Titus 2:11</verse>
+<note>11 θεοῦ WH Treg NA28 ] + ἡ RP</note>
+
+<verse>Titus 2:13</verse>
+<note>13 Ἰησοῦ Χριστοῦ NA28 RP ] Χριστοῦ Ἰησοῦ WH Treg</note>
+
+<verse>Titus 3:1</verse>
+<note>3:1 ἀρχαῖς WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Titus 3:5</verse>
+<note>5 ἃ WH Treg NA28 ] ὧν RP </note>
+<note>• τὸ αὐτοῦ ἔλεος WH Treg NA28 ] τὸν αὐτοῦ ἔλεον RP</note>
+
+<verse>Titus 3:7</verse>
+<note>7 γενηθῶμεν WH Treg NA28 ] γενώμεθα RP</note>
+
+<verse>Titus 3:8</verse>
+<note>8 ἐστιν WH Treg NA28 ] + τὰ RP</note>
+
+<verse>Titus 3:9</verse>
+<note>9 ἔρεις Treg NA28 RP ] ἔριν WH</note>
+
+<verse>Titus 3:13</verse>
+<note>13 Ἀπολλῶν WH NA28 ] Ἀπολλὼ Treg RP</note>
+
+<verse>Titus 3:15</verse>
+<note>15 ὑμῶν WH Treg NA28 ] + Ἀμήν RP</note>
 </book>

@@ -1,81 +1,231 @@
+ΠΡΟΣ ΕΦΕΣΙΟΥΣ
 
-Ephesians Apparatus Data
-Order of edition citation: WH Treg NIV RP
+Ephesians 1:1
+1.1 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP 
+• ἐν Ἐφέσῳ WH Treg NA28 RP ] – WHapp
 
-Eph 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP • ἐν Ἐφέσῳ WH Treg NIV RP ] – WHapp
-Eph 1:6	ἧς WH Treg NIV ] ἐν ᾗ RP
-Eph 1:7	τὸ πλοῦτος WH Treg NIV ] τὸν πλοῦτον RP
-Eph 1:14	ὅ WH NIV ] ὅς Treg RP
-Eph 1:15	ἀγάπην τὴν Treg NIV RP ] – WH
-Eph 1:16	μνείαν WH Treg NIV ] + ὑμῶν RP
-Eph 1:18	τίς WH Treg NIV] καὶ τίς RP
-Eph 1:20	ἐνήργηκεν WH ] ἐνήργησεν Treg NIV RP • ἐκ WH Treg NIV ] + τῶν RP • καθίσας WH Treg NIV ] ἐκάθισεν RP
+Ephesians 1:6
+6 ἧς WH Treg NA28 ] ἐν ᾗ RP
 
-Eph 2:1	ὑμῶν WH Treg NIV ] – RP
-Eph 2:3	ἤμεθα WH Treg NIV ] ἦμεν RP
-Eph 2:7	τὸ ὑπερβάλλον πλοῦτος WH Treg NIV ] τὸν ὑπερβάλλοντα πλοῦτον RP
-Eph 2:8	διὰ WH Treg NIV ] + τῆς RP
-Eph 2:11	ποτὲ ὑμεῖς WH Treg NIV ] ὑμεῖς ποτὲ RP
-Eph 2:12	ἦτε WH Treg NIV ] + ἐν RP
-Eph 2:13	ἐγενήθητε ἐγγὺς WH Treg NIV ] ἐγγὺς ἐγενήθητε RP
-Eph 2:15	αὑτῷ WH ] αὐτῷ Treg NA; ἑαυτῷ NIV RP
-Eph 2:17	εἰρήνην WH Treg NIV ] – RP
-Eph 2:19	ἐστὲ WH Treg NIV ] – RP
-Eph 2:20	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
-Eph 2:21	πᾶσα WH Treg RP NA ] + ἡ NIV
+Ephesians 1:7
+7 τὸ πλοῦτος WH Treg NA28 ] τὸν πλοῦτον RP
 
-Eph 3:3	κατὰ Holmes WHmarg  ] ὅτι κατὰ WH Treg NIV RP • ἐγνωρίσθη WH Treg NIV ] ἐγνώρισέν RP
-Eph 3:6	ἐν Χριστῷ Ἰησοῦ WH Treg NIV ] αὐτοῦ ἐν τῷ Χριστῷ RP 
-Eph 3:7	ἐγενήθην WH Treg NIV ] ἐγενόμην RP • τῆς δοθείσης WH Treg NIV ] τὴν δοθεῖσάν RP
-Eph 3:8	τοῖς WH Treg NIV] ἐν τοῖς RP • τὸ ἀνεξιχνίαστον πλοῦτος WH Treg NIV ] τὸν ἀνεξιχνίαστον πλοῦτον RP
-Eph 3:9	πάντας Treg NIV RP ] – WH • κτίσαντι WH Treg NIV ] + διὰ Ἰησοῦ Χριστοῦ RP
-Eph 3:11	τῷ WH Treg NIV ] – RP
-Eph 3:12	καὶ WH Treg NIV ] + τὴν RP
-Eph 3:13	ἐγκακεῖν WH Treg NIV ] ἐκκακεῖν RP
-Eph 3:14	πατέρα WH Treg NIV ] + τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ RP
-Eph 3:16	δῷ WH Treg NIV ] δῴη RP • τὸ πλοῦτος WH Treg NIV ] τὸν πλοῦτον RP
-Eph 3:18	ὕψος καὶ βάθος WH Treg NIV ] βάθος καὶ ὕψος RP
-Eph 3:21	καὶ WH Treg NIV ] – RP
+Ephesians 1:14
+14 ὅ WH NA28 ] ὅς Treg RP
 
-Eph 4:6	πᾶσιν WH Treg NIV ] + ἡμῖν RP
-Eph 4:7	ἡ WH NIV RP ] – Treg
-Eph 4:8	ἔδωκεν NIV ] καὶ ἔδωκεν WH Treg RP
-Eph 4:9	κατέβη WH Treg NIV ] + πρῶτον RP
-Eph 4:15	Χριστός WH Treg NIV ] ὁ Χριστός RP
-Eph 4:17	τὰ WH Treg NIV ] + λοιπὰ RP
-Eph 4:18	ἐσκοτωμένοι WH Treg NIV ] ἐσκοτισμένοι RP
-Eph 4:26	ἐπὶ WH Treg ] + τῷ NIV RP
-Eph 4:28	ταῖς ἰδίαις χερσὶν τὸ ἀγαθόν Treg NIV ] ταῖς χερσὶν τὸ ἀγαθόν WH; τὸ ἀγαθόν ταῖς χερσὶν RP
-Eph 4:32	γίνεσθε Holmes WHmarg ] + δὲ WH Treg NIV RP • ὑμῖν WH Treg NIV ] ἡμῖν RP
+Ephesians 1:15
+15 ἀγάπην τὴν Treg NA28 RP ] – WH
 
-Eph 5:2	ἡμᾶς RP NIV ] ὑμᾶς WH Treg • ἡμῶν RP NIV Treg ] ὑμῶν WH
-Eph 5:3	ἀκαθαρσία πᾶσα WH Treg NIV ] πᾶσα ἀκαθαρσία RP
-Eph 5:4	ἃ οὐκ ἀνῆκεν WH Treg NIV ] τὰ οὐκ ἀνήκοντα RP
-Eph 5:5	ἴστε WH Treg NIV ] ἔστε RP • ὅ WH Treg NIV ] ὅς RP
-Eph 5:9	φωτὸς WH Treg NIV ] πνεύματος RP
-Eph 5:15	ἀκριβῶς πῶς WH NIV ] πῶς ἀκριβῶς Treg RP
-Eph 5:17	συνίετε WH Treg NIV ] συνιέντες RP
-Eph 5:19	ἑαυτοῖς WH Treg RP ] + ἐν NIV • ψάλλοντες WH NIV ] + ἐν Treg RP
-Eph 5:22	ἀνδράσιν WH NIV ] + ὑποτασσέσθωσαν Treg; + ὑποτάσσεσθε RP
-Eph 5:23	αὐτὸς WH Treg NIV ] καὶ αὐτὸς ἐστιν RP
-Eph 5:24	ὡς WH Treg NIV ] ὡσπερ RP • τοῖς WH Treg NIV ] + ἰδίοις RP
-Eph 5:25	γυναῖκας WH Treg NIV ] + ἑαυτῶν RP
-Eph 5:27	αὐτὸς WH Treg NIV ] αὐτὴν RP
-Eph 5:28	καὶ WH Treg NIV ] – RP
-Eph 5:29	Χριστὸς WH Treg NIV ] κύριος RP
-Eph 5:30	αὐτοῦ WH Treg NIV ] + ἐκ τῆς σαρκός αὐτοῦ καί ἐκ τῶν ὀστέων αὐτοῦ RP
-Eph 5:31	τὸν WH NIV RP ] – Treg • πατέρα WH Treg NIV ] + αὐτοῦ RP • τὴν WH NIV RP ] – Treg • τῇ γυναικὶ Treg ] πρὸς τὴν γυναῖκα WH NIV RP
+Ephesians 1:16
+16 μνείαν WH Treg NA28 ] + ὑμῶν RP
 
-Eph 6:5	κατὰ σάρκα κυρίοις WH Treg NIV ] κυρίοις κατὰ σάρκα RP
-Eph 6:6	δοῦλοι WH Treg NIV ] + τοῦ RP
-Eph 6:8	ἕκαστος ὃ ἂν Treg ] ἕκαστος ἐάν τι WH NIV; ὃ ἐάν τι ἕκαστος RP • κομίσεται WH Treg NIV ] κομιεῖται RP • παρὰ WH Treg NIV ] + τοῦ RP
-Eph 6:9	αὐτῶν καὶ ὑμῶν WH Treg NIV ] ὑμῶν αὐτῶν RP
-Eph 6:10	Τοῦ λοιποῦ WH Treg NIV ] Τὸ λοιπόν ἀδελφοί μου RP
-Eph 6:12	σκότους WH Treg NIV ] + τοῦ αἰῶνος RP
-Eph 6:16	ἐν WH Treg NIV ] ἐπὶ RP • πονηροῦ Holmes WHmarg Tregmarg ] + τὰ WH Treg NIV RP
-Eph 6:17	δέξασθε WH Treg NIV ] δέξασθαι RP
-Eph 6:18	αὐτὸ WH Treg NIV ] + τοῦτο RP
-Eph 6:21	εἰδῆτε καὶ ὑμεῖς WH NIV RP ] καὶ ὑμεῖς εἰδῆτε Treg • γνωρίσει ὑμῖν WH Treg NIV ] ὑμῖν γνωρίσει RP
-Eph 6:24	ἀφθαρσίᾳ WH Treg NIV ] + Ἀμήν RP
+Ephesians 1:18
+18 τίς WH Treg NA28 ] καὶ τίς RP
 
+Ephesians 1:20
+20 ἐνήργηκεν WH ] ἐνήργησεν Treg NA28 RP 
+• ἐκ WH Treg NA28 ] + τῶν RP 
+• καθίσας WH Treg NA28 ] ἐκάθισεν RP
 
+Ephesians 2:1
+2.1 ὑμῶν WH Treg NA28 ] – RP
+
+Ephesians 2:3
+3 ἤμεθα WH Treg NA28 ] ἦμεν RP
+
+Ephesians 2:7
+7 τὸ ὑπερβάλλον πλοῦτος WH Treg NA28 ] τὸν ὑπερβάλλοντα πλοῦτον RP
+
+Ephesians 2:8
+8 διὰ WH Treg NA28 ] + τῆς RP
+
+Ephesians 2:11
+11 ποτὲ ὑμεῖς WH Treg NA28 ] ὑμεῖς ποτὲ RP
+
+Ephesians 2:12
+12 ἦτε WH Treg NA28 ] + ἐν RP
+
+Ephesians 2:13
+13 ἐγενήθητε ἐγγὺς WH Treg NA28 ] ἐγγὺς ἐγενήθητε RP
+
+Ephesians 2:15
+15 αὑτῷ WH ] αὐτῷ Treg NA28; ἑαυτῷ NIV RP
+
+Ephesians 2:17
+17 εἰρήνην WH Treg NA28 ] – RP
+
+Ephesians 2:19
+19 ἐστὲ WH Treg NA28 ] – RP
+
+Ephesians 2:20
+20 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP
+
+Ephesians 2:21
+21 πᾶσα WH Treg RP NA28 ] + ἡ NIV
+
+Ephesians 3:3
+3.3 κατὰ Holmes WHmarg  ] ὅτι κατὰ WH Treg NA28 RP 
+• ἐγνωρίσθη WH Treg NA28 ] ἐγνώρισέν RP
+
+Ephesians 3:6
+6 ἐν Χριστῷ Ἰησοῦ WH Treg NA28 ] αὐτοῦ ἐν τῷ Χριστῷ RP 
+
+Ephesians 3:7
+7 ἐγενήθην WH Treg NA28 ] ἐγενόμην RP 
+• τῆς δοθείσης WH Treg NA28 ] τὴν δοθεῖσάν RP
+
+Ephesians 3:8
+8 τοῖς WH Treg NA28 ] ἐν τοῖς RP 
+• τὸ ἀνεξιχνίαστον πλοῦτος WH Treg NA28 ] τὸν ἀνεξιχνίαστον πλοῦτον RP
+
+Ephesians 3:9
+9 πάντας Treg NA28 RP ] – WH 
+• κτίσαντι WH Treg NA28 ] + διὰ Ἰησοῦ Χριστοῦ RP
+
+Ephesians 3:11
+11 τῷ WH Treg NA28 ] – RP
+
+Ephesians 3:12
+12 καὶ WH Treg NA28 ] + τὴν RP
+
+Ephesians 3:13
+13 ἐγκακεῖν WH Treg NA28 ] ἐκκακεῖν RP
+
+Ephesians 3:14
+14 πατέρα WH Treg NA28 ] + τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ RP
+
+Ephesians 3:16
+16 δῷ WH Treg NA28 ] δῴη RP 
+• τὸ πλοῦτος WH Treg NA28 ] τὸν πλοῦτον RP
+
+Ephesians 3:18
+18 ὕψος καὶ βάθος WH Treg NA28 ] βάθος καὶ ὕψος RP
+
+Ephesians 3:21
+21 καὶ WH Treg NA28 ] – RP
+
+Ephesians 4:6
+4.6 πᾶσιν WH Treg NA28 ] + ἡμῖν RP
+
+Ephesians 4:7
+7 ἡ WH NA28 RP ] – Treg
+
+Ephesians 4:8
+8 ἔδωκεν NA28 ] καὶ ἔδωκεν WH Treg RP
+
+Ephesians 4:9
+9 κατέβη WH Treg NA28 ] + πρῶτον RP
+
+Ephesians 4:15
+15 Χριστός WH Treg NA28 ] ὁ Χριστός RP
+
+Ephesians 4:17
+17 τὰ WH Treg NA28 ] + λοιπὰ RP
+
+Ephesians 4:18
+18 ἐσκοτωμένοι WH Treg NA28 ] ἐσκοτισμένοι RP
+
+Ephesians 4:26
+26 ἐπὶ WH Treg ] + τῷ NA28 RP
+
+Ephesians 4:28
+28 ταῖς ἰδίαις χερσὶν τὸ ἀγαθόν Treg NA28 ] ταῖς χερσὶν τὸ ἀγαθόν WH; τὸ ἀγαθόν ταῖς χερσὶν RP
+
+Ephesians 4:32
+32 γίνεσθε Holmes WHmarg ] + δὲ WH Treg NA28 RP 
+• ὑμῖν WH Treg NA28 ] ἡμῖν RP
+
+Ephesians 5:2
+5.2 ἡμᾶς RP NA28 ] ὑμᾶς WH Treg 
+• ἡμῶν RP NA28 Treg ] ὑμῶν WH
+
+Ephesians 5:3
+3 ἀκαθαρσία πᾶσα WH Treg NA28 ] πᾶσα ἀκαθαρσία RP
+
+Ephesians 5:4
+4 ἃ οὐκ ἀνῆκεν WH Treg NA28 ] τὰ οὐκ ἀνήκοντα RP
+
+Ephesians 5:5
+5 ἴστε WH Treg NA28 ] ἔστε RP 
+• ὅ WH Treg NA28 ] ὅς RP
+
+Ephesians 5:9
+9 φωτὸς WH Treg NA28 ] πνεύματος RP
+
+Ephesians 5:15
+15 ἀκριβῶς πῶς WH NA28 ] πῶς ἀκριβῶς Treg RP
+
+Ephesians 5:17
+17 συνίετε WH Treg NA28 ] συνιέντες RP
+
+Ephesians 5:19
+19 ἑαυτοῖς WH Treg RP ] + ἐν NA28 
+• ψάλλοντες WH NA28 ] + ἐν Treg RP
+
+Ephesians 5:22
+22 ἀνδράσιν WH NA28 ] + ὑποτασσέσθωσαν Treg; + ὑποτάσσεσθε RP
+
+Ephesians 5:23
+23 αὐτὸς WH Treg NA28 ] καὶ αὐτὸς ἐστιν RP
+
+Ephesians 5:24
+24 ὡς WH Treg NA28 ] ὡσπερ RP 
+• τοῖς WH Treg NA28 ] + ἰδίοις RP
+
+Ephesians 5:25
+25 γυναῖκας WH Treg NA28 ] + ἑαυτῶν RP
+
+Ephesians 5:27
+27 αὐτὸς WH Treg NA28 ] αὐτὴν RP
+
+Ephesians 5:28
+28 καὶ WH Treg NA28 ] – RP
+
+Ephesians 5:29
+29 Χριστὸς WH Treg NA28 ] κύριος RP
+
+Ephesians 5:30
+30 αὐτοῦ WH Treg NA28 ] + ἐκ τῆς σαρκός αὐτοῦ καί ἐκ τῶν ὀστέων αὐτοῦ RP
+
+Ephesians 5:31
+31 τὸν WH NA28 RP ] – Treg 
+• πατέρα WH Treg NA28 ] + αὐτοῦ RP 
+• τὴν WH NA28 RP ] – Treg 
+• τῇ γυναικὶ Treg ] πρὸς τὴν γυναῖκα WH NA28 RP
+
+Ephesians 6:5
+6.5 κατὰ σάρκα κυρίοις WH Treg NA28 ] κυρίοις κατὰ σάρκα RP
+
+Ephesians 6:6
+6 δοῦλοι WH Treg NA28 ] + τοῦ RP
+
+Ephesians 6:8
+8 ἕκαστος ὃ ἂν Treg ] ἕκαστος ἐάν τι WH NA28; ὃ ἐάν τι ἕκαστος RP 
+• κομίσεται WH Treg NA28 ] κομιεῖται RP 
+• παρὰ WH Treg NA28 ] + τοῦ RP
+
+Ephesians 6:9
+9 αὐτῶν καὶ ὑμῶν WH Treg NA28 ] ὑμῶν αὐτῶν RP
+
+Ephesians 6:10
+10 Τοῦ λοιποῦ WH Treg NA28 ] Τὸ λοιπόν ἀδελφοί μου RP
+
+Ephesians 6:12
+12 σκότους WH Treg NA28 ] + τοῦ αἰῶνος RP
+
+Ephesians 6:16
+16 ἐν WH Treg NA28 ] ἐπὶ RP 
+• πονηροῦ Holmes WHmarg Tregmarg ] + τὰ WH Treg NA28 RP
+
+Ephesians 6:17
+17 δέξασθε WH Treg NA28 ] δέξασθαι RP
+
+Ephesians 6:18
+18 αὐτὸ WH Treg NA28 ] + τοῦτο RP
+
+Ephesians 6:21
+21 εἰδῆτε καὶ ὑμεῖς WH NA28 RP ] καὶ ὑμεῖς εἰδῆτε Treg 
+• γνωρίσει ὑμῖν WH Treg NA28 ] ὑμῖν γνωρίσει RP
+
+Ephesians 6:24
+24 ἀφθαρσίᾳ WH Treg NA28 ] + Ἀμήν RP

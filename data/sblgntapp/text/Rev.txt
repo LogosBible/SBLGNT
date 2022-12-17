@@ -1,292 +1,970 @@
+ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ
 
-Revelation Apparatus Data
-Order of edition citation: WH Treg NIV RP
+Revelation 1:4
+1:4 ἀπὸ WH Treg NA28 ] + θεοῦ RP
 
+Revelation 1:5
+5 λύσαντι WH Treg NA28 ] λούσαντι RP 
+• ἐκ WH Treg NA28 ] ἀπὸ RP
 
-Re 1:4	ἀπὸ WH Treg NIV ] + θεοῦ RP
-Re 1:5	λύσαντι WH Treg NIV ] λούσαντι RP • ἐκ WH Treg NIV ] ἀπὸ RP
-Re 1:6	τῶν αἰώνων Treg NIV RP ] – WH
-Re 1:9	συγκοινωνὸς WH Treg NIV ] κοινωνὸς RP • ἐν WH Treg NIV ] + Χριστῷ RP • καὶ WH Treg NIV ] + διὰ RP • Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP
-Re 1:10	ὀπίσω μου φωνὴν WH Treg NIV ] φωνὴν ὀπίσω μου RP
-Re 1:12	Καὶ WH Treg NIV ] + ἐκεῖ RP
-Re 1:13	τῶν WH NIV ] + ἑπτὰ Treg RP • υἱὸν WH NIV ] υἱῷ Treg RP
-Re 1:15	πεπυρωμένης WH Treg NIV ] πεπυρωμένοι RP
-Re 1:16	χειρὶ αὐτοῦ WH Treg NIV ] αὐτοῦ χειρὶ RP
-Re 1:18	αἰώνων WH Treg NIV ] + ἀμήν RP
-Re 1:19	γίνεσθαι WH Treg RP ] γενέσθαι NIV
-Re 1:20	οὓς WH Treg NIV ] ὧν RP
+Revelation 1:6
+6 τῶν αἰώνων Treg NA28 RP ] – WH
 
-Re 2:1	τῆς Treg NIV RP ] τῷ WH
-Re 2:2	κόπον WH Treg NIV ] + σου RP • ἀποστόλους WH Treg NIV ] + εἶναι RP
-Re 2:3	οὐ κεκοπίακες WH Treg NIV ] οὐκ ἐκοπίασας RP
-Re 2:5	πέπτωκας Treg NIV RP ] πέπτωκες WH • σοι WH Treg NIV ] + ταχύ RP
-Re 2:7	θεοῦ WH Treg NIV ] + μου RP
-Re 2:8	τῆς Treg NIV RP ] τῷ WH
-Re 2:9	σου WH Treg NIV ] + τὰ ἔργα καὶ RP
-Re 2:10	μηδὲν NIV RP ] μὴ WH Treg • πάσχειν WH Treg NIV ] παθεῖν RP • ἰδοὺ WH Treg NIV] + δή RP • βάλλειν WH Treg NIV ] βαλεῖν RP • ἕξετε Treg NIV RP ] ἔχητε WH
-Re 2:13	Οἶδα WH Treg NIV ] + τὰ ἔργα σου καὶ RP • καὶ WH Treg NIV ] – RP • ἡμέραις WH Treg NIV ] + ἐν αἷς RP • μου WH Treg NIV ] – RP
-Re 2:14	ἐδίδασκεν τῷ WH Treg NIV ] ἐδίδαξεν τὸν RP • φαγεῖν WH Treg NIV ] καὶ φαγεῖν RP
-Re 2:15	διδαχὴν WH ] + τῶν Treg NIV RP
-Re 2:17	αὐτῷ WH Treg NIV ] + φαγεῖν RP
-Re 2:18	τῆς Treg NIV RP ] τῷ WH
-Re 2:19	ἀγάπην καὶ τὴν πίστιν WH NIV RP ] πίστιν καὶ τὴν ἀγάπην Treg
-Re 2:20	γυναῖκα WH Treg NIV ] + σοῦ RP • λέγουσα WH Treg NIV ] λέγει RP
-Re 2:22	μετανοήσωσιν Treg NIV RP ] μετανοήσουσιν WH
-Re 2:27	συντρίβεται WH Treg NIV ] συντριβήσεται RP
+Revelation 1:9
+9 συγκοινωνὸς WH Treg NA28 ] κοινωνὸς RP 
+• ἐν WH Treg NA28 ] + Χριστῷ RP 
+• καὶ WH Treg NA28 ] + διὰ RP 
+• Ἰησοῦ WH Treg NA28 ] + Χριστοῦ RP
 
-Re 3:2	ἔμελλον ἀποθανεῖν WH Treg NIV ] ἔμελλες ἀποβάλλειν RP • τὰ Treg NIV RP ] – WH
-Re 3:3	ἥξω WH Treg NIV ] + ἐπί σε RP • γνῷς WH NIV RP ] γνώσῃ Treg
-Re 3:4	ἔχεις ὀλίγα WH Treg NIV ] ὀλίγα ἔχεις RP
-Re 3:5	οὕτως WH Treg NIV ] οὗτος RP
-Re 3:7	Δαυίδ WH Treg NIV ] τοῦ Δαυίδ RP • καὶ κλείων WH Treg NIV ] αὐτήν εἴ μὴ ὁ ἀνοίγων RP • ἀνοίγει WH Treg NIV ] ἀνοίξει RP
-Re 3:9	διδῶ WH Treg NIV ] δίδωμι RP • ἥξουσιν καὶ προσκυνήσουσιν WH Treg NIV ] ἥξωσιν καὶ προσκυνήσωσιν RP • ἐγὼ WH Treg NIV ] – RP
-Re 3:12	καταβαίνουσα WH Treg NIV ] καταβαίνει RP
-Re 3:14	καὶ Treg NIV RP ] + ὁ WH
-Re 3:16	οὔτε WH Treg NIV ] οὐ RP
-Re 3:17	ὅτι WH Treg NIV ] – RP • οὐδὲν WH Treg NIV ] οὐδενὸς RP • καὶ WH Treg NIV ] + ὁ RP
-Re 3:18	παρ’ ἐμοῦ χρυσίον WH Treg NIV ] χρυσίον παρ’ ἐμοῦ RP • ἐγχρῖσαι WH Treg NIV ] ἵνα ἐγχρίσῃ RP
-Re 3:19	ζήλευε WH Treg NIV ] ζήλωσον RP
-Re 3:20	καὶ NIV RP ] – WH Treg
+Revelation 1:10
+10 ὀπίσω μου φωνὴν WH Treg NA28 ] φωνὴν ὀπίσω μου RP
 
-Re 4:2	εὐθέως WH Treg NIV ] Καὶ εὐθέως RP
-Re 4:3	καὶ ὁ καθήμενος WH Treg NIV ] – RP • ὅμοιος ὁράσει σμαραγδίνῳ WH Treg NIV ] ὁμοίως ὅρασις σμαραγδίνων RP
-Re 4:4	θρόνοι WH Treg RP ] θρόνους NIV • θρόνους WH Treg NIV ] + τοὺς RP • ἐν Treg NIV RP ] – WH
-Re 4:5	ἅ WH NIV ] αἵ Treg; αὐτοῦ αἵ RP • τὰ WH Treg NIV ] – RP
-Re 4:7	ἔχων WH Treg NIV ] ἔχον RP • τὸ πρόσωπον ὡς WH Treg NIV ] πρόσωπον RP
-Re 4:8	καθ᾽ ἓν WH NIV RP ] ἕκαστον Treg • αὐτῶν WH Treg NIV ] – RP • ἔχων WH Treg NIV ] ἔχον RP
-Re 4:9	δώσουσιν WH Treg NIV ] δῶσιν RP • τῷ θρόνῳ Treg NIV ] τοῦ θρόνου WH RP
-Re 4:11	ἡμῶν WH Treg NIV ] + ὁ ἅγιος RP • τὰ WH Treg NIV ] – RP
+Revelation 1:12
+12 Καὶ WH Treg NA28 ] + ἐκεῖ RP
 
-Re 5:1	ὄπισθεν WH Treg NIV ] ἔξωθεν RP
-Re 5:2	ἄξιος WH Treg NIV ] + ἐστιν RP
-Re 5:3	οὐρανῷ WH Treg NIV ] + ἄνω RP • οὐδὲ ἐπὶ τῆς γῆς οὐδὲ WH Treg NIV ] οὔτε ἐπὶ τῆς γῆς οὔτε RP
-Re 5:4	ἐγὼ WH Treg RP ] – NIV
-Re 5:5	ἀνοῖξαι WH Treg NIV ] ὁ ἀνοίγων RP
-Re 5:6	ἑστηκὸς WH NIV RP ] ἑστηκὼς Treg • ἔχων WH Treg NIV ] ἔχον RP • οἵ WH Treg NIV ] ἃ RP • ἀπεσταλμένοι WH Treg NIV ] ἀποστελλόμενα RP
-Re 5:8	αἱ WH Treg NIV ] – RP
-Re 5:9	θεῷ WH NIV ] + ἡμᾶς Treg RP
-Re 5:10	βασιλείαν WH Treg NIV ] βασιλεῖς RP • βασιλεύουσιν WH Treg ] βασιλεύσουσιν NIV RP
-Re 5:11	ἤκουσα WH Treg NIV ] + ὡς RP
-Re 5:12	καὶ WH Treg NIV ] + τὸν RP
-Re 5:13	θαλάσσης Treg NIV ] +ἐστίν WH RP • πάντα WH Treg NIV ] πάντας RP • τῷ θρόνῳ NIV ] τοῦ θρόνου WH Treg RP • αἰώνων WH Treg NIV ] + Ἀμήν RP
-Re 5:14	ἔλεγον WH Treg NIV ] λέγοντα τὸ RP
+Revelation 1:13
+13 τῶν WH NA28 ] + ἑπτὰ Treg RP 
+• υἱὸν WH NA28 ] υἱῷ Treg RP
 
-Re 6:1	ὅτε WH Treg NIV ] ὅτι RP • Ἔρχου WH Treg NIV ] + καὶ ἴδε RP
-Re 6:2	εἶδον καὶ WH Treg NIV ] – RP
-Re 6:3	σφραγῖδα τὴν δευτέραν WH Treg NIV ] δευτέραν σφραγῖδα RP
-Re 6:4	καὶ WH Treg NIV ] – RP • σφάξουσιν WH Treg NIV ] σφάξωσιν RP
-Re 6:5	εἶδον WH Treg NIV ] ἴδε RP
-Re 6:6	ὡς WH Treg NIV ] – RP • κριθῶν WH Treg NIV ] κριθῆς RP
-Re 6:7	φωνὴν WH Treg NIV ] – RP • Ἔρχου WH Treg NIV ] + καὶ ἴδε RP
-Re 6:8	εἶδον καὶ WH Treg NIV ] – RP • μετ᾽ αὐτοῦ WH Treg NIV ] αὐτῷ RP • αὐτοῖς WH Treg NIV ] αὐτῷ RP
-Re 6:9	μαρτυρίαν WH Treg NIV ] + τοῦ ἀρνίου RP
-Re 6:11	ἀναπαύσονται WH Treg NIV ] ἀναπαύσωνται RP • μικρόν WH Treg NIV ] – RP • πληρωθῶσιν WH NIV ] πληρώσωσιν Treg RP• αὐτῶν WH Treg NIV ] + καὶ RP • ἀποκτέννεσθαι WH Treg NIV ] ἀποκτένεσθαι RP
-Re 6:12	ἐγένετο μέλας WH Treg NIV ] μέλας ἐγένετο RP
-Re 6:13	βάλλει WH Treg NIV ] βαλοῦσα RP 
-Re 6:17	αὐτῶν WH Treg NIV ] αὐτοῦ RP
+Revelation 1:15
+15 πεπυρωμένης WH Treg NA28 ] πεπυρωμένοι RP
 
-Re 7:1	Μετὰ WH NIV ] Καὶ μετὰ Treg RP • πᾶν WH NIV ] τι Treg RP
-Re 7:3	ἄχρι WH Treg NIV ] + οὗ RP
-Re 7:4	ἑκατὸν WH Treg NIV ] + καὶ RP • ἐσφραγισμένοι WH Treg NIV ] ἐσφραγισμένων RP
-Re 7:5	ἐσφραγισμένοι WH Treg NIV ] ἐσφραγισμέναι RP
-Re 7:8	ἐσφραγισμένοι WH Treg NIV ] ἐσφραγισμέναι RP
-Re 7:9	αὐτὸν WH Treg NIV ] – RP • ἑστῶτες WH Treg NIV ] ἑστώτας RP • φοίνικες WH Treg NIV ] φοίνικας RP
-Re 7:14	εἴρηκα WH Treg NIV ] εἶπον RP • αὐτὰς WH Treg NIV ] – RP
-Re 7:15	τοῦ θρόνου WH Treg NIV ] τῷ θρόνῳ RP
-Re 7:16	οὐδὲ WH Treg NIV ] οὐδ᾽ οὐ RP
-Re 7:17	ποιμανεῖ WH Treg NIV ] ποιμαίνει RP • ὁδηγήσει WH Treg NIV ] ὁδηγεῖ RP
+Revelation 1:16
+16 χειρὶ αὐτοῦ WH Treg NA28 ] αὐτοῦ χειρὶ RP
 
-Re 8:1	ὅταν WH Treg NIV ] ὅτε RP
-Re 8:3	δώσει WH Treg NIV ] δώσῃ RP
-Re 8:6	αὑτοὺς WH ] αὐτοὺς Treg NIV; ἑαυτοὺς RP
-Re 8:8	πυρὶ WH Treg NIV ] – RP
-Re 8:9	τῶν WH Treg NIV ] – RP • διεφθάρησαν WH Treg NIV ] διεφθάρη RP
-Re 8:11	ὁ WH NIV RP ] – Treg
-Re 8:12	ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς WH Treg NIV ] τὸ τρίτον αὐτῆς ἡ ἡμέρα μὴ φάνῃ RP
-Re 8:13	τοὺς κατοικοῦντας WH Treg NIV ] τοῖς κατοικοῦσιν RP
+Revelation 1:18
+18 αἰώνων WH Treg NA28 ] + ἀμήν RP
 
-Re 9:2	μεγάλης WH Treg NIV ] καιομένης RP • ἐσκοτώθη WH NIV ] ἐσκοτίσθη Treg RP
-Re 9:4	ἀδικήσουσιν WH NIV ] ἀδικήσωσιν Treg RP • μετώπων WH Treg NIV ] + αὐτῶν RP
-Re 9:5	αὐτοῖς Treg NIV ] αὐταῖς WH RP • βασανισθήσονται WH Treg NIV ] βασανισθῶσιν RP
-Re 9:6	φεύγει WH Treg NIV ] φεύξεται RP • ὁ θάνατος ἀπ’ αὐτῶν WH Treg NIV ] ἀπ’ αὐτῶν ὁ θάνατος RP
-Re 9:7	ὅμοιοι χρυσῷ WH Treg NIV ] χρυσοῖ RP
-Re 9:10	ἡ ἐξουσία αὐτῶν WH Treg NIV ] ἐξουσίαν ἔχουσιν τοῦ RP
-Re 9:11	ἔχουσιν ἐπ’ αὐτῶν βασιλέα τὸν WH Treg NIV ] Ἔχουσαι βασιλέα ἐπ᾽ αὐτῶν RP • καὶ ἐν WH Treg NIV ] ἐν δὲ RP
-Re 9:13	τῶν WH Treg NIV ] + τεσσάρων RP NA
-Re 9:14	λέγοντα WH Treg NIV ] λέγουσαν RP
-Re 9:15	καὶ WH Treg NIV ] + εἰς τὴν RP
-Re 9:16	ἱππικοῦ WH Treg NIV ] ἵππου RP • δισμυριάδες WH NIV ] δύο μυριάδες Treg; μυριάδες RP
-Re 9:18	ἐκ WH Treg NIV ] ἀπὸ RP
-Re 9:19	ὄφεσιν WH Treg NIV ] ὄφεων RP
-Re 9:20	οὐδὲ NIV ] οὐ WH RP; οὔτε Treg • προσκυνήσουσιν WH Treg NIV ] προσκυνήσωσιν RP • δύνανται WH Treg NIV ] δύναται RP
-Re 9:21	φαρμάκων WH NIV ] φαρμακειῶν Treg RP
+Revelation 1:19
+19 γίνεσθαι WH Treg RP ] γενέσθαι NA28
 
-Re 10:1	ἄλλον WH Treg NIV ] – RP • τὴν κεφαλὴν WH Treg ] τῆς κεφαλῆς NIV RP
-Re 10:2	βιβλαρίδιον WH Treg NIV ] βιβλίον RP
-Re 10:6	ὤμοσεν RP ] + ἐν WH Treg NIV
-Re 10:7	ἑαυτοῦ δούλους WH Treg NIV ] δούλους αὐτοῦ RP
-Re 10:8	λαλοῦσαν WH Treg NIV ] λαλοῦσα RP • λέγουσαν WH Treg NIV ] λέγουσα RP • βιβλίον WH Treg NIV ] βιβλιδάριον RP
-Re 10:9	ἀπῆλθα WH NIV ] ἀπῆλθον Treg RP • βιβλαρίδιον WH Treg NIV ] βιβλιδάριον RP
-Re 10:10	βιβλαρίδιον WH Treg NIV ] βιβλίον RP
-Re 10:11	καὶ WH Treg NIV ] + ἐπὶ RP
+Revelation 1:20
+20 οὓς WH Treg NA28 ] ὧν RP
 
-Re 11:1	Ἔγειρε WH Treg NIV ] Ἔγειραι RP
-Re 11:2	ἔξωθεν WH Treg NIV ] ἔξω RP • τεσσεράκοντα Treg ] + καὶ WH NIV RP
-Re 11:3	περιβεβλημένοι NIV RP ] περιβεβλημένους WH Treg
-Re 11:4	ἑστῶτες WH Treg NIV ] ἑστῶσαι RP
-Re 11:5	θελήσῃ αὐτοὺς WH NIV ] αὐτοὺς θελήσῃ Treg; θέλει αὐτοὺς RP
-Re 11:6	τὴν ἐξουσίαν κλεῖσαι τὸν οὐρανόν WH Treg NIV ] τὸν οὐρανόν ἐξουσίαν κλεῖσαι RP • ἐν πάσῃ πληγῇ ὁσάκις ἐὰν θελήσωσιν WH Treg NIV ] ὁσάκις ἐὰν θελήσωσιν ἐν πάσῃ πληγῇ RP
-Re 11:9	καὶ WH Treg NIV ] – RP • ἀφίουσιν WH Treg NIV ] ἀφήσουσιν RP
-Re 11:10	εὐφραίνονται WH Treg NIV ] εὐφρανθήσονται RP • πέμψουσιν WH Treg NIV ] δώσουσιν RP
-Re 11:11	ἐν αὐτοῖς WH Treg NIV ] εἰς αὐτούς RP • ἐπέπεσεν WH Treg NIV ] ἔπεσεν RP
-Re 11:12	ἤκουσαν WH Treg NIV ] ἤκουσα RP • φωνῆς μεγάλης WH Treg NIV ] φωνὴν μεγάλην RP • λεγούσης WH Treg NIV ] λέγουσαν RP • Ἀνάβατε WH Treg NIV ] Ἀνάβητε RP
-Re 11:13	ὥρᾳ WH Treg NIV ] ἡμέρᾳ RP
-Re 11:14	ἰδοὺ ἡ οὐαὶ ἡ τρίτη WH Treg NIV ] ἡ οὐαὶ ἡ τρίτη ἰδοὺ RP
-Re 11:15	λέγοντες WH NIV ] λέγουσαι Treg RP
-Re 11:16	θεοῦ καθήμενοι WH NIV ] θεοῦ οἳ κάθηνται Treg; θρόνου τοῦ θεοῦ καθήμενοι RP
-Re 11:18	τοὺς μικροὺς καὶ τοὺς μεγάλους WH Treg NIV ] τοῖς μικροῖς καὶ τοῖς μεγάλοις RP
-Re 11:19	ὁ WH Treg NIV ] – RP • αὐτοῦ WH Treg NIV ] τοῦ κυρίου RP • καὶ σεισμὸς WH Treg NIV ] – RP
+Revelation 2:1
+2:1 τῆς Treg NA28 RP ] τῷ WH
 
-Re 12:2	καὶ κράζει WH NIV ] κράζει Treg; ἔκραζεν RP
-Re 12:3	μέγας πυρρός WH NIV ] πυρρὸς μέγας Treg RP
-Re 12:5	ἄρσεν WH Treg NIV ] ἄρρενα RP
-Re 12:6	ἀπὸ WH Treg NIV ] ὑπὸ RP • τρέφωσιν WH NIV ] τρέφουσιν Treg; ἐκτρέφωσιν RP
-Re 12:7	τοῦ WH Treg NIV ] – RP
-Re 12:8	ἴσχυσεν WH NIV RP ] ἴσχυσαν Treg • αὐτῶν WH Treg NIV ] αὐτῷ RP
-Re 12:9	ὁ WH Treg NIV ] – RP
-Re 12:10	κατήγωρ WH NIV ] κατήγορος Treg RP • αὐτοὺς WH NIV ] αὐτῶν Treg RP
-Re 12:12	οἱ NIV ] – WH Treg RP • τὴν γῆν καὶ τὴν θάλασσαν WH Treg NIV ] τῇ γῇ καὶ τῇ θαλάσσῃ RP 
-Re 12:14	αἱ WH Treg NIV ] – RP • ὅπου τρέφεται WH Treg NIV ] ὅπως τρέφηται RP
-Re 12:18	ἐστάθη WH Treg NIV ] ἐστάθην RP
+Revelation 2:2
+2 κόπον WH Treg NA28 ] + σου RP 
+• ἀποστόλους WH Treg NA28 ] + εἶναι RP
 
-Re 13:1	ὀνόματα WH Treg RP NA ] ὄνομα NIV
-Re 13:3	ὡς WH Treg NIV ] ὡσεὶ RP • ἐθαυμάσθη WH Treg NIV ] ἐθαύμασεν RP • ὅλη ἡ γῆ WH NIV RP ] ἐν ὅλῃ τῇ γῇ Treg
-Re 13:4	ὅτι ἔδωκεν WH Treg NIV ] τῷ δεδωκότι RP • δύναται WH Treg NIV ] δύνατος RP
-Re 13:5	βλασφημίας WH Treg NIV ] βλασφημίαν RP • ἐξουσία WH Treg NIV ] + πόλεμον RP • τεσσεράκοντα Treg RP] + καὶ WH NIV
-Re 13:6	βλασφημίας WH Treg NIV ] βλασφημίαν RP
-Re 13:8	αὐτὸν WH Treg NIV ] αὐτῷ RP • οὗ WH Treg NIV] ὧν RP • αὐτοῦ WH Treg NIV ] – RP
-Re 13:10	εἰς αἰχμαλωσίαν, εἰς αἰχμαλωσίαν WH NIV ] εἰς αἰχμαλωσίαν Treg; ἔχει αἰχμαλωσίαν RP • ἀποκτανθῆναι NIV ] ἀποκτενεῖ δεῖ WH Treg RP
-Re 13:12	ποιεῖ WH Treg NIV ] ἐποίει RP • προσκυνήσουσιν WH Treg NIV ] προσκυνήσωσιν RP
-Re 13:13	ἵνα καὶ πῦρ ποιῇ WH Treg NIV] καὶ πῦρ ἵνα RP • καταβαίνειν εἰς WH Treg NIV ] καταβαίνῃ ἐπὶ RP
-Re 13:14	τοὺς WH Treg NIV ] + ἐμοὺς τοὺς RP • ὃς ἔχει WH Treg NIV ] ὃ εἶχεν RP • τῆς μαχαίρης καὶ ἔζησεν WH Treg NIV ] καὶ ἔζησεν ἀπὸ τῆς μαχαίρης RP
-Re 13:15	αὐτῷ Treg NIV RP ] αὐτῇ WH • δοῦναι πνεῦμα WH Treg NIV ] πνεῦμα δοῦναι RP • ἵνα WH Treg NIV ] – RP
-Re 13:16	δῶσιν WH Treg NIV ] δώσωσιν RP • χάραγμα WH Treg NIV ] χαράγματα RP
-Re 13:17	δύνηται WH Treg NIV ] δύναται RP 
-Re 13:18	αὐτοῦ WH NIV ] + ἐστὶν Treg RP • ἑξακόσιοι ἑξήκοντα ἕξ WH NIV ] ἑξακόσια ἑξήκοντα ἕξ RP; χξϛʹ Treg
+Revelation 2:3
+3 οὐ κεκοπίακες WH Treg NA28 ] οὐκ ἐκοπίασας RP
 
-Re 14:1	ἑστὸς WH Treg NIV ] ἑστηκὸς RP • αὐτοῦ WH Treg NIV ] + ἀριθμός RP
-Re 14:3	ὡς WH Treg NA ] – NIV RP
-Re 14:4	⸀οὗτοι WH Treg NIV ] + εἰσιν RP • ὑπάγῃ NIV RP ] ὑπάγει WH Treg • ⸁οὗτοι WH Treg NIV ] + ὑπὸ Ἰησοῦ RP
-Re 14:5	ἐν … αὐτῶν οὐχ εὑρέθη WH Treg NIV ] οὐχ εὑρέθη ἐν … αὐτῶν RP • ἄμωμοί WH NIV ] + γάρ Treg RP
-Re 14:6	ἄλλον WH Treg NIV ] – RP • ἐπὶ WH Treg NIV ] – RP
-Re 14:7	θεὸν WH Treg NIV ] κύριον RP • τῷ ποιήσαντι WH Treg NIV ] αὐτὸν τὸν ποιήσαντα RP• καὶ WH Treg NIV ] + τὴν RP
-Re 14:8	δεύτερος ἄγγελος WH Treg RP ] ἄγγελος δεύτερος NIV • ἔπεσεν WH Treg NIV ] – RP • ἣ WH Treg NIV ] – RP
-Re 14:10	ἀγγέλων ἁγίων WH Treg NIV ] τῶν ἁγίων ἀγγέλων RP
-Re 14:13	ναί, λέγει WH Treg NIV ] λέγει Ναί RP • ἀναπαήσονται WH Treg NIV ] ἀναπαύσωνται RP • γὰρ WH Treg NIV ] δὲ RP
-Re 14:14	υἱὸν WH NIV ] υἱῷ Treg RP
-Re 14:16	τῆς νεφέλης WH Treg NIV ] τὴν νεφέλην RP
-Re 14:18	ἄγγελος Holmes WHmarg ] + ἐξῆλθεν WH Treg NIV RP • ὁ WH NIV ] – Treg RP • φωνῇ WH Treg NIV ] κραυγῇ RP
+Revelation 2:5
+5 πέπτωκας Treg NA28 RP ] πέπτωκες WH 
+• σοι WH Treg NA28 ] + ταχύ RP
 
-Re 15:3	αἰώνων WH NIV ] ἐθνῶν Treg RP NA
-Re 15:4	φοβηθῇ WH Treg NIV ] + σε RP • δοξάσει WH Treg NIV ] δοξάσῃ RP • ὅσιος WH Treg NIV ] ἅγιος RP
-Re 15:6	ἐνδεδυμένοι WH Treg NIV ] οἳ ἦσαν ἐνδεδυμένοι RP • λίνον NIV RP ] λίθον WH Treg
+Revelation 2:7
+7 θεοῦ WH Treg NA28 ] + μου RP
 
-Re 16:1	μεγάλης φωνῆς WH NIV ] φωνῆς μεγάλης Treg RP • ἐκχέετε WH NIV ] ἐκχέατε Treg RP
-Re 16:3	δεύτερος WH Treg NIV ] + ἄγγελος RP • ζωῆς WH Treg NIV ] ζῶσα RP • τὰ WH Treg NIV ] – RP
-Re 16:4	καὶ WH Treg NIV ] + εἰς RP
-Re 16:5	ὁ WH NIV RP ] – Treg
-Re 16:6	δέδωκας WH Treg NIV ] ἔδωκας RP
-Re 16:8	τέταρτος WH Treg NIV ] + ἄγγελος RP • τοὺς ἀνθρώπους ἐν πυρί WH Treg NIV ] ἐν πυρί τοὺς ἀνθρώπους RP
-Re 16:9	ἐβλασφήμησαν WH Treg NIV ] + οἱ ἄνθρωποι RP • τὴν WH Treg NIV ] – RP
-Re 16:12	τὸν WH Treg NIV ] – RP
-Re 16:13	τρία ἀκάθαρτα WH Treg NIV ] ἀκάθαρτα τρία RP
-Re 16:14	ἡμέρας WH Treg NIV ] + ἐκείνης RP
-Re 16:17	ἐκ WH Treg NIV ] ἀπὸ RP • ναοῦ WH Treg NIV ] + τοῦ οὐρανοῦ RP
-Re 16:18	φωναὶ καὶ βρονταί WH Treg NIV ] βρονταί καὶ φωναὶ RP • ἐγένετο WH Treg NIV ] – RP • ἄνθρωποι ἐγένοντο WH ] οἱ ἄνθρωποι ἐγένοντο RP; ἄνθρωπος ἐγένετο Treg NIV
+Revelation 2:8
+8 τῆς Treg NA28 RP ] τῷ WH
 
-Re 17:1	ὑδάτων WH Treg NIV ] τῶν ὑδάτων τῶν RP
-Re 17:3	γέμοντα WH NIV ] γέμον τὰ Treg; γέμον RP • ἔχων WH NIV ] ἔχον Treg RP
-Re 17:4	καὶ WH Treg NIV ] – RP • χρυσίῳ WH NIV RP ] χρυσῷ Treg
-Re 17:6	καὶ WH Treg NIV ] – RP
-Re 17:8	ὑπάγει WH NIV ] ὑπάγειν Treg RP • θαυμασθήσονται WH NIV ] θαυμάσονται Treg RP • τὸ ὄνομα WH Treg NIV ] τὰ ὀνόματα RP • τὸ θηρίον ὅτι ἦν WH Treg NIV ] ὅτι ἦν τὸ θηρίον RP
-Re 17:9	ἑπτά εἰσιν WH Treg NIV ] εἰσιν ἑπτὰ RP
-Re 17:10	αὐτὸν δεῖ WH Treg NIV ] δεῖ αὐτὸν RP
-Re 17:11	αὐτὸς WH NIV RP ] οὗτος Treg
-Re 17:13	γνώμην ἔχουσιν WH Treg NIV ] ἔχουσιν γνώμην RP • καὶ WH Treg NIV ] + τὴν RP
-Re 17:16	γυμνήν WH Treg NIV ] + ποιήσουσιν αὐτήν RP
-Re 17:17	μίαν γνώμην WH Treg NIV ] γνώμην μίαν RP • τελεσθήσονται WH Treg NIV ] τελεσθῶσιν RP
+Revelation 2:9
+9 σου WH Treg NA28 ] + τὰ ἔργα καὶ RP
 
-Re 18:2	ἐν WH Treg NIV ] – RP • ἔπεσεν WH NIV ] – Treg RP • δαιμονίων WH Treg NIV ] δαιμόνων RP • καὶ φυλακὴ παντὸς θηρίου ἀκαθάρτου Holmes NA ] – WH Treg NIV RP
-Re 18:3	πέπτωκαν WH Treg RP ] πέπωκαν NIV
-Re 18:4	Ἐξέλθατε WH Treg NIV ] Ἔξελθε RP • ὁ λαός μου, ἐξ αὐτῆς WH NIV ] ἐξ αὐτῆς ὁ λαός μου Treg RP
-Re 18:6	διπλώσατε WH Treg NIV ] + αὐτῇ RP • τὰ WH Treg NIV ] – RP
-Re 18:11	κλαίουσιν καὶ πενθοῦσιν WH Treg NIV ] κλαύσουσιν καὶ πενθήσουσιν RP • αὐτήν WH Treg NIV ] αὐτῇ RP
-Re 18:12	μαργαριτῶν WH Treg NIV ] μαργαρίτου RP • πορφύρας WH Treg NIV ] πορφυροῦ RP
-Re 18:13	καὶ ἄμωμον WH Treg NIV ] – RP • κτήνη καὶ πρόβατα WH Treg NIV ] πρόβατα καὶ κτήνη RP
-Re 18:14	σου τῆς … ψυχῆς WH Treg NIV ] τῆς … ψυχῆς σου RP • οὐκέτι WH NIV RP ] – Treg • οὐ μὴ αὐτὰ εὑρήσουσιν WH Treg NIV ] αὐτὰ οὐ μὴ εὕρῃς RP
-Re 18:16	λέγοντες WH Treg NIV ] καὶ λέγοντες RP • κεχρυσωμένη Treg RP ] + ἐν WH NIV • μαργαρίτῃ WH Treg NIV ] μαργαρίταις RP
-Re 18:18	ἔκραξαν WH ] ἔκραζον Treg NIV RP
-Re 18:19	ἔκραξαν WH ] ἔκραζον Treg NIV RP • πενθοῦντες WH Treg NIV ] + καὶ RP
-Re 18:21	μύλινον WH NIV ] μύλον Treg RP
-Re 18:24	αἷμα WH Treg NIV ] αἵματα RP
+Revelation 2:10
+10 μηδὲν NA28 RP ] μὴ WH Treg 
+• πάσχειν WH Treg NA28 ] παθεῖν RP 
+• ἰδοὺ WH Treg NA28 ] + δή RP 
+• βάλλειν WH Treg NA28 ] βαλεῖν RP 
+• ἕξετε Treg NA28 RP ] ἔχητε WH
 
-Re 19:1	δόξα καὶ ἡ δύναμις WH Treg NIV ] δύναμις καὶ ἡ δόξα RP
-Re 19:2	ἔφθειρεν WH Treg NIV ] διέφθειρεν RP
-Re 19:3	εἴρηκαν WH Treg NIV ] εἴρηκεν RP
-Re 19:4	τῷ θρόνῳ WH Treg NIV ] τοῦ θρόνου RP
-Re 19:5	τῷ θεῷ WH Treg NIV ] τὸν θεὸν RP • καὶ Treg NIV RP ] – WH
-Re 19:6	λεγόντων WH Treg NIV ] λέγοντες RP • θεός Holmes WHmarg ] + ἡμῶν WH Treg NIV RP
-Re 19:7	ἀγαλλιῶμεν WH Treg NIV ] ἀγαλλιώμεθα RP • δώσομεν WH ] δώσωμεν NIV; δῶμεν Treg RP
-Re 19:8	λαμπρὸν WH Treg NIV ] + καὶ RP
-Re 19:10	μαρτυρία WH Treg NIV ] + τοῦ RP
-Re 19:11	πιστὸς καλούμενος WH Treg ] καλούμενος πιστὸς NIV RP
-Re 19:12	αὐτοῦ WH Treg RP ] + ὡς NIV • ἔχων WH Treg NIV ] + ὀνόματα γεγραμμένα καὶ RP
-Re 19:13	βεβαμμένον Treg NIV RP ] ῤεραντισμένον WH • κέκληται WH Treg NIV ] καλεῖται RP
-Re 19:14	τὰ WH NIV RP ] – Treg
-Re 19:15	ῥομφαία WH Treg NIV ] + δίστομος RP
-Re 19:17	ἕνα WH Treg NIV ] – RP • ἔκραξεν Treg RP ] + ἐν WH NIV
-Re 19:18	αὐτῶν NIV RP ] αὐτούς WH Treg • καὶ WH Treg NIV ] τε καὶ RP
-Re 19:19	τὸν WH Treg NIV ] – RP
-Re 19:20	μετ᾽ αὐτοῦ ὁ WH Treg NIV ] ὁ μετ᾽ αὐτοῦ RP • τῆς καιομένης WH Treg NIV ] τὴν καιομένην RP
+Revelation 2:13
+13 Οἶδα WH Treg NA28 ] + τὰ ἔργα σου καὶ RP 
+• καὶ WH Treg NA28 ] – RP 
+• ἡμέραις WH Treg NA28 ] + ἐν αἷς RP 
+• μου WH Treg NA28 ] – RP
 
-Re 20:2	ὁ ὄφις ὁ ἀρχαῖος WH Treg NIV ] τὸν ὄφιν τὸν ἀρχαῖον RP • Σατανᾶς WH Treg NIV ] + ὁ πλανῶν τὴν οἰκουμένην ὅλην RP
-Re 20:3	πλανήσῃ WH Treg NIV ] πλανᾷ RP • μετὰ WH Treg NIV ] καὶ μετὰ RP • λυθῆναι αὐτὸν WH NIV ] αὐτὸν λυθῆναι Treg RP
-Re 20:4	χίλια WH Treg NIV ] τὰ χίλια RP
-Re 20:5	οἱ WH NIV ] Καί οἱ Treg RP
-Re 20:6	χίλια RP ] τὰ χίλια WH Treg NIV
-Re 20:8	καὶ WH NIV ] + τὸν Treg RP • αὐτῶν WH Treg NIV ] – RP
-Re 20:9	ἐκύκλευσαν WH NIV ] ἐκύκλωσαν Treg RP • ἐκ τοῦ οὐρανοῦ WH NIV ] ἀπὸ τοῦ θεοῦ ἐκ τοῦ οὐρανοῦ Treg; ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ RP
-Re 20:11	ἐπ’ αὐτοῦ WH ] ἐπ’ αὐτόν NIV RP; ἐπάνω αὐτοῦ Treg • τοῦ WH Treg NIV ] – RP
-Re 20:14	θάνατος ὁ δεύτερός WH NIV RP ] δεύτερός θάνατος Treg
-Re 20:15	τῇ βίβλῳ WH Treg NIV ] τῷ βιβλίῳ RP
+Revelation 2:14
+14 ἐδίδασκεν τῷ WH Treg NA28 ] ἐδίδαξεν τὸν RP 
+• φαγεῖν WH Treg NA28 ] καὶ φαγεῖν RP
 
-Re 21:3	θρόνου WH NIV ] οὐρανοῦ Treg RP • λαοὶ WH Treg NIV ] λαὸς RP • μετ’ αὐτῶν ἔσται WH Treg ] ἔσται μετ’ αὐτῶν RP; μετ’ αὐτῶν ἔσται αὐτῶν θεός NIV
-Re 21:4	ἐκ WH Treg NIV ] ἀπὸ RP • ἔτι. WH ] ἔτι, ὅτι Treg NIV RP
-Re 21:5	καινὰ ποιῶ πάντα WH Treg NIV ] πάντα καινὰ ποιῶ RP • λέγει WH NIV ] + μοι Treg RP • πιστοὶ καὶ ἀληθινοί WH Treg NIV ] ἀληθινοὶ καὶ πιστοί RP
-Re 21:6	Γέγοναν, ἐγὼ WH ] Γέγοναν ἐγώ εἰμι Treg NIV; Γέγονα RP
-Re 21:8	ἀπίστοις WH Treg NIV ] + καὶ ἁμαρτωλοῖς RP 
-Re 21:9	τῶν γεμόντων WH Treg NIV ] γεμούσας RP • νύμφην τὴν γυναῖκα WH Treg NIV ] γυναῖκα τὴν νύμφην RP
-Re 21:10	πόλιν WH Treg NIV ] + τὴν μεγάλην RP
-Re 21:12	τοῖς πυλῶσιν WH NIV RP ] τοὺς πυλῶνας Treg • ἐστιν WH ] + τὰ ὀνόματα Treg NIV; + ὀνόματα RP • φυλῶν WH Treg NIV ] + τῶν RP
-Re 21:13	ἀνατολῆς WH Treg NIV ] ἀνατολῶν RP
-Re 21:14	ἔχων WH Treg NIV ] ἔχον RP
-Re 21:16	ὅσον WH Treg RP ] + καὶ NIV • σταδίους Treg RP ] σταδίων WH NIV • χιλιάδων WH Treg NIV ] + δώδεκα RP
-Re 21:18	καὶ WH NIV ] + ἦν Treg RP
-Re 21:19	οἱ WH NIV RP] καὶ οἱ Treg 
-Re 21:24	τὴν δόξαν αὐτῶν WH Treg NIV ] αὐτῷ δόξαν καὶ τιμὴν τῶν ἐθνῶν RP
-Re 21:27	ποιῶν Holmes WHmarg ] ὁ ποιῶν WH Treg NIV; ποιοῦν RP
+Revelation 2:15
+15 διδαχὴν WH ] + τῶν Treg NA28 RP
 
-Re 22:1	ποταμὸν WH Treg NIV ] + καθαρὸν RP 
-Re 22:2	ἀποδιδοῦν WH NIV ] ἀποδιδοὺς Treg RP
-Re 22:5	ἔτι WH Treg NIV ] ἐκει RP • οὐκ ἔχουσιν χρείαν WH Treg NIV ] χρείαν οὐκ ἔχουσιν RP • φωτὸς WH Treg NIV ] – RP • φῶς WH ] φωτὸς Treg NIV RP • ἐπ᾽ WH Treg NIV ] – RP
-Re 22:6	εἶπέν WH Treg NIV ] λέγει RP • ὁ WH Treg NIV ] – RP
-Re 22:11	ῥυπαρευθήτω RP ] ῥυπανθήτω WH Treg NIV
-Re 22:12	ἐστὶν WH Treg NIV ] ἔσται RP
-Re 22:13	ἡ WH NIV RP ] – Treg • τὸ WH NIV RP ] – Treg
-Re 22:14	πλύνοντες τὰς στολὰς αὐτῶν WH Treg NIV ] ποιοῦντες τὰς ἐντολὰς αὐτοῦ RP
-Re 22:18	ἐπιθήσει WH Treg NIV ] ἐπιθήσαι RP
-Re 22:19	ἀφελεῖ WH Treg NIV ] ἀφέλοι RP
-Re 22:20	ἔρχου WH Treg NIV ] Ναί ἔρχου RP
-Re 22:21	Ἰησοῦ Treg NIV ] + Χριστοῦ WH RP • πάντων Holmes NA ] τῶν ἁγίων WH Treg; τῶν ἁγίων. ἀμήν NIV; πάντων τῶν ἁγίων. Ἀμήν RP
+Revelation 2:17
+17 αὐτῷ WH Treg NA28 ] + φαγεῖν RP
 
+Revelation 2:18
+18 τῆς Treg NA28 RP ] τῷ WH
 
+Revelation 2:19
+19 ἀγάπην καὶ τὴν πίστιν WH NA28 RP ] πίστιν καὶ τὴν ἀγάπην Treg
+
+Revelation 2:20
+20 γυναῖκα WH Treg NA28 ] + σοῦ RP 
+• λέγουσα WH Treg NA28 ] λέγει RP
+
+Revelation 2:22
+22 μετανοήσωσιν Treg NA28 RP ] μετανοήσουσιν WH
+
+Revelation 2:27
+27 συντρίβεται WH Treg NA28 ] συντριβήσεται RP
+
+Revelation 3:2
+3:2 ἔμελλον ἀποθανεῖν WH Treg NA28 ] ἔμελλες ἀποβάλλειν RP 
+• τὰ Treg NA28 RP ] – WH
+
+Revelation 3:3
+3 ἥξω WH Treg NA28 ] + ἐπί σε RP 
+• γνῷς WH NA28 RP ] γνώσῃ Treg
+
+Revelation 3:4
+4 ἔχεις ὀλίγα WH Treg NA28 ] ὀλίγα ἔχεις RP
+
+Revelation 3:5
+5 οὕτως WH Treg NA28 ] οὗτος RP
+
+Revelation 3:7
+7 Δαυίδ WH Treg NA28 ] τοῦ Δαυίδ RP 
+• καὶ κλείων WH Treg NA28 ] αὐτήν εἴ μὴ ὁ ἀνοίγων RP 
+• ἀνοίγει WH Treg NA28 ] ἀνοίξει RP
+
+Revelation 3:9
+9 διδῶ WH Treg NA28 ] δίδωμι RP 
+• ἥξουσιν καὶ προσκυνήσουσιν WH Treg NA28 ] ἥξωσιν καὶ προσκυνήσωσιν RP 
+• ἐγὼ WH Treg NA28 ] – RP
+
+Revelation 3:12
+12 καταβαίνουσα WH Treg NA28 ] καταβαίνει RP
+
+Revelation 3:14
+14 καὶ Treg NA28 RP ] + ὁ WH
+
+Revelation 3:16
+16 οὔτε WH Treg NA28 ] οὐ RP
+
+Revelation 3:17
+17 ὅτι WH Treg NA28 ] – RP 
+• οὐδὲν WH Treg NA28 ] οὐδενὸς RP 
+• καὶ WH Treg NA28 ] + ὁ RP
+
+Revelation 3:18
+18 παρʼ ἐμοῦ χρυσίον WH Treg NA28 ] χρυσίον παρʼ ἐμοῦ RP 
+• ἐγχρῖσαι WH Treg NA28 ] ἵνα ἐγχρίσῃ RP
+
+Revelation 3:19
+19 ζήλευε WH Treg NA28 ] ζήλωσον RP
+
+Revelation 3:20
+20 καὶ NA28 RP ] – WH Treg
+
+Revelation 4:2
+4:2 εὐθέως WH Treg NA28 ] Καὶ εὐθέως RP
+
+Revelation 4:3
+3 καὶ ὁ καθήμενος WH Treg NA28 ] – RP 
+• ὅμοιος ὁράσει σμαραγδίνῳ WH Treg NA28 ] ὁμοίως ὅρασις σμαραγδίνων RP
+
+Revelation 4:4
+4 θρόνοι WH Treg RP ] θρόνους NA28 
+• θρόνους WH Treg NA28 ] + τοὺς RP 
+• ἐν Treg NA28 RP ] – WH
+
+Revelation 4:5
+5 ἅ WH NA28 ] αἵ Treg; αὐτοῦ αἵ RP 
+• τὰ WH Treg NA28 ] – RP
+
+Revelation 4:7
+7 ἔχων WH Treg NA28 ] ἔχον RP 
+• τὸ πρόσωπον ὡς WH Treg NA28 ] πρόσωπον RP
+
+Revelation 4:8
+8 καθʼ ἓν WH NA28 RP ] ἕκαστον Treg 
+• αὐτῶν WH Treg NA28 ] – RP 
+• ἔχων WH Treg NA28 ] ἔχον RP
+
+Revelation 4:9
+9 δώσουσιν WH Treg NA28 ] δῶσιν RP 
+• τῷ θρόνῳ Treg NA28 ] τοῦ θρόνου WH RP
+
+Revelation 4:11
+11 ἡμῶν WH Treg NA28 ] + ὁ ἅγιος RP 
+• τὰ WH Treg NA28 ] – RP
+
+Revelation 5:1
+5:1 ὄπισθεν WH Treg NA28 ] ἔξωθεν RP
+
+Revelation 5:2
+2 ἄξιος WH Treg NA28 ] + ἐστιν RP
+
+Revelation 5:3
+3 οὐρανῷ WH Treg NA28 ] + ἄνω RP 
+• οὐδὲ ἐπὶ τῆς γῆς οὐδὲ WH Treg NA28 ] οὔτε ἐπὶ τῆς γῆς οὔτε RP
+
+Revelation 5:4
+4 ἐγὼ WH Treg RP ] – NA28
+
+Revelation 5:5
+5 ἀνοῖξαι WH Treg NA28 ] ὁ ἀνοίγων RP
+
+Revelation 5:6
+6 ἑστηκὸς WH NA28 RP ] ἑστηκὼς Treg 
+• ἔχων WH Treg NA28 ] ἔχον RP 
+• οἵ WH Treg NA28 ] ἃ RP 
+• ἀπεσταλμένοι WH Treg NA28 ] ἀποστελλόμενα RP
+
+Revelation 5:8
+8 αἱ WH Treg NA28 ] – RP
+
+Revelation 5:9
+9 θεῷ WH NA28 ] + ἡμᾶς Treg RP
+
+Revelation 5:10
+10 βασιλείαν WH Treg NA28 ] βασιλεῖς RP 
+• βασιλεύουσιν WH Treg ] βασιλεύσουσιν NA28 RP
+
+Revelation 5:11
+11 ἤκουσα WH Treg NA28 ] + ὡς RP
+
+Revelation 5:12
+12 καὶ WH Treg NA28 ] + τὸν RP
+
+Revelation 5:13
+13 θαλάσσης Treg NA28 ] +ἐστίν WH RP 
+• πάντα WH Treg NA28 ] πάντας RP 
+• τῷ θρόνῳ NA28 ] τοῦ θρόνου WH Treg RP 
+• αἰώνων WH Treg NA28 ] + Ἀμήν RP
+
+Revelation 5:14
+14 ἔλεγον WH Treg NA28 ] λέγοντα τὸ RP
+
+Revelation 6:1
+6:1 ὅτε WH Treg NA28 ] ὅτι RP 
+• Ἔρχου WH Treg NA28 ] + καὶ ἴδε RP
+
+Revelation 6:2
+2 εἶδον καὶ WH Treg NA28 ] – RP
+
+Revelation 6:3
+3 σφραγῖδα τὴν δευτέραν WH Treg NA28 ] δευτέραν σφραγῖδα RP
+
+Revelation 6:4
+4 καὶ WH Treg NA28 ] – RP 
+• σφάξουσιν WH Treg NA28 ] σφάξωσιν RP
+
+Revelation 6:5
+5 εἶδον WH Treg NA28 ] ἴδε RP
+
+Revelation 6:6
+6 ὡς WH Treg NA28 ] – RP 
+• κριθῶν WH Treg NA28 ] κριθῆς RP
+
+Revelation 6:7
+7 φωνὴν WH Treg NA28 ] – RP 
+• Ἔρχου WH Treg NA28 ] + καὶ ἴδε RP
+
+Revelation 6:8
+8 εἶδον καὶ WH Treg NA28 ] – RP 
+• μετʼ αὐτοῦ WH Treg NA28 ] αὐτῷ RP 
+• αὐτοῖς WH Treg NA28 ] αὐτῷ RP
+
+Revelation 6:9
+9 μαρτυρίαν WH Treg NA28 ] + τοῦ ἀρνίου RP
+
+Revelation 6:11
+11 ἀναπαύσονται WH Treg NA28 ] ἀναπαύσωνται RP 
+• μικρόν WH Treg NA28 ] – RP 
+• πληρωθῶσιν WH NA28 ] πληρώσωσιν Treg RP
+• αὐτῶν WH Treg NA28 ] + καὶ RP 
+• ἀποκτέννεσθαι WH Treg NA28 ] ἀποκτένεσθαι RP
+
+Revelation 6:12
+12 ἐγένετο μέλας WH Treg NA28 ] μέλας ἐγένετο RP
+
+Revelation 6:13
+13 βάλλει WH Treg NA28 ] βαλοῦσα RP 
+
+Revelation 6:17
+17 αὐτῶν WH Treg NA28 ] αὐτοῦ RP
+
+Revelation 7:1
+7:1 Μετὰ WH NA28 ] Καὶ μετὰ Treg RP 
+• πᾶν WH NA28 ] τι Treg RP
+
+Revelation 7:3
+3 ἄχρι WH Treg NA28 ] + οὗ RP
+
+Revelation 7:4
+4 ἑκατὸν WH Treg NA28 ] + καὶ RP 
+• ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμένων RP
+
+Revelation 7:5
+5 ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμέναι RP
+
+Revelation 7:8
+8 ἐσφραγισμένοι WH Treg NA28 ] ἐσφραγισμέναι RP
+
+Revelation 7:9
+9 αὐτὸν WH Treg NA28 ] – RP 
+• ἑστῶτες WH Treg NA28 ] ἑστώτας RP 
+• φοίνικες WH Treg NA28 ] φοίνικας RP
+
+Revelation 7:14
+14 εἴρηκα WH Treg NA28 ] εἶπον RP 
+• αὐτὰς WH Treg NA28 ] – RP
+
+Revelation 7:15
+15 τοῦ θρόνου WH Treg NA28 ] τῷ θρόνῳ RP
+
+Revelation 7:16
+16 οὐδὲ WH Treg NA28 ] οὐδʼ οὐ RP
+
+Revelation 7:17
+17 ποιμανεῖ WH Treg NA28 ] ποιμαίνει RP 
+• ὁδηγήσει WH Treg NA28 ] ὁδηγεῖ RP
+
+Revelation 8:1
+8:1 ὅταν WH Treg NA28 ] ὅτε RP
+
+Revelation 8:3
+3 δώσει WH Treg NA28 ] δώσῃ RP
+
+Revelation 8:6
+6 αὑτοὺς WH ] αὐτοὺς Treg NA28; ἑαυτοὺς RP
+
+Revelation 8:8
+8 πυρὶ WH Treg NA28 ] – RP
+
+Revelation 8:9
+9 τῶν WH Treg NA28 ] – RP 
+• διεφθάρησαν WH Treg NA28 ] διεφθάρη RP
+
+Revelation 8:11
+11 ὁ WH NA28 RP ] – Treg
+
+Revelation 8:12
+12 ἡ ἡμέρα μὴ φάνῃ τὸ τρίτον αὐτῆς WH Treg NA28 ] τὸ τρίτον αὐτῆς ἡ ἡμέρα μὴ φάνῃ RP
+
+Revelation 8:13
+13 τοὺς κατοικοῦντας WH Treg NA28 ] τοῖς κατοικοῦσιν RP
+
+Revelation 9:2
+9:2 μεγάλης WH Treg NA28 ] καιομένης RP 
+• ἐσκοτώθη WH NA28 ] ἐσκοτίσθη Treg RP
+
+Revelation 9:4
+4 ἀδικήσουσιν WH NA28 ] ἀδικήσωσιν Treg RP 
+• μετώπων WH Treg NA28 ] + αὐτῶν RP
+
+Revelation 9:5
+5 αὐτοῖς Treg NA28 ] αὐταῖς WH RP 
+• βασανισθήσονται WH Treg NA28 ] βασανισθῶσιν RP
+
+Revelation 9:6
+6 φεύγει WH Treg NA28 ] φεύξεται RP 
+• ὁ θάνατος ἀπʼ αὐτῶν WH Treg NA28 ] ἀπʼ αὐτῶν ὁ θάνατος RP
+
+Revelation 9:7
+7 ὅμοιοι χρυσῷ WH Treg NA28 ] χρυσοῖ RP
+
+Revelation 9:10
+10 ἡ ἐξουσία αὐτῶν WH Treg NA28 ] ἐξουσίαν ἔχουσιν τοῦ RP
+
+Revelation 9:11
+11 ἔχουσιν ἐπʼ αὐτῶν βασιλέα τὸν WH Treg NA28 ] Ἔχουσαι βασιλέα ἐπʼ αὐτῶν RP 
+• καὶ ἐν WH Treg NA28 ] ἐν δὲ RP
+
+Revelation 9:13
+13 τῶν WH Treg NIV ] + τεσσάρων RP NA28
+
+Revelation 9:14
+14 λέγοντα WH Treg NA28 ] λέγουσαν RP
+
+Revelation 9:15
+15 καὶ WH Treg NA28 ] + εἰς τὴν RP
+
+Revelation 9:16
+16 ἱππικοῦ WH Treg NA28 ] ἵππου RP 
+• δισμυριάδες WH NA28 ] δύο μυριάδες Treg; μυριάδες RP
+
+Revelation 9:18
+18 ἐκ WH Treg NA28 ] ἀπὸ RP
+
+Revelation 9:19
+19 ὄφεσιν WH Treg NA28 ] ὄφεων RP
+
+Revelation 9:20
+20 οὐδὲ NA28 ] οὐ WH RP; οὔτε Treg 
+• προσκυνήσουσιν WH Treg NA28 ] προσκυνήσωσιν RP 
+• δύνανται WH Treg NA28 ] δύναται RP
+
+Revelation 9:21
+21 φαρμάκων WH NA28 ] φαρμακειῶν Treg RP
+
+Revelation 10:1
+10:1 ἄλλον WH Treg NA28 ] – RP 
+• τὴν κεφαλὴν WH Treg ] τῆς κεφαλῆς NA28 RP
+
+Revelation 10:2
+2 βιβλαρίδιον WH Treg NA28 ] βιβλίον RP
+
+Revelation 10:6
+6 ὤμοσεν RP ] + ἐν WH Treg NA28
+
+Revelation 10:7
+7 ἑαυτοῦ δούλους WH Treg NA28 ] δούλους αὐτοῦ RP
+
+Revelation 10:8
+8 λαλοῦσαν WH Treg NA28 ] λαλοῦσα RP 
+• λέγουσαν WH Treg NA28 ] λέγουσα RP 
+• βιβλίον WH Treg NA28 ] βιβλιδάριον RP
+
+Revelation 10:9
+9 ἀπῆλθα WH NA28 ] ἀπῆλθον Treg RP 
+• βιβλαρίδιον WH Treg NA28 ] βιβλιδάριον RP
+
+Revelation 10:10
+10 βιβλαρίδιον WH Treg NA28 ] βιβλίον RP
+
+Revelation 10:11
+11 καὶ WH Treg NA28 ] + ἐπὶ RP
+
+Revelation 11:1
+11:1 Ἔγειρε WH Treg NA28 ] Ἔγειραι RP
+
+Revelation 11:2
+2 ἔξωθεν WH Treg NA28 ] ἔξω RP 
+• τεσσεράκοντα Treg ] + καὶ WH NA28 RP
+
+Revelation 11:3
+3 περιβεβλημένοι NA28 RP ] περιβεβλημένους WH Treg
+
+Revelation 11:4
+4 ἑστῶτες WH Treg NA28 ] ἑστῶσαι RP
+
+Revelation 11:5
+5 θελήσῃ αὐτοὺς WH NA28 ] αὐτοὺς θελήσῃ Treg; θέλει αὐτοὺς RP
+
+Revelation 11:6
+6 τὴν ἐξουσίαν κλεῖσαι τὸν οὐρανόν WH Treg NA28 ] τὸν οὐρανόν ἐξουσίαν κλεῖσαι RP 
+• ἐν πάσῃ πληγῇ ὁσάκις ἐὰν θελήσωσιν WH Treg NA28 ] ὁσάκις ἐὰν θελήσωσιν ἐν πάσῃ πληγῇ RP
+
+Revelation 11:9
+9 καὶ WH Treg NA28 ] – RP 
+• ἀφίουσιν WH Treg NA28 ] ἀφήσουσιν RP
+
+Revelation 11:10
+10 εὐφραίνονται WH Treg NA28 ] εὐφρανθήσονται RP 
+• πέμψουσιν WH Treg NA28 ] δώσουσιν RP
+
+Revelation 11:11
+11 ἐν αὐτοῖς WH Treg NA28 ] εἰς αὐτούς RP 
+• ἐπέπεσεν WH Treg NA28 ] ἔπεσεν RP
+
+Revelation 11:12
+12 ἤκουσαν WH Treg NA28 ] ἤκουσα RP 
+• φωνῆς μεγάλης WH Treg NA28 ] φωνὴν μεγάλην RP 
+• λεγούσης WH Treg NA28 ] λέγουσαν RP 
+• Ἀνάβατε WH Treg NA28 ] Ἀνάβητε RP
+
+Revelation 11:13
+13 ὥρᾳ WH Treg NA28 ] ἡμέρᾳ RP
+
+Revelation 11:14
+14 ἰδοὺ ἡ οὐαὶ ἡ τρίτη WH Treg NA28 ] ἡ οὐαὶ ἡ τρίτη ἰδοὺ RP
+
+Revelation 11:15
+15 λέγοντες WH NA28 ] λέγουσαι Treg RP
+
+Revelation 11:16
+16 θεοῦ καθήμενοι WH NA28 ] θεοῦ οἳ κάθηνται Treg; θρόνου τοῦ θεοῦ καθήμενοι RP
+
+Revelation 11:18
+18 τοὺς μικροὺς καὶ τοὺς μεγάλους WH Treg NA28 ] τοῖς μικροῖς καὶ τοῖς μεγάλοις RP
+
+Revelation 11:19
+19 ὁ WH Treg NA28 ] – RP 
+• αὐτοῦ WH Treg NA28 ] τοῦ κυρίου RP 
+• καὶ σεισμὸς WH Treg NA28 ] – RP
+
+Revelation 12:2
+12:2 καὶ κράζει WH NA28 ] κράζει Treg; ἔκραζεν RP
+
+Revelation 12:3
+3 μέγας πυρρός WH NA28 ] πυρρὸς μέγας Treg RP
+
+Revelation 12:5
+5 ἄρσεν WH Treg NA28 ] ἄρρενα RP
+
+Revelation 12:6
+6 ἀπὸ WH Treg NA28 ] ὑπὸ RP 
+• τρέφωσιν WH NA28 ] τρέφουσιν Treg; ἐκτρέφωσιν RP
+
+Revelation 12:7
+7 τοῦ WH Treg NA28 ] – RP
+
+Revelation 12:8
+8 ἴσχυσεν WH NA28 RP ] ἴσχυσαν Treg 
+• αὐτῶν WH Treg NA28 ] αὐτῷ RP
+
+Revelation 12:9
+9 ὁ WH Treg NA28 ] – RP
+
+Revelation 12:10
+10 κατήγωρ WH NA28 ] κατήγορος Treg RP 
+• αὐτοὺς WH NA28 ] αὐτῶν Treg RP
+
+Revelation 12:12
+12 οἱ NA28 ] – WH Treg RP 
+• τὴν γῆν καὶ τὴν θάλασσαν WH Treg NA28 ] τῇ γῇ καὶ τῇ θαλάσσῃ RP 
+
+Revelation 12:14
+14 αἱ WH Treg NA28 ] – RP 
+• ὅπου τρέφεται WH Treg NA28 ] ὅπως τρέφηται RP
+
+Revelation 12:18
+18 ἐστάθη WH Treg NA28 ] ἐστάθην RP
+
+Revelation 13:1
+13:1 ὀνόματα WH Treg RP NA28 ] ὄνομα NIV
+
+Revelation 13:3
+3 ὡς WH Treg NA28 ] ὡσεὶ RP 
+• ἐθαυμάσθη WH Treg NA28 ] ἐθαύμασεν RP 
+• ὅλη ἡ γῆ WH NA28 RP ] ἐν ὅλῃ τῇ γῇ Treg
+
+Revelation 13:4
+4 ὅτι ἔδωκεν WH Treg NA28 ] τῷ δεδωκότι RP 
+• δύναται WH Treg NA28 ] δύνατος RP
+
+Revelation 13:5
+5 βλασφημίας WH Treg NA28 ] βλασφημίαν RP 
+• ἐξουσία WH Treg NA28 ] + πόλεμον RP 
+• τεσσεράκοντα Treg RP ] + καὶ WH NA28
+
+Revelation 13:6
+6 βλασφημίας WH Treg NA28 ] βλασφημίαν RP
+
+Revelation 13:8
+8 αὐτὸν WH Treg NA28 ] αὐτῷ RP 
+• οὗ WH Treg NA28 ] ὧν RP 
+• αὐτοῦ WH Treg NA28 ] – RP
+
+Revelation 13:10
+10 εἰς αἰχμαλωσίαν, εἰς αἰχμαλωσίαν WH NA28 ] εἰς αἰχμαλωσίαν Treg; ἔχει αἰχμαλωσίαν RP 
+• ἀποκτανθῆναι NA28 ] ἀποκτενεῖ δεῖ WH Treg RP
+
+Revelation 13:12
+12 ποιεῖ WH Treg NA28 ] ἐποίει RP 
+• προσκυνήσουσιν WH Treg NA28 ] προσκυνήσωσιν RP
+
+Revelation 13:13
+13 ἵνα καὶ πῦρ ποιῇ WH Treg NA28 ] καὶ πῦρ ἵνα RP 
+• καταβαίνειν εἰς WH Treg NA28 ] καταβαίνῃ ἐπὶ RP
+
+Revelation 13:14
+14 τοὺς WH Treg NA28 ] + ἐμοὺς τοὺς RP 
+• ὃς ἔχει WH Treg NA28 ] ὃ εἶχεν RP 
+• τῆς μαχαίρης καὶ ἔζησεν WH Treg NA28 ] καὶ ἔζησεν ἀπὸ τῆς μαχαίρης RP
+
+Revelation 13:15
+15 αὐτῷ Treg NA28 RP ] αὐτῇ WH 
+• δοῦναι πνεῦμα WH Treg NA28 ] πνεῦμα δοῦναι RP 
+• ἵνα WH Treg NA28 ] – RP
+
+Revelation 13:16
+16 δῶσιν WH Treg NA28 ] δώσωσιν RP 
+• χάραγμα WH Treg NA28 ] χαράγματα RP
+
+Revelation 13:17
+17 δύνηται WH Treg NA28 ] δύναται RP 
+
+Revelation 13:18
+18 αὐτοῦ WH NA28 ] + ἐστὶν Treg RP 
+• ἑξακόσιοι ἑξήκοντα ἕξ WH NA28 ] ἑξακόσια ἑξήκοντα ἕξ RP; χξϛʹ Treg
+
+Revelation 14:1
+14:1 ἑστὸς WH Treg NA28 ] ἑστηκὸς RP 
+• αὐτοῦ WH Treg NA28 ] + ἀριθμός RP
+
+Revelation 14:3
+3 ὡς WH Treg NA28 ] – NIV RP
+
+Revelation 14:4
+4 ⸀οὗτοι WH Treg NA28 ] + εἰσιν RP 
+• ὑπάγῃ NA28 RP ] ὑπάγει WH Treg 
+• ⸁οὗτοι WH Treg NA28 ] + ὑπὸ Ἰησοῦ RP
+
+Revelation 14:5
+5 ἐν … αὐτῶν οὐχ εὑρέθη WH Treg NA28 ] οὐχ εὑρέθη ἐν … αὐτῶν RP 
+• ἄμωμοί WH NA28 ] + γάρ Treg RP
+
+Revelation 14:6
+6 ἄλλον WH Treg NA28 ] – RP 
+• ἐπὶ WH Treg NA28 ] – RP
+
+Revelation 14:7
+7 θεὸν WH Treg NA28 ] κύριον RP 
+• τῷ ποιήσαντι WH Treg NA28 ] αὐτὸν τὸν ποιήσαντα RP
+• καὶ WH Treg NA28 ] + τὴν RP
+
+Revelation 14:8
+8 δεύτερος ἄγγελος WH Treg RP ] ἄγγελος δεύτερος NA28 
+• ἔπεσεν WH Treg NA28 ] – RP 
+• ἣ WH Treg NA28 ] – RP
+
+Revelation 14:10
+10 ἀγγέλων ἁγίων WH Treg NA28 ] τῶν ἁγίων ἀγγέλων RP
+
+Revelation 14:13
+13 ναί, λέγει WH Treg NA28 ] λέγει Ναί RP 
+• ἀναπαήσονται WH Treg NA28 ] ἀναπαύσωνται RP 
+• γὰρ WH Treg NA28 ] δὲ RP
+
+Revelation 14:14
+14 υἱὸν WH NA28 ] υἱῷ Treg RP
+
+Revelation 14:16
+16 τῆς νεφέλης WH Treg NA28 ] τὴν νεφέλην RP
+
+Revelation 14:18
+18 ἄγγελος Holmes WHmarg ] + ἐξῆλθεν WH Treg NA28 RP 
+• ὁ WH NA28 ] – Treg RP 
+• φωνῇ WH Treg NA28 ] κραυγῇ RP
+
+Revelation 15:3
+15:3 αἰώνων WH NIV ] ἐθνῶν Treg RP NA28
+
+Revelation 15:4
+4 φοβηθῇ WH Treg NA28 ] + σε RP 
+• δοξάσει WH Treg NA28 ] δοξάσῃ RP 
+• ὅσιος WH Treg NA28 ] ἅγιος RP
+
+Revelation 15:6
+6 ἐνδεδυμένοι WH Treg NA28 ] οἳ ἦσαν ἐνδεδυμένοι RP 
+• λίνον NA28 RP ] λίθον WH Treg
+
+Revelation 16:1
+16:1 μεγάλης φωνῆς WH NA28 ] φωνῆς μεγάλης Treg RP 
+• ἐκχέετε WH NA28 ] ἐκχέατε Treg RP
+
+Revelation 16:3
+3 δεύτερος WH Treg NA28 ] + ἄγγελος RP 
+• ζωῆς WH Treg NA28 ] ζῶσα RP 
+• τὰ WH Treg NA28 ] – RP
+
+Revelation 16:4
+4 καὶ WH Treg NA28 ] + εἰς RP
+
+Revelation 16:5
+5 ὁ WH NA28 RP ] – Treg
+
+Revelation 16:6
+6 δέδωκας WH Treg NA28 ] ἔδωκας RP
+
+Revelation 16:8
+8 τέταρτος WH Treg NA28 ] + ἄγγελος RP 
+• τοὺς ἀνθρώπους ἐν πυρί WH Treg NA28 ] ἐν πυρί τοὺς ἀνθρώπους RP
+
+Revelation 16:9
+9 ἐβλασφήμησαν WH Treg NA28 ] + οἱ ἄνθρωποι RP 
+• τὴν WH Treg NA28 ] – RP
+
+Revelation 16:12
+12 τὸν WH Treg NA28 ] – RP
+
+Revelation 16:13
+13 τρία ἀκάθαρτα WH Treg NA28 ] ἀκάθαρτα τρία RP
+
+Revelation 16:14
+14 ἡμέρας WH Treg NA28 ] + ἐκείνης RP
+
+Revelation 16:17
+17 ἐκ WH Treg NA28 ] ἀπὸ RP 
+• ναοῦ WH Treg NA28 ] + τοῦ οὐρανοῦ RP
+
+Revelation 16:18
+18 φωναὶ καὶ βρονταί WH Treg NA28 ] βρονταί καὶ φωναὶ RP 
+• ἐγένετο WH Treg NA28 ] – RP 
+• ἄνθρωποι ἐγένοντο WH ] οἱ ἄνθρωποι ἐγένοντο RP; ἄνθρωπος ἐγένετο Treg NA28
+
+Revelation 17:1
+17:1 ὑδάτων WH Treg NA28 ] τῶν ὑδάτων τῶν RP
+
+Revelation 17:3
+3 γέμοντα WH NA28 ] γέμον τὰ Treg; γέμον RP 
+• ἔχων WH NA28 ] ἔχον Treg RP
+
+Revelation 17:4
+4 καὶ WH Treg NA28 ] – RP 
+• χρυσίῳ WH NA28 RP ] χρυσῷ Treg
+
+Revelation 17:6
+6 καὶ WH Treg NA28 ] – RP
+
+Revelation 17:8
+8 ὑπάγει WH NA28 ] ὑπάγειν Treg RP 
+• θαυμασθήσονται WH NA28 ] θαυμάσονται Treg RP 
+• τὸ ὄνομα WH Treg NA28 ] τὰ ὀνόματα RP 
+• τὸ θηρίον ὅτι ἦν WH Treg NA28 ] ὅτι ἦν τὸ θηρίον RP
+
+Revelation 17:9
+9 ἑπτά εἰσιν WH Treg NA28 ] εἰσιν ἑπτὰ RP
+
+Revelation 17:10
+10 αὐτὸν δεῖ WH Treg NA28 ] δεῖ αὐτὸν RP
+
+Revelation 17:11
+11 αὐτὸς WH NA28 RP ] οὗτος Treg
+
+Revelation 17:13
+13 γνώμην ἔχουσιν WH Treg NA28 ] ἔχουσιν γνώμην RP 
+• καὶ WH Treg NA28 ] + τὴν RP
+
+Revelation 17:16
+16 γυμνήν WH Treg NA28 ] + ποιήσουσιν αὐτήν RP
+
+Revelation 17:17
+17 μίαν γνώμην WH Treg NA28 ] γνώμην μίαν RP 
+• τελεσθήσονται WH Treg NA28 ] τελεσθῶσιν RP
+
+Revelation 18:2
+18:2 ἐν WH Treg NA28 ] – RP 
+• ἔπεσεν WH NA28 ] – Treg RP 
+• δαιμονίων WH Treg NA28 ] δαιμόνων RP 
+• καὶ φυλακὴ παντὸς θηρίου ἀκαθάρτου NA28 ] – WH Treg NIV RP
+
+Revelation 18:3
+3 πέπτωκαν WH Treg RP ] πέπωκαν NA28
+
+Revelation 18:4
+4 Ἐξέλθατε WH Treg NA28 ] Ἔξελθε RP 
+• ὁ λαός μου, ἐξ αὐτῆς WH NA28 ] ἐξ αὐτῆς ὁ λαός μου Treg RP
+
+Revelation 18:6
+6 διπλώσατε WH Treg NA28 ] + αὐτῇ RP 
+• τὰ WH Treg NA28 ] – RP
+
+Revelation 18:11
+11 κλαίουσιν καὶ πενθοῦσιν WH Treg NA28 ] κλαύσουσιν καὶ πενθήσουσιν RP 
+• αὐτήν WH Treg NA28 ] αὐτῇ RP
+
+Revelation 18:12
+12 μαργαριτῶν WH Treg NA28 ] μαργαρίτου RP 
+• πορφύρας WH Treg NA28 ] πορφυροῦ RP
+
+Revelation 18:13
+13 καὶ ἄμωμον WH Treg NA28 ] – RP 
+• κτήνη καὶ πρόβατα WH Treg NA28 ] πρόβατα καὶ κτήνη RP
+
+Revelation 18:14
+14 σου τῆς … ψυχῆς WH Treg NA28 ] τῆς … ψυχῆς σου RP 
+• οὐκέτι WH NA28 RP ] – Treg 
+• οὐ μὴ αὐτὰ εὑρήσουσιν WH Treg NA28 ] αὐτὰ οὐ μὴ εὕρῃς RP
+
+Revelation 18:16
+16 λέγοντες WH Treg NA28 ] καὶ λέγοντες RP 
+• κεχρυσωμένη Treg RP ] + ἐν WH NA28 
+• μαργαρίτῃ WH Treg NA28 ] μαργαρίταις RP
+
+Revelation 18:18
+18 ἔκραξαν WH ] ἔκραζον Treg NA28 RP
+
+Revelation 18:19
+19 ἔκραξαν WH ] ἔκραζον Treg NA28 RP 
+• πενθοῦντες WH Treg NA28 ] + καὶ RP
+
+Revelation 18:21
+21 μύλινον WH NA28 ] μύλον Treg RP
+
+Revelation 18:24
+24 αἷμα WH Treg NA28 ] αἵματα RP
+
+Revelation 19:1
+19:1 δόξα καὶ ἡ δύναμις WH Treg NA28 ] δύναμις καὶ ἡ δόξα RP
+
+Revelation 19:2
+2 ἔφθειρεν WH Treg NA28 ] διέφθειρεν RP
+
+Revelation 19:3
+3 εἴρηκαν WH Treg NA28 ] εἴρηκεν RP
+
+Revelation 19:4
+4 τῷ θρόνῳ WH Treg NA28 ] τοῦ θρόνου RP
+
+Revelation 19:5
+5 τῷ θεῷ WH Treg NA28 ] τὸν θεὸν RP 
+• καὶ Treg NA28 RP ] – WH
+
+Revelation 19:6
+6 λεγόντων WH Treg NA28 ] λέγοντες RP 
+• θεός Holmes WHmarg ] + ἡμῶν WH Treg NA28 RP
+
+Revelation 19:7
+7 ἀγαλλιῶμεν WH Treg NA28 ] ἀγαλλιώμεθα RP 
+• δώσομεν WH ] δώσωμεν NA28; δῶμεν Treg RP
+
+Revelation 19:8
+8 λαμπρὸν WH Treg NA28 ] + καὶ RP
+
+Revelation 19:10
+10 μαρτυρία WH Treg NA28 ] + τοῦ RP
+
+Revelation 19:11
+11 πιστὸς καλούμενος WH Treg ] καλούμενος πιστὸς NA28 RP
+
+Revelation 19:12
+12 αὐτοῦ WH Treg RP ] + ὡς NA28 
+• ἔχων WH Treg NA28 ] + ὀνόματα γεγραμμένα καὶ RP
+
+Revelation 19:13
+13 βεβαμμένον Treg NA28 RP ] ῤεραντισμένον WH 
+• κέκληται WH Treg NA28 ] καλεῖται RP
+
+Revelation 19:14
+14 τὰ WH NA28 RP ] – Treg
+
+Revelation 19:15
+15 ῥομφαία WH Treg NA28 ] + δίστομος RP
+
+Revelation 19:17
+17 ἕνα WH Treg NA28 ] – RP 
+• ἔκραξεν Treg RP ] + ἐν WH NA28
+
+Revelation 19:18
+18 αὐτῶν NA28 RP ] αὐτούς WH Treg 
+• καὶ WH Treg NA28 ] τε καὶ RP
+
+Revelation 19:19
+19 τὸν WH Treg NA28 ] – RP
+
+Revelation 19:20
+20 μετʼ αὐτοῦ ὁ WH Treg NA28 ] ὁ μετʼ αὐτοῦ RP 
+• τῆς καιομένης WH Treg NA28 ] τὴν καιομένην RP
+
+Revelation 20:2
+20:2 ὁ ὄφις ὁ ἀρχαῖος WH Treg NA28 ] τὸν ὄφιν τὸν ἀρχαῖον RP 
+• Σατανᾶς WH Treg NA28 ] + ὁ πλανῶν τὴν οἰκουμένην ὅλην RP
+
+Revelation 20:3
+3 πλανήσῃ WH Treg NA28 ] πλανᾷ RP 
+• μετὰ WH Treg NA28 ] καὶ μετὰ RP 
+• λυθῆναι αὐτὸν WH NA28 ] αὐτὸν λυθῆναι Treg RP
+
+Revelation 20:4
+4 χίλια WH Treg NA28 ] τὰ χίλια RP
+
+Revelation 20:5
+5 οἱ WH NA28 ] Καί οἱ Treg RP
+
+Revelation 20:6
+6 χίλια RP ] τὰ χίλια WH Treg NA28
+
+Revelation 20:8
+8 καὶ WH NA28 ] + τὸν Treg RP 
+• αὐτῶν WH Treg NA28 ] – RP
+
+Revelation 20:9
+9 ἐκύκλευσαν WH NA28 ] ἐκύκλωσαν Treg RP 
+• ἐκ τοῦ οὐρανοῦ WH NA28 ] ἀπὸ τοῦ θεοῦ ἐκ τοῦ οὐρανοῦ Treg; ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ RP
+
+Revelation 20:11
+11 ἐπʼ αὐτοῦ WH ] ἐπʼ αὐτόν NA28 RP; ἐπάνω αὐτοῦ Treg 
+• τοῦ WH Treg NA28 ] – RP
+
+Revelation 20:14
+14 θάνατος ὁ δεύτερός WH NA28 RP ] δεύτερός θάνατος Treg
+
+Revelation 20:15
+15 τῇ βίβλῳ WH Treg NA28 ] τῷ βιβλίῳ RP
+
+Revelation 21:3
+21:3 θρόνου WH NA28 ] οὐρανοῦ Treg RP 
+• λαοὶ WH Treg NA28 ] λαὸς RP 
+• μετʼ αὐτῶν ἔσται WH Treg ] ἔσται μετʼ αὐτῶν RP; μετʼ αὐτῶν ἔσται αὐτῶν θεός NA28
+
+Revelation 21:4
+4 ἐκ WH Treg NA28 ] ἀπὸ RP 
+• ἔτι. WH ] ἔτι, ὅτι Treg NA28 RP
+
+Revelation 21:5
+5 καινὰ ποιῶ πάντα WH Treg NA28 ] πάντα καινὰ ποιῶ RP 
+• λέγει WH NA28 ] + μοι Treg RP 
+• πιστοὶ καὶ ἀληθινοί WH Treg NA28 ] ἀληθινοὶ καὶ πιστοί RP
+
+Revelation 21:6
+6 Γέγοναν, ἐγὼ WH ] Γέγοναν ἐγώ εἰμι Treg NA28; Γέγονα RP
+
+Revelation 21:8
+8 ἀπίστοις WH Treg NA28 ] + καὶ ἁμαρτωλοῖς RP 
+
+Revelation 21:9
+9 τῶν γεμόντων WH Treg NA28 ] γεμούσας RP 
+• νύμφην τὴν γυναῖκα WH Treg NA28 ] γυναῖκα τὴν νύμφην RP
+
+Revelation 21:10
+10 πόλιν WH Treg NA28 ] + τὴν μεγάλην RP
+
+Revelation 21:12
+12 τοῖς πυλῶσιν WH NA28 RP ] τοὺς πυλῶνας Treg 
+• ἐστιν WH ] + τὰ ὀνόματα Treg NA28; + ὀνόματα RP 
+• φυλῶν WH Treg NA28 ] + τῶν RP
+
+Revelation 21:13
+13 ἀνατολῆς WH Treg NA28 ] ἀνατολῶν RP
+
+Revelation 21:14
+14 ἔχων WH Treg NA28 ] ἔχον RP
+
+Revelation 21:16
+16 ὅσον WH Treg RP ] + καὶ NA28 
+• σταδίους Treg RP ] σταδίων WH NA28 
+• χιλιάδων WH Treg NA28 ] + δώδεκα RP
+
+Revelation 21:18
+18 καὶ WH NA28 ] + ἦν Treg RP
+
+Revelation 21:19
+19 οἱ WH NA28 RP ] καὶ οἱ Treg 
+
+Revelation 21:24
+24 τὴν δόξαν αὐτῶν WH Treg NA28 ] αὐτῷ δόξαν καὶ τιμὴν τῶν ἐθνῶν RP
+
+Revelation 21:27
+27 ποιῶν Holmes WHmarg ] ὁ ποιῶν WH Treg NA28; ποιοῦν RP
+
+Revelation 22:1
+22:1 ποταμὸν WH Treg NA28 ] + καθαρὸν RP 
+
+Revelation 22:2
+2 ἀποδιδοῦν WH NA28 ] ἀποδιδοὺς Treg RP
+
+Revelation 22:5
+5 ἔτι WH Treg NA28 ] ἐκει RP 
+• οὐκ ἔχουσιν χρείαν WH Treg NA28 ] χρείαν οὐκ ἔχουσιν RP 
+• φωτὸς WH Treg NA28 ] – RP 
+• φῶς WH ] φωτὸς Treg NA28 RP 
+• ἐπʼ WH Treg NA28 ] – RP
+
+Revelation 22:6
+6 εἶπέν WH Treg NA28 ] λέγει RP 
+• ὁ WH Treg NA28 ] – RP
+
+Revelation 22:11
+11 ῥυπαρευθήτω RP ] ῥυπανθήτω WH Treg NA28
+
+Revelation 22:12
+12 ἐστὶν WH Treg NA28 ] ἔσται RP
+
+Revelation 22:13
+13 ἡ WH NA28 RP ] – Treg 
+• τὸ WH NA28 RP ] – Treg
+
+Revelation 22:14
+14 πλύνοντες τὰς στολὰς αὐτῶν WH Treg NA28 ] ποιοῦντες τὰς ἐντολὰς αὐτοῦ RP
+
+Revelation 22:18
+18 ἐπιθήσει WH Treg NA28 ] ἐπιθήσαι RP
+
+Revelation 22:19
+19 ἀφελεῖ WH Treg NA28 ] ἀφέλοι RP
+
+Revelation 22:20
+20 ἔρχου WH Treg NA28 ] Ναί ἔρχου RP
+
+Revelation 22:21
+21 Ἰησοῦ Treg NA28 ] + Χριστοῦ WH RP 
+• πάντων NA28 ] τῶν ἁγίων WH Treg; τῶν ἁγίων. ἀμήν NIV; πάντων τῶν ἁγίων. Ἀμήν RP

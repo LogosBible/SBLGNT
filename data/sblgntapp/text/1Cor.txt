@@ -1,244 +1,776 @@
+ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α
 
-1Co 1:1	Corinthians Apparatus Data
-Order of edition citation: WH Treg NIV RP
+1 Corinthians 1:1
+1:1 Χριστοῦ Ἰησοῦ Treg NA28 ] Ἰησοῦ Χριστοῦ WH RP
 
+1 Corinthians 1:2
+2 ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ τῇ οὔσῃ ἐν Κορίνθῳ Treg ] τῇ οὔσῃ ἐν Κορίνθῳ ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ WH NA28 RP 
+• αὐτῶν WH Treg NA28 ] + τε RP
 
-1Co 1:1	Χριστοῦ Ἰησοῦ Treg NIV ] Ἰησοῦ Χριστοῦ WH RP
-1Co 1:2	ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ τῇ οὔσῃ ἐν Κορίνθῳ Treg ] τῇ οὔσῃ ἐν Κορίνθῳ ἡγιασμένοις ἐν Χριστῷ Ἰησοῦ WH NIV RP • αὐτῶν WH Treg NIV ] + τε RP
-1Co 1:4	μου Treg NIV RP ] – WH
-1Co 1:14	εὐχαριστῶ WH NIV ] + τῷ θεῷ Treg RP NA
-1Co 1:15	ἐβαπτίσθητε WH Treg NIV ] ἐβάπτισα RP
-1Co 1:20	κόσμου WH Treg NIV ] + τούτου RP
-1Co 1:22	σημεῖα WH Treg NIV ] σημεῖον RP
-1Co 1:23	ἔθνεσιν WH Treg NIV ] Ἕλλησιν RP
-1Co 1:25	ἀνθρώπων WH Treg NIV ] + ἐστίν RP
-1Co 1:27	καταισχύνῃ τοὺς σοφούς WH Treg NIV ] τοὺς σοφούς καταισχύνῃ RP
-1Co 1:28	τὰ Treg NIV ] καὶ τὰ WH RP
-1Co 1:30	σοφία ἡμῖν WH Treg NIV ] ἡμῖν σοφία RP
+1 Corinthians 1:4
+4 μου Treg NA28 RP ] – WH
 
-1Co 2:1	μαρτύριον Treg NIV RP ] μυστήριον WH NA
-1Co 2:2	τι εἰδέναι WH Treg NIV ] τοῦ εἰδέναι τι RP
-1Co 2:4	πειθοῖ σοφίας Holmes ] πειθοῖς σοφίας λόγοις WH Treg NIV; πειθοῖς ἀνθρωπίνης σοφίας λόγοις RP
-1Co 2:7	θεοῦ σοφίαν WH Treg NIV ] σοφίαν θεοῦ RP
-1Co 2:9	ὅσα WH Treg ] ἃ NIV RP
-1Co 2:10	γὰρ WH ] δὲ Treg NIV RP • ἀπεκάλυψεν ὁ θεὸς WH Treg NIV ] ὁ θεὸς ἀπεκάλυψεν RP • πνεύματος WH Treg NIV ] + αὐτοῦ RP
-1Co 2:11	ἔγνωκεν WH Treg NIV ] οἶδεν RP
-1Co 2:13	πνεύματος WH Treg NIV ] + ἁγίου RP
-1Co 2:15	τὰ NIV ] μὲν WH Treg RP
+1 Corinthians 1:14
+14 εὐχαριστῶ WH NIV ] + τῷ θεῷ Treg RP NA28
 
-1Co 3:1	λαλῆσαι ὑμῖν WH Treg NIV ] ὑμῖν λαλῆσαι RP • σαρκίνοις WH Treg NIV ] σαρκικοῖς RP
-1Co 3:2	οὐ WH Treg NIV ] καὶ οὐ RP • οὐδὲ WH Treg NIV ] οὖτε RP
-1Co 3:3	ἔρις WH Treg NIV ] + καὶ διχοστασίαι RP
-1Co 3:4	οὐκ ἄνθρωποί WH Treg NIV ] οὐχὶ σαρκικοί RP
-1Co 3:5	Τί WH Treg NIV ] Τίς RP • Ἀπολλῶς τί δέ ἐστιν Παῦλος WH Treg NIV] Παῦλος τίς δὲ Ἀπολλώς RP • διάκονοι WH Treg NIV ] ἀλλ᾽ ἢ διάκονοι RP
-1Co 3:10	ἔθηκα WH Treg NIV ] τέθεικα RP
-1Co 3:12	θεμέλιον WH Treg NIV ] + τοῦτον RP • χρυσόν ἄργυρον WH NIV RP ] χρυσίον ἀργύριον Treg
-1Co 3:13	αὐτὸ WH Treg NA ] – NIV RP
-1Co 3:16	οἰκεῖ ἐν ὑμῖν Treg NIV RP ] ἐν ὑμῖν οἰκεῖ WH
-1Co 3:22	ὑμῶν WH Treg NIV ] + ἐστιν RP
+1 Corinthians 1:15
+15 ἐβαπτίσθητε WH Treg NA28 ] ἐβάπτισα RP
 
-1Co 4:2	ὧδε WH Treg NIV ] Ὃ δὲ RP
-1Co 4:6	Ἀπολλῶν WH Treg NIV ] Ἀπολλὼ RP • ἃ WH Treg NIV ] ὃ RP • γέγραπται WH Treg NIV ] + φρονεῖν RP
-1Co 4:9	γάρ WH Treg NA ] + ὅτι NIV RP
-1Co 4:13	δυσφημούμενοι WH NIV ] βλασφημούμενοι Treg RP
-1Co 4:14	νουθετῶν WH NIV ] νουθετῶ Treg RP
-1Co 4:17	μου τέκνον WH Treg NIV ] τέκνον μου RP • Ἰησοῦ WH NIV ] – Treg RP
+1 Corinthians 1:20
+20 κόσμου WH Treg NA28 ] + τούτου RP
 
-1Co 5:1	ἔθνεσιν WH Treg NIV ] + ὀνομάζεται RP
-1Co 5:2	ἀρθῇ WH Treg NIV ] ἐξαρθῇ RP • ποιήσας Treg RP ] πράξας WH NIV
-1Co 5:3	ἀπὼν WH Treg NIV ] ὡς ἀπὼν RP
-1Co 5:4	⸀Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP • ⸁Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP
-1Co 5:5	κυρίου WH NIV ] + Ἰησοῦ Treg RP
-1Co 5:7	ἡμῶν WH Treg NIV ] + ὑπὲρ ἡμῶν RP
-1Co 5:10	οὐ WH Treg NIV ] καὶ οὐ RP • καὶ WH Treg NIV ] ἢ RP • ὠφείλετε WH Treg NIV ] ὀφείλετε RP
-1Co 5:12	μοι WH Treg NIV ] + καί RP
-1Co 5:13	κρίνει WH Treg ] κρινεῖ NIV RP • ἐξάρατε WH Treg NIV ] Καί ἐξαρεῖτε RP
+1 Corinthians 1:22
+22 σημεῖα WH Treg NA28 ] σημεῖον RP
 
-1Co 6:2	ἢ WH Treg NIV ] – RP
-1Co 6:5	οὐδεὶς σοφὸς WH Treg NIV ] σοφὸς οὐδὲ εἷς RP • ἀδελφοῦ WH Treg NIV RP ] + καὶ τοῦ ἀδελφοῦ em Holmes
-1Co 6:7	οὖν WH Treg RP NA ] – NIV
-1Co 6:8	τοῦτο WH Treg NIV ] ταῦτα RP
-1Co 6:9	θεοῦ βασιλείαν WH Treg NIV ] βασιλείαν θεοῦ RP
-1Co 6:10	κλέπται οὔτε πλεονέκται WH Treg NIV ] πλεονέκται οὔτε κλέπται RP • οὐ WH Treg NIV ] οὔτε RP • θεοῦ WH Treg NIV ] + οὐ RP
-1Co 6:11	Ἰησοῦ RP ] Ἰησοῦ Χριστοῦ Treg NIV; ἡμῶν Ἰησοῦ Χριστοῦ WH
-1Co 6:16	ἢ WH Treg NIV ] – RP
-1Co 6:20	ὑμῶν WH Treg NIV ] + καὶ ἐν τῷ πνεύματι ὑμῶν ἅτινά ἐστιν τοῦ θεοῦ RP
+1 Corinthians 1:23
+23 ἔθνεσιν WH Treg NA28 ] Ἕλλησιν RP
 
-1Co 7:1	ἐγράψατε WH NIV ] + μοι Treg RP
-1Co 7:3	ὀφειλὴν WH Treg NIV ] ὀφειλομένην εὔνοιαν RP
-1Co 7:5	σχολάσητε WH Treg NIV ]  σχολάζητε RP • τῇ WH Treg NIV ]  + νηστείᾳ καὶ τῇ RP • ἦτε WH Treg NIV ] συνέρχησθε RP
-1Co 7:7	δὲ WH Treg NIV ] γὰρ RP • ἔχει χάρισμα WH Treg NIV ] χάρισμα ἔχει RP • ⸀ὁ WH Treg NIV ] ὃς RP • ⸁ὁ WH Treg NIV ] ὃς RP
-1Co 7:8	αὐτοῖς WH Treg NIV ] + ἐστιν RP
-1Co 7:9	γαμῆσαι Treg NIV RP ] γαμεῖν WH
-1Co 7:12	λέγω ἐγώ WH Treg NIV ] ἐγώ λέγω RP
-1Co 7:13	εἴ τις NIV ] ἥτις WH Treg RP • οὗτος WH Treg NIV ] αὑτὸς RP • τὸν ἄνδρα WH Treg NIV ] αὐτόν RP
-1Co 7:14	ἀδελφῷ WH Treg NIV ] ἀνδρί RP
-1Co 7:15	ἡμᾶς Treg NIV RP ] ὑμᾶς WH NA
-1Co 7:17	ἐμέρισεν NIV RP ] μεμέρικεν WH Treg • κύριος WH Treg NIV ] θεός RP • θεός WH Treg NIV ] κύριος RP
-1Co 7:18	κέκληταί τις WH Treg NIV ] τις ἐκλήθη RP
-1Co 7:22	ὁμοίως WH Treg NIV ] + καὶ RP
-1Co 7:28	γαμήσῃς WH Treg NIV ] γήμῃς RP
-1Co 7:29	ἐστίν τὸ λοιπὸν WH Treg NIV ] τὸ λοιπὸν ἐστίν RP
-1Co 7:31	τὸν κόσμον WH Treg NIV ] τῷ κόσμῳ τούτῳ RP
-1Co 7:32	ἀρέσῃ WH Treg NIV ] ἀρέσει RP
-1Co 7:33	ἀρέσῃ WH Treg NIV ] ἀρέσει RP
-1Co 7:34	καὶ WH Treg NIV ] – RP • ἡ ἄγαμος WH Treg NIV ] – RP• παρθένος WH Treg NIV ] + Ἡ ἄγαμος RP • ⸀τῷ WH Treg NIV ] – RP • ⸁τῷ WH Treg NIV ] – RP • ἀρέσῃ WH Treg NIV ] ἀρέσει RP
-1Co 7:35	σύμφορον WH Treg NIV ] συμφέρον RP • εὐπάρεδρον WH Treg NIV ] εὐπρόσεδρον RP
-1Co 7:37	ἐν τῇ καρδίᾳ αὐτοῦ ἑδραῖος WH Treg NIV ] ἑδραῖος ἐν τῇ καρδίᾳ RP • ἰδίᾳ καρδίᾳ WH Treg NIV ] καρδίᾳ αὐτοῦ RP • τηρεῖν WH Treg NIV ] τοῦ τηρεῖν RP • ποιήσει WH Treg NIV ] ποιεῖ RP
-1Co 7:38	⸀γαμίζων WH Treg NIV ] ἐκγαμίζων RP • τὴν παρθένον ἑαυτοῦ Treg ] τὴν ἑαυτοῦ παρθένον WH NIV; – RP • καὶ ὁ WH Treg NIV ] ὁ δὲ RP • ⸁γαμίζων WH Treg NIV ] ἑκγαμίζων RP • ποιήσει WH Treg NIV ] ποιεῖ RP
-1Co 7:39	δέδεται WH Treg NIV ] + νόμῳ RP • δὲ WH Treg NIV ] + καί RP
-1Co 7:40	δὲ Treg NIV RP ] γὰρ WH
+1 Corinthians 1:25
+25 ἀνθρώπων WH Treg NA28 ] + ἐστίν RP
 
-1Co 8:2	εἴ WH Treg NIV ] + δέ RP • ἐγνωκέναι WH Treg NIV ] εἰδέναι RP • οὔπω WH Treg NIV ] οὐδέπω οὐδὲν RP • ἔγνω WH Treg NIV ] ἔγνωκεν RP
-1Co 8:4	θεὸς WH Treg NIV ] + ἕτερος RP
-1Co 8:7	συνηθείᾳ WH Treg NIV ] συνειδήσει RP • ἕως ἄρτι τοῦ εἰδώλου WH Treg NIV ] τοῦ εἰδώλου ἕως ἄρτι RP
-1Co 8:8	παραστήσει WH Treg NIV ] παρίστησιν RP • γὰρ ἐὰν φάγωμεν, περισσεύομεν, οὔτε ἐὰν μὴ φάγωμεν, ὑστερούμεθα RP ] ἐὰν μὴ φάγωμεν, ὑστερούμεθα, οὔτε ἐὰν φάγωμεν, περισσεύομεν WH NIV; ἐὰν μὴ φάγωμεν, ὑστερούμεθα, οὔτε ἐὰν φάγωμεν, περισσεύομεθα Treg
-1Co 8:9	ἀσθενέσιν WH Treg NIV ] ἀσθενοῦσιν RP
-1Co 8:11	ἀπόλλυται γὰρ WH Treg NIV ] Καὶ ἀπολεῖται RP • ἐν WH Treg NIV ] ἀδελφὸς ἐπὶ RP • ὁ ἀδελφὸς WH Treg NIV ] – RP
+1 Corinthians 1:27
+27 καταισχύνῃ τοὺς σοφούς WH Treg NA28 ] τοὺς σοφούς καταισχύνῃ RP
 
-1Co 9:1	ἐλεύθερος οὐκ εἰμὶ ἀπόστολος WH Treg NIV ] ἀπόστολος οὐκ εἰμὶ ἐλεύθερος RP • Ἰησοῦν WH Treg NIV ] + Χριστὸν RP
-1Co 9:2	μου τῆς WH Treg NIV ] τῆς μου RP
-1Co 9:3	ἐστιν αὕτη WH Treg NIV ] αὕτη ἐστιν RP
-1Co 9:4	πεῖν WH NIV ] πιεῖν Treg RP
-1Co 9:6	μὴ WH Treg NIV] τοῦ μὴ RP
-1Co 9:7	τὸν καρπὸν WH Treg NIV ] ἐκ τοῦ καρποῦ RP • τίς Holmes Tregmarg] ἢ τίς WH Treg NIV RP
-1Co 9:8	καὶ … ταῦτα οὐ WH Treg NIV ] οὐχὶ καὶ … ταῦτα RP
-1Co 9:9	κημώσεις Treg NIV ] φιμώσεις WH RP
-1Co 9:10	ὀφείλει ἐπ’ ἐλπίδι WH Treg NIV ] ἐπ’ ἐλπίδι ὀφείλει RP • ἐπ’ ἐλπίδι τοῦ μετέχειν WH Treg NIV ] τῆς ἐλπίδος αὐτοῦ μετέχειν ἐπ᾽ ἐλπίδι RP
-1Co 9:12	ὑμῶν ἐξουσίας WH Treg NIV ] ἐξουσίας ὑμῶν RP • τινα ἐγκοπὴν WH Treg NIV ] ἐγκοπὴν τινα RP
-1Co 9:13	τὰ WH Treg NIV ] – RP • παρεδρεύοντες WH Treg NIV ] προσεδρεύοντες RP
-1Co 9:15	οὐ κέχρημαι οὐδενὶ WH Treg NIV ] οὐδενὶ ἐχρησάμην RP • οὐδεὶς κενώσει WH Treg NIV ] ἵνα τις κενώσῃ RP
-1Co 9:16	γάρ WH Treg NIV ] δέ RP • εὐαγγελίσωμαι WH Treg NIV ] εὐαγγελίζωμαι RP
-1Co 9:18	μού WH Treg NIV ] μοί RP • εὐαγγέλιον WH Treg NIV ] + τοῦ Χριστοῦ RP
-1Co 9:20	μὴ ὢν αὐτὸς ὑπὸ νόμον WH Treg NIV ] – RP
-1Co 9:21	θεοῦ WH Treg NIV ] θεῷ RP • Χριστοῦ WH Treg NIV ] Χριστῷ RP • κερδάνω WH Treg NIV ] κερδήσω RP • τοὺς WH Treg NIV ] – RP
-1Co 9:22	ἀσθενέσιν WH Treg NIV ] + ὡς RP • γέγονα WH Treg NIV ] + τὰ RP
-1Co 9:23	πάντα WH Treg NIV ] Τοῦτο RP
+1 Corinthians 1:28
+28 τὰ Treg NA28 ] καὶ τὰ WH RP
 
-1Co 10:1	γὰρ WH Treg NIV ] δὲ RP
-1Co 10:2	ἐβαπτίσαντο WH Treg RP ] ἐβαπτίσθησαν NIV
-1Co 10:3	πνευματικὸν βρῶμα WH Treg NIV ] βρῶμα πνευματικὸν RP
-1Co 10:4	πνευματικὸν ἔπιον πόμα WH Treg NIV ] πόμα πνευματικὸν ἔπιον RP • πέτρα δὲ WH Treg NIV ] δὲ πέτρα RP
-1Co 10:9	Χριστόν RP NA ] κύριον WH Treg NIV • καθώς WH Treg NIV ] + καί RP • ἀπώλλυντο WH Treg NIV ] ἀπώλοντο RP
-1Co 10:10	καθάπερ WH Treg NIV ] καθὼς καί RP
-1Co 10:11	δὲ WH Treg NIV ] + πάντα RP • τυπικῶς συνέβαινεν WH Treg NIV ] τύποι συνέβαινον RP • κατήντηκεν WH Treg NIV ] κατήντησεν RP
-1Co 10:13	δύνασθαι WH Treg NIV ] + ὑμᾶς RP
-1Co 10:16	ἐστὶν τοῦ αἵματος τοῦ Χριστοῦ WH Treg NIV ] τοῦ αἵματος τοῦ Χριστοῦ ἐστὶν RP
-1Co 10:18	οὐχ WH NIV ] οὐχὶ RP Treg
-1Co 10:19	εἰδωλόθυτόν τί … ὅτι εἴδωλόν WH Treg NIV] εἴδωλόν τί … ὅτι εἰδωλόθυτόν RP
-1Co 10:20	θύουσιν NIV ] θύουσιν τὰ ἔθνη WH Treg; θύει τὰ ἔθνη RP • καὶ οὐ θεῷ θύουσιν WH Treg NIV ] θύει καὶ οὐ θεῷ RP
-1Co 10:23	⸀Πάντα WH Treg NIV ] + μοι RP • ⸁πάντα WH Treg NIV ] + μοι RP
-1Co 10:24	ἑτέρου WH Treg NIV ] + ἕκαστος RP
-1Co 10:26	κυρίου γὰρ WH Treg NIV ] γὰρ κυρίου RP
-1Co 10:27	εἴ WH Treg NIV ] + δέ RP
-1Co 10:28	ἱερόθυτόν WH Treg NIV ] εἰδωλόθυτόν RP • συνείδησιν WH Treg NIV ] + Τοῦ γὰρ κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς RP
-1Co 10:32	καὶ Ἰουδαίοις γίνεσθε WH Treg NIV ] γίνεσθε καὶ Ἰουδαίοις RP
-1Co 10:33	σύμφορον WH Treg NIV ] συμφέρον RP
+1 Corinthians 1:30
+30 σοφία ἡμῖν WH Treg NA28 ] ἡμῖν σοφία RP
 
-1Co 11:2	ὑμᾶς WH Treg NIV ] + ἀδελφοί RP
-1Co 11:3	τοῦ WH Treg NIV ] – RP
-1Co 11:5	αὐτῆς WH Treg NIV ] ἑαυτῆς RP
-1Co 11:7	ἡ WH Treg NIV ] – RP
-1Co 11:11	γυνὴ χωρὶς ἀνδρὸς οὔτε ἀνὴρ χωρὶς γυναικὸς WH Treg NIV ] ἀνὴρ χωρὶς γυναικὸς οὔτε γυνὴ χωρὶς ἀνδρὸς RP
-1Co 11:14	οὐδὲ WH Treg NIV] ἢ οὐδὲ RP • ἡ φύσις αὐτὴ WH Treg NIV ] αὐτὴ ἡ φύσις RP
-1Co 11:15	δέδοται RP ] + αὐτῇ WH Treg NIV
-1Co 11:17	παραγγέλλων οὐκ ἐπαινῶ WH NIV RP ] παραγγέλλω οὐκ ἐπαινῶν Treg
-1Co 11:19	καὶ WH Treg NIV ] – RP
-1Co 11:22	εἴπω ὑμῖν WH Treg NIV ] ὑμῖν εἴπω RP
-1Co 11:23	παρεδίδετο WH Treg NIV ] παρεδίδοτο RP
-1Co 11:24	εἶπεν WH Treg NIV ] + Λάβετε φάγετε RP • ὑμῶν WH Treg NIV ] + κλώμενον RP
-1Co 11:25	ἐὰν WH Treg NIV ] ἂν RP
-1Co 11:26	ἐὰν WH Treg NIV ] ἂν RP • ποτήριον WH Treg NIV ] + τοῦτο RP • οὗ WH Treg NIV ] + ἂν RP
-1Co 11:27	ἄρτον WH Treg NIV ] + τοῦτον RP • ἀναξίως WH Treg NIV ] + τοῦ κυρίου RP
-1Co 11:29	πίνων WH Treg NIV ] + ἀναξίως RP • σῶμα WH Treg NA ] + τοῦ κυρίου NIV RP
-1Co 11:31	δὲ WH Treg NIV ] γὰρ RP
-1Co 11:32	ὑπὸ RP ] + τοῦ WH Treg NIV
-1Co 11:34	εἴ WH Treg NIV ] + δέ RP
+1 Corinthians 2:1
+2:1 μαρτύριον Treg NIV RP ] μυστήριον WH NA28
 
-1Co 12:3	Ἰησοῦς WH Treg NIV ] Ἰησοῦν RP • Κύριος Ἰησοῦς WH Treg NIV ] Κύριον Ἰησοῦν RP
-1Co 12:6	ὁ δὲ Treg NIV RP ] καὶ ὁ WH • αὐτὸς WH Treg NIV ] + ἐστιν RP
-1Co 12:9	ἑτέρῳ WH Treg NIV ] + δὲ RP • ἄλλῳ Holmes ] + δὲ WH Treg NIV RP • ἑνὶ WH Treg NIV ] αὐτῷ RP 
-1Co 12:10	⸀ἄλλῳ Holmes ] + δὲ WH Treg NIV RP • ⸁ἄλλῳ Treg ] + δὲ WH NIV RP • ⸀1ἄλλῳ Treg ] + δὲ WH NIV RP • ἑτέρῳ WH Treg NIV ] + δὲ RP • ⸀2ἄλλῳ Holmes ] + δὲ WH Treg NIV RP
-1Co 12:12	πολλὰ ἔχει WH Treg NIV ] ἔχει πολλὰ RP • σώματος WH Treg NIV ] + τοῦ ἑνός RP
-1Co 12:13	πάντες WH Treg NIV ] + εἰς RP
-1Co 12:18	νυνὶ NIV RP ] νῦν WH Treg
-1Co 12:20	μὲν Treg NIV RP ] – WH
-1Co 12:24	ἔχει WH Treg RP NA ] + τιμῆς NIV • ὑστεροῦντι RP ] ὑστερουμένῳ WH Treg NIV
-1Co 12:25	σχίσμα WH Treg NIV ] σχίσματα RP
-1Co 12:26	εἴτε WH NIV RP ] εἴ τι Treg • μέλος WH Treg ] ἓν μέλος NIV RP
-1Co 12:28	ἔπειτα WH Treg NIV ] εἶτα RP
-1Co 12:31	μείζονα WH Treg NIV ] κρείττονα RP
+1 Corinthians 2:2
+2 τι εἰδέναι WH Treg NA28 ] τοῦ εἰδέναι τι RP
 
-1Co 13:2	⸂καὶ ἐὰν⸃ Treg NIV RP ] κἂν WH • ⸄καὶ ἐὰν⸅ NIV RP ] κἂν WH Treg • μεθιστάναι Treg NIV ] μεθιστάνειν WH RP
-1Co 13:3	⸂καὶ ἐὰν⸃ RP ] κἂν WH Treg NIV • ⸄καὶ ἐὰν⸅ Treg NIV RP ] κἂν WH • καυθήσομαι NIV ] καυθήσωμαι Treg RP; καυχήσωμαι WH NA
-1Co 13:4	ἡ ἀγάπη Treg NIV RP ] – WH
-1Co 13:8	πίπτει WH Treg NIV ] ἐκπίπτει RP
-1Co 13:9	γὰρ WH Treg NIV ] δὲ RP
-1Co 13:10	τὸ WH Treg NIV ] τότε τὸ RP
-1Co 13:11	ἐλάλουν … ἐλογιζόμην ὡς νήπιος WH Treg NIV ] ὡς νήπιος ἐλάλουν … ἐλογιζόμην RP • ὅτε WH Treg NIV ] + δὲ RP
+1 Corinthians 2:4
+4 πειθοῖ σοφίας Holmes ] πειθοῖς σοφίας λόγοις WH Treg NA28; πειθοῖς ἀνθρωπίνης σοφίας λόγοις RP
 
-1Co 14:2	ἀλλὰ WH Treg NIV ] + τῷ RP
-1Co 14:5	δὲ WH Treg NIV ] γὰρ RP • διερμηνεύῃ WH Treg NIV ] διερμηνεύει RP
-1Co 14:6	Νῦν WH Treg NIV ] Νυνὶ RP
-1Co 14:7	δῷ WH Treg NIV ] διδῶ RP
-1Co 14:8	φωνὴν σάλπιγξ Treg RP ] σάλπιγξ φωνὴν WH NIV
-1Co 14:10	εἰσιν WH Treg NIV ] ἐστὶν RP • οὐδὲν WH Treg NIV ] + αὐτῶν RP
-1Co 14:13	Διὸ WH Treg NIV ] Διόπερ RP
-1Co 14:16	εὐλογῇς WH Treg NIV ] εὐλογήσῃς RP • πνεύματι Treg] ἐν πνεύματι WH NIV; τῷ πνεύματι RP
-1Co 14:18	θεῷ WH Treg NIV ] + μου RP • γλώσσαις WH NIV RP ] γλώσσῃ Treg • λαλῶ WH Treg NIV ] λαλῶν RP
-1Co 14:19	τῷ νοΐ WH Treg NIV ] διὰ τοῦ νοός RP
-1Co 14:21	ἑτέρων WH Treg NIV ] ἑτέροις RP
-1Co 14:23	λαλῶσιν γλώσσαις WH Treg NIV ] γλώσσαις λαλῶσιν RP
-1Co 14:25	τὰ WH Treg NIV ] καὶ οὕτως τὰ RP • Ὄντως ὁ θεὸς WH Treg NIV ] Ὁ θεὸς ὄντως RP
-1Co 14:26	ἕκαστος WH Treg NIV ] +ὑμῶν RP • ἀποκάλυψιν ἔχει γλῶσσαν WH Treg NIV ] γλῶσσαν ἀποκάλυψιν ἔχει RP
-1Co 14:28	διερμηνευτής WH NIV RP ] ἑρμηνευτής Treg
-1Co 14:34	γυναῖκες WH Treg NIV ] + ὑμῶν RP • ἐπιτρέπεται WH Treg NIV ] ἐπιτέτραπται RP • ὑποτασσέσθωσαν WH Treg NIV ] ὑποτάσσεσθαι RP
-1Co 14:35	μαθεῖν Treg NIV RP ] μανθάνειν WH • λαλεῖν ἐν ἐκκλησίᾳ WH Treg NIV ] ἐν ἐκκλησίᾳ λαλεῖν RP
-1Co 14:37	ἐστὶν Holmes ] ἐστὶν ἐντολή WH Treg NIV; εἰσὶν ἐντολαί RP
-1Co 14:38	ἀγνοεῖται WH NIV ] ἀγνοείτω Treg RP
-1Co 14:39	μου WH Treg NIV ] – RP • μὴ κωλύετε γλώσσαις WH Treg NIV ] γλώσσαις μὴ κωλύετε RP
-1Co 14:40	δὲ WH Treg NIV ] – RP
+1 Corinthians 2:7
+7 θεοῦ σοφίαν WH Treg NA28 ] σοφίαν θεοῦ RP
 
-1Co 15:4	ἡμέρᾳ τῇ τρίτῃ WH Treg NIV ] τρίτῃ ἡμέρᾳ RP
-1Co 15:6	πλείονες WH Treg NIV ] πλείους RP • δὲ WH Treg NIV ] + καὶ RP
-1Co 15:10	ἡ NIV RP ] – WH Treg
-1Co 15:12	ἐν ὑμῖν τινες WH Treg NIV ] τινες ἐν ὑμῖν RP
-1Co 15:14	ἄρα WH Treg RP ] + καὶ NIV • κενὴ WH Treg NIV ] + δὲ RP • ὑμῶν Treg NIV RP ] ἡμῶν WH
-1Co 15:17	ὑμῶν Treg NIV RP ] + ἐστίν WH
-1Co 15:19	ἐν Χριστῷ ἠλπικότες ἐσμὲν WH Treg NIV ] ἠλπικότες ἐσμὲν ἐν Χριστῷ RP
-1Co 15:20	κεκοιμημένων WH Treg NIV ] + ἐγένετο RP
-1Co 15:21	θάνατος WH Treg NIV ] ὁ θάνατος RP
-1Co 15:24	παραδιδῷ WH NIV ] παραδιδοῖ Treg; παραδῷ RP 
-1Co 15:25	οὗ WH Treg NIV ] + ἄν RP
-1Co 15:28	τότε Treg NIV ] + καὶ WH RP NA • πάντα WH Treg NIV ] τὰ πάντα RP NA
-1Co 15:29	αὐτῶν WH Treg NIV ] τῶν νεκρῶν RP
-1Co 15:31	καύχησιν RP ] + ἀδελφοί WH Treg NIV
-1Co 15:34	λαλῶ WH Treg NIV ] λέγω RP
-1Co 15:36	ἄφρων WH Treg NIV ] Ἄφρον RP
-1Co 15:38	δίδωσιν αὐτῷ WH Treg NIV ] αὐτῷ δίδωσιν RP • ἴδιον WH Treg NIV ] τὸ  ἴδιον RP
-1Co 15:39	σὰρξ πτηνῶν WH Treg NIV ] ἰχθύων RP • ἰχθύων WH Treg NIV ] πτηνῶν RP
-1Co 15:44	Εἰ WH Treg NIV ] – RP • ἔστιν καὶ WH Treg NIV ] καὶ ἔστιν σῶμα RP
-1Co 15:47	ἄνθρωπος WH Treg NIV ] + ὁ κύριος RP
-1Co 15:49	φορέσομεν NIV ] φορέσωμεν WH Treg RP
-1Co 15:50	δύναται WH Treg NIV ] δύνανται RP
-1Co 15:51	πάντες WH Treg NIV ] + μὲν RP
-1Co 15:54	φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ Treg NIV RP ] – WH • ἀθανασίαν Treg NIV RP ] τὴν ἀθανασίαν WH
-1Co 15:55	νῖκος ποῦ σου θάνατε τὸ κέντρον WH Treg NIV ] κέντρον Ποῦ σου ᾍδη τὸ νῖκος RP
+1 Corinthians 2:9
+9 ὅσα WH Treg ] ἃ NA28 RP
 
-1Co 16:2	σαββάτου WH Treg NIV ] σαββάτων RP • ἐὰν WH Treg NIV ] ἂν RP
-1Co 16:3	ἐὰν WH NIV RP ] ἂν Treg
-1Co 16:4	ἄξιον ᾖ WH Treg NIV ] ᾖ ἄξιον RP
-1Co 16:6	παραμενῶ Treg NIV RP ] καταμενῶ WH • καὶ Treg NIV RP ] – WH
-1Co 16:7	γὰρ WH Treg NIV ] δὲ RP • ἐπιτρέψῃ WH Treg NIV ] ἐπιτρέπῃ RP
-1Co 16:8	ἐπιμενῶ Treg NIV RP ] ἐπιμένω WH
-1Co 16:10	κἀγώ NIV Treg RP ] ἐγώ WH
-1Co 16:11	με WH NIV RP ] ἐμέ Treg
-1Co 16:17	ὑμέτερον WH Treg NIV ] ὑμῶν RP
-1Co 16:19	ἀσπάζεται WH NIV ] ἀσπάζονται Treg RP • Πρίσκα WH Treg NIV ] Πρίσκιλλα RP
-1Co 16:22	κύριον WH Treg NIV ] + Ἰησοῦν Χριστόν RP • Μαράνα θά NIV] Μαρὰν ἀθά WH Treg RP
-1Co 16:23	Ἰησοῦ WH Treg NIV ] + Χριστοῦ RP
-1Co 16:24	Ἰησοῦ WH Treg NIV ] + Ἀμήν RP
+1 Corinthians 2:10
+10 γὰρ WH ] δὲ Treg NA28 RP 
+• ἀπεκάλυψεν ὁ θεὸς WH Treg NA28 ] ὁ θεὸς ἀπεκάλυψεν RP 
+• πνεύματος WH Treg NA28 ] + αὐτοῦ RP
 
+1 Corinthians 2:11
+11 ἔγνωκεν WH Treg NA28 ] οἶδεν RP
 
+1 Corinthians 2:13
+13 πνεύματος WH Treg NA28 ] + ἁγίου RP
 
+1 Corinthians 2:15
+15 τὰ NA28 ] μὲν WH Treg RP
 
+1 Corinthians 3:1
+3:1 λαλῆσαι ὑμῖν WH Treg NA28 ] ὑμῖν λαλῆσαι RP 
+• σαρκίνοις WH Treg NA28 ] σαρκικοῖς RP
+
+1 Corinthians 3:2
+2 οὐ WH Treg NA28 ] καὶ οὐ RP 
+• οὐδὲ WH Treg NA28 ] οὖτε RP
+
+1 Corinthians 3:3
+3 ἔρις WH Treg NA28 ] + καὶ διχοστασίαι RP
+
+1 Corinthians 3:4
+4 οὐκ ἄνθρωποί WH Treg NA28 ] οὐχὶ σαρκικοί RP
+
+1 Corinthians 3:5
+5 Τί WH Treg NA28 ] Τίς RP 
+• Ἀπολλῶς τί δέ ἐστιν Παῦλος WH Treg NA28 ] Παῦλος τίς δὲ Ἀπολλώς RP 
+• διάκονοι WH Treg NA28 ] ἀλλʼ ἢ διάκονοι RP
+
+1 Corinthians 3:10
+10 ἔθηκα WH Treg NA28 ] τέθεικα RP
+
+1 Corinthians 3:12
+12 θεμέλιον WH Treg NA28 ] + τοῦτον RP 
+• χρυσόν ἄργυρον WH NA28 RP ] χρυσίον ἀργύριον Treg
+
+1 Corinthians 3:13
+13 αὐτὸ WH Treg NA28 ] – NIV RP
+
+1 Corinthians 3:16
+16 οἰκεῖ ἐν ὑμῖν Treg NA28 RP ] ἐν ὑμῖν οἰκεῖ WH
+
+1 Corinthians 3:22
+22 ὑμῶν WH Treg NA28 ] + ἐστιν RP
+
+1 Corinthians 4:2
+4:2 ὧδε WH Treg NA28 ] Ὃ δὲ RP
+
+1 Corinthians 4:6
+6 Ἀπολλῶν WH Treg NA28 ] Ἀπολλὼ RP 
+• ἃ WH Treg NA28 ] ὃ RP 
+• γέγραπται WH Treg NA28 ] + φρονεῖν RP
+
+1 Corinthians 4:9
+9 γάρ WH Treg NA28 ] + ὅτι NIV RP
+
+1 Corinthians 4:13
+13 δυσφημούμενοι WH NA28 ] βλασφημούμενοι Treg RP
+
+1 Corinthians 4:14
+14 νουθετῶν WH NA28 ] νουθετῶ Treg RP
+
+1 Corinthians 4:17
+17 μου τέκνον WH Treg NA28 ] τέκνον μου RP 
+• Ἰησοῦ WH NA28 ] – Treg RP
+
+1 Corinthians 5:1
+5:1 ἔθνεσιν WH Treg NA28 ] + ὀνομάζεται RP
+
+1 Corinthians 5:2
+2 ἀρθῇ WH Treg NA28 ] ἐξαρθῇ RP 
+• ποιήσας Treg RP ] πράξας WH NA28
+
+1 Corinthians 5:3
+3 ἀπὼν WH Treg NA28 ] ὡς ἀπὼν RP
+
+1 Corinthians 5:4
+4 ⸀Ἰησοῦ WH Treg NA28 ] + Χριστοῦ RP 
+• ⸁Ἰησοῦ WH Treg NA28 ] + Χριστοῦ RP
+
+1 Corinthians 5:5
+5 κυρίου WH NA28 ] + Ἰησοῦ Treg RP
+
+1 Corinthians 5:7
+7 ἡμῶν WH Treg NA28 ] + ὑπὲρ ἡμῶν RP
+
+1 Corinthians 5:10
+10 οὐ WH Treg NA28 ] καὶ οὐ RP 
+• καὶ WH Treg NA28 ] ἢ RP 
+• ὠφείλετε WH Treg NA28 ] ὀφείλετε RP
+
+1 Corinthians 5:12
+12 μοι WH Treg NA28 ] + καί RP
+
+1 Corinthians 5:13
+13 κρίνει WH Treg ] κρινεῖ NA28 RP 
+• ἐξάρατε WH Treg NA28 ] Καί ἐξαρεῖτε RP
+
+1 Corinthians 6:2
+6:2 ἢ WH Treg NA28 ] – RP
+
+1 Corinthians 6:5
+5 οὐδεὶς σοφὸς WH Treg NA28 ] σοφὸς οὐδὲ εἷς RP 
+• ἀδελφοῦ WH Treg NA28 RP ] + καὶ τοῦ ἀδελφοῦ em Holmes
+
+1 Corinthians 6:7
+7 οὖν WH Treg RP NA28 ] – NIV
+
+1 Corinthians 6:8
+8 τοῦτο WH Treg NA28 ] ταῦτα RP
+
+1 Corinthians 6:9
+9 θεοῦ βασιλείαν WH Treg NA28 ] βασιλείαν θεοῦ RP
+
+1 Corinthians 6:10
+10 κλέπται οὔτε πλεονέκται WH Treg NA28 ] πλεονέκται οὔτε κλέπται RP 
+• οὐ WH Treg NA28 ] οὔτε RP 
+• θεοῦ WH Treg NA28 ] + οὐ RP
+
+1 Corinthians 6:11
+11 Ἰησοῦ RP ] Ἰησοῦ Χριστοῦ Treg NA28; ἡμῶν Ἰησοῦ Χριστοῦ WH
+
+1 Corinthians 6:16
+16 ἢ WH Treg NA28 ] – RP
+
+1 Corinthians 6:20
+20 ὑμῶν WH Treg NA28 ] + καὶ ἐν τῷ πνεύματι ὑμῶν ἅτινά ἐστιν τοῦ θεοῦ RP
+
+1 Corinthians 7:1
+7:1 ἐγράψατε WH NA28 ] + μοι Treg RP
+
+1 Corinthians 7:3
+3 ὀφειλὴν WH Treg NA28 ] ὀφειλομένην εὔνοιαν RP
+
+1 Corinthians 7:5
+5 σχολάσητε WH Treg NA28 ]  σχολάζητε RP 
+• τῇ WH Treg NA28 ]  + νηστείᾳ καὶ τῇ RP 
+• ἦτε WH Treg NA28 ] συνέρχησθε RP
+
+1 Corinthians 7:7
+7 δὲ WH Treg NA28 ] γὰρ RP 
+• ἔχει χάρισμα WH Treg NA28 ] χάρισμα ἔχει RP 
+• ⸀ὁ WH Treg NA28 ] ὃς RP 
+• ⸁ὁ WH Treg NA28 ] ὃς RP
+
+1 Corinthians 7:8
+8 αὐτοῖς WH Treg NA28 ] + ἐστιν RP
+
+1 Corinthians 7:9
+9 γαμῆσαι Treg NA28 RP ] γαμεῖν WH
+
+1 Corinthians 7:12
+12 λέγω ἐγώ WH Treg NA28 ] ἐγώ λέγω RP
+
+1 Corinthians 7:13
+13 εἴ τις NA28 ] ἥτις WH Treg RP 
+• οὗτος WH Treg NA28 ] αὑτὸς RP 
+• τὸν ἄνδρα WH Treg NA28 ] αὐτόν RP
+
+1 Corinthians 7:14
+14 ἀδελφῷ WH Treg NA28 ] ἀνδρί RP
+
+1 Corinthians 7:15
+15 ἡμᾶς Treg NIV RP ] ὑμᾶς WH NA28
+
+1 Corinthians 7:17
+17 ἐμέρισεν NA28 RP ] μεμέρικεν WH Treg 
+• κύριος WH Treg NA28 ] θεός RP 
+• θεός WH Treg NA28 ] κύριος RP
+
+1 Corinthians 7:18
+18 κέκληταί τις WH Treg NA28 ] τις ἐκλήθη RP
+
+1 Corinthians 7:22
+22 ὁμοίως WH Treg NA28 ] + καὶ RP
+
+1 Corinthians 7:28
+28 γαμήσῃς WH Treg NA28 ] γήμῃς RP
+
+1 Corinthians 7:29
+29 ἐστίν τὸ λοιπὸν WH Treg NA28 ] τὸ λοιπὸν ἐστίν RP
+
+1 Corinthians 7:31
+31 τὸν κόσμον WH Treg NA28 ] τῷ κόσμῳ τούτῳ RP
+
+1 Corinthians 7:32
+32 ἀρέσῃ WH Treg NA28 ] ἀρέσει RP
+
+1 Corinthians 7:33
+33 ἀρέσῃ WH Treg NA28 ] ἀρέσει RP
+
+1 Corinthians 7:34
+34 καὶ WH Treg NA28 ] – RP 
+• ἡ ἄγαμος WH Treg NA28 ] – RP
+• παρθένος WH Treg NA28 ] + Ἡ ἄγαμος RP 
+• ⸀τῷ WH Treg NA28 ] – RP 
+• ⸁τῷ WH Treg NA28 ] – RP 
+• ἀρέσῃ WH Treg NA28 ] ἀρέσει RP
+
+1 Corinthians 7:35
+35 σύμφορον WH Treg NA28 ] συμφέρον RP 
+• εὐπάρεδρον WH Treg NA28 ] εὐπρόσεδρον RP
+
+1 Corinthians 7:37
+37 ἐν τῇ καρδίᾳ αὐτοῦ ἑδραῖος WH Treg NA28 ] ἑδραῖος ἐν τῇ καρδίᾳ RP 
+• ἰδίᾳ καρδίᾳ WH Treg NA28 ] καρδίᾳ αὐτοῦ RP 
+• τηρεῖν WH Treg NA28 ] τοῦ τηρεῖν RP 
+• ποιήσει WH Treg NA28 ] ποιεῖ RP
+
+1 Corinthians 7:38
+38 ⸀γαμίζων WH Treg NA28 ] ἐκγαμίζων RP 
+• τὴν παρθένον ἑαυτοῦ Treg ] τὴν ἑαυτοῦ παρθένον WH NA28; – RP 
+• καὶ ὁ WH Treg NA28 ] ὁ δὲ RP 
+• ⸁γαμίζων WH Treg NA28 ] ἑκγαμίζων RP 
+• ποιήσει WH Treg NA28 ] ποιεῖ RP
+
+1 Corinthians 7:39
+39 δέδεται WH Treg NA28 ] + νόμῳ RP 
+• δὲ WH Treg NA28 ] + καί RP
+
+1 Corinthians 7:40
+40 δὲ Treg NA28 RP ] γὰρ WH
+
+1 Corinthians 8:2
+8:2 εἴ WH Treg NA28 ] + δέ RP 
+• ἐγνωκέναι WH Treg NA28 ] εἰδέναι RP 
+• οὔπω WH Treg NA28 ] οὐδέπω οὐδὲν RP 
+• ἔγνω WH Treg NA28 ] ἔγνωκεν RP
+
+1 Corinthians 8:4
+4 θεὸς WH Treg NA28 ] + ἕτερος RP
+
+1 Corinthians 8:7
+7 συνηθείᾳ WH Treg NA28 ] συνειδήσει RP 
+• ἕως ἄρτι τοῦ εἰδώλου WH Treg NA28 ] τοῦ εἰδώλου ἕως ἄρτι RP
+
+1 Corinthians 8:8
+8 παραστήσει WH Treg NA28 ] παρίστησιν RP 
+• γὰρ ἐὰν φάγωμεν, περισσεύομεν, οὔτε ἐὰν μὴ φάγωμεν, ὑστερούμεθα RP ] ἐὰν μὴ φάγωμεν, ὑστερούμεθα, οὔτε ἐὰν φάγωμεν, περισσεύομεν WH NA28; ἐὰν μὴ φάγωμεν, ὑστερούμεθα, οὔτε ἐὰν φάγωμεν, περισσεύομεθα Treg
+
+1 Corinthians 8:9
+9 ἀσθενέσιν WH Treg NA28 ] ἀσθενοῦσιν RP
+
+1 Corinthians 8:11
+11 ἀπόλλυται γὰρ WH Treg NA28 ] Καὶ ἀπολεῖται RP 
+• ἐν WH Treg NA28 ] ἀδελφὸς ἐπὶ RP 
+• ὁ ἀδελφὸς WH Treg NA28 ] – RP
+
+1 Corinthians 9:1
+9:1 ἐλεύθερος οὐκ εἰμὶ ἀπόστολος WH Treg NA28 ] ἀπόστολος οὐκ εἰμὶ ἐλεύθερος RP 
+• Ἰησοῦν WH Treg NA28 ] + Χριστὸν RP
+
+1 Corinthians 9:2
+2 μου τῆς WH Treg NA28 ] τῆς μου RP
+
+1 Corinthians 9:3
+3 ἐστιν αὕτη WH Treg NA28 ] αὕτη ἐστιν RP
+
+1 Corinthians 9:4
+4 πεῖν WH NA28 ] πιεῖν Treg RP
+
+1 Corinthians 9:6
+6 μὴ WH Treg NA28 ] τοῦ μὴ RP
+
+1 Corinthians 9:7
+7 τὸν καρπὸν WH Treg NA28 ] ἐκ τοῦ καρποῦ RP 
+• τίς Holmes Tregmarg ] ἢ τίς WH Treg NA28 RP
+
+1 Corinthians 9:8
+8 καὶ … ταῦτα οὐ WH Treg NA28 ] οὐχὶ καὶ … ταῦτα RP
+
+1 Corinthians 9:9
+9 κημώσεις Treg NA28 ] φιμώσεις WH RP
+
+1 Corinthians 9:10
+10 ὀφείλει ἐπʼ ἐλπίδι WH Treg NA28 ] ἐπʼ ἐλπίδι ὀφείλει RP 
+• ἐπʼ ἐλπίδι τοῦ μετέχειν WH Treg NA28 ] τῆς ἐλπίδος αὐτοῦ μετέχειν ἐπʼ ἐλπίδι RP
+
+1 Corinthians 9:12
+12 ὑμῶν ἐξουσίας WH Treg NA28 ] ἐξουσίας ὑμῶν RP 
+• τινα ἐγκοπὴν WH Treg NA28 ] ἐγκοπὴν τινα RP
+
+1 Corinthians 9:13
+13 τὰ WH Treg NA28 ] – RP 
+• παρεδρεύοντες WH Treg NA28 ] προσεδρεύοντες RP
+
+1 Corinthians 9:15
+15 οὐ κέχρημαι οὐδενὶ WH Treg NA28 ] οὐδενὶ ἐχρησάμην RP 
+• οὐδεὶς κενώσει WH Treg NA28 ] ἵνα τις κενώσῃ RP
+
+1 Corinthians 9:16
+16 γάρ WH Treg NA28 ] δέ RP 
+• εὐαγγελίσωμαι WH Treg NA28 ] εὐαγγελίζωμαι RP
+
+1 Corinthians 9:18
+18 μού WH Treg NA28 ] μοί RP 
+• εὐαγγέλιον WH Treg NA28 ] + τοῦ Χριστοῦ RP
+
+1 Corinthians 9:20
+20 μὴ ὢν αὐτὸς ὑπὸ νόμον WH Treg NA28 ] – RP
+
+1 Corinthians 9:21
+21 θεοῦ WH Treg NA28 ] θεῷ RP 
+• Χριστοῦ WH Treg NA28 ] Χριστῷ RP 
+• κερδάνω WH Treg NA28 ] κερδήσω RP 
+• τοὺς WH Treg NA28 ] – RP
+
+1 Corinthians 9:22
+22 ἀσθενέσιν WH Treg NA28 ] + ὡς RP 
+• γέγονα WH Treg NA28 ] + τὰ RP
+
+1 Corinthians 9:23
+23 πάντα WH Treg NA28 ] Τοῦτο RP
+
+1 Corinthians 10:1
+10:1 γὰρ WH Treg NA28 ] δὲ RP
+
+1 Corinthians 10:2
+2 ἐβαπτίσαντο WH Treg RP ] ἐβαπτίσθησαν NA28
+
+1 Corinthians 10:3
+3 πνευματικὸν βρῶμα WH Treg NA28 ] βρῶμα πνευματικὸν RP
+
+1 Corinthians 10:4
+4 πνευματικὸν ἔπιον πόμα WH Treg NA28 ] πόμα πνευματικὸν ἔπιον RP 
+• πέτρα δὲ WH Treg NA28 ] δὲ πέτρα RP
+
+1 Corinthians 10:9
+9 Χριστόν RP NA28 ] κύριον WH Treg NIV 
+• καθώς WH Treg NA28 ] + καί RP 
+• ἀπώλλυντο WH Treg NA28 ] ἀπώλοντο RP
+
+1 Corinthians 10:10
+10 καθάπερ WH Treg NA28 ] καθὼς καί RP
+
+1 Corinthians 10:11
+11 δὲ WH Treg NA28 ] + πάντα RP 
+• τυπικῶς συνέβαινεν WH Treg NA28 ] τύποι συνέβαινον RP 
+• κατήντηκεν WH Treg NA28 ] κατήντησεν RP
+
+1 Corinthians 10:13
+13 δύνασθαι WH Treg NA28 ] + ὑμᾶς RP
+
+1 Corinthians 10:16
+16 ἐστὶν τοῦ αἵματος τοῦ Χριστοῦ WH Treg NA28 ] τοῦ αἵματος τοῦ Χριστοῦ ἐστὶν RP
+
+1 Corinthians 10:18
+18 οὐχ WH NA28 ] οὐχὶ RP Treg
+
+1 Corinthians 10:19
+19 εἰδωλόθυτόν τί … ὅτι εἴδωλόν WH Treg NA28 ] εἴδωλόν τί … ὅτι εἰδωλόθυτόν RP
+
+1 Corinthians 10:20
+20 θύουσιν NA28 ] θύουσιν τὰ ἔθνη WH Treg; θύει τὰ ἔθνη RP 
+• καὶ οὐ θεῷ θύουσιν WH Treg NA28 ] θύει καὶ οὐ θεῷ RP
+
+1 Corinthians 10:23
+23 ⸀Πάντα WH Treg NA28 ] + μοι RP 
+• ⸁πάντα WH Treg NA28 ] + μοι RP
+
+1 Corinthians 10:24
+24 ἑτέρου WH Treg NA28 ] + ἕκαστος RP
+
+1 Corinthians 10:26
+26 κυρίου γὰρ WH Treg NA28 ] γὰρ κυρίου RP
+
+1 Corinthians 10:27
+27 εἴ WH Treg NA28 ] + δέ RP
+
+1 Corinthians 10:28
+28 ἱερόθυτόν WH Treg NA28 ] εἰδωλόθυτόν RP 
+• συνείδησιν WH Treg NA28 ] + Τοῦ γὰρ κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς RP
+
+1 Corinthians 10:32
+32 καὶ Ἰουδαίοις γίνεσθε WH Treg NA28 ] γίνεσθε καὶ Ἰουδαίοις RP
+
+1 Corinthians 10:33
+33 σύμφορον WH Treg NA28 ] συμφέρον RP
+
+1 Corinthians 11:2
+11:2 ὑμᾶς WH Treg NA28 ] + ἀδελφοί RP
+
+1 Corinthians 11:3
+3 τοῦ WH Treg NA28 ] – RP
+
+1 Corinthians 11:5
+5 αὐτῆς WH Treg NA28 ] ἑαυτῆς RP
+
+1 Corinthians 11:7
+7 ἡ WH Treg NA28 ] – RP
+
+1 Corinthians 11:11
+11 γυνὴ χωρὶς ἀνδρὸς οὔτε ἀνὴρ χωρὶς γυναικὸς WH Treg NA28 ] ἀνὴρ χωρὶς γυναικὸς οὔτε γυνὴ χωρὶς ἀνδρὸς RP
+
+1 Corinthians 11:14
+14 οὐδὲ WH Treg NA28 ] ἢ οὐδὲ RP 
+• ἡ φύσις αὐτὴ WH Treg NA28 ] αὐτὴ ἡ φύσις RP
+
+1 Corinthians 11:15
+15 δέδοται RP ] + αὐτῇ WH Treg NA28
+
+1 Corinthians 11:17
+17 παραγγέλλων οὐκ ἐπαινῶ WH NA28 RP ] παραγγέλλω οὐκ ἐπαινῶν Treg
+
+1 Corinthians 11:19
+19 καὶ WH Treg NA28 ] – RP
+
+1 Corinthians 11:22
+22 εἴπω ὑμῖν WH Treg NA28 ] ὑμῖν εἴπω RP
+
+1 Corinthians 11:23
+23 παρεδίδετο WH Treg NA28 ] παρεδίδοτο RP
+
+1 Corinthians 11:24
+24 εἶπεν WH Treg NA28 ] + Λάβετε φάγετε RP 
+• ὑμῶν WH Treg NA28 ] + κλώμενον RP
+
+1 Corinthians 11:25
+25 ἐὰν WH Treg NA28 ] ἂν RP
+
+1 Corinthians 11:26
+26 ἐὰν WH Treg NA28 ] ἂν RP 
+• ποτήριον WH Treg NA28 ] + τοῦτο RP 
+• οὗ WH Treg NA28 ] + ἂν RP
+
+1 Corinthians 11:27
+27 ἄρτον WH Treg NA28 ] + τοῦτον RP 
+• ἀναξίως WH Treg NA28 ] + τοῦ κυρίου RP
+
+1 Corinthians 11:29
+29 πίνων WH Treg NA28 ] + ἀναξίως RP 
+• σῶμα WH Treg NA28 ] + τοῦ κυρίου NIV RP
+
+1 Corinthians 11:31
+31 δὲ WH Treg NA28 ] γὰρ RP
+
+1 Corinthians 11:32
+32 ὑπὸ RP ] + τοῦ WH Treg NA28
+
+1 Corinthians 11:34
+34 εἴ WH Treg NA28 ] + δέ RP
+
+1 Corinthians 12:3
+12:3 Ἰησοῦς WH Treg NA28 ] Ἰησοῦν RP 
+• Κύριος Ἰησοῦς WH Treg NA28 ] Κύριον Ἰησοῦν RP
+
+1 Corinthians 12:6
+6 ὁ δὲ Treg NA28 RP ] καὶ ὁ WH 
+• αὐτὸς WH Treg NA28 ] + ἐστιν RP
+
+1 Corinthians 12:9
+9 ἑτέρῳ WH Treg NA28 ] + δὲ RP 
+• ἄλλῳ Holmes ] + δὲ WH Treg NA28 RP 
+• ἑνὶ WH Treg NA28 ] αὐτῷ RP 
+
+1 Corinthians 12:10
+10 ⸀ἄλλῳ Holmes ] + δὲ WH Treg NA28 RP 
+• ⸁ἄλλῳ Treg ] + δὲ WH NA28 RP 
+• ⸀1 ἄλλῳ Treg ] + δὲ WH NA28 RP 
+• ἑτέρῳ WH Treg NA28 ] + δὲ RP 
+• ⸀2 ἄλλῳ Holmes ] + δὲ WH Treg NA28 RP
+
+1 Corinthians 12:12
+12 πολλὰ ἔχει WH Treg NA28 ] ἔχει πολλὰ RP 
+• σώματος WH Treg NA28 ] + τοῦ ἑνός RP
+
+1 Corinthians 12:13
+13 πάντες WH Treg NA28 ] + εἰς RP
+
+1 Corinthians 12:18
+18 νυνὶ NA28 RP ] νῦν WH Treg
+
+1 Corinthians 12:20
+20 μὲν Treg NA28 RP ] – WH
+
+1 Corinthians 12:24
+24 ἔχει WH Treg RP NA28 ] + τιμῆς NIV 
+• ὑστεροῦντι RP ] ὑστερουμένῳ WH Treg NA28
+
+1 Corinthians 12:25
+25 σχίσμα WH Treg NA28 ] σχίσματα RP
+
+1 Corinthians 12:26
+26 εἴτε WH NA28 RP ] εἴ τι Treg 
+• μέλος WH Treg ] ἓν μέλος NA28 RP
+
+1 Corinthians 12:28
+28 ἔπειτα WH Treg NA28 ] εἶτα RP
+
+1 Corinthians 12:31
+31 μείζονα WH Treg NA28 ] κρείττονα RP
+
+1 Corinthians 13:2
+13:2 ⸂καὶ ἐὰν⸃ Treg NA28 RP ] κἂν WH 
+• ⸄καὶ ἐὰν⸅ NA28 RP ] κἂν WH Treg 
+• μεθιστάναι Treg NA28 ] μεθιστάνειν WH RP
+
+1 Corinthians 13:3
+3 ⸂καὶ ἐὰν⸃ RP ] κἂν WH Treg NA28 
+• ⸄καὶ ἐὰν⸅ Treg NA28 RP ] κἂν WH 
+• καυθήσομαι NIV ] καυθήσωμαι Treg RP; καυχήσωμαι WH NA28
+
+1 Corinthians 13:4
+4 ἡ ἀγάπη Treg NA28 RP ] – WH
+
+1 Corinthians 13:8
+8 πίπτει WH Treg NA28 ] ἐκπίπτει RP
+
+1 Corinthians 13:9
+9 γὰρ WH Treg NA28 ] δὲ RP
+
+1 Corinthians 13:10
+10 τὸ WH Treg NA28 ] τότε τὸ RP
+
+1 Corinthians 13:11
+11 ἐλάλουν … ἐλογιζόμην ὡς νήπιος WH Treg NA28 ] ὡς νήπιος ἐλάλουν … ἐλογιζόμην RP 
+• ὅτε WH Treg NA28 ] + δὲ RP
+
+1 Corinthians 14:2
+14:2 ἀλλὰ WH Treg NA28 ] + τῷ RP
+
+1 Corinthians 14:5
+5 δὲ WH Treg NA28 ] γὰρ RP 
+• διερμηνεύῃ WH Treg NA28 ] διερμηνεύει RP
+
+1 Corinthians 14:6
+6 Νῦν WH Treg NA28 ] Νυνὶ RP
+
+1 Corinthians 14:7
+7 δῷ WH Treg NA28 ] διδῶ RP
+
+1 Corinthians 14:8
+8 φωνὴν σάλπιγξ Treg RP ] σάλπιγξ φωνὴν WH NA28
+
+1 Corinthians 14:10
+10 εἰσιν WH Treg NA28 ] ἐστὶν RP 
+• οὐδὲν WH Treg NA28 ] + αὐτῶν RP
+
+1 Corinthians 14:13
+13 Διὸ WH Treg NA28 ] Διόπερ RP
+
+1 Corinthians 14:16
+16 εὐλογῇς WH Treg NA28 ] εὐλογήσῃς RP 
+• πνεύματι Treg ] ἐν πνεύματι WH NA28; τῷ πνεύματι RP
+
+1 Corinthians 14:18
+18 θεῷ WH Treg NA28 ] + μου RP 
+• γλώσσαις WH NA28 RP ] γλώσσῃ Treg 
+• λαλῶ WH Treg NA28 ] λαλῶν RP
+
+1 Corinthians 14:19
+19 τῷ νοΐ WH Treg NA28 ] διὰ τοῦ νοός RP
+
+1 Corinthians 14:21
+21 ἑτέρων WH Treg NA28 ] ἑτέροις RP
+
+1 Corinthians 14:23
+23 λαλῶσιν γλώσσαις WH Treg NA28 ] γλώσσαις λαλῶσιν RP
+
+1 Corinthians 14:25
+25 τὰ WH Treg NA28 ] καὶ οὕτως τὰ RP 
+• Ὄντως ὁ θεὸς WH Treg NA28 ] Ὁ θεὸς ὄντως RP
+
+1 Corinthians 14:26
+26 ἕκαστος WH Treg NA28 ] +ὑμῶν RP 
+• ἀποκάλυψιν ἔχει γλῶσσαν WH Treg NA28 ] γλῶσσαν ἀποκάλυψιν ἔχει RP
+
+1 Corinthians 14:28
+28 διερμηνευτής WH NA28 RP ] ἑρμηνευτής Treg
+
+1 Corinthians 14:34
+34 γυναῖκες WH Treg NA28 ] + ὑμῶν RP 
+• ἐπιτρέπεται WH Treg NA28 ] ἐπιτέτραπται RP 
+• ὑποτασσέσθωσαν WH Treg NA28 ] ὑποτάσσεσθαι RP
+
+1 Corinthians 14:35
+35 μαθεῖν Treg NA28 RP ] μανθάνειν WH 
+• λαλεῖν ἐν ἐκκλησίᾳ WH Treg NA28 ] ἐν ἐκκλησίᾳ λαλεῖν RP
+
+1 Corinthians 14:37
+37 ἐστίν Holmes ] ἐστὶν ἐντολή WH Treg NA28; εἰσὶν ἐντολαί RP
+
+1 Corinthians 14:38
+38 ἀγνοεῖται WH NA28 ] ἀγνοείτω Treg RP
+
+1 Corinthians 14:39
+39 μου WH Treg NA28 ] – RP 
+• μὴ κωλύετε γλώσσαις WH Treg NA28 ] γλώσσαις μὴ κωλύετε RP
+
+1 Corinthians 14:40
+40 δὲ WH Treg NA28 ] – RP
+
+1 Corinthians 15:4
+15:4 ἡμέρᾳ τῇ τρίτῃ WH Treg NA28 ] τρίτῃ ἡμέρᾳ RP
+
+1 Corinthians 15:6
+6 πλείονες WH Treg NA28 ] πλείους RP 
+• δὲ WH Treg NA28 ] + καὶ RP
+
+1 Corinthians 15:10
+10 ἡ NA28 RP ] – WH Treg
+
+1 Corinthians 15:12
+12 ἐν ὑμῖν τινες WH Treg NA28 ] τινες ἐν ὑμῖν RP
+
+1 Corinthians 15:14
+14 ἄρα WH Treg RP ] + καὶ NA28 
+• κενὴ WH Treg NA28 ] + δὲ RP 
+• ὑμῶν Treg NA28 RP ] ἡμῶν WH
+
+1 Corinthians 15:17
+17 ὑμῶν Treg NA28 RP ] + ἐστίν WH
+
+1 Corinthians 15:19
+19 ἐν Χριστῷ ἠλπικότες ἐσμὲν WH Treg NA28 ] ἠλπικότες ἐσμὲν ἐν Χριστῷ RP
+
+1 Corinthians 15:20
+20 κεκοιμημένων WH Treg NA28 ] + ἐγένετο RP
+
+1 Corinthians 15:21
+21 θάνατος WH Treg NA28 ] ὁ θάνατος RP
+
+1 Corinthians 15:24
+24 παραδιδῷ WH NA28 ] παραδιδοῖ Treg; παραδῷ RP 
+
+1 Corinthians 15:25
+25 οὗ WH Treg NA28 ] + ἄν RP
+
+1 Corinthians 15:28
+28 τότε Treg NIV ] + καὶ WH RP NA28 
+• πάντα WH Treg NIV ] τὰ πάντα RP NA28
+
+1 Corinthians 15:29
+29 αὐτῶν WH Treg NA28 ] τῶν νεκρῶν RP
+
+1 Corinthians 15:31
+31 καύχησιν RP ] + ἀδελφοί WH Treg NA28
+
+1 Corinthians 15:34
+34 λαλῶ WH Treg NA28 ] λέγω RP
+
+1 Corinthians 15:36
+36 ἄφρων WH Treg NA28 ] Ἄφρον RP
+
+1 Corinthians 15:38
+38 δίδωσιν αὐτῷ WH Treg NA28 ] αὐτῷ δίδωσιν RP 
+• ἴδιον WH Treg NA28 ] τὸ  ἴδιον RP
+
+1 Corinthians 15:39
+39 σὰρξ πτηνῶν WH Treg NA28 ] ἰχθύων RP 
+• ἰχθύων WH Treg NA28 ] πτηνῶν RP
+
+1 Corinthians 15:44
+44 Εἰ WH Treg NA28 ] – RP 
+• ἔστιν καὶ WH Treg NA28 ] καὶ ἔστιν σῶμα RP
+
+1 Corinthians 15:47
+47 ἄνθρωπος WH Treg NA28 ] + ὁ κύριος RP
+
+1 Corinthians 15:49
+49 φορέσομεν NA28 ] φορέσωμεν WH Treg RP
+
+1 Corinthians 15:50
+50 δύναται WH Treg NA28 ] δύνανται RP
+
+1 Corinthians 15:51
+51 πάντες WH Treg NA28 ] + μὲν RP
+
+1 Corinthians 15:54
+54 φθαρτὸν τοῦτο ἐνδύσηται ἀφθαρσίαν καὶ τὸ Treg NA28 RP ] – WH 
+• ἀθανασίαν Treg NA28 RP ] τὴν ἀθανασίαν WH
+
+1 Corinthians 15:55
+55 νῖκος ποῦ σου θάνατε τὸ κέντρον WH Treg NA28 ] κέντρον Ποῦ σου ᾍδη τὸ νῖκος RP
+
+1 Corinthians 16:2
+16:2 σαββάτου WH Treg NA28 ] σαββάτων RP 
+• ἐὰν WH Treg NA28 ] ἂν RP
+
+1 Corinthians 16:3
+3 ἐὰν WH NA28 RP ] ἂν Treg
+
+1 Corinthians 16:4
+4 ἄξιον ᾖ WH Treg NA28 ] ᾖ ἄξιον RP
+
+1 Corinthians 16:6
+6 παραμενῶ Treg NA28 RP ] καταμενῶ WH 
+• καὶ Treg NA28 RP ] – WH
+
+1 Corinthians 16:7
+7 γὰρ WH Treg NA28 ] δὲ RP 
+• ἐπιτρέψῃ WH Treg NA28 ] ἐπιτρέπῃ RP
+
+1 Corinthians 16:8
+8 ἐπιμενῶ Treg NA28 RP ] ἐπιμένω WH
+
+1 Corinthians 16:10
+10 κἀγώ NA28 Treg RP ] ἐγώ WH
+
+1 Corinthians 16:11
+11 με WH NA28 RP ] ἐμέ Treg
+
+1 Corinthians 16:17
+17 ὑμέτερον WH Treg NA28 ] ὑμῶν RP
+
+1 Corinthians 16:19
+19 ἀσπάζεται WH NA28 ] ἀσπάζονται Treg RP 
+• Πρίσκα WH Treg NA28 ] Πρίσκιλλα RP
+
+1 Corinthians 16:22
+22 κύριον WH Treg NA28 ] + Ἰησοῦν Χριστόν RP 
+• Μαράνα θά NA28 ] Μαρὰν ἀθά WH Treg RP
+
+1 Corinthians 16:23
+23 Ἰησοῦ WH Treg NA28 ] + Χριστοῦ RP
+
+1 Corinthians 16:24
+24 Ἰησοῦ WH Treg NA28 ] + Ἀμήν RP

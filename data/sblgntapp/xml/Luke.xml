@@ -1,754 +1,2587 @@
 <book>
-<title>ΚΑΤΑ ΛΟΥΚΑΝ</title>
+<book-name>ΚΑΤΑ ΛΟΥΚΑΝ</book-name>
 
+<verse>Luke 1:5</verse>
+<note>1:5 Ἡρῴδου WH Treg NA28 ] + τοῦ RP </note>
+<note>• καὶ WH Treg NA28 ] + ἡ RP </note>
+<note>• αὐτῷ WH Treg NA28 ] αὐτοῦ RP</note>
 
+<verse>Luke 1:6</verse>
+<note>6 ἐναντίον WH Treg NA28 ] ἐνώπιον RP</note>
 
+<verse>Luke 1:7</verse>
+<note>7 ἦν ἡ Ἐλισάβετ WH Treg NA28 ] ἡ Ἐλισάβετ ἦν RP</note>
 
+<verse>Luke 1:14</verse>
+<note>14 γενέσει WH Treg NA28 ] γεννήσει RP</note>
 
-<p><verse-number id="Lk 1:5">1:5</verse-number> <b>Ἡρῴδου</b> WH Treg NIV ] + τοῦ RP • <b>καὶ</b> WH Treg NIV ] + ἡ RP • <b>αὐτῷ</b> WH Treg NIV ] αὐτοῦ RP</p>
-<p><verse-number id="Lk 1:6">6</verse-number> <b>ἐναντίον</b> WH Treg NIV ] ἐνώπιον RP</p>
-<p><verse-number id="Lk 1:7">7</verse-number> <b>ἦν ἡ Ἐλισάβετ </b>WH Treg NIV ] ἡ Ἐλισάβετ ἦν RP</p>
-<p><verse-number id="Lk 1:14">14</verse-number> <b>γενέσει</b> WH Treg NIV ] γεννήσει RP</p>
-<p><verse-number id="Lk 1:15">15</verse-number> <b>τοῦ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 1:21">21</verse-number> <b>ἐν τῷ ναῷ αὐτόν</b> WH NIV ] αὐτόν ἐν τῷ ναῷ Treg RP</p>
-<p><verse-number id="Lk 1:22">22</verse-number> <b>ἐδύνατο</b> WH Treg NIV ] ἠδύνατο RP</p>
-<p><verse-number id="Lk 1:25">25</verse-number> <b>πεποίηκεν</b> WH Treg NIV ] + ὁ RP • <b>ἀφελεῖν</b> WH Treg NIV ] + τὸ RP</p>
-<p><verse-number id="Lk 1:26">26</verse-number> <b>ἀπὸ</b> WH Treg NIV ] ὑπὸ RP</p>
-<p><verse-number id="Lk 1:27">27</verse-number> <b>ἐμνηστευμένην</b> WH Treg NIV ] μεμνηστευμένην RP</p>
-<p><verse-number id="Lk 1:28">28</verse-number> <b>εἰσελθὼν</b> WH NA ] + ὁ ἄγγελος Treg NIV RP • <b>σοῦ</b> WH NIV ] + εὐλογημένη σὺ ἐν γυναιξίν Treg RP</p>
-<p><verse-number id="Lk 1:29">29</verse-number> <b>ἐπὶ τῷ λόγῳ διεταράχθη</b> WH Treg NIV ] ἰδοῦσα διεταράχθη ἐπὶ τῷ λόγῳ αὐτοῦ RP</p>
-<p><verse-number id="Lk 1:36">36</verse-number> <b>συγγενίς</b> WH NIV ] συγγενής Treg RP • <b>συνείληφεν</b> WH Treg NIV ] συνείληφυῖα RP</p>
-<p><verse-number id="Lk 1:37">37</verse-number> <b>τοῦ θεοῦ</b> WH Treg NIV ] τῷ θεῷ RP</p>
-<p><verse-number id="Lk 1:41">41</verse-number> <b>τὸν … Μαρίας ἡ Ἐλισάβετ</b> WH Treg NIV ] ἡ Ἐλισάβετ τὸν … Μαρίας RP</p>
-<p><verse-number id="Lk 1:42">42</verse-number> <b>κραυγῇ</b> WH Treg NIV ] φωνῇ RP</p>
-<p><verse-number id="Lk 1:43">43</verse-number> <b>ἐμέ</b> WH NIV ] μέ Treg RP</p>
-<p><verse-number id="Lk 1:44">44</verse-number> <b>ἐν ἀγαλλιάσει τὸ βρέφος</b> WH Treg NIV ] τὸ βρέφος ἐν ἀγαλλιάσει RP</p>
-<p><verse-number id="Lk 1:49">49</verse-number> <b>μεγάλα</b> WH Treg NIV ] μεγαλεῖα RP</p>
-<p><verse-number id="Lk 1:50">50</verse-number> <b>καὶ γενεὰς</b> WH Treg NIV ] γενεῶν RP</p>
-<p><verse-number id="Lk 1:56">56</verse-number> <b>ὡς</b> WH Treg NIV ] ὡσεὶ RP</p>
-<p><verse-number id="Lk 1:59">59</verse-number> <b>ἡμέρᾳ τῇ ὀγδόῃ</b> WH Treg NIV ] ὀγδόῃ ἡμέρᾳ RP</p>
-<p><verse-number id="Lk 1:61">61</verse-number> <b>ἐκ τῆς συγγενείας</b> WH Treg NIV ] ἐν τῇ συγγενείᾳ RP</p>
-<p><verse-number id="Lk 1:62">62</verse-number> <b>αὐτό</b> WH Treg NIV ] αὐτόν RP</p>
-<p><verse-number id="Lk 1:63">63</verse-number> <b>ἐστὶν</b> WH Treg NIV ] + τὸ RP</p>
-<p><verse-number id="Lk 1:66">66</verse-number> <b>γὰρ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 1:67">67</verse-number> <b>ἐπροφήτευσεν</b> WH Treg NIV ] προεφήτευσεν RP</p>
-<p><verse-number id="Lk 1:69">69</verse-number> <b>ἐν</b> WH Treg NIV ] + τῷ RP • <b>Δαυὶδ</b> WH Treg NIV ] + τοῦ RP</p>
-<p><verse-number id="Lk 1:70">70</verse-number> <b>ἁγίων</b> WH Treg NIV ] + τῶν RP</p>
-<p><verse-number id="Lk 1:74">74</verse-number> <b>ἐχθρῶν</b> WH Treg NIV ] τῶν ἐχθρῶν ἡμῶν RP</p>
-<p><verse-number id="Lk 1:75">75</verse-number> <b>πάσαις ταῖς ἡμέραις</b> WH Treg NIV ] πάσας τὰς ἡμέρας τὴς ζωῆς RP</p>
-<p><verse-number id="Lk 1:76">76</verse-number> <b>δέ</b> WH Treg NIV ] – RP • <b>ἐνώπιον</b> WH NIV ] πρὸ προσώπου Treg RP</p>
-<p><verse-number id="Lk 1:78">78</verse-number> <b>ἐπισκέψεται</b> WH NIV ] ἐπεσκέψατο Treg RP</p>
+<verse>Luke 1:15</verse>
+<note>15 τοῦ Treg NA28 RP ] – WH</note>
 
-<p><verse-number id="Lk 2:2">2:2</verse-number> <b>αὕτη</b> WH Treg NIV ] + ἡ RP</p>
-<p><verse-number id="Lk 2:3">3</verse-number> <b>ἑαυτοῦ</b> WH Treg NIV ] ἰδίαν RP</p>
-<p><verse-number id="Lk 2:5">5</verse-number> <b>ἐμνηστευμένῃ αὐτῷ</b> WH Treg NIV ] μεμνηστευμένῃ αὐτῷ γυναικί RP</p>
-<p><verse-number id="Lk 2:7">7</verse-number> <b>ἐν</b> WH Treg NIV ] + τῇ RP</p>
-<p><verse-number id="Lk 2:9">9</verse-number> <b>καὶ</b> WH NIV ] + ἰδού Treg RP</p>
-<p><verse-number id="Lk 2:12">12</verse-number> <b>τὸ</b> Treg NIV RP ] – WH • <b>καὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 2:13">13</verse-number> <b>οὐρανίου</b> WH NIV RP ] οὐρανοῦ Treg</p>
-<p><verse-number id="Lk 2:14">14</verse-number> <b>εὐδοκίας</b> WH Treg NIV ] εὐδοκία RP</p>
-<p><verse-number id="Lk 2:15">15</verse-number> <b>οἱ</b> WH NIV ] καὶ οἱ ἄνθρωποι οἱ Treg RP • <b>ἐλάλουν</b> WH NIV ] εἶπον Treg RP</p>
-<p><verse-number id="Lk 2:17">17</verse-number> <b>ἐγνώρισαν</b> WH Treg NIV ] διεγνώρισαν RP</p>
-<p><verse-number id="Lk 2:19">19</verse-number> <b>Μαρία</b> WH Treg ] Μαριὰμ NIV RP</p>
-<p><verse-number id="Lk 2:24">24</verse-number> <b>τῷ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 2:25">25</verse-number> <b>ἄνθρωπος ἦν</b> WH Treg NIV ] ἦν ἄνθρωπος RP</p>
-<p><verse-number id="Lk 2:26">26</verse-number> <b>ἢ ἂν</b> WH NIV ] ἂν Treg; ἢ RP</p>
-<p><verse-number id="Lk 2:28">28</verse-number> <b>ἀγκάλας</b> WH NIV ] + αὐτοῦ Treg RP</p>
-<p><verse-number id="Lk 2:33">33</verse-number> <b>ὁ πατὴρ αὐτοῦ</b> WH Treg NIV ] Ἰωσὴφ RP • <b>μήτηρ</b> WH Treg NIV ] + αὐτοῦ RP</p>
-<p><verse-number id="Lk 2:35">35</verse-number> <b>δὲ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 2:36">36</verse-number> <b>μετὰ ἀνδρὸς ἔτη</b> WH Treg NIV ] ἔτη μετὰ ἀνδρὸς RP</p>
-<p><verse-number id="Lk 2:37">37</verse-number> <b>ἕως</b> WH Treg NIV ] ὡς RP • <b>ἀφίστατο</b> WH Treg NIV ] + ἀπὸ RP</p>
-<p><verse-number id="Lk 2:38">38</verse-number> <b>καὶ</b> WH Treg NIV ] + αὕτη RP • <b>θεῷ</b> WH Treg NIV ] κυρίῳ RP • <b> λύτρωσιν</b> WH Treg NIV ] + ἐν RP</p>
-<p><verse-number id="Lk 2:39">39</verse-number> <b>πάντα</b> WH Treg NIV ] ἅπαντα RP • <b>ἐπέστρεψαν</b> WH Treg NIV ] ὑπέστρεψαν RP • <b>εἰς</b> WH Treg NIV ] + τὴν RP</p>
-<p><verse-number id="Lk 2:40">40</verse-number> <b>πληρούμενον σοφίᾳ</b> WH Treg NIV ] πνεύματι πληρούμενον σοφίας RP</p>
-<p><verse-number id="Lk 2:42">42</verse-number> <b>ἀναβαινόντων</b> WH Treg NIV ] ἀναβάντων RP • <b>αὐτῶν</b> WH NIV ] + εἰς Ἱεροσόλυμα Treg RP</p>
-<p><verse-number id="Lk 2:43">43</verse-number> <b>ἔγνωσαν οἱ γονεῖς</b> WH Treg NIV ] ἔγνω Ἰωσὴφ καὶ ἡ μήτηρ RP</p>
-<p><verse-number id="Lk 2:44">44</verse-number> <b>εἶναι ἐν τῇ συνοδίᾳ</b> WH Treg NIV ] ἐν τῇ συνοδίᾳ εἶναι RP • <b>καὶ</b> WH Treg NIV ] + ἐν RP</p>
-<p><verse-number id="Lk 2:45">45</verse-number> <b>εὑρόντες</b> WH Treg NIV ] + αὐτόν RP • <b>ἀναζητοῦντες</b> WH Treg NIV ] ζητοῦντες RP</p>
-<p><verse-number id="Lk 2:48">48</verse-number> <b>εἶπεν πρὸς … αὐτοῦ</b> WH Treg NIV ] πρὸς … αὐτοῦ εἶπεν RP • <b>ἐζητοῦμέν</b> Treg NIV RP ] ζητοῦμέν WH</p>
-<p><verse-number id="Lk 2:51">51</verse-number> <b>ταῦτα</b> Treg RP ] – WH NIV</p>
-<p><verse-number id="Lk 2:52">52</verse-number> <b>σοφίᾳ καὶ ἡλικίᾳ</b> NIV RP ] τῇ σοφίᾳ καὶ ἡλικίᾳ WH; ἡλικίᾳ καὶ σοφίᾳ Treg; ἐν τῇ σοφίᾳ καὶ ἡλικίᾳ NA</p>
+<verse>Luke 1:21</verse>
+<note>21 ἐν τῷ ναῷ αὐτόν WH NA28 ] αὐτὸν ἐν τῷ ναῷ Treg RP</note>
 
-<p><verse-number id="Lk 3:3">3:3</verse-number> <b>πᾶσαν</b> WH Treg ] + τὴν NIV RP</p>
-<p><verse-number id="Lk 3:4">4</verse-number> <b>προφήτου</b> WH Treg NIV ] + λέγοντος RP</p>
-<p><verse-number id="Lk 3:5">5</verse-number> <b>εὐθείαν</b> NIV RP ] εὐθείας WH Treg</p>
-<p><verse-number id="Lk 3:10">10</verse-number> <b>ποιήσωμεν</b> WH Treg NIV ] ποιήσομεν RP</p>
-<p><verse-number id="Lk 3:11">11</verse-number> <b>ἔλεγεν</b> WH Treg NIV ] λέγει RP</p>
-<p><verse-number id="Lk 3:12">12</verse-number> <b>ποιήσωμεν</b> WH Treg NIV ] ποιήσομεν RP</p>
-<p><verse-number id="Lk 3:14">14</verse-number> <b>Τί ποιήσωμεν καὶ ἡμεῖς</b> WH Treg NIV ] Καὶ ἡμεῖς τί ποιήσομεν RP • <b>αὐτοῖς</b> WH Treg NIV ] πρὸς αὐτούς RP</p>
-<p><verse-number id="Lk 3:16">16</verse-number> <b>λέγων πᾶσιν ὁ Ἰωάννης</b> WH NIV ] ὁ Ἰωάννης ἅπασιν λέγων Treg RP</p>
-<p><verse-number id="Lk 3:17">17</verse-number> <b>διακαθᾶραι</b> WH NIV ] διακαθαριεῖ Treg; καὶ διακαθαριεῖ RP • <b>συναγαγεῖν</b> WH NIV ] συναξεῖ Treg RP</p>
-<p><verse-number id="Lk 3:20">20</verse-number> <b>καὶ</b> Treg NIV RP ] – WH • <b>ἐν</b> WH Treg NIV ] + τῇ RP</p>
-<p><verse-number id="Lk 3:22">22</verse-number> <b>ὡς</b> WH Treg NIV ] ὡσεὶ RP • <b>γενέσθαι</b> WH Treg NIV ] + λέγουσαν RP</p>
-<p><verse-number id="Lk 3:23">23</verse-number> <b>ἦν</b> WH Treg NIV ] + ὁ RP • <b>ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα</b> WH Treg NIV ] ὡσεὶ ἐτῶν τριάκοντα ἀρχόμενος RP • <b>υἱός ὡς ἐνομίζετο</b> WH Treg NIV ] ὡς ἐνομίζετο υἱός RP</p>
-<p><verse-number id="Lk 3:26">26</verse-number> <b>Ἰωσὴχ</b> WH Treg NIV ] Ἰωσήφ RP</p>
-<p><verse-number id="Lk 3:29">29</verse-number> <b>Ἰησοῦ</b> WH Treg NIV ] Ἰωσή RP</p>
-<p><verse-number id="Lk 3:32">32</verse-number> <b>Σαλὰ</b> WH NA ] Σαλμών Treg NIV RP</p>
-<p><verse-number id="Lk 3:33">33</verse-number> <b>Ἀμιναδὰβ τοῦ Ἀδμὶν τοῦ Ἀρνὶ</b> Holmes NA ] Ἀδμὶν τοῦ Ἀρνὶ WH; Ἀμιναδάβ τοῦ Ἀράμ Treg NIV RP</p>
+<verse>Luke 1:22</verse>
+<note>22 ἐδύνατο WH Treg NA28 ] ἠδύνατο RP</note>
 
-<p><verse-number id="Lk 4:1">4:1</verse-number> <b>πλήρης πνεύματος ἁγίου</b> WH Treg NIV ] πνεύματος ἁγίου πλήρης RP • <b>ἐν τῇ ἐρήμῳ</b> WH Treg NIV ] εἰς τήν ἐρήμον RP</p>
-<p><verse-number id="Lk 4:2">2</verse-number> <b>αὐτῶν</b> WH Treg NIV ] + ὕστερον RP</p>
-<p><verse-number id="Lk 4:3">3</verse-number> <b>εἶπεν δὲ</b> WH Treg NIV ] Καὶ εἶπεν RP</p>
-<p><verse-number id="Lk 4:4">4</verse-number> <b>πρὸς αὐτὸν ὁ Ἰησοῦς</b> WH NIV Treg ] Ἰησοῦς πρὸς αὐτόν λέγων RP • <b>ὁ</b> WH Treg NIV ] – RP • <b>ἄνθρωπος</b> WH NIV ] + ἀλλ᾽ ἐπὶ παντὶ ῥήματι θεοῦ Treg RP</p>
-<p><verse-number id="Lk 4:5">5</verse-number> <b>αὐτὸν</b> WH Treg NA ] + ὁ διάβολος εἰς ὄρος ὑψηλὸν NIV RP</p>
-<p><verse-number id="Lk 4:6">6</verse-number> <b>ἂν</b> WH Treg ] ἐὰν NIV RP</p>
-<p><verse-number id="Lk 4:8">8</verse-number> <b>ὁ Ἰησοῦς εἶπεν αὐτῷ</b> WH NIV ] αὐτῷ εἶπεν ὁ Ἰησοῦς Treg;  αὐτῷ εἶπεν ὁ Ἰησοῦς Ὕπαγε ὀπίσω μου Σατανᾶ RP • <b>Κύριον τὸν θεόν σου προσκυνήσεις</b> WH Treg NIV ] Προσκυνήσεις κύριον τὸν θεόν σου RP</p>
-<p><verse-number id="Lk 4:9">9</verse-number> <b>Ἤγαγεν δὲ</b> WH Treg NIV ] Καὶ ἤγαγεν RP • <b>ἔστησεν</b> WH NIV ] + αὐτὸν Treg RP</p>
-<p><verse-number id="Lk 4:11">11</verse-number> <b>ὅτι</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 4:16">16</verse-number> <b>εἰς</b> WH Treg NIV ] + τὴν RP</p>
-<p><verse-number id="Lk 4:17">17</verse-number> <b>τοῦ προφήτου Ἠσαΐου</b> WH Treg NIV ] Ἠσαΐου τοῦ προφήτου RP • <b>ἀναπτύξας</b> NIV RP ] ἀνοίξας WH Treg</p>
-<p><verse-number id="Lk 4:18">18</verse-number> <b>με</b> WH Treg NIV ] + ἰὰσασθαι τοὺς συντετριμμένους τὴν καρδίαν RP</p>
-<p><verse-number id="Lk 4:20">20</verse-number> <b>οἱ ὀφθαλμοὶ ἐν τῇ συναγωγῇ</b> WH Treg NIV ] ἐν τῇ συναγωγῇ οἱ ὀφθαλμοὶ RP</p>
-<p><verse-number id="Lk 4:22">22</verse-number> <b>Οὐχὶ υἱός ἐστιν Ἰωσὴφ οὗτος</b> WH NIV ] Οὐχὶ οὗτος ἐστιν ὁ υἱός Ἰωσὴφ Treg; Οὐχ οὗτος ἐστιν ὁ υἱός Ἰωσὴφ RP</p>
-<p><verse-number id="Lk 4:23">23</verse-number> <b>εἰς τὴν Καφαρναοὺμ</b> WH NIV ] εἰς Καφαρναοὺμ Treg; ἐν τῇ Καπερναούμ RP</p>
-<p><verse-number id="Lk 4:25">25</verse-number> <b>ἐπὶ</b> NIV RP ] – WH Treg</p>
-<p><verse-number id="Lk 4:26">26</verse-number> <b>Σιδωνίας</b> WH Treg NIV ] Σιδῶνος RP</p>
-<p><verse-number id="Lk 4:27">27</verse-number> <b>ἐν τῷ Ἰσραὴλ ἐπὶ … προφήτου</b> WH Treg NIV ] ἐπὶ … προφήτου ἐν τῷ Ἰσραήλ RP</p>
-<p><verse-number id="Lk 4:29">29</verse-number> <b>ᾠκοδόμητο αὐτῶν ὥστε</b> WH Treg NIV ] αὐτῶν ᾠκοδόμητο εἰς τὸ RP</p>
-<p><verse-number id="Lk 4:34">34</verse-number> <b>Ἔα</b> WH NIV ] λέγων Ἔα Treg RP</p>
-<p><verse-number id="Lk 4:35">35</verse-number> <b>ἀπ᾽</b> WH Treg NIV ] ἐξ RP • <b>τὸ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 4:38">38</verse-number> <b>ἀπὸ</b> WH Treg NIV ] ἐκ RP</p>
-<p><verse-number id="Lk 4:40">40</verse-number> <b>ἅπαντες</b> WH NIV ] πάντες Treg RP • <b>ἐπιτιθεὶς ἐθεράπευεν</b> WH Treg NIV ] ἐπιθεὶς ἐθεράπευσεν RP</p>
-<p><verse-number id="Lk 4:41">41</verse-number> <b>κραυγάζοντα</b> NIV ] κράζοντα WH Treg RP • <b>εἶ</b> WH Treg NIV ] + ὁ χριστὸς RP</p>
-<p><verse-number id="Lk 4:43">43</verse-number> <b>ἐπὶ</b> WH Treg NIV ] εἰς RP • <b>ἀπεστάλην</b> WH Treg NIV ] ἀπεστάλμαι RP</p>
-<p><verse-number id="Lk 4:44">44</verse-number> <b>εἰς τὰς συναγωγὰς</b> WH Treg NIV ] ἐν ταῖς συναγωγαῖς RP • <b>Ἰουδαίας</b> WH NIV ] Γαλιλαίας Treg RP</p>
+<verse>Luke 1:25</verse>
+<note>25 πεποίηκεν WH Treg NA28 ] + ὁ RP </note>
+<note>• ἀφελεῖν WH Treg NA28 ] + τὸ RP</note>
 
-<p><verse-number id="Lk 5:1">5:1</verse-number> <b>καὶ</b> WH Treg NIV ] τοῦ RP</p>
-<p><verse-number id="Lk 5:2">2</verse-number> <b>δύο πλοῖα</b> Treg NIV RP ] πλοῖα δύο WH • <b>ἀπ᾽ αὐτῶν ἀποβάντες</b> WH Treg NIV ] ἀποβάντες ἀπ᾽ αὐτῶν RP • <b>ἔπλυνον</b> WH Treg NIV ] ἀπέπλυναν RP</p>
-<p><verse-number id="Lk 5:3">3</verse-number> <b>ἦν</b> WH Treg NIV ] + τοῦ RP • <b>καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν</b> WH NIV ] καὶ καθίσας ἐδίδασκεν ἐκ τοῦ πλοίου Treg RP</p>
-<p><verse-number id="Lk 5:5">5</verse-number> <b>Σίμων</b> WH Treg NIV ] ὁ Σίμων RP • <b>εἶπεν</b> WH NIV ] + αὐτῷ Treg RP • <b>ὅλης</b> WH Treg NIV ] + τῆς RP • <b>τὰ δίκτυα</b> WH Treg NIV ] τὸ δίκτυον RP</p>
-<p><verse-number id="Lk 5:6">6</verse-number> <b>διερρήσσετο</b> WH Treg NIV ] διερρήγνυτο RP • <b>τὰ δίκτυα</b> WH Treg NIV ] τὸ δίκτυον RP</p>
-<p><verse-number id="Lk 5:7">7</verse-number> <b>μετόχοις</b> WH Treg NIV ] + τοῖς RP</p>
-<p><verse-number id="Lk 5:9">9</verse-number> <b>ὧν</b> WH Treg NIV ] ᾗ RP</p>
-<p><verse-number id="Lk 5:10">10</verse-number> <b>ὁ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 5:11">11</verse-number> <b>πάντα</b> WH Treg NIV ] ἅπαντα RP</p>
-<p><verse-number id="Lk 5:12">12</verse-number> <b>καὶ ἰδὼν</b> Treg RP ] ἰδὼν δὲ WH NIV</p>
-<p><verse-number id="Lk 5:13">13</verse-number> <b>εἰπών</b> RP ] λέγων WH Treg NIV</p>
-<p><verse-number id="Lk 5:15">15</verse-number> <b>θεραπεύεσθαι</b> WH Treg NIV ] + ὑπ᾽ αὐτοῦ RP</p>
-<p><verse-number id="Lk 5:17">17</verse-number> <b>αὐτόν</b> WH NIV ] αὐτούς Treg RP</p>
-<p><verse-number id="Lk 5:18">18</verse-number> <b>θεῖναι</b> Treg RP ] + αὐτὸν WH NIV</p>
-<p><verse-number id="Lk 5:20">20</verse-number> <b>εἶπεν</b> WH Treg NIV ] + αὐτῷ RP</p>
-<p><verse-number id="Lk 5:21">21</verse-number> <b>ἁμαρτίας ἀφεῖναι</b> WH Treg NIV ] ἀφεῖναι ἁμαρτίας RP</p>
-<p><verse-number id="Lk 5:23">23</verse-number> <b>Ἔγειρε</b> WH Treg NIV ] Ἔγειραι RP</p>
-<p><verse-number id="Lk 5:24">24</verse-number> <b>ὁ υἱὸς τοῦ ἀνθρώπου ἐξουσίαν ἔχει</b> WH Treg NIV ] ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου RP • <b>ἔγειρε</b> WH Treg NIV ] ἔγειραι RP</p>
-<p><verse-number id="Lk 5:28">28</verse-number> <b>πάντα</b> WH Treg NIV ] ἅπαντα RP • <b>ἠκολούθει</b> WH Treg NIV ] ἠκολούθησεν RP</p>
-<p><verse-number id="Lk 5:29">29</verse-number> <b>πολὺς τελωνῶν</b> WH Treg NIV ] τελωνῶν πολὺς RP</p>
-<p><verse-number id="Lk 5:30">30</verse-number> <b>Φαρισαῖοι καὶ οἱ γραμματεῖς αὐτῶν</b> WH Treg NIV ] γραμματεῖς αὐτῶν καὶ οἱ Φαρισαῖοι RP</p>
-<p><verse-number id="Lk 5:33">33</verse-number> <b>Οἱ</b> WH NIV ] Διὰ τί οἱ Treg RP</p>
-<p><verse-number id="Lk 5:34">34</verse-number> <b>δὲ</b> RP ] + Ἰησοῦς WH Treg NIV • <b>νηστεῦσαι</b> WH Treg NIV ] νηστεύειν RP</p>
-<p><verse-number id="Lk 5:36">36</verse-number> <b>ἀπὸ</b> WH Treg NIV ] – RP • <b>σχίσας</b> WH Treg NIV ] – RP • <b>σχίσει</b> WH Treg NIV ] σχίζει RP • <b>συμφωνήσει τὸ ἐπίβλημα</b> WH Treg NIV ] συμφωνεῖ RP</p>
-<p><verse-number id="Lk 5:37">37</verse-number> <b>οἶνος ὁ νέος</b> WH Treg NIV ] νέος οἶνος RP</p>
-<p><verse-number id="Lk 5:38">38</verse-number> <b>βλητέον</b> WH NIV ] + καὶ ἀμφότεροι συντηροῦνται Treg RP</p>
-<p><verse-number id="Lk 5:39">39</verse-number> <b>καὶ</b> Treg NIV RP ] – WH • <b>παλαιὸν</b> WH Treg NIV ] + εὐθέως RP • <b>χρηστός</b> WH Treg NA ] χρηστότερός NIV RP</p>
+<verse>Luke 1:26</verse>
+<note>26 ἀπὸ WH Treg NA28 ] ὑπὸ RP</note>
 
-<p><verse-number id="Lk 6:1">6:1</verse-number> <b>σαββάτῳ</b> WH Treg NIV ] + δευτεροπρώτῳ RP • <b>διὰ</b> WH Treg NIV ] + τῶν RP • <b>καὶ ἤσθιον τοὺς στάχυας</b> WH Treg NIV ] τοὺς στάχυας καὶ ἤσθιον RP</p>
-<p><verse-number id="Lk 6:2">2</verse-number> <b>εἶπαν</b> WH Treg NIV ] +αὐτοῖς RP • <b>ἔξεστιν</b> WH Treg NIV ] + ποιεῖν ἐν RP</p>
-<p><verse-number id="Lk 6:3">3</verse-number> <b>ὁπότε</b> RP ] ὅτε WH Treg NIV • <b>ὄντες</b> NIV RP ] – WH Treg</p>
-<p><verse-number id="Lk 6:4">4</verse-number> <b>ὡς</b> WH Treg RP NA ] – NIV • <b>λαβὼν</b> WH Treg NIV ] ἔλαβεν καὶ RP • <b>ἔδωκεν</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Lk 6:5">5</verse-number> <b>αὐτοῖς</b> WH NIV ] + ὅτι Treg RP • <b>τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου</b> WH NIV ] ὁ υἱὸς τοῦ ἀνθρώπου τοῦ σαββάτου Treg RP</p>
-<p><verse-number id="Lk 6:6">6</verse-number> <b>δὲ</b> WH Treg NIV ] + καὶ RP • <b>ἄνθρωπος ἐκεῖ</b> WH Treg NIV ] ἐκεῖ ἄνθρωπος RP</p>
-<p><verse-number id="Lk 6:7">7</verse-number> <b>παρετηροῦντο</b> WH Treg NIV ] Παρετήρουν RP • <b>δὲ</b> Treg RP ] + αὐτὸν WH NIV • <b>θεραπεύει</b> WH Treg NIV ] θεραπεύσει RP• <b>κατηγορεῖν</b> WH Treg NIV ] κατηγορίαν RP</p>
-<p><verse-number id="Lk 6:8">8</verse-number> <b>εἶπεν δὲ</b> WH Treg NIV ] καὶ εἶπεν RP • <b>ἀνδρὶ</b> WH Treg NIV ] ἀνθρώπῳ RP • <b>Ἔγειρε</b> WH Treg NIV ] Ἔγειραι RP • <b>καὶ</b> WH Treg NIV ] Ὁ δὲ RP</p>
-<p><verse-number id="Lk 6:9">9</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP • <b>Ἐπερωτῶ</b> WH Treg NIV ] Ἐπερωτήσω RP • <b>εἰ</b> WH Treg NIV ] τί RP • <b>τῷ σαββάτῳ</b> WH Treg NIV ] τοῖς σάββασιν RP • <b>ἀπολέσαι</b> WH Treg NIV ] ἀποκτεῖναι RP</p>
-<p><verse-number id="Lk 6:10">10</verse-number> <b>αὐτοῦ</b> WH NIV ] + ὡς ἡ ἄλλη Treg; + ὑγιὴς ὡς ἡ ἄλλη RP</p>
-<p><verse-number id="Lk 6:12">12</verse-number> <b>ἐξελθεῖν αὐτὸν</b> WH Treg NIV ] ἐξηλθεν RP</p>
-<p><verse-number id="Lk 6:14">14</verse-number> <b>⸀καὶ</b> WH Treg NIV ] – RP • <b>⸁καὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 6:15">15</verse-number> <b>⸀καὶ</b> WH Treg NIV ] – RP • <b>⸁καὶ</b> WH NIV ] – Treg RP • <b>Ἰάκωβον</b> WH Treg NIV ] + τὸν τοῦ RP</p>
-<p><verse-number id="Lk 6:16">16</verse-number> <b>καὶ</b> WH Treg NIV ] – RP • <b>Ἰσκαριὼθ</b> WH Treg NIV ] Ἰσκαριώτην RP • <b>ὃς</b> WH NIV ] + καὶ Treg RP</p>
-<p><verse-number id="Lk 6:17">17</verse-number> <b>πολὺς</b> WH NIV ] – Treg RP</p>
-<p><verse-number id="Lk 6:18">18</verse-number> <b>ἐνοχλούμενοι ἀπὸ</b> WH Treg NIV ] ὀχλούμενοι ὑπὸ RP • <b>ἀκαθάρτων</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Lk 6:19">19</verse-number> <b>ἐζήτουν</b> WH Treg NIV ] ἐζήτει RP</p>
-<p><verse-number id="Lk 6:23">23</verse-number> <b>τὰ αὐτὰ</b> WH Treg NIV ] ταῦτα RP</p>
-<p><verse-number id="Lk 6:25">25</verse-number> <b>νῦν</b> WH Treg NIV ] – RP • <b>οὐαί</b> WH Treg NIV ] + ὑμῖν RP</p>
-<p><verse-number id="Lk 6:26">26</verse-number> <b>καλῶς ὑμᾶς</b> WH Treg RP ] ὑμᾶς καλῶς NIV • <b>πάντες</b> WH Treg NIV ] – RP • <b>τὰ αὐτὰ</b> WH Treg NIV ] ταῦτα RP</p>
-<p><verse-number id="Lk 6:28">28</verse-number> <b>ὑμᾶς</b> WH Treg NIV ] ὑμῖν RP • <b>περὶ</b> WH NIV ] ὑπὲρ Treg RP</p>
-<p><verse-number id="Lk 6:30">30</verse-number> <b>παντὶ</b> WH NIV ] + δὲ τῷ Treg RP</p>
-<p><verse-number id="Lk 6:31">31</verse-number> <b>ἄνθρωποι</b> WH NIV ] + καὶ ὑμεῖς Treg RP</p>
-<p><verse-number id="Lk 6:33">33</verse-number> <b>⸀καὶ</b> Treg NIV RP ] + γὰρ WH NA • <b>⸁καὶ</b> WH NIV ] + γὰρ Treg RP</p>
-<p><verse-number id="Lk 6:34">34</verse-number> <b>δανίσητε</b> WH NIV ] δανείζετε Treg; δανείζητε RP • <b>λαβεῖν</b> WH Treg NIV ] ἀπολαβεῖν RP • <b>καὶ</b> WH NIV ] + γὰρ Treg RP</p>
-<p><verse-number id="Lk 6:36">36</verse-number> <b>γίνεσθε</b> WH Treg NIV ] + οὖν RP • <b>καθὼς</b> WH NIV ] + καὶ Treg RP NA</p>
-<p><verse-number id="Lk 6:37">37</verse-number> <b>καὶ</b> WH NIV ] – Treg RP</p>
-<p><verse-number id="Lk 6:38">38</verse-number> <b>σεσαλευμένον</b> WH Treg NIV ] καὶ σεσαλευμένον καὶ RP • <b>ᾧ γὰρ μέτρῳ</b> WH Treg NIV ] Τᾧ γὰρ αὐτῷ μέτρῳ ᾧ RP</p>
-<p><verse-number id="Lk 6:39">39</verse-number> <b>καὶ</b> WH Treg NIV ] – RP • <b>ἐμπεσοῦνται</b> WH Treg NIV ] πεσοῦνται RP</p>
-<p><verse-number id="Lk 6:40">40</verse-number> <b>διδάσκαλον</b> WH Treg NIV ] + αὐτοῦ RP</p>
-<p><verse-number id="Lk 6:42">42</verse-number> <b>πῶς</b> WH NIV ] ἢ πῶς Treg RP • <b>τὸ κάρφος … σου ἐκβαλεῖν</b> WH NIV ] ἐκβαλεῖν τὸ κάρφος … σου Treg RP</p>
-<p><verse-number id="Lk 6:43">43</verse-number> <b>πάλιν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 6:44">44</verse-number> <b>σταφυλὴν τρυγῶσιν</b> WH Treg NIV ] τρυγῶσιν σταφυλήν RP</p>
-<p><verse-number id="Lk 6:45">45</verse-number> <b>αὐτοῦ</b> Treg RP ] – WH NIV • <b>πονηρὸς</b> WH Treg NIV ] + ἄνθρωπος RP • <b>πονηροῦ</b> WH Treg NA ] + θησαυροῦ τῆς καρδίας αὑτοῦ NIV RP • <b>περισσεύματος</b> WH Treg NIV ] τοῦ περισσεύματος τῆς RP</p>
-<p><verse-number id="Lk 6:48">48</verse-number> <b>διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν</b> WH Treg NIV ] τεθεμελίωτο γὰρ ἐπὶ τὴν πέτραν RP</p>
-<p><verse-number id="Lk 6:49">49</verse-number> <b>εὐθὺς συνέπεσεν</b> WH Treg NIV ] εὐθὲως ἔπεσεν RP</p>
+<verse>Luke 1:27</verse>
+<note>27 ἐμνηστευμένην WH Treg NA28 ] μεμνηστευμένην RP</note>
 
-<p><verse-number id="Lk 7:1">7:1</verse-number> <b>Ἐπειδὴ</b> WH Treg NIV ] Ἐπει δὲ RP</p>
-<p><verse-number id="Lk 7:4">4</verse-number> <b>παρέξῃ</b> WH Treg NIV ] παρέξει RP</p>
-<p><verse-number id="Lk 7:6">6</verse-number> <b>φίλους ὁ ἑκατοντάρχης</b> WH NIV ] πρὸς  αὐτὸν φίλους ὁ  ἑκατόνταρχος Treg; πρὸς αὐτὸν  ὁ ἑκατόνταρχος φίλους RP • <b>ἱκανός εἰμι</b> WH Treg NIV ] εἰμι ἱκανός RP</p>
-<p><verse-number id="Lk 7:7">7</verse-number> <b>ἰαθήτω</b> WH Treg NIV ] ἰαθήσεται RP</p>
-<p><verse-number id="Lk 7:9">9</verse-number> <b>οὐδὲ</b> WH Treg NIV ] οὔτε RP</p>
-<p><verse-number id="Lk 7:10">10</verse-number> <b>εἰς τὸν οἶκον οἱ πεμφθέντες</b> WH Treg NIV ] οἱ πεμφθέντες εἰς τὸν οἶκον RP • <b>τὸν</b> WH Treg NIV ] + ἀσθενοῦντα RP</p>
-<p><verse-number id="Lk 7:11">11</verse-number> <b>ἐπορεύθη</b> WH NIV ] ἐπορεύετο Treg RP • <b>αὐτοῦ</b> WH Treg NIV ] + ἱκανοί RP</p>
-<p><verse-number id="Lk 7:12">12</verse-number> <b>μονογενὴς υἱὸς</b> WH Treg NIV ] υἱὸς μονογενὴς RP • <b>⸀ἦν</b> WH Treg NIV ] – RP • <b>⸁ἦν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 7:16">16</verse-number> <b>ἠγέρθη</b> WH Treg NIV ] ἐγήγερται RP</p>
-<p><verse-number id="Lk 7:17">17</verse-number> <b>καὶ</b> WH NIV ] + ἐν Treg RP</p>
-<p><verse-number id="Lk 7:19">19</verse-number> <b>κύριον</b> WH Treg NIV ] Ἰησοῦν RP • <b>ἄλλον</b> NIV RP ] ἕτερον WH Treg</p>
-<p><verse-number id="Lk 7:20">20</verse-number> <b>ἀπέστειλεν</b> WH NIV ] ἀπέσταλκεν Treg RP</p>
-<p><verse-number id="Lk 7:21">21</verse-number> <b>ἐκείνῃ</b> WH Treg NIV ] αὐτῇ δὲ RP • <b>ἐχαρίσατο</b> WH Treg NIV ] + τὸ RP</p>
-<p><verse-number id="Lk 7:22">22</verse-number> <b>ἀποκριθεὶς</b> WH Treg NIV ] + ὁ Ἰησοῦς RP • <b>τυφλοὶ</b> WH NIV ] ὅτι τυφλοὶ Treg RP • <b>κωφοὶ</b> Treg RP ] καὶ κωφοὶ WH NIV</p>
-<p><verse-number id="Lk 7:24">24</verse-number> <b>πρὸς τοὺς ὄχλους</b> WH Treg NIV ] τοῖς ὄχλοις RP • <b>ἐξήλθατε</b> WH Treg NIV ] ἐξεληλύθατε RP</p>
-<p><verse-number id="Lk 7:25">25</verse-number> <b>ἐξήλθατε</b> WH Treg NIV ] ἐξεληλύθατε RP</p>
-<p><verse-number id="Lk 7:26">26</verse-number> <b>ἐξήλθατε</b> WH Treg NIV ] ἐξεληλύθατε RP</p>
-<p><verse-number id="Lk 7:27">27</verse-number> <b>Ἰδοὺ</b> WH Treg NIV ] + ἐγώ RP</p>
-<p><verse-number id="Lk 7:28">28</verse-number> <b>λέγω</b> WH Treg NIV ] + γὰρ RP • <b>Ἰωάννου</b> WH NIV ] προφήτης Ἰωάννου Treg; προφήτης Ἰωάννου τοῦ βαπτιστοῦ RP</p>
-<p><verse-number id="Lk 7:32">32</verse-number> <b>ἃ λέγει</b> WH NIV ] λέγοντες Treg; καὶ λέγουσιν RP • <b>ἐθρηνήσαμεν</b> WH Treg NIV ] + ὑμῖν RP</p>
-<p><verse-number id="Lk 7:33">33</verse-number> <b>μὴ</b> WH NIV ] μήτε Treg RP • <b>ἐσθίων ἄρτον μήτε πίνων οἶνον</b> WH Treg NIV ] ἄρτον ἐσθίων μὴτὲ οἶνον πίνων RP</p>
-<p><verse-number id="Lk 7:35">35</verse-number> <b>πάντων τῶν τέκνων αὐτῆς</b> WH Treg NIV ] τῶν τέκνων αὐτῆς πάντων RP</p>
-<p><verse-number id="Lk 7:36">36</verse-number> <b>τὸν οἶκον</b> WH Treg NIV ] τὴν οἶκὶαν RP • <b>κατεκλίθη</b> WH Treg NIV ] ἀνεκλίθη RP</p>
-<p><verse-number id="Lk 7:37">37</verse-number> <b>ἥτις ἦν ἐν τῇ πόλει</b> WH Treg NIV ] ἐν τῇ πόλει ἥτις ἦν RP • <b>καὶ</b> WH Treg NIV ] – RP • <b>κατάκειται</b> WH Treg NIV ] ἀνάκειται RP</p>
-<p><verse-number id="Lk 7:38">38</verse-number> <b>ὀπίσω παρὰ … αὐτοῦ</b> WH Treg NIV ] παρὰ … αὐτοῦ ὀπίσω RP • <b>τοῖς δάκρυσιν ἤρξατο … αὐτοῦ</b> WH Treg NIV ] ἤρξατο … αὐτοῦ τοῖς δάκρυσιν RP</p>
-<p><verse-number id="Lk 7:39">39</verse-number> <b>ἦν</b> Treg NIV RP ] + ὁ WH</p>
-<p><verse-number id="Lk 7:40">40</verse-number> <b>Διδάσκαλε εἰπέ φησίν</b> WH Treg NIV ] φησίν Διδάσκαλε εἰπέ RP</p>
-<p><verse-number id="Lk 7:42">42</verse-number> <b>ἐχόντων</b> WH Treg NIV ] + δὲ RP • <b>αὐτῶν</b> WH Treg NIV ] + εἶπέ RP • <b>ἀγαπήσει αὐτόν</b> WH Treg NIV ] αὐτὸν ἀγαπήσει RP</p>
-<p><verse-number id="Lk 7:43">43</verse-number> <b>ἀποκριθεὶς</b> WH NIV ] + ὁ Treg; + δὲ ὁ RP</p>
-<p><verse-number id="Lk 7:44">44</verse-number> <b>μοι</b> WH Treg NIV ] – RP • <b>πόδας</b> WH Treg NIV ] τοὺς πόδας μου RP • <b>θριξὶν</b> WH Treg NIV ] + τὴς κεφαλῆς RP</p>
-<p><verse-number id="Lk 7:46">46</verse-number> <b>τοὺς πόδας μου</b> WH Treg NIV ] μου τοὺς πόδας RP</p>
+<verse>Luke 1:28</verse>
+<note>28 εἰσελθὼν WH NA28 ] + ὁ ἄγγελος Treg NIV RP </note>
+<note>• σοῦ WH NA28 ] + εὐλογημένη σὺ ἐν γυναιξίν Treg RP</note>
 
-<p><verse-number id="Lk 8:3">8:3</verse-number> <b>ἐκ</b> WH Treg NIV ] ἀπὸ RP</p>
-<p><verse-number id="Lk 8:6">6</verse-number> <b>κατέπεσεν</b> WH Treg NIV ] ἔπεσεν RP</p>
-<p><verse-number id="Lk 8:9">9</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] + λέγοντες RP • <b>αὕτη εἴη ἡ παραβολή</b> WH NIV ] εἴη ἡ παραβολὴ αὕτη Treg RP</p>
-<p><verse-number id="Lk 8:12">12</verse-number> <b>ἀκούσαντες</b> WH Treg NIV ] ἀκούοντες RP</p>
-<p><verse-number id="Lk 8:16">16</verse-number> <b>τίθησιν</b> WH Treg NIV ] ἐπιτίθησιν RP</p>
-<p><verse-number id="Lk 8:17">17</verse-number> <b>μὴ γνωσθῇ</b> WH Treg NIV ] γνωσθήσεται RP</p>
-<p><verse-number id="Lk 8:18">18</verse-number> <b>ἂν γὰρ</b> WH Treg NIV ] γὰρ ἐὰν RP • <b>ἂν</b> WH Treg NIV ] ἐὰν RP</p>
-<p><verse-number id="Lk 8:19">19</verse-number> <b>Παρεγένετο</b> WH Treg NIV ] Παρεγένοντο RP</p>
-<p><verse-number id="Lk 8:20">20</verse-number> <b>ἀπηγγέλη δὲ</b> WH Treg NIV ] Καὶ ἀπηγγέλη RP • <b>αὐτῷ</b> WH Treg NIV ] + λέγοντων RP • <b>σε θέλοντές</b> RP ] θέλοντές σε WH Treg NIV</p>
-<p><verse-number id="Lk 8:21">21</verse-number> <b>ποιοῦντες</b> WH Treg NIV ] + αὐτόν RP</p>
-<p><verse-number id="Lk 8:22">22</verse-number> <b>Ἐγένετο δὲ</b> WH Treg NIV ] Καὶ ἐγένετο RP</p>
-<p><verse-number id="Lk 8:24">24</verse-number> <b>διεγερθεὶς</b> WH Treg NIV ] ἐγερθεὶς RP</p>
-<p><verse-number id="Lk 8:25">25</verse-number> <b>Ποῦ</b> WH Treg NIV ] + ἐστιν RP</p>
-<p><verse-number id="Lk 8:26">26</verse-number> <b>Γερασηνῶν</b> WH Treg NIV ] Γαδαρηνῶν RP</p>
-<p><verse-number id="Lk 8:27">27</verse-number> <b>ὑπήντησεν</b> WH NIV ] + αὐτῷ Treg RP • <b>ἔχων</b> WH NIV ] ὃς εἶχεν Treg RP • <b>καὶ χρόνῳ ἱκανῷ οὐκ ἐνεδύσατο ἱμάτιον</b> WH Treg NIV ] ἐκ χρόνων ἱκανῶν καὶ ἱμάτιον οὐκ ἐνεδιδύσκετο RP</p>
-<p><verse-number id="Lk 8:28">28</verse-number> <b>Ἰησοῦν</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Lk 8:29">29</verse-number> <b>παρήγγελλεν</b> WH Treg ] παρήγγειλεν NIV RP • <b>ἐδεσμεύετο</b> WH Treg NIV ] ἐδεσμεῖτο RP • <b>ὑπὸ</b> Treg NIV RP ] ἀπὸ WH • <b>δαιμονίου</b> WH Treg NIV ] δαίμονος RP</p>
-<p><verse-number id="Lk 8:30">30</verse-number> <b>Ἰησοῦς</b> WH NIV ] + λέγων Treg RP • <b>ὄνομά ἐστιν</b> WH Treg NIV ] ἐστιν ὄνομα RP • <b>εἰσῆλθεν δαιμόνια πολλὰ</b> WH NIV ] δαιμόνια πολλὰ εἰσῆλθεν Treg RP</p>
-<p><verse-number id="Lk 8:31">31</verse-number> <b>παρεκάλουν</b> WH Treg NIV ] παρεκάλει RP</p>
-<p><verse-number id="Lk 8:32">32</verse-number> <b>βοσκομένη</b> WH NIV ] βοσκομένων Treg RP • <b>παρεκάλεσαν</b> WH Treg NIV ] παρεκάλουν RP</p>
-<p><verse-number id="Lk 8:34">34</verse-number> <b>γεγονὸς</b> WH Treg NIV ] γεγενημένον RP</p>
-<p><verse-number id="Lk 8:35">35</verse-number> <b>ἐξῆλθεν</b> WH NIV ] ἐξεληλύθει Treg RP</p>
-<p><verse-number id="Lk 8:36">36</verse-number> <b>αὐτοῖς</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Lk 8:37">37</verse-number> <b>ἠρώτησεν</b> WH Treg NIV ] ἠρώτησαν RP • <b>Γερασηνῶν</b> WH Treg NIV ] Γαδαρηνῶν RP • <b>εἰς</b> WH Treg NIV ] + τὸ RP</p>
-<p><verse-number id="Lk 8:38">38</verse-number> <b>αὐτὸν</b> WH Treg NIV ] + ὁ Ἰησοῦς RP</p>
-<p><verse-number id="Lk 8:39">39</verse-number> <b>σοι ἐποίησεν</b> WH Treg NIV ] ἐποίησεν σοι RP</p>
-<p><verse-number id="Lk 8:40">40</verse-number> <b>Ἐν δὲ</b> WH Treg NIV ] Ἐγένετο δὲ ἐν RP • <b>ὑποστρέφειν</b> WH NIV ] ὑποστρέψαι Treg RP</p>
-<p><verse-number id="Lk 8:41">41</verse-number> <b>οὗτος</b> WH Treg NIV ] αὐτὸς RP • <b>τοῦ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 8:43">43</verse-number> <b>ἰατροῖς προσαναλώσασα ὅλον τὸν βίον</b> Treg RP NA ] – WH NIV • <b>ἀπ᾽</b> WH Treg NIV ] ὑπ᾽ RP</p>
-<p><verse-number id="Lk 8:45">45</verse-number> <b>Πέτρος</b> WH NIV ] + καὶ οἱ σὺν αὐτῷ Treg; + καὶ οἱ μετ᾽ αὐτοῦ RP • <b> ἀποθλίβουσιν</b> WH NIV ] + καὶ λέγεις Τίς ὁ ἁψάμενός μου Treg RP</p>
-<p><verse-number id="Lk 8:46">46</verse-number> <b>ἐξεληλυθυῖαν</b> WH Treg NIV ] ἐξελθοῦσαν RP</p>
-<p><verse-number id="Lk 8:47">47</verse-number> <b>ἀπήγγειλεν</b> WH Treg NIV ] + αὐτῷ RP</p>
-<p><verse-number id="Lk 8:48">48</verse-number> <b>Θυγάτηρ</b> WH Treg NIV ] Θάρσει θύγατερ RP</p>
-<p><verse-number id="Lk 8:49">49</verse-number> <b>λέγων</b> WH NIV ] + αὐτῷ Treg RP • <b>μηκέτι</b> WH Treg NIV ] μὴ RP</p>
-<p><verse-number id="Lk 8:50">50</verse-number> <b>αὐτῷ</b> WH Treg NIV ] + λέγων RP • <b>πίστευσον</b> WH Treg NIV ] πίστευε RP</p>
-<p><verse-number id="Lk 8:51">51</verse-number> <b>τινα σὺν αὐτῷ</b> WH Treg NIV ] οὐδένα RP</p>
-<p><verse-number id="Lk 8:52">52</verse-number> <b>οὐ γὰρ</b> WH Treg NIV ] οὐκ RP</p>
-<p><verse-number id="Lk 8:54">54</verse-number> <b>δὲ</b> WH Treg NIV ] + ἐκβαλὼν ἔξω πάντας καὶ RP • <b>ἔγειρε</b> WH Treg NIV ] ἔγειρου RP</p>
+<verse>Luke 1:29</verse>
+<note>29 ἐπὶ τῷ λόγῳ διεταράχθη WH Treg NA28 ] ἰδοῦσα διεταράχθη ἐπὶ τῷ λόγῳ αὐτοῦ RP</note>
 
-<p><verse-number id="Lk 9:2">9:2</verse-number> <b>τοὺς ἀσθενεῖς</b> Treg NIV ] – WH; τοὺς ἀσθενοῦντας RP</p>
-<p><verse-number id="Lk 9:3">3</verse-number> <b>ῥάβδον</b> WH Treg NIV ] ῥάβδους RP • <b>ἀνὰ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 9:5">5</verse-number> <b>ἂν</b> WH Treg NIV ] ἐάν RP • <b>δέχωνται</b> WH Treg NIV ] δέξωνται RP • <b>ἐκείνης</b> WH Treg NIV ] + καὶ RP • <b>ἀποτινάσσετε</b> WH NIV ] ἀποτινάξατε Treg RP</p>
-<p><verse-number id="Lk 9:7">7</verse-number> <b>γινόμενα</b> WH Treg NIV ] + ὑπ᾽ αὐτοῦ RP • <b>ἠγέρθη</b> WH Treg NIV ] ἐγήγερται RP</p>
-<p><verse-number id="Lk 9:8">8</verse-number> <b>τις</b> WH Treg NIV ] εἷς RP</p>
-<p><verse-number id="Lk 9:9">9</verse-number> <b>εἶπεν δὲ</b> WH Treg NIV ] Καὶ εἶπεν RP • <b>ὁ</b> WH RP ] – Treg NIV • <b>οὗ</b> WH NIV ] + ἐγὼ Treg RP</p>
-<p><verse-number id="Lk 9:10">10</verse-number> <b>πόλιν καλουμένην Βηθσαϊδά</b> WH Treg NIV ] τόπον ἔρημον πόλεως καλουμένης Βηθσαϊδάν RP</p>
-<p><verse-number id="Lk 9:11">11</verse-number> <b>ἀποδεξάμενος</b> WH Treg NIV ] δεξάμενος RP</p>
-<p><verse-number id="Lk 9:12">12</verse-number> <b>πορευθέντες</b> WH Treg NIV ] ἀπελθόντες RP • <b>καὶ</b> WH NIV ] + τοὺς Treg RP</p>
-<p><verse-number id="Lk 9:13">13</verse-number> <b>ὑμεῖς φαγεῖν</b> Treg NIV RP ] φαγεῖν ὑμεῖς WH • <b>ἄρτοι πέντε</b> WH NIV ] πέντε ἄρτοι Treg RP</p>
-<p><verse-number id="Lk 9:14">14</verse-number> <b>ὡσεὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 9:15">15</verse-number> <b>κατέκλιναν</b> WH Treg NIV ] ἀνέκλιναν RP</p>
-<p><verse-number id="Lk 9:16">16</verse-number> <b>παραθεῖναι</b> WH Treg NIV ] παρατιθέναι RP</p>
-<p><verse-number id="Lk 9:18">18</verse-number> <b>οἱ ὄχλοι λέγουσιν</b> WH Treg ] λέγουσιν οἱ ὄχλοι NIV RP</p>
-<p><verse-number id="Lk 9:20">20</verse-number> <b>Πέτρος δὲ ἀποκριθεὶς</b> WH Treg NIV ] Ἀποκριθεὶς δὲ ὁ Πέτρος RP</p>
-<p><verse-number id="Lk 9:21">21</verse-number> <b>λέγειν</b> WH Treg NIV ] εἰπεῖν RP</p>
-<p><verse-number id="Lk 9:22">22</verse-number> <b>ἐγερθῆναι</b> WH Treg NIV ] ἀναστῆναι RP</p>
-<p><verse-number id="Lk 9:23">23</verse-number> <b>ἔρχεσθαι ἀρνησάσθω</b> WH Treg NIV ] ἐλθεῖν ἀπαρνησάσθω RP • <b>καθ᾽ ἡμέραν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 9:24">24</verse-number> <b>ἂν</b> WH Treg NIV ] ἐὰν RP</p>
-<p><verse-number id="Lk 9:27">27</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] ὧδε RP • <b>ἑστηκότων</b> WH NIV ] ἑστώτων Treg RP</p>
-<p><verse-number id="Lk 9:28">28</verse-number> <b>καὶ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 9:33">33</verse-number> <b>ὁ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 9:34">34</verse-number> <b>ἐπεσκίαζεν</b> WH Treg NIV ] ἐπεσκίασεν RP • <b>εἰσελθεῖν αὐτοὺς</b> WH Treg NIV ] ἐκείνους εἰσελθεῖν RP</p>
-<p><verse-number id="Lk 9:35">35</verse-number> <b>ἐκλελεγμένος</b> WH Treg NIV ] ἀγαπητός RP</p>
-<p><verse-number id="Lk 9:36">36</verse-number> <b>εὑρέθη</b> WH Treg NIV ] + ὁ RP</p>
-<p><verse-number id="Lk 9:37">37</verse-number> <b>δὲ</b> WH NIV ] + ἐν Treg RP</p>
-<p><verse-number id="Lk 9:38">38</verse-number> <b>ἐβόησεν</b> WH Treg NIV ] ἀνεβόησεν RP • <b>μοί ἐστιν</b> WH Treg NIV ] ἐστίν μοι RP</p>
-<p><verse-number id="Lk 9:39">39</verse-number> <b>μόγις</b> Treg NIV RP ] μόλις WH</p>
-<p><verse-number id="Lk 9:41">41</verse-number> <b>ὧδε τὸν υἱόν σου</b> WH Treg NIV ] τὸν υἱόν σου ὧδε RP</p>
-<p><verse-number id="Lk 9:43">43</verse-number> <b>ἐποίει</b> WH Treg NIV ] ἐποίησεν ὁ Ἰησοῦς RP</p>
-<p><verse-number id="Lk 9:47">47</verse-number> <b>εἰδὼς</b> WH NIV ] ἰδὼν Treg RP • <b>παιδίον</b> WH Treg NIV ] παιδίου RP</p>
-<p><verse-number id="Lk 9:48">48</verse-number> <b>⸀ἂν</b> WH ] ἐὰν Treg NIV RP • <b>⸁ἂν</b> WH NIV ] ἐὰν Treg RP • <b>ἐστιν</b> WH Treg NIV ] ἔσται RP</p>
-<p><verse-number id="Lk 9:49">49</verse-number> <b>δὲ</b> WH Treg NIV ] + ὁ RP • <b>ἐν</b> WH Treg NIV ] ἐπὶ RP • <b>ἐκωλύομεν</b> WH NIV ] ἐκωλύσαμεν Treg RP</p>
-<p><verse-number id="Lk 9:50">50</verse-number> <b>εἶπεν δὲ</b> WH Treg NIV ] Καὶ εἶπεν RP • <b>ὁ</b> Treg NIV RP ] – WH • <b>ὑμῶν … ὑμῶν</b> WH Treg NIV ] ἡμῶν … ἡμῶν RP</p>
-<p><verse-number id="Lk 9:51">51</verse-number> <b>πρόσωπον</b> WH NIV ] + αὐτοῦ Treg RP • <b>ἐστήρισεν</b> WH Treg NIV ] ἐστήριξεν RP</p>
-<p><verse-number id="Lk 9:52">52</verse-number> <b>ὡς</b> WH NIV ] ὥστε Treg RP</p>
-<p><verse-number id="Lk 9:54">54</verse-number> <b>μαθηταὶ</b> WH NIV ] + αὐτοῦ Treg RP • <b>αὐτούς</b> WH Treg NIV ] + ὡς καὶ Ἠλίας ἐποίησεν RP</p>
-<p><verse-number id="Lk 9:55">55</verse-number> <b>αὐτοῖς</b> WH Treg NIV ] αὐτοῖς, καὶ εἶπεν, Οὐκ οἰδατε οἵου πνεύματός ἐστε ὑμεῖς RP</p>
-<p><verse-number id="Lk 9:56">56</verse-number> <b>καὶ</b> WH Treg NIV ] ὁ γὰρ ὑιὸς τοῦ ἀνθρώπου οὐκ ἦλθεν ψυχὰς ἀνθρώπων ἀπολέσαι, ἀλλὰ σῶσαι. Καὶ RP</p>
-<p><verse-number id="Lk 9:57">57</verse-number> <b>Καὶ</b> WH Treg NIV ] Ἐγένετο δὲ RP • <b>ἐὰν</b> WH Treg NIV ] ἂν RP • <b>ἀπέρχῃ</b> WH Treg NIV ] + κύριε RP</p>
-<p><verse-number id="Lk 9:59">59</verse-number> <b>Κύριε</b> Treg NIV RP ] – WH • <b>ἀπελθόντι πρῶτον</b> NIV RP ] πρῶτον ἀπελθόντι WH Treg</p>
-<p><verse-number id="Lk 9:60">60</verse-number> <b>αὐτῷ</b> WH Treg NIV ] + ὁ Ἰησοῦς RP</p>
-<p><verse-number id="Lk 9:62">62</verse-number> <b>ὁ Ἰησοῦς</b> NIV ] πρὸς αὐτὸν ὁ Ἰησοῦς WH NA; ὁ Ἰησοῦς πρὸς αὐτὸν Treg RP • <b>χεῖρα</b> WH NIV ] + αὐτοῦ Treg RP • <b>τῇ βασιλείᾳ</b> WH Treg NIV ] εἰς τὴν βασιλείαν RP</p>
+<verse>Luke 1:36</verse>
+<note>36 συγγενίς WH NA28 ] συγγενής Treg RP </note>
+<note>• συνείληφεν WH Treg NA28 ] συνείληφυῖα RP</note>
 
-<p><verse-number id="Lk 10:1">10:1</verse-number> <b>καὶ</b> Treg RP ] – WH NIV • <b>⸀δύο</b> WH NIV ] – Treg RP • <b>⸁δύο</b> WH NIV ] – Treg RP</p>
-<p><verse-number id="Lk 10:2">2</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP • <b>ἐργάτας ἐκβάλῃ</b> WH Treg NIV ] ἐκβάλῃ ἐργάτας RP</p>
-<p><verse-number id="Lk 10:3">3</verse-number> <b>ἰδοὺ</b> WH Treg NIV ] + ἐγὼ RP</p>
-<p><verse-number id="Lk 10:4">4</verse-number> <b>μὴ</b> WH Treg NIV ] μηδὲ RP</p>
-<p><verse-number id="Lk 10:5">5</verse-number> <b>εἰσέλθητε οἰκίαν</b> WH Treg NIV ] οἰκίαν εἰσέρχησθε RP</p>
-<p><verse-number id="Lk 10:6">6</verse-number> <b>ᾖ ἐκεῖ</b> Treg RP ] ἐκεῖ ᾖ WH NIV </p>
-<p><verse-number id="Lk 10:7">7</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] + ἐστίν RP</p>
-<p><verse-number id="Lk 10:10">10</verse-number> <b>εἰσέλθητε</b> WH Treg NIV ] εἰσέρχησθε RP</p>
-<p><verse-number id="Lk 10:11">11</verse-number> <b>εἰς τοὺς πόδας</b> WH Treg NIV ] – RP • <b>ἤγγικεν</b> WH Treg NIV ] + ἐφ᾽ ὑμᾶς RP</p>
-<p><verse-number id="Lk 10:13">13</verse-number> <b>ἐγενήθησαν</b> WH Treg NIV ] ἐγένοντο RP • <b>καθήμενοι</b> WH Treg NIV ] καθήμεναι RP</p>
-<p><verse-number id="Lk 10:15">15</verse-number> <b>μὴ ἕως οὐρανοῦ ὑψωθήσῃ</b> WH Treg NIV ] ἡ ἕως τοῦ οὐρανοῦ ὑψωθεῖσα RP • <b>τοῦ</b> WH Treg NIV ] – RP • <b>καταβιβασθήσῃ</b> Treg RP ] καταβήσῃ WH NIV</p>
-<p><verse-number id="Lk 10:17">17</verse-number> <b>δύο</b> WH NIV ] – Treg RP</p>
-<p><verse-number id="Lk 10:19">19</verse-number> <b>δέδωκα</b> WH Treg NIV ] δίδωμι RP • <b>ἀδικήσῃ</b> NIV RP ] ἀδικήσει WH Treg</p>
-<p><verse-number id="Lk 10:20">20</verse-number> <b>ἐγγέγραπται</b> WH Treg NIV ] ἐγράφη RP</p>
-<p><verse-number id="Lk 10:21">21</verse-number> <b>τῷ</b> WH Treg RP ] ἐν τῷ NIV • <b>τῷ ἁγίῳ</b> WH Treg NIV ] ὁ Ἰησοῦς RP • <b>εὐδοκία ἐγένετο</b> WH Treg NIV ] ἐγένετο εὐδοκία RP</p>
-<p><verse-number id="Lk 10:22">22</verse-number> <b>πάντα</b> WH Treg NIV ] Καὶ στραφείς πρός τούς μαθητάς εἶπεν πάντα RP • <b>ἐὰν</b> NIV RP ] ἂν WH Treg</p>
-<p><verse-number id="Lk 10:25">25</verse-number> <b>αὐτὸν</b> WH NIV ] + καὶ Treg RP</p>
-<p><verse-number id="Lk 10:27">27</verse-number> <b>τῆς</b> Treg NIV RP ] – WH • <b>ἐν ὅλῃ τῇ ψυχῇ</b> WH Treg NIV ] ἐξ ὅλης τῆς ψυχῆς RP • <b>ἐν ὅλῃ τῇ ἰσχύϊ</b> WH Treg NIV ] ἐξ ὅλης τῆς ἰσχύος RP • <b>ἐν ὅλῃ τῇ διανοίᾳ</b> WH Treg NIV ] ἐξ ὅλης τῆς διανοίας RP</p>
-<p><verse-number id="Lk 10:29">29</verse-number> <b>δικαιῶσαι</b> WH Treg NIV ] δικαιοῦν RP</p>
-<p><verse-number id="Lk 10:30">30</verse-number> <b>δὲ</b> RP ] – WH Treg NIV • <b>ἡμιθανῆ</b> WH Treg NIV ] + τυγχάνοντα RP</p>
-<p><verse-number id="Lk 10:32">32</verse-number> <b>Λευίτης</b> WH Treg ] + γενόμενος NIV RP</p>
-<p><verse-number id="Lk 10:33">33</verse-number> <b>ἰδὼν</b> WH NIV ] + αὐτὸν Treg RP</p>
-<p><verse-number id="Lk 10:35">35</verse-number> <b>αὔριον</b> WH Treg NIV ] + ἐξελθών RP • <b>δύο δηνάρια ἔδωκεν</b> WH Treg RP ] ἔδωκεν δύο δηνάρια NIV • <b>εἶπεν</b> WH Treg NIV ] + αὐτῷ RP</p>
-<p><verse-number id="Lk 10:36">36</verse-number> <b>τίς</b> WH NIV ] + οὖν Treg RP</p>
-<p><verse-number id="Lk 10:37">37</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP</p>
-<p><verse-number id="Lk 10:38">38</verse-number> <b>Ἐν δὲ</b> WH Treg NIV ] Ἐγένετο δὲ ἐν RP • <b>αὐτοὺς</b> WH NIV ] + καὶ Treg RP • <b>αὐτὸν</b> NIV ] αὐτὸν εἰς τὴν οἰκίαν WH; αὐτὸν εἰς τὸν οἶκον αὐτῆς Treg RP</p>
-<p><verse-number id="Lk 10:39">39</verse-number> <b>Μαριάμ</b> WH NIV ] Μαρία Treg RP • <b>παρακαθεσθεῖσα πρὸς</b> WH Treg NIV ] παρακαθίσασα παρὰ RP • <b>Ἰησοῦ</b> RP ] κυρίου WH Treg NIV</p>
-<p><verse-number id="Lk 10:40">40</verse-number> <b>κατέλειπεν</b> WH Treg RP ] κατέλιπεν NIV • <b>εἰπὲ</b> Treg NIV RP ] εἰπὸν WH</p>
-<p><verse-number id="Lk 10:41">41</verse-number> <b>κύριος</b> WH NIV ] Ἰησοῦς Treg RP • <b>θορυβάζῃ</b> WH Treg NIV ] τυρβάζῃ RP</p>
-<p><verse-number id="Lk 10:42">42</verse-number> <b>ὀλίγων δέ ἐστιν χρεία ἢ ἑνός</b> WH ] ἑνὸς δέ ἐστιν χρεία Treg RP NIV • <b>Μαριὰμ γὰρ</b> WH NIV ] Μαρία δὲ Treg RP • <b>αὐτῆς</b> WH NIV ] ἀπ᾽ αὐτῆς Treg RP</p>
+<verse>Luke 1:37</verse>
+<note>37 τοῦ θεοῦ WH Treg NA28 ] τῷ θεῷ RP</note>
 
-<p><verse-number id="Lk 11:2">11:2</verse-number> <b>Πάτερ</b> WH Treg NIV ] + ἡμῶν ὁ ἐν τοῖς οὐρανοις RP • <b>σου</b> WH Treg NIV ] + Γενηθήτω τὸ θέλημά σου ὡς ἐν οὐρανῳ καὶ ἐπὶ τῆς γῆς RP</p>
-<p><verse-number id="Lk 11:4">4</verse-number> <b>πειρασμόν</b> WH Treg NIV ] + ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ RP</p>
-<p><verse-number id="Lk 11:6">6</verse-number> <b>μου</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 11:8">8</verse-number> <b>φίλον αὐτοῦ</b> WH Treg NIV ] αὐτοῦ φίλον RP • <b>ὅσων</b> WH Treg NIV ] ὅσον RP</p>
-<p><verse-number id="Lk 11:11">11</verse-number> <b>ἐξ</b> WH Treg NIV ] – RP • <b>υἱὸς</b> WH NIV ] + ἄρτον μὴ λίθον ἐπιδώσει αὐτῷ ἢ καὶ Treg RP • <b>καὶ</b> NIV ] μὴ WH Treg RP • <b>αὐτῷ ἐπιδώσει</b> WH Treg NIV ] ἐπιδώσει αὐτῷ RP</p>
-<p><verse-number id="Lk 11:12">12</verse-number> <b>αἰτήσει</b> WH Treg NIV ] ἐὰν αἰτήσῃ RP • <b>ἐπιδώσει</b> WH NIV ] μὴ ἐπιδώσει Treg RP</p>
-<p><verse-number id="Lk 11:14">14</verse-number> <b>δαιμόνιον</b> WH ] + καὶ αὐτὸ ἦν Treg NIV RP</p>
-<p><verse-number id="Lk 11:15">15</verse-number> <b>τῷ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 11:16">16</verse-number> <b>ἐξ οὐρανοῦ ἐζήτουν παρ᾽ αὐτοῦ</b> WH Treg NIV ] παρ᾽ αὐτοῦ ἐζήτουν ἐξ οὐρανοῦ RP</p>
-<p><verse-number id="Lk 11:19">19</verse-number> <b>αὐτοὶ ὑμῶν κριταὶ</b> WH NIV ] αὐτοὶ κριταὶ ὑμῶν Treg; κριταὶ ὑμῶν αὐτοὶ RP</p>
-<p><verse-number id="Lk 11:20">20</verse-number> <b>θεοῦ</b> RP ] + ἐγὼ WH Treg NIV</p>
-<p><verse-number id="Lk 11:22">22</verse-number> <b>δὲ</b> WH Treg NIV ] + ὁ RP • <b>αὐτοῦ</b> WH Treg RP NA ] – NIV</p>
-<p><verse-number id="Lk 11:24">24</verse-number> <b>εὑρίσκον</b> Treg RP ] + τότε WH NIV</p>
-<p><verse-number id="Lk 11:25">25</verse-number> <b>εὑρίσκει</b> Treg NIV RP ] + σχολάζοντα WH</p>
-<p><verse-number id="Lk 11:26">26</verse-number> <b>ἕτερα … ἑαυτοῦ ἑπτά</b> WH Treg NIV ] ἑπτά ἕτερα … ἑαυτοῦ RP • <b>εἰσελθόντα</b> WH Treg NIV ] ἐλθόντα RP</p>
-<p><verse-number id="Lk 11:27">27</verse-number> <b>φωνὴν γυνὴ</b> WH NIV ] γυνὴ φωνὴν Treg RP</p>
-<p><verse-number id="Lk 11:28">28</verse-number> <b>Μενοῦν</b> WH Treg NIV ] Μενοῦνγε RP • <b>φυλάσσοντες</b> WH Treg NIV ] + αὐτόν RP</p>
-<p><verse-number id="Lk 11:29">29</verse-number> <b>γενεὰ</b> WH Treg NIV ] – RP • <b>ζητεῖ</b> WH Treg NIV ] ἐπιζητεῖ RP • <b>Ἰωνᾶ</b> WH Treg NIV ] + τοῦ προφήτου RP</p>
-<p><verse-number id="Lk 11:30">30</verse-number> <b>Ἰωνᾶς</b> Treg NIV RP ] ὁ Ἰωνᾶς WH • <b>τοῖς Νινευίταις σημεῖον</b> WH Treg NIV ] σημεῖον τοῖς Νινευίταις RP</p>
-<p><verse-number id="Lk 11:32">32</verse-number> <b>Νινευῖται</b> WH Treg NIV ] Νινευῒ RP</p>
-<p><verse-number id="Lk 11:33">33</verse-number> <b>Οὐδεὶς</b> WH Treg NIV ] + δὲ RP • <b>φέγγος</b> RP ] φῶς WH Treg NIV</p>
-<p><verse-number id="Lk 11:34">34</verse-number> <b>σου</b> WH Treg NIV ] – RP • <b>ὅταν</b> WH Treg NIV ] + οὖν RP</p>
-<p><verse-number id="Lk 11:36">36</verse-number> <b>μέρος τι</b> WH Treg NIV ] τι μέρος RP</p>
-<p><verse-number id="Lk 11:37">37</verse-number> <b>ἐρωτᾷ</b> WH Treg NIV ] ἠρωτᾷ RP • <b>Φαρισαῖος</b> WH Treg NIV ] + τις RP</p>
-<p><verse-number id="Lk 11:42">42</verse-number> <b>δὲ</b> WH Treg NIV ] – RP • <b>παρεῖναι</b> WH Treg NIV ] ἀφιέναι RP</p>
-<p><verse-number id="Lk 11:44">44</verse-number> <b>ὑμῖν</b> WH Treg NIV ] + γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί RP • <b>οἱ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 11:48">48</verse-number> <b>μάρτυρές ἐστε</b> WH  Treg NIV ] μάρτυρεῖτε RP • <b>οἰκοδομεῖτε</b> WH Treg NIV ] + αὐτῶν τὰ μνημεῖα RP</p>
-<p><verse-number id="Lk 11:49">49</verse-number> <b>διώξουσιν</b> WH NIV ] ἐκδιώξουσιν Treg RP</p>
-<p><verse-number id="Lk 11:51">51</verse-number> <b>ἀπὸ</b> WH Treg NA ] + τοῦ NIV RP • <b>ἕως</b> WH Treg NA ] + τοῦ NIV RP</p>
-<p><verse-number id="Lk 11:53">53</verse-number> <b>Κἀκεῖθεν ἐξελθόντος αὐτοῦ</b> WH Treg NIV ] Λέγοντος δὲ αὐτοῦ ταῦτα πρὸς αὐτούς RP</p>
-<p><verse-number id="Lk 11:54">54</verse-number> <b>αὐτὸν</b> WH NIV ] + ζητοῦντες Treg RP • <b>αὐτοῦ</b> WH NIV ] + ἵνα κατηγορήσωσιν αὐτοῦ Treg RP</p>
+<verse>Luke 1:41</verse>
+<note>41 τὸν … Μαρίας ἡ Ἐλισάβετ WH Treg NA28 ] ἡ Ἐλισάβετ τὸν … Μαρίας RP</note>
 
-<p><verse-number id="Lk 12:1">12:1</verse-number> <b>ἥτις ἐστὶν ὑπόκρισις τῶν Φαρισαίων</b> WH NIV ] τῶν Φαρισαίων ἥτις ἐστὶν ὑπόκρισις Treg RP</p>
-<p><verse-number id="Lk 12:5">5</verse-number> <b>ἔχοντα ἐξουσίαν</b> WH Treg NIV ] ἐξουσίαν ἔχοντα RP</p>
-<p><verse-number id="Lk 12:6">6</verse-number> <b>πωλοῦνται</b> WH Treg NIV ] πωλεῖται RP</p>
-<p><verse-number id="Lk 12:7">7</verse-number> <b>μὴ</b> WH Treg NIV ] + οὖν RP</p>
-<p><verse-number id="Lk 12:8">8</verse-number> <b>ὁμολογήσῃ</b> Treg NIV RP ] ὁμολογήσει WH</p>
-<p><verse-number id="Lk 12:11">11</verse-number> <b>εἰσφέρωσιν</b> WH Treg NIV ] προσφέρωσιν RP • <b>μεριμνήσητε</b> WH Treg NIV ] μεριμνᾶτε RP • <b>ἢ τί</b> WH Treg RP NA ] – NIV</p>
-<p><verse-number id="Lk 12:13">13</verse-number> <b>ἐκ τοῦ ὄχλου αὐτῷ</b> WH NIV ] αὐτῷ ἐκ τοῦ ὄχλου Treg RP</p>
-<p><verse-number id="Lk 12:14">14</verse-number> <b>κριτὴν</b> WH Treg NIV ] δικαστὴν RP</p>
-<p><verse-number id="Lk 12:15">15</verse-number> <b>πάσης</b> WH Treg NIV ] τῆς RP • <b>αὐτοῦ</b> WH Treg NIV ] αὐτῷ RP • <b>αὐτῷ</b> WH Treg NIV ] αὐτοῦ RP</p>
-<p><verse-number id="Lk 12:17">17</verse-number> <b>ἑαυτῷ</b> Treg NIV RP ] αὑτῷ WH</p>
-<p><verse-number id="Lk 12:18">18</verse-number> <b>τὸν σῖτον</b> WH Treg NIV ] τὰ γενήματά μου RP</p>
-<p><verse-number id="Lk 12:20">20</verse-number> <b>Ἄφρων</b> WH Treg NIV ] Ἄφρον RP • <b>ἀπαιτοῦσιν</b> NIV RP ] αἰτοῦσιν WH Treg</p>
-<p><verse-number id="Lk 12:21">21</verse-number> <b>ἑαυτῷ</b> Treg NIV RP ] αὑτῷ WH</p>
-<p><verse-number id="Lk 12:22">22</verse-number> <b>λέγω ὑμῖν</b> WH Treg NIV ] ὑμῖν λέγω RP • <b>ψυχῇ</b> WH Treg NIV ] + ὑμῶν RP • <b>σώματι</b> Treg NIV RP ] + ὑμῶν WH</p>
-<p><verse-number id="Lk 12:23">23</verse-number> <b>γὰρ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 12:25">25</verse-number> <b>ἐπὶ … αὐτοῦ προσθεῖναι</b> WH NIV ] προσθεῖναι ἐπὶ … αὐτοῦ Treg RP • <b>πῆχυν</b> WH NA ] + ἕνα Treg NIV RP</p>
-<p><verse-number id="Lk 12:26">26</verse-number> <b>οὐδὲ</b> WH Treg NIV ] οὐτὲ RP</p>
-<p><verse-number id="Lk 12:28">28</verse-number> <b>ἐν ἀγρῷ τὸν χόρτον ὄντα σήμερον</b> WH NIV ] τὸν χόρτον σήμερον ἐν τῷ ἀγρῷ ὄντα Treg; τὸν χόρτον ἐν τῷ ἀγρῷ σήμερον ὄντα RP • <b>ἀμφιέζει</b> WH Treg NIV ] ἀμφιέννυσιν RP</p>
-<p><verse-number id="Lk 12:29">29</verse-number> <b>καὶ</b> WH Treg NIV ] ἢ RP</p>
-<p><verse-number id="Lk 12:30">30</verse-number> <b>ἐπιζητοῦσιν</b> WH Treg NIV ] ἐπιζητεῖ RP</p>
-<p><verse-number id="Lk 12:31">31</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] τοῦ θεοῦ RP • <b>ταῦτα</b> WH Treg NIV ] + πάντα RP</p>
-<p><verse-number id="Lk 12:38">38</verse-number> <b>κἂν ἐν τῇ δευτέρᾳ κἂν</b> WH Treg NIV ] Καὶ ἐὰν ἔλθῃ ἐν τῇ δευτέρᾳ φυλακῇ καὶ RP • <b>εἰσιν</b> WH NIV ] + οἱ δοῦλοι Treg RP</p>
-<p><verse-number id="Lk 12:39">39</verse-number> <b>οὐκ ἂν</b> NIV ] ἐγρηγόρησεν ἂν καὶ οὐκ WH Treg; ἐγρηγόρησεν ἂν καὶ οὐκ ἂν RP • <b>διορυχθῆναι</b> WH NIV ] διορυγῆναι Treg RP</p>
-<p><verse-number id="Lk 12:40">40</verse-number> <b>ὑμεῖς</b> WH Treg NIV ] + οὖν RP</p>
-<p><verse-number id="Lk 12:41">41</verse-number> <b>δὲ</b> WH Treg NIV ] + αὐτῷ RP</p>
-<p><verse-number id="Lk 12:42">42</verse-number> <b>καὶ εἶπεν</b> WH Treg NIV ] Εἶπεν δὲ RP • <b>ὁ</b> WH Treg NIV ] καὶ RP • <b>τὸ</b> WH NIV RP ] – Treg</p>
-<p><verse-number id="Lk 12:47">47</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] ἑαυτοῦ RP • <b>ἢ</b> WH NIV ] μηδὲ Treg RP</p>
-<p><verse-number id="Lk 12:49">49</verse-number> <b>ἐπὶ</b> WH Treg NIV ] εἰς RP</p>
-<p><verse-number id="Lk 12:50">50</verse-number> <b>ὅτου</b> WH Treg NIV ] οὗ RP</p>
-<p><verse-number id="Lk 12:52">52</verse-number> <b>ἑνὶ οἴκῳ</b> WH Treg NIV ] οἴκῳ ἑνὶ RP</p>
-<p><verse-number id="Lk 12:53">53</verse-number> <b>διαμερισθήσονται</b> WH Treg NIV ] Διαμερισθήσεται RP • <b>ἐπὶ</b> WH Treg RP ] + τὴν NIV • <b>θυγατέρα</b> WH Treg NIV ] θυγατρί RP • <b>τὴν μητέρα</b> WH Treg NIV ] μητρί RP • <b>πενθεράν</b> WH Treg NIV ] + αὐτῆς RP</p>
-<p><verse-number id="Lk 12:54">54</verse-number> <b>ἴδητε</b> WH Treg ] + τὴν NIV RP • <b>ἐπὶ</b> WH NIV ] ἀπὸ Treg RP • <b>ὅτι</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 12:56">56</verse-number> <b>δὲ καιρὸν</b> Treg RP ] καιρὸν δὲ WH NIV • <b>οὐκ οἴδατε δοκιμάζειν</b> WH Treg NIV ] οὐ δοκιμάζετε RP</p>
-<p><verse-number id="Lk 12:58">58</verse-number> <b>παραδώσει</b> WH Treg NIV ] παραδῷ RP • <b>βαλεῖ</b> WH Treg NIV ] βάλῃ RP</p>
-<p><verse-number id="Lk 12:59">59</verse-number> <b>καὶ τὸ</b> WH Treg NIV ] οὗ καὶ τὸν RP</p>
+<verse>Luke 1:42</verse>
+<note>42 κραυγῇ WH Treg NA28 ] φωνῇ RP</note>
 
-<p><verse-number id="Lk 13:2">13:2</verse-number> <b>ἀποκριθεὶς</b> WH Treg NIV ] + ὁ Ἰησοῦς RP • <b>ταῦτα</b> WH Treg NIV ] τοιαῦτα RP</p>
-<p><verse-number id="Lk 13:3">3</verse-number> <b>ὁμοίως</b> WH Treg NIV ] ὡσαύτως RP</p>
-<p><verse-number id="Lk 13:4">4</verse-number> <b>δεκαοκτὼ</b> WH NIV ] δέκα καὶ ὀκτὼ RP Treg • <b>αὐτοὶ</b> WH Treg NIV ] οὗτοι RP • <b>τοὺς</b> WH Treg NIV ] – RP • <b>κατοικοῦντας</b> WH Treg NIV ] + ἐν RP</p>
-<p><verse-number id="Lk 13:5">5</verse-number> <b>μετανοῆτε</b> NIV RP ] μετανοήσητε WH Treg • <b>ὡσαύτως</b> WH Treg NIV ] ὁμοίως RP</p>
-<p><verse-number id="Lk 13:6">6</verse-number> <b>πεφυτευμένην ἐν … αὐτοῦ</b> WH Treg NIV ] ἐν … αὐτοῦ πεφυτευμένην RP</p>
-<p><verse-number id="Lk 13:7">7</verse-number> <b>ἀφ᾽ οὗ</b> WH Treg NIV ] – RP • <b>ἔκκοψον</b> WH Treg NIV RP ] + οὖν NA</p>
-<p><verse-number id="Lk 13:9">9</verse-number> <b>εἰς τὸ μέλλον — εἰ δὲ μήγε,</b> WH Treg NIV ] εἰ δὲ μήγε, εἰς τὸ μέλλον RP</p>
-<p><verse-number id="Lk 13:11">11</verse-number> <b>γυνὴ</b> WH Treg NIV ] + ἦν RP • <b>δεκαοκτώ</b> WH NIV ] δέκα καὶ ὀκτὼ RP Treg</p>
-<p><verse-number id="Lk 13:14">14</verse-number> <b>ὅτι</b> WH NIV ] – Treg RP • <b>αὐταῖς</b> WH Treg NIV ] ταύταις RP</p>
-<p><verse-number id="Lk 13:15">15</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP • <b>ἀπαγαγὼν</b> Treg NIV RP ] ἀπάγων WH</p>
-<p><verse-number id="Lk 13:18">18</verse-number> <b>οὖν</b> WH Treg NIV ] δέ RP</p>
-<p><verse-number id="Lk 13:19">19</verse-number> <b>δένδρον</b> WH NIV ] + μέγα Treg RP</p>
-<p><verse-number id="Lk 13:20">20</verse-number> <b>Καὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 13:21">21</verse-number> <b>ἔκρυψεν</b> WH Treg ] ἐνέκρυψεν NIV RP</p>
-<p><verse-number id="Lk 13:22">22</verse-number> <b>Ἱεροσόλυμα</b> WH NIV ] Ἱερουσαλήμ Treg RP</p>
-<p><verse-number id="Lk 13:24">24</verse-number> <b>θύρας</b> WH Treg NIV ] πύλης RP</p>
-<p><verse-number id="Lk 13:25">25</verse-number> <b>Κύριε</b> WH Treg NIV ] + κύριε RP</p>
-<p><verse-number id="Lk 13:27">27</verse-number> <b>λέγων</b> WH NIV ] Λέγω Treg RP • <b>οἶδα</b> WH Treg ] + ὑμᾶς NIV RP • <b>ἐργάται</b> WH Treg NIV ] οἱ ἐργάται τῆς RP</p>
-<p><verse-number id="Lk 13:28">28</verse-number> <b>ὄψησθε</b> WH NIV RP ] ὄψεσθε Treg</p>
-<p><verse-number id="Lk 13:29">29</verse-number> <b>ἀπὸ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 13:31">31</verse-number> <b>ὥρᾳ</b> WH NIV ] ἡμέρᾳ Treg RP</p>
-<p><verse-number id="Lk 13:32">32</verse-number> <b>ἀποτελῶ</b> WH Treg NIV ] ἐπιτελῶ RP</p>
-<p><verse-number id="Lk 13:35">35</verse-number> <b>ὑμῶν</b> WH Treg NA ] + ἔρημος NIV RP • <b>δὲ</b> WH Treg RP NA ] – NIV • <b>ὑμῖν</b> WH Treg NIV ] + ὅτι RP • <b>ἴδητέ με</b> WH Treg NIV ] με ἴδητε RP • <b>ἥξει ὅτε</b> Treg NA ] – WH NIV; ἄν ἥξει ὅτε RP</p>
+<verse>Luke 1:43</verse>
+<note>43 ἐμέ WH NA28 ] μέ Treg RP</note>
 
-<p><verse-number id="Lk 14:3">14:3</verse-number> <b>Ἔξεστιν</b> WH Treg NIV ] Εἰ ἔξεστιν RP • <b>θεραπεῦσαι ἢ οὔ</b> WH Treg NIV ] θεραπεύειν RP</p>
-<p><verse-number id="Lk 14:5">5</verse-number> <b>καὶ</b> WH Treg NIV ] + ἀποκριθεὶς RP • <b>πεσεῖται</b> WH Treg NIV ] ἐμπεσεῖται RP • <b>ἐν</b> WH NIV ] ἐν τῇ RP; τῇ Treg</p>
-<p><verse-number id="Lk 14:6">6</verse-number> <b>ἀνταποκριθῆναι</b> WH Treg NIV ] + αὐτῷ RP</p>
-<p><verse-number id="Lk 14:10">10</verse-number> <b>ἐρεῖ</b> WH Treg NIV ] εἴπῃ RP • <b>πάντων</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 14:12">12</verse-number> <b>ἀντικαλέσωσίν σε</b> WH Treg NIV ] σε ἀντικαλέσωσιν RP • <b>ἀνταπόδομά σοι</b> WH Treg NIV ] σοι ἀνταπόδομα RP</p>
-<p><verse-number id="Lk 14:13">13</verse-number> <b>δοχὴν ποιῇς</b> WH NIV ] ποιῇς δοχήν Treg RP</p>
-<p><verse-number id="Lk 14:15">15</verse-number> <b>ὅστις</b> WH Treg NIV ] ὃς RP • <b>ἄρτον</b> WH Treg NA ] ἄριστον NIV RP</p>
-<p><verse-number id="Lk 14:16">16</verse-number> <b>ἐποίει</b> WH Treg NIV ] ἐποίησεν RP</p>
-<p><verse-number id="Lk 14:17">17</verse-number> <b>ἐστιν</b> WH NIV ] + πάντα Treg RP</p>
-<p><verse-number id="Lk 14:18">18</verse-number> <b>πάντες παραιτεῖσθαι</b> WH Treg NIV ] παραιτεῖσθαι πάντες RP • <b>ἐξελθὼν</b> WH Treg NIV ] ἐξελθεῖν καὶ RP</p>
-<p><verse-number id="Lk 14:21">21</verse-number> <b>δοῦλος</b> WH Treg NIV ] + ἐκεῖνος RP • <b>τυφλοὺς καὶ χωλοὺς</b> WH Treg NIV ] χωλοὺς καὶ τυφλοὺς RP</p>
-<p><verse-number id="Lk 14:22">22</verse-number> <b>ὃ</b> WH Treg NIV ] ὡς RP</p>
-<p><verse-number id="Lk 14:23">23</verse-number> <b>μου ὁ οἶκος</b> WH Treg NIV ] ὁ οἶκος μου RP</p>
-<p><verse-number id="Lk 14:24">24</verse-number> <b>δείπνου</b> WH Treg NIV ] + Πολλοί γὰρ εἰσιν κλητοί ὀλίγοι δέ ἐκλεκτοί RP</p>
-<p><verse-number id="Lk 14:26">26</verse-number> <b>ἑαυτοῦ</b> WH NIV ] αὐτοῦ Treg RP • <b>τε</b> WH Treg NIV ] δέ RP • <b>ψυχὴν ἑαυτοῦ</b> WH NIV ] ἑαυτοῦ ψυχήν Treg RP • <b>εἶναί μου μαθητής</b> WH Treg NIV ] μου μαθητὴς εἶναι RP</p>
-<p><verse-number id="Lk 14:27">27</verse-number> <b>ὅστις</b> WH NA ] καὶ ὅστις Treg NIV RP • <b>ἑαυτοῦ</b> WH NIV ] αὐτοῦ Treg; αὑτοῦ RP</p>
-<p><verse-number id="Lk 14:28">28</verse-number> <b>ὑμῶν</b> WH Treg NIV ] + ὁ RP • <b>ἔχει</b> WH Treg NIV ] + τὰ RP</p>
-<p><verse-number id="Lk 14:29">29</verse-number> <b>αὐτῷ ἐμπαίζειν</b> WH Treg NIV ] ἐμπαίζειν αὐτῷ RP</p>
-<p><verse-number id="Lk 14:31">31</verse-number> <b>ἑτέρῳ βασιλεῖ συμβαλεῖν</b> WH Treg NIV ] συμβαλεῖν ἑτέρῳ βασιλεῖ RP • <b>βουλεύσεται</b> WH NIV ] βουλεύεται Treg RP • <b>ὑπαντῆσαι</b> WH Treg NIV ] ἀπαντῆσαι RP</p>
-<p><verse-number id="Lk 14:32">32</verse-number> <b>αὐτοῦ πόρρω</b> WH Treg NIV ] πόρρω αὐτοῦ RP • <b>τὰ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 14:33">33</verse-number> <b>εἶναί μου</b> WH Treg NIV ] μου εἶναι RP</p>
-<p><verse-number id="Lk 14:34">34</verse-number> <b>οὖν</b> WH Treg NIV ] – RP • <b>καὶ</b> WH Treg NIV ] – RP</p>
+<verse>Luke 1:44</verse>
+<note>44 ἐν ἀγαλλιάσει τὸ βρέφος WH Treg NA28 ] τὸ βρέφος ἐν ἀγαλλιάσει RP</note>
 
-<p><verse-number id="Lk 15:1">15:1</verse-number> <b>αὐτῷ ἐγγίζοντες</b> WH Treg NIV ] ἐγγίζοντες αὐτῷ RP</p>
-<p><verse-number id="Lk 15:2">2</verse-number> <b>τε</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 15:4">4</verse-number> <b>ἀπολέσας</b> WH NIV RP ] ἀπολέσῃ Treg • <b>ἐξ αὐτῶν ἓν</b> WH Treg NIV ] ἓν ἐξ αὐτῶν RP</p>
-<p><verse-number id="Lk 15:5">5</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] ἑαυτοῦ RP</p>
-<p><verse-number id="Lk 15:7">7</verse-number> <b>ἐν τῷ οὐρανῷ ἔσται</b> WH NIV ] ἔσται ἐν τῷ οὐρανῷ Treg RP</p>
-<p><verse-number id="Lk 15:8">8</verse-number> <b>οὗ</b> WH Treg NIV ] ὅτου RP</p>
-<p><verse-number id="Lk 15:9">9</verse-number> <b>συγκαλεῖ</b> WH NIV ] συγκαλεῖται Treg RP • <b>καὶ</b> WH Treg NIV ] + τὰς RP</p>
-<p><verse-number id="Lk 15:10">10</verse-number> <b>γίνεται χαρὰ</b> WH Treg NIV ] χαρὰ γίνεται RP</p>
-<p><verse-number id="Lk 15:12">12</verse-number> <b>ὁ δὲ</b> WH Treg NIV ] Καὶ RP</p>
-<p><verse-number id="Lk 15:13">13</verse-number> <b>πάντα</b> WH Treg NIV ] ἅπαντα RP</p>
-<p><verse-number id="Lk 15:14">14</verse-number> <b>ἰσχυρὰ</b> WH Treg NIV ] ἰσχυρὸς RP</p>
-<p><verse-number id="Lk 15:16">16</verse-number> <b>γεμίσαι τὴν κοιλίαν αὐτοῦ ἀπὸ</b> Treg NIV RP ] χορτασθῆναι ἐκ WH NA</p>
-<p><verse-number id="Lk 15:17">17</verse-number> <b>ἔφη</b> WH NIV ] εἶπεν Treg RP • <b>περισσεύονται</b> WH Treg NIV ] περισσεύουσιν RP • <b>λιμῷ ὧδε</b> WH NIV ] ὧδε λιμῷ Treg; λιμῷ RP</p>
-<p><verse-number id="Lk 15:19">19</verse-number> <b>οὐκέτι</b> WH Treg NIV ] καὶ οὐκέτι RP</p>
-<p><verse-number id="Lk 15:20">20</verse-number> <b>ἑαυτοῦ</b> WH NIV ] αὐτοῦ Treg RP</p>
-<p><verse-number id="Lk 15:21">21</verse-number> <b>ὁ υἱὸς αὐτῷ</b> WH NIV ] αὐτῷ ὁ υἱός Treg RP • <b>οὐκέτι</b> WH Treg NIV ] καὶ οὐκέτι RP • <b>σου</b> Treg NIV RP ] + ποίησόν με ὡς ἕνα τῶν μισθίων σου WH</p>
-<p><verse-number id="Lk 15:22">22</verse-number> <b>Ταχὺ</b> WH Treg NIV ] – RP • <b>ἐξενέγκατε</b> WH Treg NIV ] + τὴν RP</p>
-<p><verse-number id="Lk 15:23">23</verse-number> <b>φέρετε</b> WH Treg NIV ] ἐνέγκαντες RP</p>
-<p><verse-number id="Lk 15:24">24</verse-number> <b>ἦν ἀπολωλὼς</b> WH Treg NIV ] καὶ ἀπολωλὼς ἦν RP</p>
-<p><verse-number id="Lk 15:26">26</verse-number> <b>ἂν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 15:28">28</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP</p>
-<p><verse-number id="Lk 15:29">29</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 15:30">30</verse-number> <b>μετὰ</b> WH NIV RP ] +τῶν Treg • <b>σιτευτὸν μόσχον</b> WH Treg NIV ] μόσχον τὸν σιτευτόν RP</p>
-<p><verse-number id="Lk 15:32">32</verse-number> <b>ἔζησεν</b> WH Treg NA ] ἀνέζησεν NIV RP • <b>ἀπολωλὼς</b> WH Treg NIV ] + ἦν RP</p>
+<verse>Luke 1:49</verse>
+<note>49 μεγάλα WH Treg NA28 ] μεγαλεῖα RP</note>
 
-<p><verse-number id="Lk 16:1">16:1</verse-number> <b>μαθητάς</b> WH Treg NIV ] + αὐτοῦ RP</p>
-<p><verse-number id="Lk 16:2">2</verse-number> <b>δύνῃ</b> WH Treg NIV ] δύνήσῃ RP</p>
-<p><verse-number id="Lk 16:4">4</verse-number> <b>ἐκ</b> WH Treg NIV ] – RP • <b>ἑαυτῶν</b> WH Treg ] αὐτῶν NIV RP</p>
-<p><verse-number id="Lk 16:6">6</verse-number> <b>ὁ δὲ</b> WH Treg NIV ] Καὶ RP • <b>τὰ γράμματα</b> WH Treg NIV ] τὸ γράμμα RP</p>
-<p><verse-number id="Lk 16:7">7</verse-number> <b>λέγει</b> WH Treg NIV ] Καὶ λέγει RP • <b>τὰ γράμματα</b> WH Treg NIV ] τὸ γράμμα RP</p>
-<p><verse-number id="Lk 16:9">9</verse-number> <b>ἑαυτοῖς ποιήσατε</b> WH NIV ] Ποιήσατε ἑαυτοῖς Treg RP • <b>ἐκλίπῃ</b> WH Treg NIV ] ἐκλίπητε RP</p>
-<p><verse-number id="Lk 16:12">12</verse-number> <b>ὑμέτερον</b> Treg NIV RP ] ἡμέτερον WH • <b>δώσει ὑμῖν</b> WH Treg ] ὑμῖν δώσει NIV RP</p>
-<p><verse-number id="Lk 16:14">14</verse-number> <b>πάντα</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Lk 16:16">16</verse-number> <b>μέχρι</b> WH Treg NIV ] ἕως RP</p>
-<p><verse-number id="Lk 16:18">18</verse-number> <b>καὶ</b> WH Treg NIV ] + πᾶς RP</p>
-<p><verse-number id="Lk 16:20">20</verse-number> <b>τις</b> WH Treg NIV ] + ἦν RP • <b>Λάζαρος</b> WH Treg NIV ] + ὃς RP</p>
-<p><verse-number id="Lk 16:21">21</verse-number> <b>ἀπὸ</b> WH NIV ] + τῶν ψιχίων Treg RP • <b>ἐπέλειχον</b> WH Treg NIV ] ἀπέλειχον RP</p>
-<p><verse-number id="Lk 16:23">23</verse-number> <b>ὁρᾷ</b> WH Treg NIV ] + τὸν RP</p>
-<p><verse-number id="Lk 16:25">25</verse-number> <b>ἀπέλαβες</b> WH Treg NIV ] + σὺ RP</p>
-<p><verse-number id="Lk 16:26">26</verse-number> <b>ἐν</b> WH NIV ] ἐπὶ Treg RP • <b> μηδὲ</b> WH Treg NIV ] + οἱ RP</p>
-<p><verse-number id="Lk 16:27">27</verse-number> <b>σε οὖν</b> WH Treg NIV ] οὖν σε RP</p>
-<p><verse-number id="Lk 16:29">29</verse-number> <b>δὲ</b> WH NIV ] δὲ αὐτῷ Treg; αὐτῷ RP</p>
+<verse>Luke 1:50</verse>
+<note>50 καὶ γενεὰς WH Treg NA28 ] γενεῶν RP</note>
 
-<p><verse-number id="Lk 17:1">17:1</verse-number> <b>αὐτοῦ</b> WH Treg NIV ] – RP • <b>τὰ σκάνδαλα μὴ ἐλθεῖν</b> WH Treg NIV ] μὴ ἐλθεῖν τὰ σκάνδαλα RP • <b>πλὴν οὐαὶ</b> WH Treg NIV ] οὐαὶ δὲ RP</p>
-<p><verse-number id="Lk 17:2">2</verse-number> <b>λίθος μυλικὸς</b> WH Treg NIV ] μύλος ὀνικὸς RP • <b>τῶν μικρῶν τούτων ἕνα</b> WH Treg NIV ] ἕνα τῶν μικρῶν τούτων RP</p>
-<p><verse-number id="Lk 17:3">3</verse-number> <b>ἁμάρτῃ</b> WH Treg NIV ] δὲ ἁμάρτῃ εἰς σὲ RP</p>
-<p><verse-number id="Lk 17:4">4</verse-number> <b>ἁμαρτήσῃ</b> WH Treg NIV ] ἁμάρτῃ RP • <b>ἑπτάκις</b> WH Treg NIV ] + τῆς ἡμέρας RP • <b>πρὸς σὲ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 17:7">7</verse-number> <b>αὐτῷ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 17:9">9</verse-number> <b>ἔχει χάριν</b> WH Treg NIV ] χάριν ἔχει RP • <b>δούλῳ</b> WH Treg NIV ] + ἐκείνῳ RP • <b>διαταχθέντα</b> WH Treg NIV ] + οὐ δοκῶ RP</p>
-<p><verse-number id="Lk 17:10">10</verse-number> <b>ὃ ὠφείλομεν</b> WH Treg NIV ] ὅτι ὃ ὀφείλομεν RP</p>
-<p><verse-number id="Lk 17:11">11</verse-number> <b>πορεύεσθαι</b> WH NIV ] + αὐτὸν Treg RP • <b>μέσον</b> WH Treg NIV ] μέσου RP</p>
-<p><verse-number id="Lk 17:12">12</verse-number> <b>ἀπήντησαν</b> WH ] + αὐτῷ Treg NIV RP • <b>ἔστησαν</b> Treg NIV RP ] ἀνέστησαν WH</p>
-<p><verse-number id="Lk 17:17">17</verse-number> <b>Οὐχὶ</b> Treg NIV RP ] Οὐχ WH</p>
-<p><verse-number id="Lk 17:21">21</verse-number> <b>Ἐκεῖ</b> WH NIV ] Ἰδοὺ ἐκεῖ Treg RP</p>
-<p><verse-number id="Lk 17:23">23</verse-number> <b>ἐκεῖ· Ἰδοὺ ὧδε</b> Treg ] ἐκεῖ, ἤ· Ἰδοὺ ὧδε WH NIV; ὧδε, ἤ· Ἰδοὺ ἐκεῖ RP</p>
-<p><verse-number id="Lk 17:24">24</verse-number> <b>ἀστραπὴ</b> WH NIV ] + ἡ Treg RP • <b>ὑπὸ τὸν</b> WH Treg NIV ] ὑπ᾽ RP • <b>ἐν τῇ ἡμέρᾳ αὐτοῦ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 17:27">27</verse-number> <b>ἐγαμίζοντο</b> WH Treg NIV ] ἐξεγαμίζοντο RP • <b>πάντας</b> WH Treg NIV ] ἅπαντας RP</p>
-<p><verse-number id="Lk 17:28">28</verse-number> <b>καθὼς</b> WH Treg NIV ] καὶ ὡς RP</p>
-<p><verse-number id="Lk 17:29">29</verse-number> <b>πάντας</b> WH Treg NIV ] ἅπαντας RP</p>
-<p><verse-number id="Lk 17:30">30</verse-number> <b>τὰ αὐτὰ</b> WH Treg NIV ] ταῦτα RP</p>
-<p><verse-number id="Lk 17:31">31</verse-number> <b>ἐν</b> WH Treg NIV ] + τῷ RP</p>
-<p><verse-number id="Lk 17:33">33</verse-number> <b>περιποιήσασθαι</b> WH Treg NIV ] σῶσαι RP • <b>ὃς δ᾽ ἂν</b> WH Treg NIV ] καὶ ὃς ἐὰν RP • <b>ἀπολέσῃ</b> Treg NIV ] ἀπολέσῃ αὐτὴν RP; ἀπολέσει WH</p>
-<p><verse-number id="Lk 17:34">34</verse-number> <b>ὁ</b> WH NIV ] – Treg RP</p>
-<p><verse-number id="Lk 17:35">35</verse-number> <b>ἔσονται δύο</b> WH Treg NIV ] Δύο ἔσονται RP • <b>ἡ</b> WH Treg NIV ] – RP • <b>ἡ δὲ</b> WH Treg NIV ] καὶ ἡ RP • <b>ἀφεθήσεται</b> WH Treg NIV RP ] + 36 δύο ἐν ἀγρῷ· εἷς παραλημφθήσεται καὶ ὁ ἕτερος ἀφεθήσεται TR</p>
-<p><verse-number id="Lk 17:37">37</verse-number> <b>καὶ οἱ ἀετοὶ ἐπισυναχθήσονται</b> WH Treg NIV ] συναχθήσονται οἱ ἀετοὶ RP</p>
+<verse>Luke 1:56</verse>
+<note>56 ὡς WH Treg NA28 ] ὡσεὶ RP</note>
 
-<p><verse-number id="Lk 18:1">18:1</verse-number> <b>δὲ</b> WH NIV ] + καὶ Treg RP • <b>αὐτοὺς</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 18:4">4</verse-number> <b>ἤθελεν</b> WH Treg NIV ] ἠθέλησεν RP • <b>ταῦτα δὲ</b> WH Treg ] δὲ ταῦτα NIV RP • <b>οὐδὲ ἄνθρωπον</b> WH Treg NIV ] καὶ ἄνθρωπον οὐκ RP</p>
-<p><verse-number id="Lk 18:7">7</verse-number> <b>αὐτῷ</b> WH Treg NIV ] πρὸς αὐτὸν RP • <b>μακροθυμεῖ</b> WH Treg NIV ] μακροθυμῶν RP</p>
-<p><verse-number id="Lk 18:9">9</verse-number> <b>καὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 18:10">10</verse-number> <b>ὁ</b> NIV RP ] – WH Treg</p>
-<p><verse-number id="Lk 18:11">11</verse-number> <b>πρὸς ἑαυτὸν ταῦτα</b> NIV RP] ταῦτα πρὸς ἑαυτὸν WH Treg • <b>ὥσπερ</b> WH NIV RP ] ὡς Treg</p>
-<p><verse-number id="Lk 18:12">12</verse-number> <b>ἀποδεκατῶ</b> Treg NIV RP ] ἀποδεκατεύω WH</p>
-<p><verse-number id="Lk 18:13">13</verse-number> <b>ὁ δὲ</b> WH NIV ] καὶ ὁ Treg RP • <b>ἐπᾶραι εἰς τὸν οὐρανόν</b> WH Treg NIV ] εἰς τὸν οὐρανόν ἐπᾶραι RP • <b>ἔτυπτε</b> WH Treg NIV ] + εἰς RP • <b>αὐτοῦ</b> NIV RP ] ἑαυτοῦ WH Treg</p>
-<p><verse-number id="Lk 18:14">14</verse-number> <b>παρ᾽ ἐκεῖνον</b> WH Treg NIV ] ἢ γὰρ ἐκεῖνος RP</p>
-<p><verse-number id="Lk 18:15">15</verse-number> <b>ἐπετίμων</b> WH Treg NIV ] ἐπετίμησαν RP</p>
-<p><verse-number id="Lk 18:16">16</verse-number> <b>προσεκαλέσατο αὐτὰ λέγων</b> WH Treg NIV ] προσκαλεσάμενος αὐτὰ εἶπεν RP</p>
-<p><verse-number id="Lk 18:17">17</verse-number> <b>ἂν</b> WH Treg NIV ] ἐὰν RP</p>
-<p><verse-number id="Lk 18:20">20</verse-number> <b>μητέρα</b> WH Treg NIV ] + σου RP</p>
-<p><verse-number id="Lk 18:21">21</verse-number> <b>ἐφύλαξα</b> WH Treg NIV ] ἐφυλαξάμην RP • <b>μου</b> Treg RP ] – WH NIV</p>
-<p><verse-number id="Lk 18:22">22</verse-number> <b>δὲ</b> WH Treg NIV ] + ταῦτα RP • <b>οὐρανοῖς</b> Holmes WHmarg ] τοῖς οὐρανοῖς WH Treg NIV; οὐρανῷ RP</p>
-<p><verse-number id="Lk 18:23">23</verse-number> <b>ἐγενήθη</b> WH Treg NIV ] ἐγένετο RP</p>
-<p><verse-number id="Lk 18:24">24</verse-number> <b>Ἰησοῦς</b> WH NIV ] + περίλυπον γενόμενον Treg RP NA • <b>εἰς … θεοῦ εἰσπορεύονται</b> WH Treg NIV ] εἰσελεύσονται εἰς … θεοῦ RP</p>
-<p><verse-number id="Lk 18:25">25</verse-number> <b>τρήματος βελόνης</b> WH Treg NIV ] τρυμαλιᾶς ῥαφίδος RP</p>
-<p><verse-number id="Lk 18:27">27</verse-number> <b>παρὰ τῷ θεῷ ἐστιν</b> WH Treg NIV ] ἐστιν παρὰ τῷ θεῷ RP</p>
-<p><verse-number id="Lk 18:28">28</verse-number> <b>ὁ</b> WH Treg NIV ] – RP • <b>ἀφέντες τὰ ἴδια</b> WH Treg NIV ] ἀφήκαμεν πάντα καὶ RP</p>
-<p><verse-number id="Lk 18:29">29</verse-number> <b>γυναῖκα ἢ ἀδελφοὺς ἢ γονεῖς</b> WH NIV ] γονεῖς ἢ ἀδελφοὺς ἢ γυναῖκα Treg RP</p>
-<p><verse-number id="Lk 18:30">30</verse-number> <b>οὐχὶ</b> WH NIV ] οὐ Treg RP • <b>ἀπολάβῃ</b> Treg NIV RP ] λάβῃ WH</p>
-<p><verse-number id="Lk 18:31">31</verse-number> <b>Ἰερουσαλήμ</b> WH Treg NIV ] Ἱεροσόλυμα RP</p>
-<p><verse-number id="Lk 18:35">35</verse-number> <b>ἐπαιτῶν</b> WH Treg NIV ] προσαιτῶν RP</p>
-<p><verse-number id="Lk 18:36">36</verse-number> <b>τί</b> WH NIV RP ] + ἂν Treg</p>
-<p><verse-number id="Lk 18:39">39</verse-number> <b>σιγήσῃ</b> WH Treg NIV ] σιωπήσῃ RP</p>
-<p><verse-number id="Lk 18:40">40</verse-number> <b>ὁ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 18:41">41</verse-number> <b>Τί</b> WH NIV ] λέγων Τί Treg RP</p>
+<verse>Luke 1:59</verse>
+<note>59 ἡμέρᾳ τῇ ὀγδόῃ WH Treg NA28 ] ὀγδόῃ ἡμέρᾳ RP</note>
 
-<p><verse-number id="Lk 19:2">19:2</verse-number> <b>καλούμενος</b> WH Treg RP NA ] – NIV • <b>αὐτὸς</b> WH Treg NIV ] οὗτος ἦν RP</p>
-<p><verse-number id="Lk 19:4">4</verse-number> <b>εἰς τὸ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 19:5">5</verse-number> <b>Ἰησοῦς</b> WH Treg NIV ] + εἶδεν αὐτόν καὶ RP</p>
-<p><verse-number id="Lk 19:8">8</verse-number> <b>ἡμίσιά</b> WH Treg NIV ] ἡμίση RP • <b>μου τῶν ὑπαρχόντων</b> WH Treg NIV ] τῶν ὑπαρχόντων μου RP • <b>τοῖς πτωχοῖς δίδωμι</b> WH Treg NIV ] δίδωμι τοῖς πτωχοῖς RP</p>
-<p><verse-number id="Lk 19:11">11</verse-number> <b>εἶναι Ἰερουσαλὴμ αὐτὸν</b> WH Treg NIV ] αὐτὸν εἶναι Ἰερουσαλὴμ RP</p>
-<p><verse-number id="Lk 19:13">13</verse-number> <b>Πραγματεύσασθε</b> Treg NIV RP ] πραγματεύσασθαι WH • <b>ἐν ᾧ</b> WH Treg NIV ] ἕως RP</p>
-<p><verse-number id="Lk 19:15">15</verse-number> <b>δεδώκει</b> WH Treg NIV ] ἔδωκεν RP • <b>γνοῖ</b> WH Treg NIV ] γνῷ τίς RP • <b>διεπραγματεύσαντο</b> WH Treg NIV ] διεπραγματεύσατο RP</p>
-<p><verse-number id="Lk 19:16">16</verse-number> <b>δέκα προσηργάσατο</b> WH Treg NIV ] προσηργάσατο δέκα RP</p>
-<p><verse-number id="Lk 19:17">17</verse-number> <b>Εὖγε</b> WH Treg NIV ] Εὖ RP</p>
-<p><verse-number id="Lk 19:18">18</verse-number> <b>Ἡ μνᾶ σου κύριε</b> WH Treg NIV ] Κύριε ἡ μνᾶ σου RP</p>
-<p><verse-number id="Lk 19:19">19</verse-number> <b>ἐπάνω γίνου</b> WH NIV ] γίνου ἐπάνω Treg RP</p>
-<p><verse-number id="Lk 19:20">20</verse-number> <b>ὁ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 19:22">22</verse-number> <b>λέγει</b> WH Treg NIV ] + δὲ RP</p>
-<p><verse-number id="Lk 19:23">23</verse-number> <b>μου τὸ ἀργύριον</b> WH Treg NIV ] τὸ ἀργύριόν μου RP • <b>αὐτὸ ἔπραξα</b> WH Treg NIV ] ἔπραξα αὐτό RP</p>
-<p><verse-number id="Lk 19:26">26</verse-number> <b>λέγω</b> WH NIV ] + γὰρ Treg RP • <b> ἀρθήσεται</b> WH NIV ] + ἀπ᾽ αὐτοῦ Treg RP</p>
-<p><verse-number id="Lk 19:27">27</verse-number> <b>τούτους</b> WH Treg NIV ] ἐκείνους RP • <b>αὐτοὺς</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 19:29">29</verse-number> <b>μαθητῶν</b> WH NIV ] + αὐτοῦ Treg RP</p>
-<p><verse-number id="Lk 19:30">30</verse-number> <b>λέγων</b> WH Treg NIV ] εἰπών RP • <b>καὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 19:31">31</verse-number> <b>ἐρεῖτε</b> WH Treg NIV ] + αὐτῷ RP</p>
-<p><verse-number id="Lk 19:34">34</verse-number> <b>ὅτι</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 19:35">35</verse-number> <b>αὐτῶν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 19:36">36</verse-number> <b>ἑαυτῶν</b> WH Treg ] αὐτῶν NIV RP</p>
-<p><verse-number id="Lk 19:37">37</verse-number> <b>πασῶν</b> WH NIV RP ] πάντων Treg</p>
-<p><verse-number id="Lk 19:38">38</verse-number> <b>βασιλεὺς</b> WH NIV ] ὁ βασιλεὺς Treg RP • <b>ἐν οὐρανῷ εἰρήνη</b> WH Treg NIV ] εἰρήνη ἐν οὐρανῷ RP</p>
-<p><verse-number id="Lk 19:40">40</verse-number> <b>εἶπεν</b> WH NIV ] + αὐτοῖς Treg RP • <b>ὅτι</b> Treg RP ] – WH NIV • <b>σιωπήσουσιν</b> WH Treg NIV ] σιωπήσωσιν RP • <b>κράξουσιν</b> WH Treg NIV ] κεκράξονται RP</p>
-<p><verse-number id="Lk 19:41">41</verse-number> <b>αὐτήν</b> WH Treg NIV ] αὐτῇ RP</p>
-<p><verse-number id="Lk 19:42">42</verse-number> <b>ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ</b> WH NIV ] καὶ σὺ ἐν τῇ ἡμέρᾳ ταύτῃ Treg; καὶ σύ καί γε ἐν τῇ ἡμέρᾳ σου RP • <b>εἰρήνην</b> WH NIV ] + σου Treg RP</p>
-<p><verse-number id="Lk 19:43">43</verse-number> <b>παρεμβαλοῦσιν</b> WH Treg NIV ] περιβαλοῦσιν RP</p>
-<p><verse-number id="Lk 19:44">44</verse-number> <b>λίθον ἐπὶ λίθον ἐν σοί</b> WH Treg NIV ] ἐν σοὶ λίθον ἐπὶ λίθῳ RP</p>
-<p><verse-number id="Lk 19:45">45</verse-number> <b>πωλοῦντας</b> WH Treg NIV ] + ἐν αὐτῷ καὶ ἀγοράζοντας RP</p>
-<p><verse-number id="Lk 19:46">46</verse-number> <b>Καὶ ἔσται</b> WH Treg NIV ] – RP • <b>προσευχῆς</b> WH Treg NIV ] + ἐστίν RP</p>
-<p><verse-number id="Lk 19:48">48</verse-number> <b>εὕρισκον</b> NIV RP ] ηὕρισκον WH Treg</p>
+<verse>Luke 1:61</verse>
+<note>61 ἐκ τῆς συγγενείας WH Treg NA28 ] ἐν τῇ συγγενείᾳ RP</note>
 
-<p><verse-number id="Lk 20:1">20:1</verse-number> <b>ἡμερῶν</b> WH Treg NIV ] + ἐκείνων RP • <b>ἀρχιερεῖς</b> WH Treg NIV ] ἱερεῖς RP</p>
-<p><verse-number id="Lk 20:2">2</verse-number> <b>λέγοντες πρὸς αὐτόν </b> WH NIV ] πρὸς αὐτόν λέγοντες RP; πρὸς αὐτόν Treg</p>
-<p><verse-number id="Lk 20:3">3</verse-number> <b>κἀγὼ</b> WH Treg NIV ] + ἕνα RP</p>
-<p><verse-number id="Lk 20:6">6</verse-number> <b>ὁ λαὸς ἅπας</b> WH Treg NIV ] πᾶς ὁ λαὸς RP</p>
-<p><verse-number id="Lk 20:9">9</verse-number> <b>Ἄνθρωπος</b> WH Treg NIV RP ] + τις NA</p>
-<p><verse-number id="Lk 20:10">10</verse-number> <b>καὶ</b> WH Treg NIV ] + ἐν RP • <b>δώσουσιν</b> WH Treg NIV ] δῶσιν RP • <b>ἐξαπέστειλαν αὐτὸν δείραντες</b> WH NIV ] δείραντες αὐτὸν ἐξαπέστειλαν Treg RP</p>
-<p><verse-number id="Lk 20:11">11</verse-number> <b>ἕτερον πέμψαι</b> WH Treg NIV ] πέμψαι ἕτερον RP</p>
-<p><verse-number id="Lk 20:12">12</verse-number> <b>τρίτον πέμψαι</b> WH Treg NIV ] πέμψαι τρίτον RP</p>
-<p><verse-number id="Lk 20:13">13</verse-number> <b>τοῦτον</b> WH Treg NIV ] + ἰδόντες RP</p>
-<p><verse-number id="Lk 20:14">14</verse-number> <b>ἀλλήλους</b> WH Treg NIV ] ἑαυτούς RP • <b>ἀποκτείνωμεν</b> WH Treg NIV ] δεῦτε ἀποκτείνωμεν RP</p>
-<p><verse-number id="Lk 20:19">19</verse-number> <b>γραμματεῖς καὶ οἱ ἀρχιερεῖς</b> WH Treg NIV ] ἀρχιερεῖς καὶ οἱ γραμματεῖς RP • <b>τὸν λαόν</b> WH Treg NIV ] – RP • <b>εἶπεν τὴν … ταύτην</b> WH Treg NIV ] τὴν … ταύτην εἶπεν RP</p>
-<p><verse-number id="Lk 20:20">20</verse-number> <b>ὥστε</b> WH Treg NIV ] εἰς τὸ RP</p>
-<p><verse-number id="Lk 20:22">22</verse-number> <b>ἡμᾶς</b> WH Treg NIV ] ἡμῖν RP</p>
-<p><verse-number id="Lk 20:23">23</verse-number> <b>αὐτούς</b> WH Treg NIV ] + Τί με πειράζετε RP</p>
-<p><verse-number id="Lk 20:24">24</verse-number> <b>Δείξατέ</b> WH Treg NIV ] Ἐπιδείξατέ RP • <b>ἀποκριθέντες</b> Treg RP ] οἱ WH NIV</p>
-<p><verse-number id="Lk 20:25">25</verse-number> <b>πρὸς αὐτούς Τοίνυν ἀπόδοτε</b> WH Treg NIV ] αὐτοῖς Ἀπόδοτε τοίνυν RP</p>
-<p><verse-number id="Lk 20:26">26</verse-number> <b>τοῦ</b> WH ] αὐτοῦ Treg NIV RP</p>
-<p><verse-number id="Lk 20:27">27</verse-number> <b>ἀντιλέγοντες</b> NIV RP ] λέγοντες WH Treg</p>
-<p><verse-number id="Lk 20:28">28</verse-number> <b>ᾖ</b> WH Treg NIV ] ἀποθάνῃ RP</p>
-<p><verse-number id="Lk 20:30">30</verse-number> <b>ὁ δεύτερος</b> WH Treg NIV ] ἔλαβεν ὁ δεύτερος τὴν γυναῖκα καὶ οὑτὸς ἀπέθανεν ἄτεκνος RP</p>
-<p><verse-number id="Lk 20:31">31</verse-number> <b>αὐτήν</b> WH Treg NIV ] + ὡσαύτως RP</p>
-<p><verse-number id="Lk 20:32">32</verse-number> <b>καὶ ἡ γυνὴ ἀπέθανεν</b> WH Treg NIV ] δὲ πάντων ἀπέθανεν καὶ ἡ γυνή RP</p>
-<p><verse-number id="Lk 20:33">33</verse-number> <b>ἡ γυνὴ οὖν ἐν τῇ</b> WH NIV ] ἐν τῇ οὖν Treg RP</p>
-<p><verse-number id="Lk 20:34">34</verse-number> <b>Καὶ</b> WH Treg NIV ] + ἀποκριθεὶς RP • <b>γαμίσκονται</b> WH Treg NIV ] ἐκγαμίσκονται RP</p>
-<p><verse-number id="Lk 20:35">35</verse-number> <b>γαμίζονται</b> WH Treg NIV ] ἐκγαμίζονται RP</p>
-<p><verse-number id="Lk 20:36">36</verse-number> <b>οὐδὲ</b> WH Treg NIV ] οὔτε RP • <b>εἰσιν</b> WH Treg NIV ] + τοῦ RP</p>
-<p><verse-number id="Lk 20:37">37</verse-number> <b>⸀καὶ</b> WH Treg NIV ] + τὸν RP • <b>⸁καὶ</b> WH Treg NIV ] + τὸν RP</p>
-<p><verse-number id="Lk 20:40">40</verse-number> <b>γὰρ</b> WH Treg NIV ] δὲ RP</p>
-<p><verse-number id="Lk 20:41">41</verse-number> <b>εἶναι Δαυὶδ υἱόν</b> WH NIV ] υἱὸν Δαυὶδ εἶναι Treg RP</p>
-<p><verse-number id="Lk 20:42">42</verse-number> <b>αὐτὸς γὰρ</b> WH NIV ] καὶ αὐτὸς Treg RP • <b>Εἶπεν</b> WH Treg NIV ] + ὁ RP</p>
-<p><verse-number id="Lk 20:44">44</verse-number> <b>αὐτὸν κύριον</b> WH Treg ] κύριον αὐτὸν NIV RP • <b>αὐτοῦ υἱός</b> WH Treg NIV ] υἱὸς αὐτοῦ RP</p>
-<p><verse-number id="Lk 20:45">45</verse-number> <b>μαθηταῖς</b> WH Treg NIV ] + αὐτοῦ RP NA</p>
+<verse>Luke 1:62</verse>
+<note>62 αὐτό WH Treg NA28 ] αὐτόν RP</note>
 
-<p><verse-number id="Lk 21:1">21:1</verse-number> <b>εἰς τὸ γαζοφυλάκιον τὰ δῶρα αὐτῶν</b> WH Treg NIV ] τὰ δῶρα αὐτῶν εἰς τὸ γαζοφυλάκιον RP</p>
-<p><verse-number id="Lk 21:2">2</verse-number> <b>τινα</b> WH Treg NIV ] + καὶ RP • <b>λεπτὰ δύο</b> WH Treg NIV ] δύο λεπτά RP</p>
-<p><verse-number id="Lk 21:3">3</verse-number> <b>ἡ πτωχὴ αὕτη</b> RP ] αὕτη ἡ πτωχὴ WH Treg NIV</p>
-<p><verse-number id="Lk 21:4">4</verse-number> <b>πάντες</b> WH NIV ] ἅπαντες Treg RP • <b>δῶρα</b> WH NIV ] + τοῦ θεοῦ Treg RP • <b>πάντα</b> WH Treg NIV ] ἅπαντα RP</p>
-<p><verse-number id="Lk 21:6">6</verse-number> <b>λίθῳ</b> Treg NIV RP ] + ὧδε WH</p>
-<p><verse-number id="Lk 21:8">8</verse-number> <b>λέγοντες</b> WH NIV ] + ὃτι Treg RP • <b>μὴ</b> WH Treg NIV ] + οὖν RP</p>
-<p><verse-number id="Lk 21:11">11</verse-number> <b>καὶ κατὰ τόπους</b> WH Treg NIV ] κατὰ τόπους καὶ RP • <b>λιμοὶ καὶ λοιμοὶ</b> NIV RP ] λοιμοὶ καὶ λιμοὶ WH Treg • <b>σημεῖα ἀπ’ οὐρανοῦ μεγάλα</b> Treg RP ] ἀπ’ οὐρανοῦ σημεῖα μεγάλα WH NIV; σημεῖα μεγάλα ἀπ’ οὐρανοῦ WHmarg</p>
-<p><verse-number id="Lk 21:12">12</verse-number> <b>τὰς</b> WH Treg NIV ] – RP • <b>ἀπαγομένους</b> WH Treg NIV ] ἀγομένους RP</p>
-<p><verse-number id="Lk 21:13">13</verse-number> <b>ἀποβήσεται</b> WH NIV ] + δὲ Treg RP</p>
-<p><verse-number id="Lk 21:14">14</verse-number> <b>θέτε</b> WH Treg NIV ] Θέσθε RP • <b>ἐν ταῖς καρδίαις</b> WH Treg NIV ] εἰς τὰς καρδίας RP</p>
-<p><verse-number id="Lk 21:15">15</verse-number> <b>ἀντιστῆναι ἢ ἀντειπεῖν</b> WH Treg NIV ] ἀντειπεῖν οὐδὲ ἀντιστῆναι RP • <b>ἅπαντες</b> WH Treg NIV ] πάντες RP</p>
-<p><verse-number id="Lk 21:16">16</verse-number> <b>ἀδελφῶν καὶ συγγενῶν καὶ φίλων</b> WH Treg NIV ] συγγενῶν καὶ φίλων καὶ ἀδελφῶν RP</p>
-<p><verse-number id="Lk 21:19">19</verse-number> <b>κτήσασθε</b> WH NIV RP ] κτήσεσθε Treg</p>
-<p><verse-number id="Lk 21:20">20</verse-number> <b>στρατοπέδων</b> WH Treg NIV ] + τὴν RP</p>
-<p><verse-number id="Lk 21:23">23</verse-number> <b>οὐαὶ</b> WH Treg NIV ] + δὲ RP • <b>ὀργὴ</b> WH Treg NIV ] + ἐν RP</p>
-<p><verse-number id="Lk 21:24">24</verse-number> <b>τὰ ἔθνη πάντα</b> WH Treg NIV ] πάντα τὰ ἔθνη RP • <b>οὗ</b> WH Treg NIV ] – RP • <b>πληρωθῶσιν</b> Treg NIV RP ] + καὶ ἔσονται WH</p>
-<p><verse-number id="Lk 21:25">25</verse-number> <b>ἔσονται</b> WH Treg NIV ] ἔσται RP • <b>ἤχους</b> WH Treg NIV ] ἠχούσης RP</p>
-<p><verse-number id="Lk 21:33">33</verse-number> <b>παρελεύσονται</b> WH Treg NIV ] παρέλθωσιν RP</p>
-<p><verse-number id="Lk 21:34">34</verse-number> <b>ὑμῶν αἱ καρδίαι</b> NIV RP ] αἱ καρδίαι ὑμῶν WH Treg • <b>ἐπιστῇ ἐφ᾽ ὑμᾶς αἰφνίδιος</b> WH Treg NIV ] αἰφνίδιος ἐφ᾽ ὑμᾶς ἐπιστῇ RP</p>
-<p><verse-number id="Lk 21:35">35</verse-number> <b>ἐπεισελεύσεται γὰρ</b> WH Treg NIV ] γὰρ ἐπελεύσεται RP</p>
-<p><verse-number id="Lk 21:36">36</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP • <b>κατισχύσητε</b> WH Treg NIV ] καταξιωθῆτε RP • <b>ταῦτα</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 21:37">37</verse-number> <b>ἐν τῷ ἱερῷ διδάσκων</b> WH NIV RP ] διδάσκων ἐν τῷ ἱερῷ Treg</p>
+<verse>Luke 1:63</verse>
+<note>63 ἐστὶν WH Treg NA28 ] + τὸ RP</note>
 
-<p><verse-number id="Lk 22:3">22:3</verse-number> <b>καλούμενον</b> WH Treg NIV ] ἐπικαλούμενον RP</p>
-<p><verse-number id="Lk 22:4">4</verse-number> <b>αὐτοῖς παραδῷ αὐτόν</b> WH Treg NIV ] αὐτὸν παραδῷ αὐτοῖς RP</p>
-<p><verse-number id="Lk 22:6">6</verse-number> <b>ἄτερ ὄχλου αὐτοῖς</b> WH Treg NIV ] αὐτοῖς ἄτερ ὄχλου RP</p>
-<p><verse-number id="Lk 22:7">7</verse-number> <b>ᾗ</b> WH Treg NIV ] ἐν ᾗ RP NA</p>
-<p><verse-number id="Lk 22:9">9</verse-number> <b>ἑτοιμάσωμεν</b> WH Treg NIV ] ἑτοιμάσομεν RP</p>
-<p><verse-number id="Lk 22:10">10</verse-number> <b>εἰς ἣν</b> WH Treg NIV ] οὗ RP</p>
-<p><verse-number id="Lk 22:13">13</verse-number> <b>εἰρήκει</b> WH Treg NIV ] εἴρηκεν RP</p>
-<p><verse-number id="Lk 22:14">14</verse-number> <b>οἱ</b> WH Treg NIV ] + δώδεκα RP</p>
-<p><verse-number id="Lk 22:16">16</verse-number> <b>ὅτι</b> WH NIV ] + οὐκέτι Treg RP • <b>αὐτὸ</b> WH Treg NIV ] ἐξ αὐτοῦ RP</p>
-<p><verse-number id="Lk 22:17">17</verse-number> <b>εἰς ἑαυτούς</b> WH Treg NIV ] ἑαυτοῖς RP</p>
-<p><verse-number id="Lk 22:18">18</verse-number> <b>οὐ</b> WH Treg NIV ] ὅτι οὐ RP NA • <b>νῦν ἀπὸ τοῦ</b> WH Treg NIV ] – RP • <b>οὗ</b> WH Treg NIV ] ὅτου RP</p>
-<p><verse-number id="Lk 22:19-20">19–20</verse-number> <b>τὸ ὑπὲρ ὑμῶν … ἐκχυννόμενον</b> Treg NIV RP ] ⟦WH⟧ • <b>καὶ τὸ ποτήριον ὡσαύτως</b> Treg NIV ⟦WH⟧ ] ὡσαύτως καὶ τὸ ποτήριον RP</p>
-<p><verse-number id="Lk 22:22">22</verse-number> <b>ὅτι ὁ υἱὸς μὲν</b> WH Treg NIV ] καὶ ὁ μὲν υἱὸς RP • <b>κατὰ τὸ ὡρισμένον πορεύεται</b> WH Treg NIV ] πορεύεται κατὰ τὸ ὡρισμένον RP</p>
-<p><verse-number id="Lk 22:26">26</verse-number> <b>γινέσθω</b> WH Treg NIV ] γενέσθω RP</p>
-<p><verse-number id="Lk 22:27">27</verse-number> <b>ἐν μέσῳ ὑμῶν εἰμι</b> WH Treg NIV ] εἰμι ἐν μέσῳ ὑμῶν RP</p>
-<p><verse-number id="Lk 22:30">30</verse-number> <b>ἔσθητε</b> WH Treg NIV ] ἐσθίητε RP • <b>ἐν τῇ βασιλείᾳ μου</b> WH Treg NIV ] – RP • <b>καθήσεσθε</b> NIV Treg ] καθῆσθε WH; καθίσεσθε RP • <b>τὰς … φυλὰς κρίνοντες</b> WH NIV ] κρίνοντες τὰς … φυλὰς Treg RP</p>
-<p><verse-number id="Lk 22:31">31</verse-number> <b>Σίμων</b> WH NIV ] Εἶπεν δὲ ὁ κύριος Σίμων Treg RP</p>
-<p><verse-number id="Lk 22:32">32</verse-number> <b>στήρισον</b> WH Treg NIV ] στήριξον RP </p>
-<p><verse-number id="Lk 22:34">34</verse-number> <b>φωνήσει</b> WH Treg NIV ] μή φωνήσῃ RP • <b>ἕως</b> WH Treg NIV ] πρὶν ἢ RP • <b>με ἀπαρνήσῃ εἰδέναι</b> WH Treg NIV ] ἀπαρνήσῃ μή εἰδέναι με RP</p>
-<p><verse-number id="Lk 22:36">36</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP • <b>πωλησάτω</b> WH Treg NIV ] πωλήσει RP • <b>ἀγορασάτω</b> WH Treg NIV ] ἀγοράσει RP</p>
-<p><verse-number id="Lk 22:37">37</verse-number> <b>ὅτι</b> WH Treg NIV ] + ἔτι RP • <b>τὸ</b> WH Treg NIV ] τὰ RP</p>
-<p><verse-number id="Lk 22:39">39</verse-number> <b>μαθηταί</b> WH Treg NIV ] + αὐτοῦ RP</p>
-<p><verse-number id="Lk 22:42">42</verse-number> <b>παρένεγκε</b> WH Treg NIV ] παρενεγκεῖν RP • <b>τοῦτο τὸ ποτήριον</b> WH Treg NIV ] τὸ ποτήριον τοῦτο RP • <b>γινέσθω</b> WH Treg NIV ] γενέσθω RP</p>
-<p><verse-number id="Lk 22:43-44">43–44</verse-number> <b>ὤφθη δὲ … ἐπὶ τὴν γῆν.</b> Treg NIV RP ] ⟦WH⟧ • <b>ἀπ᾽</b> NIV RP ] ἀπὸ τοῦ ⟦WH⟧ Treg • <b>καὶ ἐγένετο</b> ⟦WH⟧ NIV ] ἐγένετο δὲ Treg RP</p>
-<p><verse-number id="Lk 22:45">45</verse-number> <b>κοιμωμένους αὐτοὺς</b> WH Treg NIV ] αὐτοὺς κοιμωμένους RP</p>
-<p><verse-number id="Lk 22:47">47</verse-number> <b>Ἔτι</b> WH Treg NIV ] + δέ RP</p>
-<p><verse-number id="Lk 22:48">48</verse-number> <b>Ἰησοῦς δὲ</b> WH Treg NIV ] Ὁ δὲ Ἰησοῦς RP</p>
-<p><verse-number id="Lk 22:49">49</verse-number> <b>εἶπαν</b> WH Treg NIV ] + αὐτῷ RP</p>
-<p><verse-number id="Lk 22:50">50</verse-number> <b>τοῦ ἀρχιερέως τὸν δοῦλον</b> WH Treg NIV ] τὸν δοῦλον τοῦ ἀρχιερέως RP • <b>τὸ οὖς αὐτοῦ</b> WH Treg NIV ] αὐτοῦ τὸ οὖς RP</p>
-<p><verse-number id="Lk 22:51">51</verse-number> <b>ὠτίου</b> WH Treg NIV ] + αὐτοῦ RP</p>
-<p><verse-number id="Lk 22:52">52</verse-number> <b>δὲ</b> WH Treg NIV ] + ὁ RP • <b>ἐξήλθατε</b> WH Treg NIV ] ἐξεληλύθατε RP</p>
-<p><verse-number id="Lk 22:53">53</verse-number> <b>ἐστὶν ὑμῶν</b> WH Treg NIV ] ὑμῶν ἐστὶν RP</p>
-<p><verse-number id="Lk 22:54">54</verse-number> <b>εἰσήγαγον</b> WH Treg NIV ] + αὐτὸν RP • <b>τὴν οἰκίαν</b> WH Treg NIV ] τὸν οἶκον RP</p>
-<p><verse-number id="Lk 22:55">55</verse-number> <b>περιαψάντων</b> WH Treg NIV ] Ἁψάντων RP • <b>συγκαθισάντων</b> WH Treg NIV ] + αὐτῶν RP • <b>μέσος</b> WH Treg NIV ] ἐν μέσῳ RP</p>
-<p><verse-number id="Lk 22:57">57</verse-number> <b>ἠρνήσατο</b> WH Treg NIV ] + αὐτόν RP • <b>Οὐκ οἶδα αὐτόν γύναι</b> WH Treg NIV ] Γύναι οὐκ οἶδα αὐτόν RP</p>
-<p><verse-number id="Lk 22:58">58</verse-number> <b>ἔφη</b> WH Treg NIV ] εἴπεν RP</p>
-<p><verse-number id="Lk 22:61">61</verse-number> <b>λόγου</b> Treg RP ] ῥήματος WH NIV • <b>σήμερον</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 22:62">62</verse-number> <b>ἔξω</b> WH Treg NIV ] + ὁ Πέτρος RP</p>
-<p><verse-number id="Lk 22:63">63</verse-number> <b>αὐτὸν</b> WH Treg NIV ] τὸν Ἰησοῦν RP</p>
-<p><verse-number id="Lk 22:64">64</verse-number> <b>αὐτὸν ἐπηρώτων</b> WH Treg NIV ] αὐτόν ἔτυπτον αὐτοῦ τὸ πρόσωπον καὶ ἐπηρώτων αὐτόν RP</p>
-<p><verse-number id="Lk 22:66">66</verse-number> <b>τε</b> WH Treg NIV ] – RP • <b>ἀπήγαγον</b> WH Treg NIV ] ἀνήγαγον RP</p>
-<p><verse-number id="Lk 22:68">68</verse-number> <b>δὲ</b> WH Treg NIV ] + καὶ RP • <b>ἀποκριθῆτε</b> WH NIV ] μοι ἢ ἀπολύσητε Treg RP</p>
-<p><verse-number id="Lk 22:69">69</verse-number> <b>δὲ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 22:71">71</verse-number> <b>ἔχομεν μαρτυρίας χρείαν</b> WH Treg NIV ] χρείαν ἔχομεν μαρτυρίας RP</p>
+<verse>Luke 1:66</verse>
+<note>66 γὰρ WH Treg NA28 ] – RP</note>
 
-<p><verse-number id="Lk 23:2">23:2</verse-number> <b>ἡμῶν</b> WH Treg NIV ] – RP • <b>φόρους Καίσαρι</b> WH Treg NIV ] Καίσαρι φόρους RP • <b>καὶ</b> WH Treg NIV ] – RP • <b>αὑτὸν</b> WH ] ἑαυτὸν Treg NIV RP</p>
-<p><verse-number id="Lk 23:3">3</verse-number> <b>ἠρώτησεν</b> WH Treg NIV ] ἐπηρώτησεν RP</p>
-<p><verse-number id="Lk 23:5">5</verse-number> <b>καὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 23:6">6</verse-number> <b>ἀκούσας</b> WH NIV ] + Γαλιλαίαν Treg RP</p>
-<p><verse-number id="Lk 23:8">8</verse-number> <b>ἐξ ἱκανῶν χρόνων θέλων</b> WH Treg NIV ] θέλων ἐξ ἱκανοῦ RP • <b>ἀκούειν</b> WH Treg NIV ] + πολλὰ RP</p>
-<p><verse-number id="Lk 23:11">11</verse-number> <b>καὶ</b> NIV ] – WH Treg RP • <b>περιβαλὼν</b> WH NIV ] αὐτὸν Treg RP</p>
-<p><verse-number id="Lk 23:12">12</verse-number> <b>Ἡρῴδης καὶ ὁ Πιλᾶτος</b> WH Treg NIV ] Πιλάτος καὶ ὁ Ἡρῴδης RP • <b>αὑτούς</b> WH ] αὐτούς Treg NIV; ἑαυτούς RP</p>
-<p><verse-number id="Lk 23:14">14</verse-number> <b>οὐθὲν</b> WH Treg NIV ] οὐδὲν RP</p>
-<p><verse-number id="Lk 23:15">15</verse-number> <b>ἀνέπεμψεν γὰρ αὐτὸν πρὸς ἡμᾶς</b> WH NIV ] ἀνέπεμψα γὰρ ὑμᾶς πρὸς αὐτόν Treg RP</p>
-<p><verse-number id="Lk 23:16">16</verse-number> <b>ἀπολύσω</b> WH Treg NIV ] + 17 Ἀνάγκην δέ εἶχεν ἀπολύειν αὐτοῖς κατὰ ἑορτὴν ἕνα. RP</p>
-<p><verse-number id="Lk 23:18">18</verse-number> <b>Ἀνέκραγον</b> WH Treg NIV ] Ἀνέκραξαν RP • <b>τὸν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 23:19">19</verse-number> <b>βληθεὶς ἐν τῇ φυλακῇ</b> WH Treg NIV ] βεβλημένος εἰς φυλακήν RP</p>
-<p><verse-number id="Lk 23:20">20</verse-number> <b>δὲ</b> WH Treg NIV ] οὖν RP • <b> προσεφώνησεν</b> Treg RP ] + αὐτοῖς WH NIV</p>
-<p><verse-number id="Lk 23:21">21</verse-number> <b>Σταύρου σταύρου</b> WH Treg NIV ] Σταύρωσον σταύρωσον RP</p>
-<p><verse-number id="Lk 23:23">23</verse-number> <b>αὐτῶν</b> WH NIV ] + καὶ τῶν ἀρχιερέων Treg RP</p>
-<p><verse-number id="Lk 23:24">24</verse-number> <b>καὶ</b> WH Treg NIV ] Ὁ δὲ RP</p>
-<p><verse-number id="Lk 23:25">25</verse-number> <b>εἰς</b> WH Treg NIV ] + τὴν RP</p>
-<p><verse-number id="Lk 23:26">26</verse-number> <b>Σίμωνά τινα Κυρηναῖον ἐρχόμενον</b> WH Treg NIV ] Σίμωνός τινος Κυρηναίου ἐρχομένου RP</p>
-<p><verse-number id="Lk 23:27">27</verse-number> <b>αἳ</b> WH Treg NIV ] + καὶ RP</p>
-<p><verse-number id="Lk 23:28">28</verse-number> <b>ὁ</b> NIV RP ] – WH Treg</p>
-<p><verse-number id="Lk 23:29">29</verse-number> <b>αἱ</b> WH Treg NIV ] – RP • <b>ἔθρεψαν</b> WH Treg NIV ] ἐθήλασαν RP</p>
-<p><verse-number id="Lk 23:31">31</verse-number> <b>τῷ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Lk 23:32">32</verse-number> <b>κακοῦργοι δύο</b> WH NIV ] δύο κακοῦργοι Treg RP</p>
-<p><verse-number id="Lk 23:33">33</verse-number> <b>ἦλθον</b> WH Treg NIV ] ἀπῆλθον RP</p>
-<p><verse-number id="Lk 23:34">34</verse-number> <b>ὁ δὲ … ποιοῦσιν</b> Treg NIV RP ] ⟦WH⟧ • <b>κλήρους</b> NIV ] κλῆρον WH Treg RP</p>
-<p><verse-number id="Lk 23:35">35</verse-number> <b>ἄρχοντες</b> WH Treg NIV ] + σὺν αὐτοῖς RP • <b>τοῦ θεοῦ ὁ</b> WH NIV ] ὁ τοῦ θεοῦ Treg RP</p>
-<p><verse-number id="Lk 23:36">36</verse-number> <b>ἐνέπαιξαν</b> WH NIV ] ἐνέπαιζον Treg RP • <b>ὄξος</b> WH Treg NIV ] καὶ ὄξος RP</p>
-<p><verse-number id="Lk 23:38">38</verse-number> <b>ἐπιγραφὴ</b> WH NIV ] + ἐπιγεγραμμένη Treg; + γεγραμμένη RP • <b>αὐτῷ</b> WH Treg NIV ] + γράμμασιν Ἑλληνικοῖς καὶ Ῥωμαϊκοῖς καὶ Ἑβραϊκοῖς Οὗτός ἐστιν RP • <b>οὗτος</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 23:39">39</verse-number> <b>λέγων</b> Treg NIV RP ] – WH • <b>Οὐχὶ</b> WH Treg NIV ] Εἰ RP</p>
-<p><verse-number id="Lk 23:40">40</verse-number> <b>ἐπιτιμῶν αὐτῷ ἔφη</b> WH Treg NIV ] ἐπετίμα αὐτῷ λέγων RP</p>
-<p><verse-number id="Lk 23:42">42</verse-number> <b>ἔλεγεν</b> WH Treg NIV ] + τᾠ RP • <b>μου</b> WH Treg NIV ] + κύριε RP • <b>ἐν τῇ βασιλείᾳ</b> Treg RP ] εἰς τὴν βασιλείαν WH NIV</p>
-<p><verse-number id="Lk 23:43">43</verse-number> <b>αὐτῷ</b> WH NIV ] + ὁ Ἰησοῦς Treg RP • <b>σοι λέγω</b> WH Treg NIV ] λέγω σοι RP</p>
-<p><verse-number id="Lk 23:44">44</verse-number> <b>Καὶ ἦν</b> WH Treg NIV ] Ἦν δὲ RP • <b>ἤδη</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 23:45">45</verse-number> <b>τοῦ ἡλίου ἐκλιπόντος</b> WH NIV ] καὶ  ἐσκοτίσθη ὁ ἥλιος καὶ Treg RP • <b>δὲ</b> WH NIV ] – Treg RP</p>
-<p><verse-number id="Lk 23:46">46</verse-number> <b>παρατίθεμαι</b> WH Treg NIV ] παραθήσομαι RP • <b>τοῦτο δὲ</b> WH Treg NIV ] καὶ ταῦτα RP</p>
-<p><verse-number id="Lk 23:47">47</verse-number> <b>ἐδόξαζεν</b> WH Treg NIV ] ἐδόξασεν RP</p>
-<p><verse-number id="Lk 23:48">48</verse-number> <b>θεωρήσαντες</b> WH Treg NIV ] θεωροῦντες RP • <b>τύπτοντες</b> WH Treg NIV ] + ἑαυτῶν RP</p>
-<p><verse-number id="Lk 23:49">49</verse-number> <b>αὐτῷ</b> WH Treg NIV ] αὐτοῦ RP • <b>μακρόθεν</b> Treg RP ] απο μακρόθεν WH NIV • <b>συνακολουθοῦσαι</b> WH Treg NIV ] συνακολουθήσασαι RP</p>
-<p><verse-number id="Lk 23:50">50</verse-number> <b>ἀνὴρ</b> WH Treg RP ] καὶ ἀνὴρ NIV</p>
-<p><verse-number id="Lk 23:51">51</verse-number> <b>προσεδέχετο</b> WH Treg NIV ] καὶ προσεδέχετο καὶ αὐτὸς RP</p>
-<p><verse-number id="Lk 23:53">53</verse-number> <b>καθελὼν</b> WH Treg NIV ] + αὐτὸ RP • <b>αὐτὸν</b> WH Treg NA ] αὐτὸ NIV RP • <b>οὐδεὶς οὔπω</b> WH Treg NIV ] οὐδέπω οὐδεὶς RP</p>
-<p><verse-number id="Lk 23:54">54</verse-number> <b>παρασκευῆς καὶ</b> WH Treg NIV ] Παρασκευή RP</p>
-<p><verse-number id="Lk 23:55">55</verse-number> <b>αἱ</b> WH Treg NIV ] – RP • <b>ἐκ τῆς Γαλιλαίας αὐτῷ</b> WH NIV ] αὐτῷ ἐκ τῆς Γαλιλαίας Treg RP</p>
+<verse>Luke 1:67</verse>
+<note>67 ἐπροφήτευσεν WH Treg NA28 ] προεφήτευσεν RP</note>
 
-<p><verse-number id="Lk 24:1">24:1</verse-number> <b>ἐπὶ τὸ μνῆμα ἦλθον</b> WH NIV ] ἦλθον ἐπὶ τὸ μνῆμα Treg RP • <b>ἀρώματα</b> WH Treg NIV ] + καί τινες σὺν αὐταῖς RP</p>
-<p><verse-number id="Lk 24:3">3</verse-number> <b>εἰσελθοῦσαι δὲ</b> WH Treg NIV ] Καὶ εἰσελθοῦσαι RP • <b>σῶμα</b> WH ] + τοῦ κυρίου Ἰησοῦ Treg NIV RP</p>
-<p><verse-number id="Lk 24:4">4</verse-number> <b>ἀπορεῖσθαι</b> WH Treg NIV ] διαπορεῖσθαι RP • <b>ἐσθῆτι ἀστραπτούσῃ</b> WH Treg NIV ] ἐσθήσεσιν ἀστραπτούσαις RP</p>
-<p><verse-number id="Lk 24:5">5</verse-number> <b>τὰ πρόσωπα</b> WH Treg NIV ] τὸ πρόσωπον RP</p>
-<p><verse-number id="Lk 24:6">6</verse-number> <b>οὐκ ἔστιν ὧδε ἀλλὰ ἠγέρθη</b> Treg NIV RP ] ⟦WH⟧</p>
-<p><verse-number id="Lk 24:7">7</verse-number> <b>τὸν … ἀνθρώπου ὅτι δεῖ</b> WH Treg NIV ] ὅτι δεῖ τὸν … ἀνθρώπου RP</p>
-<p><verse-number id="Lk 24:10">10</verse-number> <b>ἡ</b> WH Treg NIV ] –RP • <b>ἔλεγον</b> WH Treg NIV ] αἳ ἔλεγον RP</p>
-<p><verse-number id="Lk 24:11">11</verse-number> <b>ταῦτα</b> WH Treg NIV ] αὐτῶν RP</p>
-<p><verse-number id="Lk 24:12">12</verse-number> <b>Ὁ δὲ … τὸ γεγονός</b> Treg NIV RP ] ⟦WH⟧ • <b>ὀθόνια</b> ⟦WH⟧ Treg NIV ] + κείμενα RP • <b>αὑτὸν</b> ⟦WH⟧ ] αὐτὸν Treg; ἑαυτὸν NIV RP</p>
-<p><verse-number id="Lk 24:13">13</verse-number> <b>ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι</b> WH NIV ] ἦσαν πορευόμενοι ἐν αὐτῇ τῇ ἡμέρᾳ Treg RP</p>
-<p><verse-number id="Lk 24:15">15</verse-number> <b>αὐτὸς</b> WH Treg NIV ] + ὁ RP</p>
-<p><verse-number id="Lk 24:17">17</verse-number> <b>ἐστάθησαν</b> WH Treg NIV ] ἐστε RP</p>
-<p><verse-number id="Lk 24:18">18</verse-number> <b>εἷς ὀνόματι</b> WH Treg NA ] εἷς ἐξ αὐτῶν ὀνόματι NIV; ὁ εἷς ᾧ ὄνομα RP</p>
-<p><verse-number id="Lk 24:19">19</verse-number> <b>Ναζαρηνοῦ</b> WH Treg NIV ] Ναζωραίου RP</p>
-<p><verse-number id="Lk 24:21">21</verse-number> <b>καὶ</b> WH Treg NIV ] – RP • <b>ἄγει</b> WH NIV ] + σήμερον Treg RP</p>
-<p><verse-number id="Lk 24:22">22</verse-number> <b>ὀρθριναὶ</b> WH Treg NIV ] ὄρθριαι RP</p>
-<p><verse-number id="Lk 24:24">24</verse-number> <b>καὶ</b> NIV RP ] – WH Treg</p>
-<p><verse-number id="Lk 24:27">27</verse-number> <b>διερμήνευσεν</b> WH Treg NIV ] διηρμήνευεν RP • <b>ἑαυτοῦ</b> WH NIV RP ] αὐτοῦ Treg</p>
-<p><verse-number id="Lk 24:28">28</verse-number> <b>προσεποιήσατο</b> WH Treg NIV ] προσεποιεῖτο RP • <b>πορρώτερον</b> WH Treg NIV ] πορρωτέρω RP</p>
-<p><verse-number id="Lk 24:29">29</verse-number> <b>ἤδη</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Lk 24:32">32</verse-number> <b>ἐν ἡμῖν</b> Treg NIV RP ] – WH • <b>ὡς</b> WH Treg NIV ] καὶ ὡς RP</p>
-<p><verse-number id="Lk 24:33">33</verse-number> <b>ἠθροισμένους</b> WH Treg NIV ] συνηθροισμένους RP</p>
-<p><verse-number id="Lk 24:34">34</verse-number> <b>ὄντως ἠγέρθη ὁ κύριος</b> WH Treg NIV ] Ἠγέρθη ὁ κύριος ὄντως RP</p>
-<p><verse-number id="Lk 24:36">36</verse-number> <b>αὐτὸς</b> WH Treg NIV ] + ὁ Ἰησοῦς RP • <b>αὐτῶν</b> WH ] + καὶ λέγει αὐτοῖς Εἰρήνη ὑμῖν Treg NIV RP</p>
-<p><verse-number id="Lk 24:38">38</verse-number> <b>τῇ καρδίᾳ</b> WH Treg NIV ] ταῖς καρδίαις RP</p>
-<p><verse-number id="Lk 24:39">39</verse-number> <b>ἐγώ εἰμι αὐτός</b> WH Treg NIV ] αὐτὸς ἐγώ εἰμι RP</p>
-<p><verse-number id="Lk 24:40">40</verse-number> <b>καὶ τοῦτο … τοὺς πόδας </b> Treg NIV RP ] ⟦WH⟧ • <b>ἔδειξεν</b> ⟦WH⟧ Treg NIV ] ἐπέδειξεν RP</p>
-<p><verse-number id="Lk 24:42">42</verse-number> <b>μέρος</b> WH NIV ] + καὶ ἀπὸ μελισσίου κηρίου Treg RP</p>
-<p><verse-number id="Lk 24:44">44</verse-number> <b>πρὸς αὐτούς</b> WH Treg NIV ] αὐτοῖς RP • <b>μου</b> WH Treg NIV ] – RP • <b>καὶ</b> RP ] + τοῖς WH Treg NIV</p>
-<p><verse-number id="Lk 24:46">46</verse-number> <b>γέγραπται</b> WH Treg NIV ] + καὶ οὕτως ἔδει RP</p>
-<p><verse-number id="Lk 24:47">47</verse-number> <b>καὶ</b> Treg NIV RP ] εἰς WH NA • <b>ἀρξάμενοι</b> WH Treg NIV ] ἀρξάμενον RP</p>
-<p><verse-number id="Lk 24:48">48</verse-number> <b>ἐστε</b> Treg ] – WH NIV; δέ ἐστε RP</p>
-<p><verse-number id="Lk 24:49">49</verse-number> <b>ἐξαποστέλλω</b> WH Treg ] ἀποστέλλω NIV RP • <b>πόλει</b> WH Treg NIV ] + Ἱερουσαλήμ RP • <b>ἐξ ὕψους δύναμιν</b> WH Treg NIV ] δύναμιν ἐξ ὕψους RP</p>
-<p><verse-number id="Lk 24:50">50</verse-number> <b>ἕως</b> WH Treg NIV ] ἔξω ἕως RP NA • <b>πρὸς</b> WH Treg NIV ] εἰς RP</p>
-<p><verse-number id="Lk 24:51">51</verse-number> <b>καὶ ἀνεφέρετο εἰς τὸν οὐρανόν</b> Treg NIV RP ] ⟦WH⟧</p>
-<p><verse-number id="Lk 24:52">52</verse-number> <b>προσκυνήσαντες αὐτὸν</b> Treg NIV RP ] ⟦WH⟧</p>
-<p><verse-number id="Lk 24:53">53</verse-number> <b>εὐλογοῦντες</b> WH NIV ] αἰνοῦντες καὶ εὐλογοῦντες Treg RP • <b>θεόν</b> WH Treg NIV ] + Ἀμήν RP</p>
+<verse>Luke 1:69</verse>
+<note>69 ἐν WH Treg NA28 ] + τῷ RP </note>
+<note>• Δαυὶδ WH Treg NA28 ] + τοῦ RP</note>
 
+<verse>Luke 1:70</verse>
+<note>70 ἁγίων WH Treg NA28 ] + τῶν RP</note>
 
+<verse>Luke 1:74</verse>
+<note>74 ἐχθρῶν WH Treg NA28 ] τῶν ἐχθρῶν ἡμῶν RP</note>
+
+<verse>Luke 1:75</verse>
+<note>75 πάσαις ταῖς ἡμέραις WH Treg NA28 ] πάσας τὰς ἡμέρας τὴς ζωῆς RP</note>
+
+<verse>Luke 1:76</verse>
+<note>76 δέ WH Treg NA28 ] – RP </note>
+<note>• ἐνώπιον WH NA28 ] πρὸ προσώπου Treg RP</note>
+
+<verse>Luke 1:78</verse>
+<note>78 ἐπισκέψεται WH NA28 ] ἐπεσκέψατο Treg RP</note>
+
+<verse>Luke 2:2</verse>
+<note>2:2 αὕτη WH Treg NA28 ] + ἡ RP</note>
+
+<verse>Luke 2:3</verse>
+<note>3 ἑαυτοῦ WH Treg NA28 ] ἰδίαν RP</note>
+
+<verse>Luke 2:5</verse>
+<note>5 ἐμνηστευμένῃ αὐτῷ WH Treg NA28 ] μεμνηστευμένῃ αὐτῷ γυναικί RP</note>
+
+<verse>Luke 2:7</verse>
+<note>7 ἐν WH Treg NA28 ] + τῇ RP</note>
+
+<verse>Luke 2:9</verse>
+<note>9 καὶ WH NA28 ] + ἰδού Treg RP</note>
+
+<verse>Luke 2:12</verse>
+<note>12 τὸ Treg NA28 RP ] – WH </note>
+<note>• καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 2:13</verse>
+<note>13 οὐρανίου WH NA28 RP ] οὐρανοῦ Treg</note>
+
+<verse>Luke 2:14</verse>
+<note>14 εὐδοκίας WH Treg NA28 ] εὐδοκία RP</note>
+
+<verse>Luke 2:15</verse>
+<note>15 οἱ WH NA28 ] καὶ οἱ ἄνθρωποι οἱ Treg RP </note>
+<note>• ἐλάλουν WH NA28 ] εἶπον Treg RP</note>
+
+<verse>Luke 2:17</verse>
+<note>17 ἐγνώρισαν WH Treg NA28 ] διεγνώρισαν RP</note>
+
+<verse>Luke 2:19</verse>
+<note>19 Μαρία WH Treg ] Μαριὰμ NA28 RP</note>
+
+<verse>Luke 2:24</verse>
+<note>24 τῷ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 2:25</verse>
+<note>25 ἄνθρωπος ἦν WH Treg NA28 ] ἦν ἄνθρωπος RP</note>
+
+<verse>Luke 2:26</verse>
+<note>26 ἢ ἂν WH NA28 ] ἂν Treg; ἢ RP</note>
+
+<verse>Luke 2:28</verse>
+<note>28 ἀγκάλας WH NA28 ] + αὐτοῦ Treg RP</note>
+
+<verse>Luke 2:33</verse>
+<note>33 ὁ πατὴρ αὐτοῦ WH Treg NA28 ] Ἰωσὴφ RP </note>
+<note>• μήτηρ WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>Luke 2:35</verse>
+<note>35 δὲ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 2:36</verse>
+<note>36 μετὰ ἀνδρὸς ἔτη WH Treg NA28 ] ἔτη μετὰ ἀνδρὸς RP</note>
+
+<verse>Luke 2:37</verse>
+<note>37 ἕως WH Treg NA28 ] ὡς RP </note>
+<note>• ἀφίστατο WH Treg NA28 ] + ἀπὸ RP</note>
+
+<verse>Luke 2:38</verse>
+<note>38 καὶ WH Treg NA28 ] + αὕτη RP </note>
+<note>• θεῷ WH Treg NA28 ] κυρίῳ RP </note>
+<note>•  λύτρωσιν WH Treg NA28 ] + ἐν RP</note>
+
+<verse>Luke 2:39</verse>
+<note>39 πάντα WH Treg NA28 ] ἅπαντα RP </note>
+<note>• ἐπέστρεψαν WH Treg NA28 ] ὑπέστρεψαν RP </note>
+<note>• εἰς WH Treg NA28 ] + τὴν RP</note>
+
+<verse>Luke 2:40</verse>
+<note>40 πληρούμενον σοφίᾳ WH Treg NA28 ] πνεύματι πληρούμενον σοφίας RP</note>
+
+<verse>Luke 2:42</verse>
+<note>42 ἀναβαινόντων WH Treg NA28 ] ἀναβάντων RP </note>
+<note>• αὐτῶν WH NA28 ] + εἰς Ἱεροσόλυμα Treg RP</note>
+
+<verse>Luke 2:43</verse>
+<note>43 ἔγνωσαν οἱ γονεῖς WH Treg NA28 ] ἔγνω Ἰωσὴφ καὶ ἡ μήτηρ RP</note>
+
+<verse>Luke 2:44</verse>
+<note>44 εἶναι ἐν τῇ συνοδίᾳ WH Treg NA28 ] ἐν τῇ συνοδίᾳ εἶναι RP </note>
+<note>• καὶ WH Treg NA28 ] + ἐν RP</note>
+
+<verse>Luke 2:45</verse>
+<note>45 εὑρόντες WH Treg NA28 ] + αὐτόν RP </note>
+<note>• ἀναζητοῦντες WH Treg NA28 ] ζητοῦντες RP</note>
+
+<verse>Luke 2:48</verse>
+<note>48 εἶπεν πρὸς … αὐτοῦ WH Treg NA28 ] πρὸς … αὐτοῦ εἶπεν RP </note>
+<note>• ἐζητοῦμέν Treg NA28 RP ] ζητοῦμέν WH</note>
+
+<verse>Luke 2:51</verse>
+<note>51 ταῦτα Treg RP ] – WH NA28</note>
+
+<verse>Luke 2:52</verse>
+<note>52 σοφίᾳ καὶ ἡλικίᾳ NIV RP ] τῇ σοφίᾳ καὶ ἡλικίᾳ WH; ἡλικίᾳ καὶ σοφίᾳ Treg; ἐν τῇ σοφίᾳ καὶ ἡλικίᾳ NA28</note>
+
+<verse>Luke 3:3</verse>
+<note>3:3 πᾶσαν WH Treg ] + τὴν NA28 RP</note>
+
+<verse>Luke 3:4</verse>
+<note>4 προφήτου WH Treg NA28 ] + λέγοντος RP</note>
+
+<verse>Luke 3:5</verse>
+<note>5 εὐθείαν NA28 RP ] εὐθείας WH Treg</note>
+
+<verse>Luke 3:10</verse>
+<note>10 ποιήσωμεν WH Treg NA28 ] ποιήσομεν RP</note>
+
+<verse>Luke 3:11</verse>
+<note>11 ἔλεγεν WH Treg NA28 ] λέγει RP</note>
+
+<verse>Luke 3:12</verse>
+<note>12 ποιήσωμεν WH Treg NA28 ] ποιήσομεν RP</note>
+
+<verse>Luke 3:14</verse>
+<note>14 Τί ποιήσωμεν καὶ ἡμεῖς WH Treg NA28 ] Καὶ ἡμεῖς τί ποιήσομεν RP </note>
+<note>• αὐτοῖς WH Treg NA28 ] πρὸς αὐτούς RP</note>
+
+<verse>Luke 3:16</verse>
+<note>16 λέγων πᾶσιν ὁ Ἰωάννης WH NA28 ] ὁ Ἰωάννης ἅπασιν λέγων Treg RP</note>
+
+<verse>Luke 3:17</verse>
+<note>17 διακαθᾶραι WH NA28 ] διακαθαριεῖ Treg; καὶ διακαθαριεῖ RP </note>
+<note>• συναγαγεῖν WH NA28 ] συναξεῖ Treg RP</note>
+
+<verse>Luke 3:20</verse>
+<note>20 καὶ Treg NA28 RP ] – WH </note>
+<note>• ἐν WH Treg NA28 ] + τῇ RP</note>
+
+<verse>Luke 3:22</verse>
+<note>22 ὡς WH Treg NA28 ] ὡσεὶ RP </note>
+<note>• γενέσθαι WH Treg NA28 ] + λέγουσαν RP</note>
+
+<verse>Luke 3:23</verse>
+<note>23 ἦν WH Treg NA28 ] + ὁ RP </note>
+<note>• ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα WH Treg NA28 ] ὡσεὶ ἐτῶν τριάκοντα ἀρχόμενος RP </note>
+<note>• υἱός ὡς ἐνομίζετο WH Treg NA28 ] ὡς ἐνομίζετο υἱός RP</note>
+
+<verse>Luke 3:26</verse>
+<note>26 Ἰωσὴχ WH Treg NA28 ] Ἰωσήφ RP</note>
+
+<verse>Luke 3:29</verse>
+<note>29 Ἰησοῦ WH Treg NA28 ] Ἰωσή RP</note>
+
+<verse>Luke 3:32</verse>
+<note>32 Σαλὰ WH NA28 ] Σαλμών Treg NIV RP</note>
+
+<verse>Luke 3:33</verse>
+<note>33 Ἀμιναδὰβ τοῦ Ἀδμὶν τοῦ Ἀρνὶ NA28 ] Ἀδμὶν τοῦ Ἀρνὶ WH; Ἀμιναδάβ τοῦ Ἀράμ Treg NIV RP</note>
+
+<verse>Luke 4:1</verse>
+<note>4:1 πλήρης πνεύματος ἁγίου WH Treg NA28 ] πνεύματος ἁγίου πλήρης RP </note>
+<note>• ἐν τῇ ἐρήμῳ WH Treg NA28 ] εἰς τήν ἐρήμον RP</note>
+
+<verse>Luke 4:2</verse>
+<note>2 αὐτῶν WH Treg NA28 ] + ὕστερον RP</note>
+
+<verse>Luke 4:3</verse>
+<note>3 εἶπεν δὲ WH Treg NA28 ] Καὶ εἶπεν RP</note>
+
+<verse>Luke 4:4</verse>
+<note>4 πρὸς αὐτὸν ὁ Ἰησοῦς WH NA28 Treg ] Ἰησοῦς πρὸς αὐτόν λέγων RP </note>
+<note>• ὁ WH Treg NA28 ] – RP </note>
+<note>• ἄνθρωπος WH NA28 ] + ἀλλʼ ἐπὶ παντὶ ῥήματι θεοῦ Treg RP</note>
+
+<verse>Luke 4:5</verse>
+<note>5 αὐτὸν WH Treg NA28 ] + ὁ διάβολος εἰς ὄρος ὑψηλὸν NIV RP</note>
+
+<verse>Luke 4:6</verse>
+<note>6 ἂν WH Treg ] ἐὰν NA28 RP</note>
+
+<verse>Luke 4:8</verse>
+<note>8 ὁ Ἰησοῦς εἶπεν αὐτῷ WH NA28 ] αὐτῷ εἶπεν ὁ Ἰησοῦς Treg;  αὐτῷ εἶπεν ὁ Ἰησοῦς Ὕπαγε ὀπίσω μου Σατανᾶ RP </note>
+<note>• Κύριον τὸν θεόν σου προσκυνήσεις WH Treg NA28 ] Προσκυνήσεις κύριον τὸν θεόν σου RP</note>
+
+<verse>Luke 4:9</verse>
+<note>9 Ἤγαγεν δὲ WH Treg NA28 ] Καὶ ἤγαγεν RP </note>
+<note>• ἔστησεν WH NA28 ] + αὐτὸν Treg RP</note>
+
+<verse>Luke 4:11</verse>
+<note>11 ὅτι WH Treg NA28 ] – RP</note>
+
+<verse>Luke 4:16</verse>
+<note>16 εἰς WH Treg NA28 ] + τὴν RP</note>
+
+<verse>Luke 4:17</verse>
+<note>17 τοῦ προφήτου Ἠσαΐου WH Treg NA28 ] Ἠσαΐου τοῦ προφήτου RP </note>
+<note>• ἀναπτύξας NA28 RP ] ἀνοίξας WH Treg</note>
+
+<verse>Luke 4:18</verse>
+<note>18 με WH Treg NA28 ] + ἰὰσασθαι τοὺς συντετριμμένους τὴν καρδίαν RP</note>
+
+<verse>Luke 4:20</verse>
+<note>20 οἱ ὀφθαλμοὶ ἐν τῇ συναγωγῇ WH Treg NA28 ] ἐν τῇ συναγωγῇ οἱ ὀφθαλμοὶ RP</note>
+
+<verse>Luke 4:22</verse>
+<note>22 Οὐχὶ υἱός ἐστιν Ἰωσὴφ οὗτος WH NA28 ] Οὐχὶ οὗτος ἐστιν ὁ υἱός Ἰωσὴφ Treg; Οὐχ οὗτος ἐστιν ὁ υἱός Ἰωσὴφ RP</note>
+
+<verse>Luke 4:23</verse>
+<note>23 εἰς τὴν Καφαρναοὺμ WH NA28 ] εἰς Καφαρναοὺμ Treg; ἐν τῇ Καπερναούμ RP</note>
+
+<verse>Luke 4:25</verse>
+<note>25 ἐπὶ NA28 RP ] – WH Treg</note>
+
+<verse>Luke 4:26</verse>
+<note>26 Σιδωνίας WH Treg NA28 ] Σιδῶνος RP</note>
+
+<verse>Luke 4:27</verse>
+<note>27 ἐν τῷ Ἰσραὴλ ἐπὶ … προφήτου WH Treg NA28 ] ἐπὶ … προφήτου ἐν τῷ Ἰσραήλ RP</note>
+
+<verse>Luke 4:29</verse>
+<note>29 ᾠκοδόμητο αὐτῶν ὥστε WH Treg NA28 ] αὐτῶν ᾠκοδόμητο εἰς τὸ RP</note>
+
+<verse>Luke 4:34</verse>
+<note>34 Ἔα WH NA28 ] λέγων Ἔα Treg RP</note>
+
+<verse>Luke 4:35</verse>
+<note>35 ἀπʼ WH Treg NA28 ] ἐξ RP </note>
+<note>• τὸ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 4:38</verse>
+<note>38 ἀπὸ WH Treg NA28 ] ἐκ RP</note>
+
+<verse>Luke 4:40</verse>
+<note>40 ἅπαντες WH NA28 ] πάντες Treg RP </note>
+<note>• ἐπιτιθεὶς ἐθεράπευεν WH Treg NA28 ] ἐπιθεὶς ἐθεράπευσεν RP</note>
+
+<verse>Luke 4:41</verse>
+<note>41 κραυγάζοντα NA28 ] κράζοντα WH Treg RP </note>
+<note>• εἶ WH Treg NA28 ] + ὁ χριστὸς RP</note>
+
+<verse>Luke 4:43</verse>
+<note>43 ἐπὶ WH Treg NA28 ] εἰς RP </note>
+<note>• ἀπεστάλην WH Treg NA28 ] ἀπεστάλμαι RP</note>
+
+<verse>Luke 4:44</verse>
+<note>44 εἰς τὰς συναγωγὰς WH Treg NA28 ] ἐν ταῖς συναγωγαῖς RP </note>
+<note>• Ἰουδαίας WH NA28 ] Γαλιλαίας Treg RP</note>
+
+<verse>Luke 5:1</verse>
+<note>5:1 καὶ WH Treg NA28 ] τοῦ RP</note>
+
+<verse>Luke 5:2</verse>
+<note>2 δύο πλοῖα Treg NA28 RP ] πλοῖα δύο WH </note>
+<note>• ἀπʼ αὐτῶν ἀποβάντες WH Treg NA28 ] ἀποβάντες ἀπʼ αὐτῶν RP </note>
+<note>• ἔπλυνον WH Treg NA28 ] ἀπέπλυναν RP</note>
+
+<verse>Luke 5:3</verse>
+<note>3 ἦν WH Treg NA28 ] + τοῦ RP </note>
+<note>• καθίσας δὲ ἐκ τοῦ πλοίου ἐδίδασκεν WH NA28 ] καὶ καθίσας ἐδίδασκεν ἐκ τοῦ πλοίου Treg RP</note>
+
+<verse>Luke 5:5</verse>
+<note>5 Σίμων WH Treg NA28 ] ὁ Σίμων RP </note>
+<note>• εἶπεν WH NA28 ] + αὐτῷ Treg RP </note>
+<note>• ὅλης WH Treg NA28 ] + τῆς RP </note>
+<note>• τὰ δίκτυα WH Treg NA28 ] τὸ δίκτυον RP</note>
+
+<verse>Luke 5:6</verse>
+<note>6 διερρήσσετο WH Treg NA28 ] διερρήγνυτο RP </note>
+<note>• τὰ δίκτυα WH Treg NA28 ] τὸ δίκτυον RP</note>
+
+<verse>Luke 5:7</verse>
+<note>7 μετόχοις WH Treg NA28 ] + τοῖς RP</note>
+
+<verse>Luke 5:9</verse>
+<note>9 ὧν WH Treg NA28 ] ᾗ RP</note>
+
+<verse>Luke 5:10</verse>
+<note>10 ὁ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 5:11</verse>
+<note>11 πάντα WH Treg NA28 ] ἅπαντα RP</note>
+
+<verse>Luke 5:12</verse>
+<note>12 καὶ ἰδὼν Treg RP ] ἰδὼν δὲ WH NA28</note>
+
+<verse>Luke 5:13</verse>
+<note>13 εἰπών RP ] λέγων WH Treg NA28</note>
+
+<verse>Luke 5:15</verse>
+<note>15 θεραπεύεσθαι WH Treg NA28 ] + ὑπʼ αὐτοῦ RP</note>
+
+<verse>Luke 5:17</verse>
+<note>17 αὐτόν WH NA28 ] αὐτούς Treg RP</note>
+
+<verse>Luke 5:18</verse>
+<note>18 θεῖναι Treg RP ] + αὐτὸν WH NA28</note>
+
+<verse>Luke 5:20</verse>
+<note>20 εἶπεν WH Treg NA28 ] + αὐτῷ RP</note>
+
+<verse>Luke 5:21</verse>
+<note>21 ἁμαρτίας ἀφεῖναι WH Treg NA28 ] ἀφεῖναι ἁμαρτίας RP</note>
+
+<verse>Luke 5:23</verse>
+<note>23 Ἔγειρε WH Treg NA28 ] Ἔγειραι RP</note>
+
+<verse>Luke 5:24</verse>
+<note>24 ὁ υἱὸς τοῦ ἀνθρώπου ἐξουσίαν ἔχει WH Treg NA28 ] ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου RP </note>
+<note>• ἔγειρε WH Treg NA28 ] ἔγειραι RP</note>
+
+<verse>Luke 5:28</verse>
+<note>28 πάντα WH Treg NA28 ] ἅπαντα RP </note>
+<note>• ἠκολούθει WH Treg NA28 ] ἠκολούθησεν RP</note>
+
+<verse>Luke 5:29</verse>
+<note>29 πολὺς τελωνῶν WH Treg NA28 ] τελωνῶν πολὺς RP</note>
+
+<verse>Luke 5:30</verse>
+<note>30 Φαρισαῖοι καὶ οἱ γραμματεῖς αὐτῶν WH Treg NA28 ] γραμματεῖς αὐτῶν καὶ οἱ Φαρισαῖοι RP</note>
+
+<verse>Luke 5:33</verse>
+<note>33 Οἱ WH NA28 ] Διὰ τί οἱ Treg RP</note>
+
+<verse>Luke 5:34</verse>
+<note>34 δὲ RP ] + Ἰησοῦς WH Treg NA28 </note>
+<note>• νηστεῦσαι WH Treg NA28 ] νηστεύειν RP</note>
+
+<verse>Luke 5:36</verse>
+<note>36 ἀπὸ WH Treg NA28 ] – RP </note>
+<note>• σχίσας WH Treg NA28 ] – RP </note>
+<note>• σχίσει WH Treg NA28 ] σχίζει RP </note>
+<note>• συμφωνήσει τὸ ἐπίβλημα WH Treg NA28 ] συμφωνεῖ RP</note>
+
+<verse>Luke 5:37</verse>
+<note>37 οἶνος ὁ νέος WH Treg NA28 ] νέος οἶνος RP</note>
+
+<verse>Luke 5:38</verse>
+<note>38 βλητέον WH NA28 ] + καὶ ἀμφότεροι συντηροῦνται Treg RP</note>
+
+<verse>Luke 5:39</verse>
+<note>39 καὶ Treg NA28 RP ] – WH </note>
+<note>• παλαιὸν WH Treg NA28 ] + εὐθέως RP </note>
+<note>• χρηστός WH Treg NA28 ] χρηστότερός NIV RP</note>
+
+<verse>Luke 6:1</verse>
+<note>6:1 σαββάτῳ WH Treg NA28 ] + δευτεροπρώτῳ RP </note>
+<note>• διὰ WH Treg NA28 ] + τῶν RP </note>
+<note>• καὶ ἤσθιον τοὺς στάχυας WH Treg NA28 ] τοὺς στάχυας καὶ ἤσθιον RP</note>
+
+<verse>Luke 6:2</verse>
+<note>2 εἶπαν WH Treg NA28 ] +αὐτοῖς RP </note>
+<note>• ἔξεστιν WH Treg NA28 ] + ποιεῖν ἐν RP</note>
+
+<verse>Luke 6:3</verse>
+<note>3 ὁπότε RP ] ὅτε WH Treg NA28 </note>
+<note>• ὄντες NA28 RP ] – WH Treg</note>
+
+<verse>Luke 6:4</verse>
+<note>4 ὡς WH Treg RP NA28 ] – NIV </note>
+<note>• λαβὼν WH Treg NA28 ] ἔλαβεν καὶ RP </note>
+<note>• ἔδωκεν WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Luke 6:5</verse>
+<note>5 αὐτοῖς WH NA28 ] + ὅτι Treg RP </note>
+<note>• τοῦ σαββάτου ὁ υἱὸς τοῦ ἀνθρώπου WH NA28 ] ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου Treg RP</note>
+
+<verse>Luke 6:6</verse>
+<note>6 δὲ WH Treg NA28 ] + καὶ RP </note>
+<note>• ἄνθρωπος ἐκεῖ WH Treg NA28 ] ἐκεῖ ἄνθρωπος RP</note>
+
+<verse>Luke 6:7</verse>
+<note>7 παρετηροῦντο WH Treg NA28 ] Παρετήρουν RP </note>
+<note>• δὲ Treg RP ] + αὐτὸν WH NA28 </note>
+<note>• θεραπεύει WH Treg NA28 ] θεραπεύσει RP</note>
+<note>• κατηγορεῖν WH Treg NA28 ] κατηγορίαν RP</note>
+
+<verse>Luke 6:8</verse>
+<note>8 εἶπεν δὲ WH Treg NA28 ] καὶ εἶπεν RP </note>
+<note>• ἀνδρὶ WH Treg NA28 ] ἀνθρώπῳ RP </note>
+<note>• Ἔγειρε WH Treg NA28 ] Ἔγειραι RP </note>
+<note>• καὶ WH Treg NA28 ] Ὁ δὲ RP</note>
+
+<verse>Luke 6:9</verse>
+<note>9 δὲ WH Treg NA28 ] οὖν RP </note>
+<note>• Ἐπερωτῶ WH Treg NA28 ] Ἐπερωτήσω RP </note>
+<note>• εἰ WH Treg NA28 ] τί RP </note>
+<note>• τῷ σαββάτῳ WH Treg NA28 ] τοῖς σάββασιν RP </note>
+<note>• ἀπολέσαι WH Treg NA28 ] ἀποκτεῖναι RP</note>
+
+<verse>Luke 6:10</verse>
+<note>10 αὐτοῦ WH NA28 ] + ὡς ἡ ἄλλη Treg; + ὑγιὴς ὡς ἡ ἄλλη RP</note>
+
+<verse>Luke 6:12</verse>
+<note>12 ἐξελθεῖν αὐτὸν WH Treg NA28 ] ἐξηλθεν RP</note>
+
+<verse>Luke 6:14</verse>
+<note>14 ⸀καὶ WH Treg NA28 ] – RP </note>
+<note>• ⸁καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 6:15</verse>
+<note>15 ⸀καὶ WH Treg NA28 ] – RP </note>
+<note>• ⸁καὶ WH NA28 ] – Treg RP </note>
+<note>• Ἰάκωβον WH Treg NA28 ] + τὸν τοῦ RP</note>
+
+<verse>Luke 6:16</verse>
+<note>16 καὶ WH Treg NA28 ] – RP </note>
+<note>• Ἰσκαριὼθ WH Treg NA28 ] Ἰσκαριώτην RP </note>
+<note>• ὃς WH NA28 ] + καὶ Treg RP</note>
+
+<verse>Luke 6:17</verse>
+<note>17 πολὺς WH NA28 ] – Treg RP</note>
+
+<verse>Luke 6:18</verse>
+<note>18 ἐνοχλούμενοι ἀπὸ WH Treg NA28 ] ὀχλούμενοι ὑπὸ RP </note>
+<note>• ἀκαθάρτων WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Luke 6:19</verse>
+<note>19 ἐζήτουν WH Treg NA28 ] ἐζήτει RP</note>
+
+<verse>Luke 6:23</verse>
+<note>23 τὰ αὐτὰ WH Treg NA28 ] ταῦτα RP</note>
+
+<verse>Luke 6:25</verse>
+<note>25 νῦν WH Treg NA28 ] – RP </note>
+<note>• οὐαί WH Treg NA28 ] + ὑμῖν RP</note>
+
+<verse>Luke 6:26</verse>
+<note>26 καλῶς ὑμᾶς WH Treg RP ] ὑμᾶς καλῶς NA28 </note>
+<note>• πάντες WH Treg NA28 ] – RP </note>
+<note>• τὰ αὐτὰ WH Treg NA28 ] ταῦτα RP</note>
+
+<verse>Luke 6:28</verse>
+<note>28 ὑμᾶς WH Treg NA28 ] ὑμῖν RP </note>
+<note>• περὶ WH NA28 ] ὑπὲρ Treg RP</note>
+
+<verse>Luke 6:30</verse>
+<note>30 παντὶ WH NA28 ] + δὲ τῷ Treg RP</note>
+
+<verse>Luke 6:31</verse>
+<note>31 ἄνθρωποι WH NA28 ] + καὶ ὑμεῖς Treg RP</note>
+
+<verse>Luke 6:33</verse>
+<note>33 ⸀καὶ Treg NIV RP ] + γὰρ WH NA28 </note>
+<note>• ⸁καὶ WH NA28 ] + γὰρ Treg RP</note>
+
+<verse>Luke 6:34</verse>
+<note>34 δανίσητε WH NA28 ] δανείζετε Treg; δανείζητε RP </note>
+<note>• λαβεῖν WH Treg NA28 ] ἀπολαβεῖν RP </note>
+<note>• καὶ WH NA28 ] + γὰρ Treg RP</note>
+
+<verse>Luke 6:36</verse>
+<note>36 γίνεσθε WH Treg NA28 ] + οὖν RP </note>
+<note>• καθὼς WH NIV ] + καὶ Treg RP NA28</note>
+
+<verse>Luke 6:37</verse>
+<note>37 καὶ WH NA28 ] – Treg RP</note>
+
+<verse>Luke 6:38</verse>
+<note>38 σεσαλευμένον WH Treg NA28 ] καὶ σεσαλευμένον καὶ RP </note>
+<note>• ᾧ γὰρ μέτρῳ WH Treg NA28 ] Τᾧ γὰρ αὐτῷ μέτρῳ ᾧ RP</note>
+
+<verse>Luke 6:39</verse>
+<note>39 καὶ WH Treg NA28 ] – RP </note>
+<note>• ἐμπεσοῦνται WH Treg NA28 ] πεσοῦνται RP</note>
+
+<verse>Luke 6:40</verse>
+<note>40 διδάσκαλον WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>Luke 6:42</verse>
+<note>42 πῶς WH NA28 ] ἢ πῶς Treg RP </note>
+<note>• τὸ κάρφος … σου ἐκβαλεῖν WH NA28 ] ἐκβαλεῖν τὸ κάρφος … σου Treg RP</note>
+
+<verse>Luke 6:43</verse>
+<note>43 πάλιν WH Treg NA28 ] – RP</note>
+
+<verse>Luke 6:44</verse>
+<note>44 σταφυλὴν τρυγῶσιν WH Treg NA28 ] τρυγῶσιν σταφυλήν RP</note>
+
+<verse>Luke 6:45</verse>
+<note>45 αὐτοῦ Treg RP ] – WH NA28 </note>
+<note>• πονηρὸς WH Treg NA28 ] + ἄνθρωπος RP </note>
+<note>• πονηροῦ WH Treg NA28 ] + θησαυροῦ τῆς καρδίας αὑτοῦ NIV RP </note>
+<note>• περισσεύματος WH Treg NA28 ] τοῦ περισσεύματος τῆς RP</note>
+
+<verse>Luke 6:48</verse>
+<note>48 διὰ τὸ καλῶς οἰκοδομῆσθαι αὐτήν WH Treg NA28 ] τεθεμελίωτο γὰρ ἐπὶ τὴν πέτραν RP</note>
+
+<verse>Luke 6:49</verse>
+<note>49 εὐθὺς συνέπεσεν WH Treg NA28 ] εὐθὲως ἔπεσεν RP</note>
+
+<verse>Luke 7:1</verse>
+<note>7:1 Ἐπειδὴ WH Treg NA28 ] Ἐπει δὲ RP</note>
+
+<verse>Luke 7:4</verse>
+<note>4 παρέξῃ WH Treg NA28 ] παρέξει RP</note>
+
+<verse>Luke 7:6</verse>
+<note>6 φίλους ὁ ἑκατοντάρχης WH NA28 ] πρὸς  αὐτὸν φίλους ὁ  ἑκατόνταρχος Treg; πρὸς αὐτὸν  ὁ ἑκατόνταρχος φίλους RP </note>
+<note>• ἱκανός εἰμι WH Treg NA28 ] εἰμι ἱκανός RP</note>
+
+<verse>Luke 7:7</verse>
+<note>7 ἰαθήτω WH Treg NA28 ] ἰαθήσεται RP</note>
+
+<verse>Luke 7:9</verse>
+<note>9 οὐδὲ WH Treg NA28 ] οὔτε RP</note>
+
+<verse>Luke 7:10</verse>
+<note>10 εἰς τὸν οἶκον οἱ πεμφθέντες WH Treg NA28 ] οἱ πεμφθέντες εἰς τὸν οἶκον RP </note>
+<note>• τὸν WH Treg NA28 ] + ἀσθενοῦντα RP</note>
+
+<verse>Luke 7:11</verse>
+<note>11 ἐπορεύθη WH NA28 ] ἐπορεύετο Treg RP </note>
+<note>• αὐτοῦ WH Treg NA28 ] + ἱκανοί RP</note>
+
+<verse>Luke 7:12</verse>
+<note>12 μονογενὴς υἱὸς WH Treg NA28 ] υἱὸς μονογενὴς RP </note>
+<note>• ⸀ἦν WH Treg NA28 ] – RP </note>
+<note>• ⸁ἦν WH Treg NA28 ] – RP</note>
+
+<verse>Luke 7:16</verse>
+<note>16 ἠγέρθη WH Treg NA28 ] ἐγήγερται RP</note>
+
+<verse>Luke 7:17</verse>
+<note>17 καὶ WH NA28 ] + ἐν Treg RP</note>
+
+<verse>Luke 7:19</verse>
+<note>19 κύριον WH Treg NA28 ] Ἰησοῦν RP </note>
+<note>• ἄλλον NA28 RP ] ἕτερον WH Treg</note>
+
+<verse>Luke 7:20</verse>
+<note>20 ἀπέστειλεν WH NA28 ] ἀπέσταλκεν Treg RP</note>
+
+<verse>Luke 7:21</verse>
+<note>21 ἐκείνῃ WH Treg NA28 ] αὐτῇ δὲ RP </note>
+<note>• ἐχαρίσατο WH Treg NA28 ] + τὸ RP</note>
+
+<verse>Luke 7:22</verse>
+<note>22 ἀποκριθεὶς WH Treg NA28 ] + ὁ Ἰησοῦς RP </note>
+<note>• τυφλοὶ WH NA28 ] ὅτι τυφλοὶ Treg RP </note>
+<note>• κωφοὶ Treg RP ] καὶ κωφοὶ WH NA28</note>
+
+<verse>Luke 7:24</verse>
+<note>24 πρὸς τοὺς ὄχλους WH Treg NA28 ] τοῖς ὄχλοις RP </note>
+<note>• ἐξήλθατε WH Treg NA28 ] ἐξεληλύθατε RP</note>
+
+<verse>Luke 7:25</verse>
+<note>25 ἐξήλθατε WH Treg NA28 ] ἐξεληλύθατε RP</note>
+
+<verse>Luke 7:26</verse>
+<note>26 ἐξήλθατε WH Treg NA28 ] ἐξεληλύθατε RP</note>
+
+<verse>Luke 7:27</verse>
+<note>27 Ἰδοὺ WH Treg NA28 ] + ἐγώ RP</note>
+
+<verse>Luke 7:28</verse>
+<note>28 λέγω WH Treg NA28 ] + γὰρ RP </note>
+<note>• Ἰωάννου WH NA28 ] προφήτης Ἰωάννου Treg; προφήτης Ἰωάννου τοῦ βαπτιστοῦ RP</note>
+
+<verse>Luke 7:32</verse>
+<note>32 ἃ λέγει WH NA28 ] λέγοντες Treg; καὶ λέγουσιν RP </note>
+<note>• ἐθρηνήσαμεν WH Treg NA28 ] + ὑμῖν RP</note>
+
+<verse>Luke 7:33</verse>
+<note>33 μὴ WH NA28 ] μήτε Treg RP </note>
+<note>• ἐσθίων ἄρτον μήτε πίνων οἶνον WH Treg NA28 ] ἄρτον ἐσθίων μὴτὲ οἶνον πίνων RP</note>
+
+<verse>Luke 7:35</verse>
+<note>35 πάντων τῶν τέκνων αὐτῆς WH Treg NA28 ] τῶν τέκνων αὐτῆς πάντων RP</note>
+
+<verse>Luke 7:36</verse>
+<note>36 τὸν οἶκον WH Treg NA28 ] τὴν οἶκὶαν RP </note>
+<note>• κατεκλίθη WH Treg NA28 ] ἀνεκλίθη RP</note>
+
+<verse>Luke 7:37</verse>
+<note>37 ἥτις ἦν ἐν τῇ πόλει WH Treg NA28 ] ἐν τῇ πόλει ἥτις ἦν RP </note>
+<note>• καὶ WH Treg NA28 ] – RP </note>
+<note>• κατάκειται WH Treg NA28 ] ἀνάκειται RP</note>
+
+<verse>Luke 7:38</verse>
+<note>38 ὀπίσω παρὰ … αὐτοῦ WH Treg NA28 ] παρὰ … αὐτοῦ ὀπίσω RP </note>
+<note>• τοῖς δάκρυσιν ἤρξατο … αὐτοῦ WH Treg NA28 ] ἤρξατο … αὐτοῦ τοῖς δάκρυσιν RP</note>
+
+<verse>Luke 7:39</verse>
+<note>39 ἦν Treg NA28 RP ] + ὁ WH</note>
+
+<verse>Luke 7:40</verse>
+<note>40 Διδάσκαλε εἰπέ φησίν WH Treg NA28 ] φησίν Διδάσκαλε εἰπέ RP</note>
+
+<verse>Luke 7:42</verse>
+<note>42 ἐχόντων WH Treg NA28 ] + δὲ RP </note>
+<note>• αὐτῶν WH Treg NA28 ] + εἶπέ RP </note>
+<note>• ἀγαπήσει αὐτόν WH Treg NA28 ] αὐτὸν ἀγαπήσει RP</note>
+
+<verse>Luke 7:43</verse>
+<note>43 ἀποκριθεὶς WH NA28 ] + ὁ Treg; + δὲ ὁ RP</note>
+
+<verse>Luke 7:44</verse>
+<note>44 μοι WH Treg NA28 ] – RP </note>
+<note>• πόδας WH Treg NA28 ] τοὺς πόδας μου RP </note>
+<note>• θριξὶν WH Treg NA28 ] + τὴς κεφαλῆς RP</note>
+
+<verse>Luke 7:46</verse>
+<note>46 τοὺς πόδας μου WH Treg NA28 ] μου τοὺς πόδας RP</note>
+
+<verse>Luke 8:3</verse>
+<note>8:3 ἐκ WH Treg NA28 ] ἀπὸ RP</note>
+
+<verse>Luke 8:6</verse>
+<note>6 κατέπεσεν WH Treg NA28 ] ἔπεσεν RP</note>
+
+<verse>Luke 8:9</verse>
+<note>9 αὐτοῦ WH Treg NA28 ] + λέγοντες RP </note>
+<note>• αὕτη εἴη ἡ παραβολή WH NA28 ] εἴη ἡ παραβολὴ αὕτη Treg RP</note>
+
+<verse>Luke 8:12</verse>
+<note>12 ἀκούσαντες WH Treg NA28 ] ἀκούοντες RP</note>
+
+<verse>Luke 8:16</verse>
+<note>16 τίθησιν WH Treg NA28 ] ἐπιτίθησιν RP</note>
+
+<verse>Luke 8:17</verse>
+<note>17 μὴ γνωσθῇ WH Treg NA28 ] γνωσθήσεται RP</note>
+
+<verse>Luke 8:18</verse>
+<note>18 ἂν γὰρ WH Treg NA28 ] γὰρ ἐὰν RP </note>
+<note>• ἂν WH Treg NA28 ] ἐὰν RP</note>
+
+<verse>Luke 8:19</verse>
+<note>19 Παρεγένετο WH Treg NA28 ] Παρεγένοντο RP</note>
+
+<verse>Luke 8:20</verse>
+<note>20 ἀπηγγέλη δὲ WH Treg NA28 ] Καὶ ἀπηγγέλη RP </note>
+<note>• αὐτῷ WH Treg NA28 ] + λέγοντων RP </note>
+<note>• σε θέλοντες RP ] θέλοντές σε WH Treg NA28</note>
+
+<verse>Luke 8:21</verse>
+<note>21 ποιοῦντες WH Treg NA28 ] + αὐτόν RP</note>
+
+<verse>Luke 8:22</verse>
+<note>22 Ἐγένετο δὲ WH Treg NA28 ] Καὶ ἐγένετο RP</note>
+
+<verse>Luke 8:24</verse>
+<note>24 διεγερθεὶς WH Treg NA28 ] ἐγερθεὶς RP</note>
+
+<verse>Luke 8:25</verse>
+<note>25 Ποῦ WH Treg NA28 ] + ἐστιν RP</note>
+
+<verse>Luke 8:26</verse>
+<note>26 Γερασηνῶν WH Treg NA28 ] Γαδαρηνῶν RP</note>
+
+<verse>Luke 8:27</verse>
+<note>27 ὑπήντησεν WH NA28 ] + αὐτῷ Treg RP </note>
+<note>• ἔχων WH NA28 ] ὃς εἶχεν Treg RP </note>
+<note>• καὶ χρόνῳ ἱκανῷ οὐκ ἐνεδύσατο ἱμάτιον WH Treg NA28 ] ἐκ χρόνων ἱκανῶν καὶ ἱμάτιον οὐκ ἐνεδιδύσκετο RP</note>
+
+<verse>Luke 8:28</verse>
+<note>28 Ἰησοῦν WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Luke 8:29</verse>
+<note>29 παρήγγελλεν WH Treg ] παρήγγειλεν NA28 RP </note>
+<note>• ἐδεσμεύετο WH Treg NA28 ] ἐδεσμεῖτο RP </note>
+<note>• ὑπὸ Treg NA28 RP ] ἀπὸ WH </note>
+<note>• δαιμονίου WH Treg NA28 ] δαίμονος RP</note>
+
+<verse>Luke 8:30</verse>
+<note>30 Ἰησοῦς WH NA28 ] + λέγων Treg RP </note>
+<note>• ὄνομά ἐστιν WH Treg NA28 ] ἐστιν ὄνομα RP </note>
+<note>• εἰσῆλθεν δαιμόνια πολλὰ WH NA28 ] δαιμόνια πολλὰ εἰσῆλθεν Treg RP</note>
+
+<verse>Luke 8:31</verse>
+<note>31 παρεκάλουν WH Treg NA28 ] παρεκάλει RP</note>
+
+<verse>Luke 8:32</verse>
+<note>32 βοσκομένη WH NA28 ] βοσκομένων Treg RP </note>
+<note>• παρεκάλεσαν WH Treg NA28 ] παρεκάλουν RP</note>
+
+<verse>Luke 8:34</verse>
+<note>34 γεγονὸς WH Treg NA28 ] γεγενημένον RP</note>
+
+<verse>Luke 8:35</verse>
+<note>35 ἐξῆλθεν WH NA28 ] ἐξεληλύθει Treg RP</note>
+
+<verse>Luke 8:36</verse>
+<note>36 αὐτοῖς WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Luke 8:37</verse>
+<note>37 ἠρώτησεν WH Treg NA28 ] ἠρώτησαν RP </note>
+<note>• Γερασηνῶν WH Treg NA28 ] Γαδαρηνῶν RP </note>
+<note>• εἰς WH Treg NA28 ] + τὸ RP</note>
+
+<verse>Luke 8:38</verse>
+<note>38 αὐτὸν WH Treg NA28 ] + ὁ Ἰησοῦς RP</note>
+
+<verse>Luke 8:39</verse>
+<note>39 σοι ἐποίησεν WH Treg NA28 ] ἐποίησεν σοι RP</note>
+
+<verse>Luke 8:40</verse>
+<note>40 Ἐν δὲ WH Treg NA28 ] Ἐγένετο δὲ ἐν RP </note>
+<note>• ὑποστρέφειν WH NA28 ] ὑποστρέψαι Treg RP</note>
+
+<verse>Luke 8:41</verse>
+<note>41 οὗτος WH Treg NA28 ] αὐτὸς RP </note>
+<note>• τοῦ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 8:43</verse>
+<note>43 ἰατροῖς προσαναλώσασα ὅλον τὸν βίον Treg RP NA28 ] – WH NIV </note>
+<note>• ἀπʼ WH Treg NA28 ] ὑπʼ RP</note>
+
+<verse>Luke 8:45</verse>
+<note>45 Πέτρος WH NA28 ] + καὶ οἱ σὺν αὐτῷ Treg; + καὶ οἱ μετʼ αὐτοῦ RP </note>
+<note>•  ἀποθλίβουσιν WH NA28 ] + καὶ λέγεις Τίς ὁ ἁψάμενός μου Treg RP</note>
+
+<verse>Luke 8:46</verse>
+<note>46 ἐξεληλυθυῖαν WH Treg NA28 ] ἐξελθοῦσαν RP</note>
+
+<verse>Luke 8:47</verse>
+<note>47 ἀπήγγειλεν WH Treg NA28 ] + αὐτῷ RP</note>
+
+<verse>Luke 8:48</verse>
+<note>48 Θυγάτηρ WH Treg NA28 ] Θάρσει θύγατερ RP</note>
+
+<verse>Luke 8:49</verse>
+<note>49 λέγων WH NA28 ] + αὐτῷ Treg RP </note>
+<note>• μηκέτι WH Treg NA28 ] μὴ RP</note>
+
+<verse>Luke 8:50</verse>
+<note>50 αὐτῷ WH Treg NA28 ] + λέγων RP </note>
+<note>• πίστευσον WH Treg NA28 ] πίστευε RP</note>
+
+<verse>Luke 8:51</verse>
+<note>51 τινα σὺν αὐτῷ WH Treg NA28 ] οὐδένα RP</note>
+
+<verse>Luke 8:52</verse>
+<note>52 οὐ γὰρ WH Treg NA28 ] οὐκ RP</note>
+
+<verse>Luke 8:54</verse>
+<note>54 δὲ WH Treg NA28 ] + ἐκβαλὼν ἔξω πάντας καὶ RP </note>
+<note>• ἔγειρε WH Treg NA28 ] ἔγειρου RP</note>
+
+<verse>Luke 9:2</verse>
+<note>9:2 τοὺς ἀσθενεῖς Treg NA28 ] – WH; τοὺς ἀσθενοῦντας RP</note>
+
+<verse>Luke 9:3</verse>
+<note>3 ῥάβδον WH Treg NA28 ] ῥάβδους RP </note>
+<note>• ἀνὰ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 9:5</verse>
+<note>5 ἂν WH Treg NA28 ] ἐάν RP </note>
+<note>• δέχωνται WH Treg NA28 ] δέξωνται RP </note>
+<note>• ἐκείνης WH Treg NA28 ] + καὶ RP </note>
+<note>• ἀποτινάσσετε WH NA28 ] ἀποτινάξατε Treg RP</note>
+
+<verse>Luke 9:7</verse>
+<note>7 γινόμενα WH Treg NA28 ] + ὑπʼ αὐτοῦ RP </note>
+<note>• ἠγέρθη WH Treg NA28 ] ἐγήγερται RP</note>
+
+<verse>Luke 9:8</verse>
+<note>8 τις WH Treg NA28 ] εἷς RP</note>
+
+<verse>Luke 9:9</verse>
+<note>9 εἶπεν δὲ WH Treg NA28 ] Καὶ εἶπεν RP </note>
+<note>• ὁ WH RP ] – Treg NA28 </note>
+<note>• οὗ WH NA28 ] + ἐγὼ Treg RP</note>
+
+<verse>Luke 9:10</verse>
+<note>10 πόλιν καλουμένην Βηθσαϊδά WH Treg NA28 ] τόπον ἔρημον πόλεως καλουμένης Βηθσαϊδάν RP</note>
+
+<verse>Luke 9:11</verse>
+<note>11 ἀποδεξάμενος WH Treg NA28 ] δεξάμενος RP</note>
+
+<verse>Luke 9:12</verse>
+<note>12 πορευθέντες WH Treg NA28 ] ἀπελθόντες RP </note>
+<note>• καὶ WH NA28 ] + τοὺς Treg RP</note>
+
+<verse>Luke 9:13</verse>
+<note>13 ὑμεῖς φαγεῖν Treg NA28 RP ] φαγεῖν ὑμεῖς WH </note>
+<note>• ἄρτοι πέντε WH NA28 ] πέντε ἄρτοι Treg RP</note>
+
+<verse>Luke 9:14</verse>
+<note>14 ὡσεὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 9:15</verse>
+<note>15 κατέκλιναν WH Treg NA28 ] ἀνέκλιναν RP</note>
+
+<verse>Luke 9:16</verse>
+<note>16 παραθεῖναι WH Treg NA28 ] παρατιθέναι RP</note>
+
+<verse>Luke 9:18</verse>
+<note>18 οἱ ὄχλοι λέγουσιν WH Treg ] λέγουσιν οἱ ὄχλοι NA28 RP</note>
+
+<verse>Luke 9:20</verse>
+<note>20 Πέτρος δὲ ἀποκριθεὶς WH Treg NA28 ] Ἀποκριθεὶς δὲ ὁ Πέτρος RP</note>
+
+<verse>Luke 9:21</verse>
+<note>21 λέγειν WH Treg NA28 ] εἰπεῖν RP</note>
+
+<verse>Luke 9:22</verse>
+<note>22 ἐγερθῆναι WH Treg NA28 ] ἀναστῆναι RP</note>
+
+<verse>Luke 9:23</verse>
+<note>23 ἔρχεσθαι ἀρνησάσθω WH Treg NA28 ] ἐλθεῖν ἀπαρνησάσθω RP </note>
+<note>• καθʼ ἡμέραν WH Treg NA28 ] – RP</note>
+
+<verse>Luke 9:24</verse>
+<note>24 ἂν WH Treg NA28 ] ἐὰν RP</note>
+
+<verse>Luke 9:27</verse>
+<note>27 αὐτοῦ WH Treg NA28 ] ὧδε RP </note>
+<note>• ἑστηκότων WH NA28 ] ἑστώτων Treg RP</note>
+
+<verse>Luke 9:28</verse>
+<note>28 καὶ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 9:33</verse>
+<note>33 ὁ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 9:34</verse>
+<note>34 ἐπεσκίαζεν WH Treg NA28 ] ἐπεσκίασεν RP </note>
+<note>• εἰσελθεῖν αὐτοὺς WH Treg NA28 ] ἐκείνους εἰσελθεῖν RP</note>
+
+<verse>Luke 9:35</verse>
+<note>35 ἐκλελεγμένος WH Treg NA28 ] ἀγαπητός RP</note>
+
+<verse>Luke 9:36</verse>
+<note>36 εὑρέθη WH Treg NA28 ] + ὁ RP</note>
+
+<verse>Luke 9:37</verse>
+<note>37 δὲ WH NA28 ] + ἐν Treg RP</note>
+
+<verse>Luke 9:38</verse>
+<note>38 ἐβόησεν WH Treg NA28 ] ἀνεβόησεν RP </note>
+<note>• μοί ἐστιν WH Treg NA28 ] ἐστίν μοι RP</note>
+
+<verse>Luke 9:39</verse>
+<note>39 μόγις Treg NA28 RP ] μόλις WH</note>
+
+<verse>Luke 9:41</verse>
+<note>41 ὧδε τὸν υἱόν σου WH Treg NA28 ] τὸν υἱόν σου ὧδε RP</note>
+
+<verse>Luke 9:43</verse>
+<note>43 ἐποίει WH Treg NA28 ] ἐποίησεν ὁ Ἰησοῦς RP</note>
+
+<verse>Luke 9:47</verse>
+<note>47 εἰδὼς WH NA28 ] ἰδὼν Treg RP </note>
+<note>• παιδίον WH Treg NA28 ] παιδίου RP</note>
+
+<verse>Luke 9:48</verse>
+<note>48 ⸀ἂν WH ] ἐὰν Treg NA28 RP </note>
+<note>• ⸁ἂν WH NA28 ] ἐὰν Treg RP </note>
+<note>• ἐστιν WH Treg NA28 ] ἔσται RP</note>
+
+<verse>Luke 9:49</verse>
+<note>49 δὲ WH Treg NA28 ] + ὁ RP </note>
+<note>• ἐν WH Treg NA28 ] ἐπὶ RP </note>
+<note>• ἐκωλύομεν WH NA28 ] ἐκωλύσαμεν Treg RP</note>
+
+<verse>Luke 9:50</verse>
+<note>50 εἶπεν δὲ WH Treg NA28 ] Καὶ εἶπεν RP </note>
+<note>• ὁ Treg NA28 RP ] – WH </note>
+<note>• ὑμῶν … ὑμῶν WH Treg NA28 ] ἡμῶν … ἡμῶν RP</note>
+
+<verse>Luke 9:51</verse>
+<note>51 πρόσωπον WH NA28 ] + αὐτοῦ Treg RP </note>
+<note>• ἐστήρισεν WH Treg NA28 ] ἐστήριξεν RP</note>
+
+<verse>Luke 9:52</verse>
+<note>52 ὡς WH NA28 ] ὥστε Treg RP</note>
+
+<verse>Luke 9:54</verse>
+<note>54 μαθηταὶ WH NA28 ] + αὐτοῦ Treg RP </note>
+<note>• αὐτούς WH Treg NA28 ] + ὡς καὶ Ἠλίας ἐποίησεν RP</note>
+
+<verse>Luke 9:55</verse>
+<note>55 αὐτοῖς WH Treg NA28 ] αὐτοῖς, καὶ εἶπεν, Οὐκ οἰδατε οἵου πνεύματός ἐστε ὑμεῖς RP</note>
+
+<verse>Luke 9:56</verse>
+<note>56 καὶ WH Treg NA28 ] ὁ γὰρ ὑιὸς τοῦ ἀνθρώπου οὐκ ἦλθεν ψυχὰς ἀνθρώπων ἀπολέσαι, ἀλλὰ σῶσαι. Καὶ RP</note>
+
+<verse>Luke 9:57</verse>
+<note>57 Καὶ WH Treg NA28 ] Ἐγένετο δὲ RP </note>
+<note>• ἐὰν WH Treg NA28 ] ἂν RP </note>
+<note>• ἀπέρχῃ WH Treg NA28 ] + κύριε RP</note>
+
+<verse>Luke 9:59</verse>
+<note>59 Κύριε Treg NA28 RP ] – WH </note>
+<note>• ἀπελθόντι πρῶτον NA28 RP ] πρῶτον ἀπελθόντι WH Treg</note>
+
+<verse>Luke 9:60</verse>
+<note>60 αὐτῷ WH Treg NA28 ] + ὁ Ἰησοῦς RP</note>
+
+<verse>Luke 9:62</verse>
+<note>62 ὁ Ἰησοῦς NIV ] πρὸς αὐτὸν ὁ Ἰησοῦς WH NA28; ὁ Ἰησοῦς πρὸς αὐτὸν Treg RP </note>
+<note>• χεῖρα WH NA28 ] + αὐτοῦ Treg RP </note>
+<note>• τῇ βασιλείᾳ WH Treg NA28 ] εἰς τὴν βασιλείαν RP</note>
+
+<verse>Luke 10:1</verse>
+<note>10:1 καὶ Treg RP ] – WH NA28 </note>
+<note>• ⸀δύο WH NA28 ] – Treg RP </note>
+<note>• ⸁δύο WH NA28 ] – Treg RP</note>
+
+<verse>Luke 10:2</verse>
+<note>2 δὲ WH Treg NA28 ] οὖν RP </note>
+<note>• ἐργάτας ἐκβάλῃ WH Treg NA28 ] ἐκβάλῃ ἐργάτας RP</note>
+
+<verse>Luke 10:3</verse>
+<note>3 ἰδοὺ WH Treg NA28 ] + ἐγὼ RP</note>
+
+<verse>Luke 10:4</verse>
+<note>4 μὴ WH Treg NA28 ] μηδὲ RP</note>
+
+<verse>Luke 10:5</verse>
+<note>5 εἰσέλθητε οἰκίαν WH Treg NA28 ] οἰκίαν εἰσέρχησθε RP</note>
+
+<verse>Luke 10:6</verse>
+<note>6 ᾖ ἐκεῖ Treg RP ] ἐκεῖ ᾖ WH NA28 </note>
+
+<verse>Luke 10:7</verse>
+<note>7 αὐτοῦ WH Treg NA28 ] + ἐστίν RP</note>
+
+<verse>Luke 10:10</verse>
+<note>10 εἰσέλθητε WH Treg NA28 ] εἰσέρχησθε RP</note>
+
+<verse>Luke 10:11</verse>
+<note>11 εἰς τοὺς πόδας WH Treg NA28 ] – RP </note>
+<note>• ἤγγικεν WH Treg NA28 ] + ἐφʼ ὑμᾶς RP</note>
+
+<verse>Luke 10:13</verse>
+<note>13 ἐγενήθησαν WH Treg NA28 ] ἐγένοντο RP </note>
+<note>• καθήμενοι WH Treg NA28 ] καθήμεναι RP</note>
+
+<verse>Luke 10:15</verse>
+<note>15 μὴ ἕως οὐρανοῦ ὑψωθήσῃ WH Treg NA28 ] ἡ ἕως τοῦ οὐρανοῦ ὑψωθεῖσα RP </note>
+<note>• τοῦ WH Treg NA28 ] – RP </note>
+<note>• καταβιβασθήσῃ Treg RP ] καταβήσῃ WH NA28</note>
+
+<verse>Luke 10:17</verse>
+<note>17 δύο WH NA28 ] – Treg RP</note>
+
+<verse>Luke 10:19</verse>
+<note>19 δέδωκα WH Treg NA28 ] δίδωμι RP </note>
+<note>• ἀδικήσῃ NA28 RP ] ἀδικήσει WH Treg</note>
+
+<verse>Luke 10:20</verse>
+<note>20 ἐγγέγραπται WH Treg NA28 ] ἐγράφη RP</note>
+
+<verse>Luke 10:21</verse>
+<note>21 τῷ WH Treg RP ] ἐν τῷ NA28 </note>
+<note>• τῷ ἁγίῳ WH Treg NA28 ] ὁ Ἰησοῦς RP </note>
+<note>• εὐδοκία ἐγένετο WH Treg NA28 ] ἐγένετο εὐδοκία RP</note>
+
+<verse>Luke 10:22</verse>
+<note>22 πάντα WH Treg NA28 ] Καὶ στραφείς πρός τούς μαθητάς εἶπεν πάντα RP </note>
+<note>• ἐὰν NA28 RP ] ἂν WH Treg</note>
+
+<verse>Luke 10:25</verse>
+<note>25 αὐτὸν WH NA28 ] + καὶ Treg RP</note>
+
+<verse>Luke 10:27</verse>
+<note>27 τῆς Treg NA28 RP ] – WH </note>
+<note>• ἐν ὅλῃ τῇ ψυχῇ WH Treg NA28 ] ἐξ ὅλης τῆς ψυχῆς RP </note>
+<note>• ἐν ὅλῃ τῇ ἰσχύϊ WH Treg NA28 ] ἐξ ὅλης τῆς ἰσχύος RP </note>
+<note>• ἐν ὅλῃ τῇ διανοίᾳ WH Treg NA28 ] ἐξ ὅλης τῆς διανοίας RP</note>
+
+<verse>Luke 10:29</verse>
+<note>29 δικαιῶσαι WH Treg NA28 ] δικαιοῦν RP</note>
+
+<verse>Luke 10:30</verse>
+<note>30 δὲ RP ] – WH Treg NA28 </note>
+<note>• ἡμιθανῆ WH Treg NA28 ] + τυγχάνοντα RP</note>
+
+<verse>Luke 10:32</verse>
+<note>32 Λευίτης WH Treg ] + γενόμενος NA28 RP</note>
+
+<verse>Luke 10:33</verse>
+<note>33 ἰδὼν WH NA28 ] + αὐτὸν Treg RP</note>
+
+<verse>Luke 10:35</verse>
+<note>35 αὔριον WH Treg NA28 ] + ἐξελθών RP </note>
+<note>• δύο δηνάρια ἔδωκεν WH Treg RP ] ἔδωκεν δύο δηνάρια NA28 </note>
+<note>• εἶπεν WH Treg NA28 ] + αὐτῷ RP</note>
+
+<verse>Luke 10:36</verse>
+<note>36 τίς WH NA28 ] + οὖν Treg RP</note>
+
+<verse>Luke 10:37</verse>
+<note>37 δὲ WH Treg NA28 ] οὖν RP</note>
+
+<verse>Luke 10:38</verse>
+<note>38 Ἐν δὲ WH Treg NA28 ] Ἐγένετο δὲ ἐν RP </note>
+<note>• αὐτοὺς WH NA28 ] + καὶ Treg RP </note>
+<note>• αὐτὸν NA28 ] αὐτὸν εἰς τὴν οἰκίαν WH; αὐτὸν εἰς τὸν οἶκον αὐτῆς Treg RP</note>
+
+<verse>Luke 10:39</verse>
+<note>39 Μαριάμ WH NA28 ] Μαρία Treg RP </note>
+<note>• παρακαθεσθεῖσα πρὸς WH Treg NA28 ] παρακαθίσασα παρὰ RP </note>
+<note>• Ἰησοῦ RP ] κυρίου WH Treg NA28</note>
+
+<verse>Luke 10:40</verse>
+<note>40 κατέλειπεν WH Treg RP ] κατέλιπεν NA28 </note>
+<note>• εἰπὲ Treg NA28 RP ] εἰπὸν WH</note>
+
+<verse>Luke 10:41</verse>
+<note>41 κύριος WH NA28 ] Ἰησοῦς Treg RP </note>
+<note>• θορυβάζῃ WH Treg NA28 ] τυρβάζῃ RP</note>
+
+<verse>Luke 10:42</verse>
+<note>42 ὀλίγων δέ ἐστιν χρεία ἢ ἑνός WH ] ἑνὸς δέ ἐστιν χρεία Treg RP NA28 </note>
+<note>• Μαριὰμ γὰρ WH NA28 ] Μαρία δὲ Treg RP </note>
+<note>• αὐτῆς WH NA28 ] ἀπʼ αὐτῆς Treg RP</note>
+
+<verse>Luke 11:2</verse>
+<note>11:2 Πάτερ WH Treg NA28 ] + ἡμῶν ὁ ἐν τοῖς οὐρανοις RP </note>
+<note>• σου WH Treg NA28 ] + Γενηθήτω τὸ θέλημά σου ὡς ἐν οὐρανῳ καὶ ἐπὶ τῆς γῆς RP</note>
+
+<verse>Luke 11:4</verse>
+<note>4 πειρασμόν WH Treg NA28 ] + ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ RP</note>
+
+<verse>Luke 11:6</verse>
+<note>6 μου WH Treg NA28 ] – RP</note>
+
+<verse>Luke 11:8</verse>
+<note>8 φίλον αὐτοῦ WH Treg NA28 ] αὐτοῦ φίλον RP </note>
+<note>• ὅσων WH Treg NA28 ] ὅσον RP</note>
+
+<verse>Luke 11:11</verse>
+<note>11 ἐξ WH Treg NA28 ] – RP </note>
+<note>• υἱὸς WH NA28 ] + ἄρτον μὴ λίθον ἐπιδώσει αὐτῷ ἢ καὶ Treg RP </note>
+<note>• καὶ NA28 ] μὴ WH Treg RP </note>
+<note>• αὐτῷ ἐπιδώσει WH Treg NA28 ] ἐπιδώσει αὐτῷ RP</note>
+
+<verse>Luke 11:12</verse>
+<note>12 αἰτήσει WH Treg NA28 ] ἐὰν αἰτήσῃ RP </note>
+<note>• ἐπιδώσει WH NA28 ] μὴ ἐπιδώσει Treg RP</note>
+
+<verse>Luke 11:14</verse>
+<note>14 δαιμόνιον WH ] + καὶ αὐτὸ ἦν Treg NA28 RP</note>
+
+<verse>Luke 11:15</verse>
+<note>15 τῷ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 11:16</verse>
+<note>16 ἐξ οὐρανοῦ ἐζήτουν παρʼ αὐτοῦ WH Treg NA28 ] παρʼ αὐτοῦ ἐζήτουν ἐξ οὐρανοῦ RP</note>
+
+<verse>Luke 11:19</verse>
+<note>19 αὐτοὶ ὑμῶν κριταὶ WH NA28 ] αὐτοὶ κριταὶ ὑμῶν Treg; κριταὶ ὑμῶν αὐτοὶ RP</note>
+
+<verse>Luke 11:20</verse>
+<note>20 θεοῦ RP ] + ἐγὼ WH Treg NA28</note>
+
+<verse>Luke 11:22</verse>
+<note>22 δὲ WH Treg NA28 ] + ὁ RP </note>
+<note>• αὐτοῦ WH Treg RP NA28 ] – NIV</note>
+
+<verse>Luke 11:24</verse>
+<note>24 εὑρίσκον Treg RP ] + τότε WH NA28</note>
+
+<verse>Luke 11:25</verse>
+<note>25 εὑρίσκει Treg NA28 RP ] + σχολάζοντα WH</note>
+
+<verse>Luke 11:26</verse>
+<note>26 ἕτερα … ἑαυτοῦ ἑπτά WH Treg NA28 ] ἑπτά ἕτερα … ἑαυτοῦ RP </note>
+<note>• εἰσελθόντα WH Treg NA28 ] ἐλθόντα RP</note>
+
+<verse>Luke 11:27</verse>
+<note>27 φωνὴν γυνὴ WH NA28 ] γυνὴ φωνὴν Treg RP</note>
+
+<verse>Luke 11:28</verse>
+<note>28 Μενοῦν WH Treg NA28 ] Μενοῦνγε RP </note>
+<note>• φυλάσσοντες WH Treg NA28 ] + αὐτόν RP</note>
+
+<verse>Luke 11:29</verse>
+<note>29 γενεὰ WH Treg NA28 ] – RP </note>
+<note>• ζητεῖ WH Treg NA28 ] ἐπιζητεῖ RP </note>
+<note>• Ἰωνᾶ WH Treg NA28 ] + τοῦ προφήτου RP</note>
+
+<verse>Luke 11:30</verse>
+<note>30 Ἰωνᾶς Treg NA28 RP ] ὁ Ἰωνᾶς WH </note>
+<note>• τοῖς Νινευίταις σημεῖον WH Treg NA28 ] σημεῖον τοῖς Νινευίταις RP</note>
+
+<verse>Luke 11:32</verse>
+<note>32 Νινευῖται WH Treg NA28 ] Νινευῒ RP</note>
+
+<verse>Luke 11:33</verse>
+<note>33 Οὐδεὶς WH Treg NA28 ] + δὲ RP </note>
+<note>• φέγγος RP ] φῶς WH Treg NA28</note>
+
+<verse>Luke 11:34</verse>
+<note>34 σου WH Treg NA28 ] – RP </note>
+<note>• ὅταν WH Treg NA28 ] + οὖν RP</note>
+
+<verse>Luke 11:36</verse>
+<note>36 μέρος τι WH Treg NA28 ] τι μέρος RP</note>
+
+<verse>Luke 11:37</verse>
+<note>37 ἐρωτᾷ WH Treg NA28 ] ἠρωτᾷ RP </note>
+<note>• Φαρισαῖος WH Treg NA28 ] + τις RP</note>
+
+<verse>Luke 11:42</verse>
+<note>42 δὲ WH Treg NA28 ] – RP </note>
+<note>• παρεῖναι WH Treg NA28 ] ἀφιέναι RP</note>
+
+<verse>Luke 11:44</verse>
+<note>44 ὑμῖν WH Treg NA28 ] + γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί RP </note>
+<note>• οἱ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 11:48</verse>
+<note>48 μάρτυρές ἐστε WH  Treg NA28 ] μάρτυρεῖτε RP </note>
+<note>• οἰκοδομεῖτε WH Treg NA28 ] + αὐτῶν τὰ μνημεῖα RP</note>
+
+<verse>Luke 11:49</verse>
+<note>49 διώξουσιν WH NA28 ] ἐκδιώξουσιν Treg RP</note>
+
+<verse>Luke 11:51</verse>
+<note>51 ἀπὸ WH Treg NA28 ] + τοῦ NIV RP </note>
+<note>• ἕως WH Treg NA28 ] + τοῦ NIV RP</note>
+
+<verse>Luke 11:53</verse>
+<note>53 Κἀκεῖθεν ἐξελθόντος αὐτοῦ WH Treg NA28 ] Λέγοντος δὲ αὐτοῦ ταῦτα πρὸς αὐτούς RP</note>
+
+<verse>Luke 11:54</verse>
+<note>54 αὐτὸν WH NA28 ] + ζητοῦντες Treg RP </note>
+<note>• αὐτοῦ WH NA28 ] + ἵνα κατηγορήσωσιν αὐτοῦ Treg RP</note>
+
+<verse>Luke 12:1</verse>
+<note>12:1 ἥτις ἐστὶν ὑπόκρισις τῶν Φαρισαίων WH NA28 ] τῶν Φαρισαίων ἥτις ἐστὶν ὑπόκρισις Treg RP</note>
+
+<verse>Luke 12:5</verse>
+<note>5 ἔχοντα ἐξουσίαν WH Treg NA28 ] ἐξουσίαν ἔχοντα RP</note>
+
+<verse>Luke 12:6</verse>
+<note>6 πωλοῦνται WH Treg NA28 ] πωλεῖται RP</note>
+
+<verse>Luke 12:7</verse>
+<note>7 μὴ WH Treg NA28 ] + οὖν RP</note>
+
+<verse>Luke 12:8</verse>
+<note>8 ὁμολογήσῃ Treg NA28 RP ] ὁμολογήσει WH</note>
+
+<verse>Luke 12:11</verse>
+<note>11 εἰσφέρωσιν WH Treg NA28 ] προσφέρωσιν RP </note>
+<note>• μεριμνήσητε WH Treg NA28 ] μεριμνᾶτε RP </note>
+<note>• ἢ τί WH Treg RP NA28 ] – NIV</note>
+
+<verse>Luke 12:13</verse>
+<note>13 ἐκ τοῦ ὄχλου αὐτῷ WH NA28 ] αὐτῷ ἐκ τοῦ ὄχλου Treg RP</note>
+
+<verse>Luke 12:14</verse>
+<note>14 κριτὴν WH Treg NA28 ] δικαστὴν RP</note>
+
+<verse>Luke 12:15</verse>
+<note>15 πάσης WH Treg NA28 ] τῆς RP </note>
+<note>• αὐτοῦ WH Treg NA28 ] αὐτῷ RP </note>
+<note>• αὐτῷ WH Treg NA28 ] αὐτοῦ RP</note>
+
+<verse>Luke 12:17</verse>
+<note>17 ἑαυτῷ Treg NA28 RP ] αὑτῷ WH</note>
+
+<verse>Luke 12:18</verse>
+<note>18 τὸν σῖτον WH Treg NA28 ] τὰ γενήματά μου RP</note>
+
+<verse>Luke 12:20</verse>
+<note>20 Ἄφρων WH Treg NA28 ] Ἄφρον RP </note>
+<note>• ἀπαιτοῦσιν NA28 RP ] αἰτοῦσιν WH Treg</note>
+
+<verse>Luke 12:21</verse>
+<note>21 ἑαυτῷ Treg NA28 RP ] αὑτῷ WH</note>
+
+<verse>Luke 12:22</verse>
+<note>22 λέγω ὑμῖν WH Treg NA28 ] ὑμῖν λέγω RP </note>
+<note>• ψυχῇ WH Treg NA28 ] + ὑμῶν RP </note>
+<note>• σώματι Treg NA28 RP ] + ὑμῶν WH</note>
+
+<verse>Luke 12:23</verse>
+<note>23 γὰρ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 12:25</verse>
+<note>25 ἐπὶ … αὐτοῦ προσθεῖναι WH NA28 ] προσθεῖναι ἐπὶ … αὐτοῦ Treg RP </note>
+<note>• πῆχυν WH NA28 ] + ἕνα Treg NIV RP</note>
+
+<verse>Luke 12:26</verse>
+<note>26 οὐδὲ WH Treg NA28 ] οὐτὲ RP</note>
+
+<verse>Luke 12:28</verse>
+<note>28 ἐν ἀγρῷ τὸν χόρτον ὄντα σήμερον WH NA28 ] τὸν χόρτον σήμερον ἐν τῷ ἀγρῷ ὄντα Treg; τὸν χόρτον ἐν τῷ ἀγρῷ σήμερον ὄντα RP </note>
+<note>• ἀμφιέζει WH Treg NA28 ] ἀμφιέννυσιν RP</note>
+
+<verse>Luke 12:29</verse>
+<note>29 καὶ WH Treg NA28 ] ἢ RP</note>
+
+<verse>Luke 12:30</verse>
+<note>30 ἐπιζητοῦσιν WH Treg NA28 ] ἐπιζητεῖ RP</note>
+
+<verse>Luke 12:31</verse>
+<note>31 αὐτοῦ WH Treg NA28 ] τοῦ θεοῦ RP </note>
+<note>• ταῦτα WH Treg NA28 ] + πάντα RP</note>
+
+<verse>Luke 12:38</verse>
+<note>38 κἂν ἐν τῇ δευτέρᾳ κἂν WH Treg NA28 ] Καὶ ἐὰν ἔλθῃ ἐν τῇ δευτέρᾳ φυλακῇ καὶ RP </note>
+<note>• εἰσιν WH NA28 ] + οἱ δοῦλοι Treg RP</note>
+
+<verse>Luke 12:39</verse>
+<note>39 οὐκ ἂν NA28 ] ἐγρηγόρησεν ἂν καὶ οὐκ WH Treg; ἐγρηγόρησεν ἂν καὶ οὐκ ἂν RP </note>
+<note>• διορυχθῆναι WH NA28 ] διορυγῆναι Treg RP</note>
+
+<verse>Luke 12:40</verse>
+<note>40 ὑμεῖς WH Treg NA28 ] + οὖν RP</note>
+
+<verse>Luke 12:41</verse>
+<note>41 δὲ WH Treg NA28 ] + αὐτῷ RP</note>
+
+<verse>Luke 12:42</verse>
+<note>42 καὶ εἶπεν WH Treg NA28 ] Εἶπεν δὲ RP </note>
+<note>• ὁ WH Treg NA28 ] καὶ RP </note>
+<note>• τὸ WH NA28 RP ] – Treg</note>
+
+<verse>Luke 12:47</verse>
+<note>47 αὐτοῦ WH Treg NA28 ] ἑαυτοῦ RP </note>
+<note>• ἢ WH NA28 ] μηδὲ Treg RP</note>
+
+<verse>Luke 12:49</verse>
+<note>49 ἐπὶ WH Treg NA28 ] εἰς RP</note>
+
+<verse>Luke 12:50</verse>
+<note>50 ὅτου WH Treg NA28 ] οὗ RP</note>
+
+<verse>Luke 12:52</verse>
+<note>52 ἑνὶ οἴκῳ WH Treg NA28 ] οἴκῳ ἑνὶ RP</note>
+
+<verse>Luke 12:53</verse>
+<note>53 διαμερισθήσονται WH Treg NA28 ] Διαμερισθήσεται RP </note>
+<note>• ἐπὶ WH Treg RP ] + τὴν NA28 </note>
+<note>• θυγατέρα WH Treg NA28 ] θυγατρί RP </note>
+<note>• τὴν μητέρα WH Treg NA28 ] μητρί RP </note>
+<note>• πενθεράν WH Treg NA28 ] + αὐτῆς RP</note>
+
+<verse>Luke 12:54</verse>
+<note>54 ἴδητε WH Treg ] + τὴν NA28 RP </note>
+<note>• ἐπὶ WH NA28 ] ἀπὸ Treg RP </note>
+<note>• ὅτι WH Treg NA28 ] – RP</note>
+
+<verse>Luke 12:56</verse>
+<note>56 δὲ καιρὸν Treg RP ] καιρὸν δὲ WH NA28 </note>
+<note>• οὐκ οἴδατε δοκιμάζειν WH Treg NA28 ] οὐ δοκιμάζετε RP</note>
+
+<verse>Luke 12:58</verse>
+<note>58 παραδώσει WH Treg NA28 ] παραδῷ RP </note>
+<note>• βαλεῖ WH Treg NA28 ] βάλῃ RP</note>
+
+<verse>Luke 12:59</verse>
+<note>59 καὶ τὸ WH Treg NA28 ] οὗ καὶ τὸν RP</note>
+
+<verse>Luke 13:2</verse>
+<note>13:2 ἀποκριθεὶς WH Treg NA28 ] + ὁ Ἰησοῦς RP </note>
+<note>• ταῦτα WH Treg NA28 ] τοιαῦτα RP</note>
+
+<verse>Luke 13:3</verse>
+<note>3 ὁμοίως WH Treg NA28 ] ὡσαύτως RP</note>
+
+<verse>Luke 13:4</verse>
+<note>4 δεκαοκτὼ WH NA28 ] δέκα καὶ ὀκτὼ RP Treg </note>
+<note>• αὐτοὶ WH Treg NA28 ] οὗτοι RP </note>
+<note>• τοὺς WH Treg NA28 ] – RP </note>
+<note>• κατοικοῦντας WH Treg NA28 ] + ἐν RP</note>
+
+<verse>Luke 13:5</verse>
+<note>5 μετανοῆτε NA28 RP ] μετανοήσητε WH Treg </note>
+<note>• ὡσαύτως WH Treg NA28 ] ὁμοίως RP</note>
+
+<verse>Luke 13:6</verse>
+<note>6 πεφυτευμένην ἐν … αὐτοῦ WH Treg NA28 ] ἐν … αὐτοῦ πεφυτευμένην RP</note>
+
+<verse>Luke 13:7</verse>
+<note>7 ἀφʼ οὗ WH Treg NA28 ] – RP </note>
+<note>• ἔκκοψον WH Treg NIV RP ] + οὖν NA28</note>
+
+<verse>Luke 13:9</verse>
+<note>9 εἰς τὸ μέλλον — εἰ δὲ μήγε, WH Treg NA28 ] εἰ δὲ μήγε, εἰς τὸ μέλλον RP</note>
+
+<verse>Luke 13:11</verse>
+<note>11 γυνὴ WH Treg NA28 ] + ἦν RP </note>
+<note>• δεκαοκτώ WH NA28 ] δέκα καὶ ὀκτὼ RP Treg</note>
+
+<verse>Luke 13:14</verse>
+<note>14 ὅτι WH NA28 ] – Treg RP </note>
+<note>• αὐταῖς WH Treg NA28 ] ταύταις RP</note>
+
+<verse>Luke 13:15</verse>
+<note>15 δὲ WH Treg NA28 ] οὖν RP </note>
+<note>• ἀπαγαγὼν Treg NA28 RP ] ἀπάγων WH</note>
+
+<verse>Luke 13:18</verse>
+<note>18 οὖν WH Treg NA28 ] δέ RP</note>
+
+<verse>Luke 13:19</verse>
+<note>19 δένδρον WH NA28 ] + μέγα Treg RP</note>
+
+<verse>Luke 13:20</verse>
+<note>20 Καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 13:21</verse>
+<note>21 ἔκρυψεν WH Treg ] ἐνέκρυψεν NA28 RP</note>
+
+<verse>Luke 13:22</verse>
+<note>22 Ἱεροσόλυμα WH NA28 ] Ἱερουσαλήμ Treg RP</note>
+
+<verse>Luke 13:24</verse>
+<note>24 θύρας WH Treg NA28 ] πύλης RP</note>
+
+<verse>Luke 13:25</verse>
+<note>25 Κύριε WH Treg NA28 ] + κύριε RP</note>
+
+<verse>Luke 13:27</verse>
+<note>27 λέγων WH NA28 ] Λέγω Treg RP </note>
+<note>• οἶδα WH Treg ] + ὑμᾶς NA28 RP </note>
+<note>• ἐργάται WH Treg NA28 ] οἱ ἐργάται τῆς RP</note>
+
+<verse>Luke 13:28</verse>
+<note>28 ὄψησθε WH NA28 RP ] ὄψεσθε Treg</note>
+
+<verse>Luke 13:29</verse>
+<note>29 ἀπὸ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 13:31</verse>
+<note>31 ὥρᾳ WH NA28 ] ἡμέρᾳ Treg RP</note>
+
+<verse>Luke 13:32</verse>
+<note>32 ἀποτελῶ WH Treg NA28 ] ἐπιτελῶ RP</note>
+
+<verse>Luke 13:35</verse>
+<note>35 ὑμῶν WH Treg NA28 ] + ἔρημος NIV RP </note>
+<note>• δὲ WH Treg RP NA28 ] – NIV </note>
+<note>• ὑμῖν WH Treg NA28 ] + ὅτι RP </note>
+<note>• ἴδητέ με WH Treg NA28 ] με ἴδητε RP </note>
+<note>• ἥξει ὅτε Treg NA28 ] – WH NIV; ἄν ἥξει ὅτε RP</note>
+
+<verse>Luke 14:3</verse>
+<note>14:3 Ἔξεστιν WH Treg NA28 ] Εἰ ἔξεστιν RP </note>
+<note>• θεραπεῦσαι ἢ οὔ WH Treg NA28 ] θεραπεύειν RP</note>
+
+<verse>Luke 14:5</verse>
+<note>5 καὶ WH Treg NA28 ] + ἀποκριθεὶς RP </note>
+<note>• πεσεῖται WH Treg NA28 ] ἐμπεσεῖται RP </note>
+<note>• ἐν WH NA28 ] ἐν τῇ RP; τῇ Treg</note>
+
+<verse>Luke 14:6</verse>
+<note>6 ἀνταποκριθῆναι WH Treg NA28 ] + αὐτῷ RP</note>
+
+<verse>Luke 14:10</verse>
+<note>10 ἐρεῖ WH Treg NA28 ] εἴπῃ RP </note>
+<note>• πάντων WH Treg NA28 ] – RP</note>
+
+<verse>Luke 14:12</verse>
+<note>12 ἀντικαλέσωσίν σε WH Treg NA28 ] σε ἀντικαλέσωσιν RP </note>
+<note>• ἀνταπόδομά σοι WH Treg NA28 ] σοι ἀνταπόδομα RP</note>
+
+<verse>Luke 14:13</verse>
+<note>13 δοχὴν ποιῇς WH NA28 ] ποιῇς δοχήν Treg RP</note>
+
+<verse>Luke 14:15</verse>
+<note>15 ὅστις WH Treg NA28 ] ὃς RP </note>
+<note>• ἄρτον WH Treg NA28 ] ἄριστον NIV RP</note>
+
+<verse>Luke 14:16</verse>
+<note>16 ἐποίει WH Treg NA28 ] ἐποίησεν RP</note>
+
+<verse>Luke 14:17</verse>
+<note>17 ἐστιν WH NA28 ] + πάντα Treg RP</note>
+
+<verse>Luke 14:18</verse>
+<note>18 πάντες παραιτεῖσθαι WH Treg NA28 ] παραιτεῖσθαι πάντες RP </note>
+<note>• ἐξελθὼν WH Treg NA28 ] ἐξελθεῖν καὶ RP</note>
+
+<verse>Luke 14:21</verse>
+<note>21 δοῦλος WH Treg NA28 ] + ἐκεῖνος RP </note>
+<note>• τυφλοὺς καὶ χωλοὺς WH Treg NA28 ] χωλοὺς καὶ τυφλοὺς RP</note>
+
+<verse>Luke 14:22</verse>
+<note>22 ὃ WH Treg NA28 ] ὡς RP</note>
+
+<verse>Luke 14:23</verse>
+<note>23 μου ὁ οἶκος WH Treg NA28 ] ὁ οἶκος μου RP</note>
+
+<verse>Luke 14:24</verse>
+<note>24 δείπνου WH Treg NA28 ] + Πολλοί γὰρ εἰσιν κλητοί ὀλίγοι δέ ἐκλεκτοί RP</note>
+
+<verse>Luke 14:26</verse>
+<note>26 ἑαυτοῦ WH NA28 ] αὐτοῦ Treg RP </note>
+<note>• τε WH Treg NA28 ] δέ RP </note>
+<note>• ψυχὴν ἑαυτοῦ WH NA28 ] ἑαυτοῦ ψυχήν Treg RP </note>
+<note>• εἶναί μου μαθητής WH Treg NA28 ] μου μαθητὴς εἶναι RP</note>
+
+<verse>Luke 14:27</verse>
+<note>27 ὅστις WH NA28 ] καὶ ὅστις Treg NIV RP </note>
+<note>• ἑαυτοῦ WH NA28 ] αὐτοῦ Treg; αὑτοῦ RP</note>
+
+<verse>Luke 14:28</verse>
+<note>28 ὑμῶν WH Treg NA28 ] + ὁ RP </note>
+<note>• ἔχει WH Treg NA28 ] + τὰ RP</note>
+
+<verse>Luke 14:29</verse>
+<note>29 αὐτῷ ἐμπαίζειν WH Treg NA28 ] ἐμπαίζειν αὐτῷ RP</note>
+
+<verse>Luke 14:31</verse>
+<note>31 ἑτέρῳ βασιλεῖ συμβαλεῖν WH Treg NA28 ] συμβαλεῖν ἑτέρῳ βασιλεῖ RP </note>
+<note>• βουλεύσεται WH NA28 ] βουλεύεται Treg RP </note>
+<note>• ὑπαντῆσαι WH Treg NA28 ] ἀπαντῆσαι RP</note>
+
+<verse>Luke 14:32</verse>
+<note>32 αὐτοῦ πόρρω WH Treg NA28 ] πόρρω αὐτοῦ RP </note>
+<note>• τὰ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 14:33</verse>
+<note>33 εἶναί μου WH Treg NA28 ] μου εἶναι RP</note>
+
+<verse>Luke 14:34</verse>
+<note>34 οὖν WH Treg NA28 ] – RP </note>
+<note>• καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 15:1</verse>
+<note>15:1 αὐτῷ ἐγγίζοντες WH Treg NA28 ] ἐγγίζοντες αὐτῷ RP</note>
+
+<verse>Luke 15:2</verse>
+<note>2 τε WH Treg NA28 ] – RP</note>
+
+<verse>Luke 15:4</verse>
+<note>4 ἀπολέσας WH NA28 RP ] ἀπολέσῃ Treg </note>
+<note>• ἐξ αὐτῶν ἓν WH Treg NA28 ] ἓν ἐξ αὐτῶν RP</note>
+
+<verse>Luke 15:5</verse>
+<note>5 αὐτοῦ WH Treg NA28 ] ἑαυτοῦ RP</note>
+
+<verse>Luke 15:7</verse>
+<note>7 ἐν τῷ οὐρανῷ ἔσται WH NA28 ] ἔσται ἐν τῷ οὐρανῷ Treg RP</note>
+
+<verse>Luke 15:8</verse>
+<note>8 οὗ WH Treg NA28 ] ὅτου RP</note>
+
+<verse>Luke 15:9</verse>
+<note>9 συγκαλεῖ WH NA28 ] συγκαλεῖται Treg RP </note>
+<note>• καὶ WH Treg NA28 ] + τὰς RP</note>
+
+<verse>Luke 15:10</verse>
+<note>10 γίνεται χαρὰ WH Treg NA28 ] χαρὰ γίνεται RP</note>
+
+<verse>Luke 15:12</verse>
+<note>12 ὁ δὲ WH Treg NA28 ] Καὶ RP</note>
+
+<verse>Luke 15:13</verse>
+<note>13 πάντα WH Treg NA28 ] ἅπαντα RP</note>
+
+<verse>Luke 15:14</verse>
+<note>14 ἰσχυρὰ WH Treg NA28 ] ἰσχυρὸς RP</note>
+
+<verse>Luke 15:16</verse>
+<note>16 γεμίσαι τὴν κοιλίαν αὐτοῦ ἀπὸ Treg NIV RP ] χορτασθῆναι ἐκ WH NA28</note>
+
+<verse>Luke 15:17</verse>
+<note>17 ἔφη WH NA28 ] εἶπεν Treg RP </note>
+<note>• περισσεύονται WH Treg NA28 ] περισσεύουσιν RP </note>
+<note>• λιμῷ ὧδε WH NA28 ] ὧδε λιμῷ Treg; λιμῷ RP</note>
+
+<verse>Luke 15:19</verse>
+<note>19 οὐκέτι WH Treg NA28 ] καὶ οὐκέτι RP</note>
+
+<verse>Luke 15:20</verse>
+<note>20 ἑαυτοῦ WH NA28 ] αὐτοῦ Treg RP</note>
+
+<verse>Luke 15:21</verse>
+<note>21 ὁ υἱὸς αὐτῷ WH NA28 ] αὐτῷ ὁ υἱός Treg RP </note>
+<note>• οὐκέτι WH Treg NA28 ] καὶ οὐκέτι RP </note>
+<note>• σου Treg NA28 RP ] + ποίησόν με ὡς ἕνα τῶν μισθίων σου WH</note>
+
+<verse>Luke 15:22</verse>
+<note>22 Ταχὺ WH Treg NA28 ] – RP </note>
+<note>• ἐξενέγκατε WH Treg NA28 ] + τὴν RP</note>
+
+<verse>Luke 15:23</verse>
+<note>23 φέρετε WH Treg NA28 ] ἐνέγκαντες RP</note>
+
+<verse>Luke 15:24</verse>
+<note>24 ἦν ἀπολωλὼς WH Treg NA28 ] καὶ ἀπολωλὼς ἦν RP</note>
+
+<verse>Luke 15:26</verse>
+<note>26 ἂν WH Treg NA28 ] – RP</note>
+
+<verse>Luke 15:28</verse>
+<note>28 δὲ WH Treg NA28 ] οὖν RP</note>
+
+<verse>Luke 15:29</verse>
+<note>29 αὐτοῦ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 15:30</verse>
+<note>30 μετὰ WH NA28 RP ] +τῶν Treg </note>
+<note>• σιτευτὸν μόσχον WH Treg NA28 ] μόσχον τὸν σιτευτόν RP</note>
+
+<verse>Luke 15:32</verse>
+<note>32 ἔζησεν WH Treg NA28 ] ἀνέζησεν NIV RP </note>
+<note>• ἀπολωλὼς WH Treg NA28 ] + ἦν RP</note>
+
+<verse>Luke 16:1</verse>
+<note>16:1 μαθητάς WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>Luke 16:2</verse>
+<note>2 δύνῃ WH Treg NA28 ] δύνήσῃ RP</note>
+
+<verse>Luke 16:4</verse>
+<note>4 ἐκ WH Treg NA28 ] – RP </note>
+<note>• ἑαυτῶν WH Treg ] αὐτῶν NA28 RP</note>
+
+<verse>Luke 16:6</verse>
+<note>6 ὁ δὲ WH Treg NA28 ] Καὶ RP </note>
+<note>• τὰ γράμματα WH Treg NA28 ] τὸ γράμμα RP</note>
+
+<verse>Luke 16:7</verse>
+<note>7 λέγει WH Treg NA28 ] Καὶ λέγει RP </note>
+<note>• τὰ γράμματα WH Treg NA28 ] τὸ γράμμα RP</note>
+
+<verse>Luke 16:9</verse>
+<note>9 ἑαυτοῖς ποιήσατε WH NA28 ] Ποιήσατε ἑαυτοῖς Treg RP </note>
+<note>• ἐκλίπῃ WH Treg NA28 ] ἐκλίπητε RP</note>
+
+<verse>Luke 16:12</verse>
+<note>12 ὑμέτερον Treg NA28 RP ] ἡμέτερον WH </note>
+<note>• δώσει ὑμῖν WH Treg ] ὑμῖν δώσει NA28 RP</note>
+
+<verse>Luke 16:14</verse>
+<note>14 πάντα WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Luke 16:16</verse>
+<note>16 μέχρι WH Treg NA28 ] ἕως RP</note>
+
+<verse>Luke 16:18</verse>
+<note>18 καὶ WH Treg NA28 ] + πᾶς RP</note>
+
+<verse>Luke 16:20</verse>
+<note>20 τις WH Treg NA28 ] + ἦν RP </note>
+<note>• Λάζαρος WH Treg NA28 ] + ὃς RP</note>
+
+<verse>Luke 16:21</verse>
+<note>21 ἀπὸ WH NA28 ] + τῶν ψιχίων Treg RP </note>
+<note>• ἐπέλειχον WH Treg NA28 ] ἀπέλειχον RP</note>
+
+<verse>Luke 16:23</verse>
+<note>23 ὁρᾷ WH Treg NA28 ] + τὸν RP</note>
+
+<verse>Luke 16:25</verse>
+<note>25 ἀπέλαβες WH Treg NA28 ] + σὺ RP</note>
+
+<verse>Luke 16:26</verse>
+<note>26 ἐν WH NA28 ] ἐπὶ Treg RP </note>
+<note>•  μηδὲ WH Treg NA28 ] + οἱ RP</note>
+
+<verse>Luke 16:27</verse>
+<note>27 σε οὖν WH Treg NA28 ] οὖν σε RP</note>
+
+<verse>Luke 16:29</verse>
+<note>29 δὲ WH NA28 ] δὲ αὐτῷ Treg; αὐτῷ RP</note>
+
+<verse>Luke 17:1</verse>
+<note>17:1 αὐτοῦ WH Treg NA28 ] – RP </note>
+<note>• τὰ σκάνδαλα μὴ ἐλθεῖν WH Treg NA28 ] μὴ ἐλθεῖν τὰ σκάνδαλα RP </note>
+<note>• πλὴν οὐαὶ WH Treg NA28 ] οὐαὶ δὲ RP</note>
+
+<verse>Luke 17:2</verse>
+<note>2 λίθος μυλικὸς WH Treg NA28 ] μύλος ὀνικὸς RP </note>
+<note>• τῶν μικρῶν τούτων ἕνα WH Treg NA28 ] ἕνα τῶν μικρῶν τούτων RP</note>
+
+<verse>Luke 17:3</verse>
+<note>3 ἁμάρτῃ WH Treg NA28 ] δὲ ἁμάρτῃ εἰς σὲ RP</note>
+
+<verse>Luke 17:4</verse>
+<note>4 ἁμαρτήσῃ WH Treg NA28 ] ἁμάρτῃ RP </note>
+<note>• ἑπτάκις WH Treg NA28 ] + τῆς ἡμέρας RP </note>
+<note>• πρὸς σὲ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 17:7</verse>
+<note>7 αὐτῷ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 17:9</verse>
+<note>9 ἔχει χάριν WH Treg NA28 ] χάριν ἔχει RP </note>
+<note>• δούλῳ WH Treg NA28 ] + ἐκείνῳ RP </note>
+<note>• διαταχθέντα WH Treg NA28 ] + οὐ δοκῶ RP</note>
+
+<verse>Luke 17:10</verse>
+<note>10 ὃ ὠφείλομεν WH Treg NA28 ] ὅτι ὃ ὀφείλομεν RP</note>
+
+<verse>Luke 17:11</verse>
+<note>11 πορεύεσθαι WH NA28 ] + αὐτὸν Treg RP </note>
+<note>• μέσον WH Treg NA28 ] μέσου RP</note>
+
+<verse>Luke 17:12</verse>
+<note>12 ἀπήντησαν WH ] + αὐτῷ Treg NA28 RP </note>
+<note>• ἔστησαν Treg NA28 RP ] ἀνέστησαν WH</note>
+
+<verse>Luke 17:17</verse>
+<note>17 Οὐχὶ Treg NA28 RP ] Οὐχ WH</note>
+
+<verse>Luke 17:21</verse>
+<note>21 Ἐκεῖ WH NA28 ] Ἰδοὺ ἐκεῖ Treg RP</note>
+
+<verse>Luke 17:23</verse>
+<note>23 ἐκεῖ· Ἰδοὺ ὧδε Treg ] ἐκεῖ, ἤ· Ἰδοὺ ὧδε WH NA28; ὧδε, ἤ· Ἰδοὺ ἐκεῖ RP</note>
+
+<verse>Luke 17:24</verse>
+<note>24 ἀστραπὴ WH NA28 ] + ἡ Treg RP </note>
+<note>• ὑπὸ τὸν WH Treg NA28 ] ὑπʼ RP </note>
+<note>• ἐν τῇ ἡμέρᾳ αὐτοῦ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 17:27</verse>
+<note>27 ἐγαμίζοντο WH Treg NA28 ] ἐξεγαμίζοντο RP </note>
+<note>• πάντας WH Treg NA28 ] ἅπαντας RP</note>
+
+<verse>Luke 17:28</verse>
+<note>28 καθὼς WH Treg NA28 ] καὶ ὡς RP</note>
+
+<verse>Luke 17:29</verse>
+<note>29 πάντας WH Treg NA28 ] ἅπαντας RP</note>
+
+<verse>Luke 17:30</verse>
+<note>30 τὰ αὐτὰ WH Treg NA28 ] ταῦτα RP</note>
+
+<verse>Luke 17:31</verse>
+<note>31 ἐν WH Treg NA28 ] + τῷ RP</note>
+
+<verse>Luke 17:33</verse>
+<note>33 περιποιήσασθαι WH Treg NA28 ] σῶσαι RP </note>
+<note>• ὃς δʼ ἂν WH Treg NA28 ] καὶ ὃς ἐὰν RP </note>
+<note>• ἀπολέσῃ Treg NA28 ] ἀπολέσῃ αὐτὴν RP; ἀπολέσει WH</note>
+
+<verse>Luke 17:34</verse>
+<note>34 ὁ WH NA28 ] – Treg RP</note>
+
+<verse>Luke 17:35</verse>
+<note>35 ἔσονται δύο WH Treg NA28 ] Δύο ἔσονται RP </note>
+<note>• ἡ WH Treg NA28 ] – RP </note>
+<note>• ἡ δὲ WH Treg NA28 ] καὶ ἡ RP </note>
+<note>• ἀφεθήσεται WH Treg NA28 RP ] + 36 δύο ἐν ἀγρῷ· εἷς παραλημφθήσεται καὶ ὁ ἕτερος ἀφεθήσεται TR</note>
+
+<verse>Luke 17:37</verse>
+<note>37 καὶ οἱ ἀετοὶ ἐπισυναχθήσονται WH Treg NA28 ] συναχθήσονται οἱ ἀετοὶ RP</note>
+
+<verse>Luke 18:1</verse>
+<note>18:1 δὲ WH NA28 ] + καὶ Treg RP </note>
+<note>• αὐτοὺς WH Treg NA28 ] – RP</note>
+
+<verse>Luke 18:4</verse>
+<note>4 ἤθελεν WH Treg NA28 ] ἠθέλησεν RP </note>
+<note>• ταῦτα δὲ WH Treg ] δὲ ταῦτα NA28 RP </note>
+<note>• οὐδὲ ἄνθρωπον WH Treg NA28 ] καὶ ἄνθρωπον οὐκ RP</note>
+
+<verse>Luke 18:7</verse>
+<note>7 αὐτῷ WH Treg NA28 ] πρὸς αὐτὸν RP </note>
+<note>• μακροθυμεῖ WH Treg NA28 ] μακροθυμῶν RP</note>
+
+<verse>Luke 18:9</verse>
+<note>9 καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 18:10</verse>
+<note>10 ὁ NA28 RP ] – WH Treg</note>
+
+<verse>Luke 18:11</verse>
+<note>11 πρὸς ἑαυτὸν ταῦτα NA28 RP ] ταῦτα πρὸς ἑαυτὸν WH Treg </note>
+<note>• ὥσπερ WH NA28 RP ] ὡς Treg</note>
+
+<verse>Luke 18:12</verse>
+<note>12 ἀποδεκατῶ Treg NA28 RP ] ἀποδεκατεύω WH</note>
+
+<verse>Luke 18:13</verse>
+<note>13 ὁ δὲ WH NA28 ] καὶ ὁ Treg RP </note>
+<note>• ἐπᾶραι εἰς τὸν οὐρανόν WH Treg NA28 ] εἰς τὸν οὐρανόν ἐπᾶραι RP </note>
+<note>• ἔτυπτε WH Treg NA28 ] + εἰς RP </note>
+<note>• αὐτοῦ NA28 RP ] ἑαυτοῦ WH Treg</note>
+
+<verse>Luke 18:14</verse>
+<note>14 παρʼ ἐκεῖνον WH Treg NA28 ] ἢ γὰρ ἐκεῖνος RP</note>
+
+<verse>Luke 18:15</verse>
+<note>15 ἐπετίμων WH Treg NA28 ] ἐπετίμησαν RP</note>
+
+<verse>Luke 18:16</verse>
+<note>16 προσεκαλέσατο αὐτὰ λέγων WH Treg NA28 ] προσκαλεσάμενος αὐτὰ εἶπεν RP</note>
+
+<verse>Luke 18:17</verse>
+<note>17 ἂν WH Treg NA28 ] ἐὰν RP</note>
+
+<verse>Luke 18:20</verse>
+<note>20 μητέρα WH Treg NA28 ] + σου RP</note>
+
+<verse>Luke 18:21</verse>
+<note>21 ἐφύλαξα WH Treg NA28 ] ἐφυλαξάμην RP </note>
+<note>• μου Treg RP ] – WH NA28</note>
+
+<verse>Luke 18:22</verse>
+<note>22 δὲ WH Treg NA28 ] + ταῦτα RP </note>
+<note>• οὐρανοῖς Holmes WHmarg ] τοῖς οὐρανοῖς WH Treg NA28; οὐρανῷ RP</note>
+
+<verse>Luke 18:23</verse>
+<note>23 ἐγενήθη WH Treg NA28 ] ἐγένετο RP</note>
+
+<verse>Luke 18:24</verse>
+<note>24 Ἰησοῦς WH NIV ] + περίλυπον γενόμενον Treg RP NA28 </note>
+<note>• εἰς … θεοῦ εἰσπορεύονται WH Treg NA28 ] εἰσελεύσονται εἰς … θεοῦ RP</note>
+
+<verse>Luke 18:25</verse>
+<note>25 τρήματος βελόνης WH Treg NA28 ] τρυμαλιᾶς ῥαφίδος RP</note>
+
+<verse>Luke 18:27</verse>
+<note>27 παρὰ τῷ θεῷ ἐστιν WH Treg NA28 ] ἐστιν παρὰ τῷ θεῷ RP</note>
+
+<verse>Luke 18:28</verse>
+<note>28 ὁ WH Treg NA28 ] – RP </note>
+<note>• ἀφέντες τὰ ἴδια WH Treg NA28 ] ἀφήκαμεν πάντα καὶ RP</note>
+
+<verse>Luke 18:29</verse>
+<note>29 γυναῖκα ἢ ἀδελφοὺς ἢ γονεῖς WH NA28 ] γονεῖς ἢ ἀδελφοὺς ἢ γυναῖκα Treg RP</note>
+
+<verse>Luke 18:30</verse>
+<note>30 οὐχὶ WH NA28 ] οὐ Treg RP </note>
+<note>• ἀπολάβῃ Treg NA28 RP ] λάβῃ WH</note>
+
+<verse>Luke 18:31</verse>
+<note>31 Ἰερουσαλήμ WH Treg NA28 ] Ἱεροσόλυμα RP</note>
+
+<verse>Luke 18:35</verse>
+<note>35 ἐπαιτῶν WH Treg NA28 ] προσαιτῶν RP</note>
+
+<verse>Luke 18:36</verse>
+<note>36 τί WH NA28 RP ] + ἂν Treg</note>
+
+<verse>Luke 18:39</verse>
+<note>39 σιγήσῃ WH Treg NA28 ] σιωπήσῃ RP</note>
+
+<verse>Luke 18:40</verse>
+<note>40 ὁ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 18:41</verse>
+<note>41 Τί WH NA28 ] λέγων Τί Treg RP</note>
+
+<verse>Luke 19:2</verse>
+<note>19:2 καλούμενος WH Treg RP NA28 ] – NIV </note>
+<note>• αὐτὸς WH Treg NA28 ] οὗτος ἦν RP</note>
+
+<verse>Luke 19:4</verse>
+<note>4 εἰς τὸ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 19:5</verse>
+<note>5 Ἰησοῦς WH Treg NA28 ] + εἶδεν αὐτόν καὶ RP</note>
+
+<verse>Luke 19:8</verse>
+<note>8 ἡμίσιά WH Treg NA28 ] ἡμίση RP </note>
+<note>• μου τῶν ὑπαρχόντων WH Treg NA28 ] τῶν ὑπαρχόντων μου RP </note>
+<note>• τοῖς πτωχοῖς δίδωμι WH Treg NA28 ] δίδωμι τοῖς πτωχοῖς RP</note>
+
+<verse>Luke 19:11</verse>
+<note>11 εἶναι Ἰερουσαλὴμ αὐτὸν WH Treg NA28 ] αὐτὸν εἶναι Ἰερουσαλὴμ RP</note>
+
+<verse>Luke 19:13</verse>
+<note>13 Πραγματεύσασθε Treg NA28 RP ] πραγματεύσασθαι WH </note>
+<note>• ἐν ᾧ WH Treg NA28 ] ἕως RP</note>
+
+<verse>Luke 19:15</verse>
+<note>15 δεδώκει WH Treg NA28 ] ἔδωκεν RP </note>
+<note>• γνοῖ WH Treg NA28 ] γνῷ τίς RP </note>
+<note>• διεπραγματεύσαντο WH Treg NA28 ] διεπραγματεύσατο RP</note>
+
+<verse>Luke 19:16</verse>
+<note>16 δέκα προσηργάσατο WH Treg NA28 ] προσηργάσατο δέκα RP</note>
+
+<verse>Luke 19:17</verse>
+<note>17 Εὖγε WH Treg NA28 ] Εὖ RP</note>
+
+<verse>Luke 19:18</verse>
+<note>18 Ἡ μνᾶ σου κύριε WH Treg NA28 ] Κύριε ἡ μνᾶ σου RP</note>
+
+<verse>Luke 19:19</verse>
+<note>19 ἐπάνω γίνου WH NA28 ] γίνου ἐπάνω Treg RP</note>
+
+<verse>Luke 19:20</verse>
+<note>20 ὁ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 19:22</verse>
+<note>22 λέγει WH Treg NA28 ] + δὲ RP</note>
+
+<verse>Luke 19:23</verse>
+<note>23 μου τὸ ἀργύριον WH Treg NA28 ] τὸ ἀργύριόν μου RP </note>
+<note>• αὐτὸ ἔπραξα WH Treg NA28 ] ἔπραξα αὐτό RP</note>
+
+<verse>Luke 19:26</verse>
+<note>26 λέγω WH NA28 ] + γὰρ Treg RP </note>
+<note>•  ἀρθήσεται WH NA28 ] + ἀπʼ αὐτοῦ Treg RP</note>
+
+<verse>Luke 19:27</verse>
+<note>27 τούτους WH Treg NA28 ] ἐκείνους RP </note>
+<note>• αὐτοὺς WH Treg NA28 ] – RP</note>
+
+<verse>Luke 19:29</verse>
+<note>29 μαθητῶν WH NA28 ] + αὐτοῦ Treg RP</note>
+
+<verse>Luke 19:30</verse>
+<note>30 λέγων WH Treg NA28 ] εἰπών RP </note>
+<note>• καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 19:31</verse>
+<note>31 ἐρεῖτε WH Treg NA28 ] + αὐτῷ RP</note>
+
+<verse>Luke 19:34</verse>
+<note>34 ὅτι WH Treg NA28 ] – RP</note>
+
+<verse>Luke 19:35</verse>
+<note>35 αὐτῶν WH Treg NA28 ] – RP</note>
+
+<verse>Luke 19:36</verse>
+<note>36 ἑαυτῶν WH Treg ] αὐτῶν NA28 RP</note>
+
+<verse>Luke 19:37</verse>
+<note>37 πασῶν WH NA28 RP ] πάντων Treg</note>
+
+<verse>Luke 19:38</verse>
+<note>38 βασιλεὺς Treg RP ] ὁ βασιλεὺς WH NA28 </note>
+<note>• ἐν οὐρανῷ εἰρήνη WH Treg NA28 ] εἰρήνη ἐν οὐρανῷ RP</note>
+
+<verse>Luke 19:40</verse>
+<note>40 εἶπεν WH NA28 ] + αὐτοῖς Treg RP </note>
+<note>• ὅτι Treg RP ] – WH NA28 </note>
+<note>• σιωπήσουσιν WH Treg NA28 ] σιωπήσωσιν RP </note>
+<note>• κράξουσιν WH Treg NA28 ] κεκράξονται RP</note>
+
+<verse>Luke 19:41</verse>
+<note>41 αὐτήν WH Treg NA28 ] αὐτῇ RP</note>
+
+<verse>Luke 19:42</verse>
+<note>42 ἐν τῇ ἡμέρᾳ ταύτῃ καὶ σὺ WH NA28 ] καὶ σὺ ἐν τῇ ἡμέρᾳ ταύτῃ Treg; καὶ σύ καί γε ἐν τῇ ἡμέρᾳ σου RP </note>
+<note>• εἰρήνην WH NA28 ] + σου Treg RP</note>
+
+<verse>Luke 19:43</verse>
+<note>43 παρεμβαλοῦσιν WH Treg NA28 ] περιβαλοῦσιν RP</note>
+
+<verse>Luke 19:44</verse>
+<note>44 λίθον ἐπὶ λίθον ἐν σοί WH Treg NA28 ] ἐν σοὶ λίθον ἐπὶ λίθῳ RP</note>
+
+<verse>Luke 19:45</verse>
+<note>45 πωλοῦντας WH Treg NA28 ] + ἐν αὐτῷ καὶ ἀγοράζοντας RP</note>
+
+<verse>Luke 19:46</verse>
+<note>46 Καὶ ἔσται WH Treg NA28 ] – RP </note>
+<note>• προσευχῆς WH Treg NA28 ] + ἐστίν RP</note>
+
+<verse>Luke 19:48</verse>
+<note>48 εὕρισκον NA28 RP ] ηὕρισκον WH Treg</note>
+
+<verse>Luke 20:1</verse>
+<note>20:1 ἡμερῶν WH Treg NA28 ] + ἐκείνων RP </note>
+<note>• ἀρχιερεῖς WH Treg NA28 ] ἱερεῖς RP</note>
+
+<verse>Luke 20:2</verse>
+<note>2 λέγοντες πρὸς αὐτόν  WH NA28 ] πρὸς αὐτόν λέγοντες RP; πρὸς αὐτόν Treg</note>
+
+<verse>Luke 20:3</verse>
+<note>3 κἀγὼ WH Treg NA28 ] + ἕνα RP</note>
+
+<verse>Luke 20:6</verse>
+<note>6 ὁ λαὸς ἅπας WH Treg NA28 ] πᾶς ὁ λαὸς RP</note>
+
+<verse>Luke 20:9</verse>
+<note>9 Ἄνθρωπος WH Treg NIV RP ] + τις NA28</note>
+
+<verse>Luke 20:10</verse>
+<note>10 καὶ WH Treg NA28 ] + ἐν RP </note>
+<note>• δώσουσιν WH Treg NA28 ] δῶσιν RP </note>
+<note>• ἐξαπέστειλαν αὐτὸν δείραντες WH NA28 ] δείραντες αὐτὸν ἐξαπέστειλαν Treg RP</note>
+
+<verse>Luke 20:11</verse>
+<note>11 ἕτερον πέμψαι WH Treg NA28 ] πέμψαι ἕτερον RP</note>
+
+<verse>Luke 20:12</verse>
+<note>12 τρίτον πέμψαι WH Treg NA28 ] πέμψαι τρίτον RP</note>
+
+<verse>Luke 20:13</verse>
+<note>13 τοῦτον WH Treg NA28 ] + ἰδόντες RP</note>
+
+<verse>Luke 20:14</verse>
+<note>14 ἀλλήλους WH Treg NA28 ] ἑαυτούς RP </note>
+<note>• ἀποκτείνωμεν WH Treg NA28 ] δεῦτε ἀποκτείνωμεν RP</note>
+
+<verse>Luke 20:19</verse>
+<note>19 γραμματεῖς καὶ οἱ ἀρχιερεῖς WH Treg NA28 ] ἀρχιερεῖς καὶ οἱ γραμματεῖς RP </note>
+<note>• τὸν λαόν WH Treg NA28 ] – RP </note>
+<note>• εἶπεν τὴν … ταύτην WH Treg NA28 ] τὴν … ταύτην εἶπεν RP</note>
+
+<verse>Luke 20:20</verse>
+<note>20 ὥστε WH Treg NA28 ] εἰς τὸ RP</note>
+
+<verse>Luke 20:22</verse>
+<note>22 ἡμᾶς WH Treg NA28 ] ἡμῖν RP</note>
+
+<verse>Luke 20:23</verse>
+<note>23 αὐτούς WH Treg NA28 ] + Τί με πειράζετε RP</note>
+
+<verse>Luke 20:24</verse>
+<note>24 Δείξατέ WH Treg NA28 ] Ἐπιδείξατέ RP </note>
+<note>• ἀποκριθέντες Treg RP ] οἱ WH NA28</note>
+
+<verse>Luke 20:25</verse>
+<note>25 πρὸς αὐτούς Τοίνυν ἀπόδοτε WH Treg NA28 ] αὐτοῖς Ἀπόδοτε τοίνυν RP</note>
+
+<verse>Luke 20:26</verse>
+<note>26 τοῦ WH ] αὐτοῦ Treg NA28 RP</note>
+
+<verse>Luke 20:27</verse>
+<note>27 ἀντιλέγοντες NA28 RP ] λέγοντες WH Treg</note>
+
+<verse>Luke 20:28</verse>
+<note>28 ᾖ WH Treg NA28 ] ἀποθάνῃ RP</note>
+
+<verse>Luke 20:30</verse>
+<note>30 ὁ δεύτερος WH Treg NA28 ] ἔλαβεν ὁ δεύτερος τὴν γυναῖκα καὶ οὑτὸς ἀπέθανεν ἄτεκνος RP</note>
+
+<verse>Luke 20:31</verse>
+<note>31 αὐτήν WH Treg NA28 ] + ὡσαύτως RP</note>
+
+<verse>Luke 20:32</verse>
+<note>32 καὶ ἡ γυνὴ ἀπέθανεν WH Treg NA28 ] δὲ πάντων ἀπέθανεν καὶ ἡ γυνή RP</note>
+
+<verse>Luke 20:33</verse>
+<note>33 ἡ γυνὴ οὖν ἐν τῇ WH NA28 ] ἐν τῇ οὖν Treg RP</note>
+
+<verse>Luke 20:34</verse>
+<note>34 Καὶ WH Treg NA28 ] + ἀποκριθεὶς RP </note>
+<note>• γαμίσκονται WH Treg NA28 ] ἐκγαμίσκονται RP</note>
+
+<verse>Luke 20:35</verse>
+<note>35 γαμίζονται WH Treg NA28 ] ἐκγαμίζονται RP</note>
+
+<verse>Luke 20:36</verse>
+<note>36 οὐδὲ WH Treg NA28 ] οὔτε RP </note>
+<note>• εἰσιν WH Treg NA28 ] + τοῦ RP</note>
+
+<verse>Luke 20:37</verse>
+<note>37 ⸀καὶ WH Treg NA28 ] + τὸν RP </note>
+<note>• ⸁καὶ WH Treg NA28 ] + τὸν RP</note>
+
+<verse>Luke 20:40</verse>
+<note>40 γὰρ WH Treg NA28 ] δὲ RP</note>
+
+<verse>Luke 20:41</verse>
+<note>41 εἶναι Δαυὶδ υἱόν WH NA28 ] υἱὸν Δαυὶδ εἶναι Treg RP</note>
+
+<verse>Luke 20:42</verse>
+<note>42 αὐτὸς γὰρ WH NA28 ] καὶ αὐτὸς Treg RP </note>
+<note>• Εἶπεν WH Treg NA28 ] + ὁ RP</note>
+
+<verse>Luke 20:44</verse>
+<note>44 αὐτὸν κύριον WH Treg ] κύριον αὐτὸν NA28 RP </note>
+<note>• αὐτοῦ υἱός WH Treg NA28 ] υἱὸς αὐτοῦ RP</note>
+
+<verse>Luke 20:45</verse>
+<note>45 μαθηταῖς WH Treg NIV ] + αὐτοῦ RP NA28</note>
+
+<verse>Luke 21:1</verse>
+<note>21:1 εἰς τὸ γαζοφυλάκιον τὰ δῶρα αὐτῶν WH Treg NA28 ] τὰ δῶρα αὐτῶν εἰς τὸ γαζοφυλάκιον RP</note>
+
+<verse>Luke 21:2</verse>
+<note>2 τινα WH Treg NA28 ] + καὶ RP </note>
+<note>• λεπτὰ δύο WH Treg NA28 ] δύο λεπτά RP</note>
+
+<verse>Luke 21:3</verse>
+<note>3 ἡ πτωχὴ αὕτη RP ] αὕτη ἡ πτωχὴ WH Treg NA28</note>
+
+<verse>Luke 21:4</verse>
+<note>4 πάντες WH NA28 ] ἅπαντες Treg RP </note>
+<note>• δῶρα WH NA28 ] + τοῦ θεοῦ Treg RP </note>
+<note>• πάντα WH Treg NA28 ] ἅπαντα RP</note>
+
+<verse>Luke 21:6</verse>
+<note>6 λίθῳ Treg NA28 RP ] + ὧδε WH</note>
+
+<verse>Luke 21:8</verse>
+<note>8 λέγοντες WH NA28 ] + ὃτι Treg RP </note>
+<note>• μὴ WH Treg NA28 ] + οὖν RP</note>
+
+<verse>Luke 21:11</verse>
+<note>11 καὶ κατὰ τόπους WH Treg NA28 ] κατὰ τόπους καὶ RP </note>
+<note>• λιμοὶ καὶ λοιμοὶ NA28 RP ] λοιμοὶ καὶ λιμοὶ WH Treg </note>
+<note>• σημεῖα ἀπʼ οὐρανοῦ μεγάλα Treg RP ] ἀπʼ οὐρανοῦ σημεῖα μεγάλα WH NA28; σημεῖα μεγάλα ἀπʼ οὐρανοῦ WHmarg</note>
+
+<verse>Luke 21:12</verse>
+<note>12 τὰς WH Treg NA28 ] – RP </note>
+<note>• ἀπαγομένους WH Treg NA28 ] ἀγομένους RP</note>
+
+<verse>Luke 21:13</verse>
+<note>13 ἀποβήσεται WH NA28 ] + δὲ Treg RP</note>
+
+<verse>Luke 21:14</verse>
+<note>14 θέτε WH Treg NA28 ] Θέσθε RP </note>
+<note>• ἐν ταῖς καρδίαις WH Treg NA28 ] εἰς τὰς καρδίας RP</note>
+
+<verse>Luke 21:15</verse>
+<note>15 ἀντιστῆναι ἢ ἀντειπεῖν WH Treg NA28 ] ἀντειπεῖν οὐδὲ ἀντιστῆναι RP </note>
+<note>• ἅπαντες WH Treg NA28 ] πάντες RP</note>
+
+<verse>Luke 21:16</verse>
+<note>16 ἀδελφῶν καὶ συγγενῶν καὶ φίλων WH Treg NA28 ] συγγενῶν καὶ φίλων καὶ ἀδελφῶν RP</note>
+
+<verse>Luke 21:19</verse>
+<note>19 κτήσασθε NA28 RP ] κτήσεσθε WH Treg</note>
+
+<verse>Luke 21:20</verse>
+<note>20 στρατοπέδων WH Treg NA28 ] + τὴν RP</note>
+
+<verse>Luke 21:23</verse>
+<note>23 οὐαὶ WH Treg NA28 ] + δὲ RP </note>
+<note>• ὀργὴ WH Treg NA28 ] + ἐν RP</note>
+
+<verse>Luke 21:24</verse>
+<note>24 τὰ ἔθνη πάντα WH Treg NA28 ] πάντα τὰ ἔθνη RP </note>
+<note>• οὗ WH Treg NA28 ] – RP </note>
+<note>• πληρωθῶσιν Treg NA28 RP ] + καὶ ἔσονται WH</note>
+
+<verse>Luke 21:25</verse>
+<note>25 ἔσονται WH Treg NA28 ] ἔσται RP </note>
+<note>• ἤχους WH Treg NA28 ] ἠχούσης RP</note>
+
+<verse>Luke 21:33</verse>
+<note>33 παρελεύσονται WH Treg NA28 ] παρέλθωσιν RP</note>
+
+<verse>Luke 21:34</verse>
+<note>34 ὑμῶν αἱ καρδίαι NA28 RP ] αἱ καρδίαι ὑμῶν WH Treg </note>
+<note>• ἐπιστῇ ἐφʼ ὑμᾶς αἰφνίδιος WH Treg NA28 ] αἰφνίδιος ἐφʼ ὑμᾶς ἐπιστῇ RP</note>
+
+<verse>Luke 21:35</verse>
+<note>35 ἐπεισελεύσεται γὰρ WH Treg NA28 ] γὰρ ἐπελεύσεται RP</note>
+
+<verse>Luke 21:36</verse>
+<note>36 δὲ WH Treg NA28 ] οὖν RP </note>
+<note>• κατισχύσητε WH Treg NA28 ] καταξιωθῆτε RP </note>
+<note>• ταῦτα WH Treg NA28 ] – RP</note>
+
+<verse>Luke 21:37</verse>
+<note>37 ἐν τῷ ἱερῷ διδάσκων WH NA28 RP ] διδάσκων ἐν τῷ ἱερῷ Treg</note>
+
+<verse>Luke 22:3</verse>
+<note>22:3 καλούμενον WH Treg NA28 ] ἐπικαλούμενον RP</note>
+
+<verse>Luke 22:4</verse>
+<note>4 αὐτοῖς παραδῷ αὐτόν WH Treg NA28 ] αὐτὸν παραδῷ αὐτοῖς RP</note>
+
+<verse>Luke 22:6</verse>
+<note>6 ἄτερ ὄχλου αὐτοῖς WH Treg NA28 ] αὐτοῖς ἄτερ ὄχλου RP</note>
+
+<verse>Luke 22:7</verse>
+<note>7 ᾗ WH Treg NIV ] ἐν ᾗ RP NA28</note>
+
+<verse>Luke 22:9</verse>
+<note>9 ἑτοιμάσωμεν WH Treg NA28 ] ἑτοιμάσομεν RP</note>
+
+<verse>Luke 22:10</verse>
+<note>10 εἰς ἣν WH Treg NA28 ] οὗ RP</note>
+
+<verse>Luke 22:13</verse>
+<note>13 εἰρήκει WH Treg NA28 ] εἴρηκεν RP</note>
+
+<verse>Luke 22:14</verse>
+<note>14 οἱ WH Treg NA28 ] + δώδεκα RP</note>
+
+<verse>Luke 22:16</verse>
+<note>16 ὅτι WH NA28 ] + οὐκέτι Treg RP </note>
+<note>• αὐτὸ WH Treg NA28 ] ἐξ αὐτοῦ RP</note>
+
+<verse>Luke 22:17</verse>
+<note>17 εἰς ἑαυτούς WH Treg NA28 ] ἑαυτοῖς RP</note>
+
+<verse>Luke 22:18</verse>
+<note>18 οὐ WH Treg NIV ] ὅτι οὐ RP NA28 </note>
+<note>• νῦν ἀπὸ τοῦ WH Treg NA28 ] – RP </note>
+<note>• οὗ WH Treg NA28 ] ὅτου RP</note>
+
+<verse>Luke 22:19</verse>
+<note>19–20 τὸ ὑπὲρ ὑμῶν … ἐκχυννόμενον Treg NA28 RP ] ⟦WH⟧ </note>
+<note>• καὶ τὸ ποτήριον ὡσαύτως Treg NA28 ⟦WH⟧ ] ὡσαύτως καὶ τὸ ποτήριον RP</note>
+
+<verse>Luke 22:22</verse>
+<note>22 ὅτι ὁ υἱὸς μὲν WH Treg NA28 ] καὶ ὁ μὲν υἱὸς RP </note>
+<note>• κατὰ τὸ ὡρισμένον πορεύεται WH Treg NA28 ] πορεύεται κατὰ τὸ ὡρισμένον RP</note>
+
+<verse>Luke 22:26</verse>
+<note>26 γινέσθω WH Treg NA28 ] γενέσθω RP</note>
+
+<verse>Luke 22:27</verse>
+<note>27 ἐν μέσῳ ὑμῶν εἰμι WH Treg NA28 ] εἰμι ἐν μέσῳ ὑμῶν RP</note>
+
+<verse>Luke 22:30</verse>
+<note>30 ἔσθητε WH Treg NA28 ] ἐσθίητε RP </note>
+<note>• ἐν τῇ βασιλείᾳ μου WH Treg NA28 ] – RP </note>
+<note>• καθήσεσθε NA28 Treg ] καθῆσθε WH; καθίσεσθε RP </note>
+<note>• τὰς … φυλὰς κρίνοντες WH NA28 ] κρίνοντες τὰς … φυλὰς Treg RP</note>
+
+<verse>Luke 22:31</verse>
+<note>31 Σίμων WH NA28 ] Εἶπεν δὲ ὁ κύριος Σίμων Treg RP</note>
+
+<verse>Luke 22:32</verse>
+<note>32 στήρισον WH Treg NA28 ] στήριξον RP </note>
+
+<verse>Luke 22:34</verse>
+<note>34 φωνήσει WH Treg NA28 ] μή φωνήσῃ RP </note>
+<note>• ἕως WH Treg NA28 ] πρὶν ἢ RP </note>
+<note>• με ἀπαρνήσῃ εἰδέναι WH Treg NA28 ] ἀπαρνήσῃ μή εἰδέναι με RP</note>
+
+<verse>Luke 22:36</verse>
+<note>36 δὲ WH Treg NA28 ] οὖν RP </note>
+<note>• πωλησάτω WH Treg NA28 ] πωλήσει RP </note>
+<note>• ἀγορασάτω WH Treg NA28 ] ἀγοράσει RP</note>
+
+<verse>Luke 22:37</verse>
+<note>37 ὅτι WH Treg NA28 ] + ἔτι RP </note>
+<note>• τὸ WH Treg NA28 ] τὰ RP</note>
+
+<verse>Luke 22:39</verse>
+<note>39 μαθηταί WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>Luke 22:42</verse>
+<note>42 παρένεγκε WH Treg NA28 ] παρενεγκεῖν RP </note>
+<note>• τοῦτο τὸ ποτήριον WH Treg NA28 ] τὸ ποτήριον τοῦτο RP </note>
+<note>• γινέσθω WH Treg NA28 ] γενέσθω RP</note>
+
+<verse>Luke 22:43</verse>
+<note>43–44 ὤφθη δὲ … ἐπὶ τὴν γῆν. Treg NA28 RP ] ⟦WH⟧ </note>
+<note>• ἀπʼ NA28 RP ] ἀπὸ τοῦ ⟦WH⟧ Treg </note>
+<note>• καὶ ἐγένετο ⟦WH⟧ NA28 ] ἐγένετο δὲ Treg RP</note>
+
+<verse>Luke 22:45</verse>
+<note>45 κοιμωμένους αὐτοὺς WH Treg NA28 ] αὐτοὺς κοιμωμένους RP</note>
+
+<verse>Luke 22:47</verse>
+<note>47 Ἔτι WH Treg NA28 ] + δέ RP</note>
+
+<verse>Luke 22:48</verse>
+<note>48 Ἰησοῦς δὲ WH Treg NA28 ] Ὁ δὲ Ἰησοῦς RP</note>
+
+<verse>Luke 22:49</verse>
+<note>49 εἶπαν WH Treg NA28 ] + αὐτῷ RP</note>
+
+<verse>Luke 22:50</verse>
+<note>50 τοῦ ἀρχιερέως τὸν δοῦλον WH Treg NA28 ] τὸν δοῦλον τοῦ ἀρχιερέως RP </note>
+<note>• τὸ οὖς αὐτοῦ WH Treg NA28 ] αὐτοῦ τὸ οὖς RP</note>
+
+<verse>Luke 22:51</verse>
+<note>51 ὠτίου WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>Luke 22:52</verse>
+<note>52 δὲ WH Treg NA28 ] + ὁ RP </note>
+<note>• ἐξήλθατε WH Treg NA28 ] ἐξεληλύθατε RP</note>
+
+<verse>Luke 22:53</verse>
+<note>53 ἐστὶν ὑμῶν WH Treg NA28 ] ὑμῶν ἐστὶν RP</note>
+
+<verse>Luke 22:54</verse>
+<note>54 εἰσήγαγον WH Treg NA28 ] + αὐτὸν RP </note>
+<note>• τὴν οἰκίαν WH Treg NA28 ] τὸν οἶκον RP</note>
+
+<verse>Luke 22:55</verse>
+<note>55 περιαψάντων WH Treg NA28 ] Ἁψάντων RP </note>
+<note>• συγκαθισάντων WH Treg NA28 ] + αὐτῶν RP </note>
+<note>• μέσος WH Treg NA28 ] ἐν μέσῳ RP</note>
+
+<verse>Luke 22:57</verse>
+<note>57 ἠρνήσατο WH Treg NA28 ] + αὐτόν RP </note>
+<note>• Οὐκ οἶδα αὐτόν γύναι WH Treg NA28 ] Γύναι οὐκ οἶδα αὐτόν RP</note>
+
+<verse>Luke 22:58</verse>
+<note>58 ἔφη WH Treg NA28 ] εἴπεν RP</note>
+
+<verse>Luke 22:61</verse>
+<note>61 λόγου Treg RP ] ῥήματος WH NA28 </note>
+<note>• σήμερον WH Treg NA28 ] – RP</note>
+
+<verse>Luke 22:62</verse>
+<note>62 ἔξω WH Treg NA28 ] + ὁ Πέτρος RP</note>
+
+<verse>Luke 22:63</verse>
+<note>63 αὐτὸν WH Treg NA28 ] τὸν Ἰησοῦν RP</note>
+
+<verse>Luke 22:64</verse>
+<note>64 αὐτὸν ἐπηρώτων WH Treg NA28 ] αὐτόν ἔτυπτον αὐτοῦ τὸ πρόσωπον καὶ ἐπηρώτων αὐτόν RP</note>
+
+<verse>Luke 22:66</verse>
+<note>66 τε WH Treg NA28 ] – RP </note>
+<note>• ἀπήγαγον WH Treg NA28 ] ἀνήγαγον RP</note>
+
+<verse>Luke 22:68</verse>
+<note>68 δὲ WH Treg NA28 ] + καὶ RP </note>
+<note>• ἀποκριθῆτε WH NA28 ] μοι ἢ ἀπολύσητε Treg RP</note>
+
+<verse>Luke 22:69</verse>
+<note>69 δὲ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 22:71</verse>
+<note>71 ἔχομεν μαρτυρίας χρείαν WH Treg NA28 ] χρείαν ἔχομεν μαρτυρίας RP</note>
+
+<verse>Luke 23:2</verse>
+<note>23:2 ἡμῶν WH Treg NA28 ] – RP </note>
+<note>• φόρους Καίσαρι WH Treg NA28 ] Καίσαρι φόρους RP </note>
+<note>• καὶ WH Treg NA28 ] – RP </note>
+<note>• αὑτὸν WH ] ἑαυτὸν Treg NA28 RP</note>
+
+<verse>Luke 23:3</verse>
+<note>3 ἠρώτησεν WH Treg NA28 ] ἐπηρώτησεν RP</note>
+
+<verse>Luke 23:5</verse>
+<note>5 καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Luke 23:6</verse>
+<note>6 ἀκούσας WH NA28 ] + Γαλιλαίαν Treg RP</note>
+
+<verse>Luke 23:8</verse>
+<note>8 ἐξ ἱκανῶν χρόνων θέλων WH Treg NA28 ] θέλων ἐξ ἱκανοῦ RP </note>
+<note>• ἀκούειν WH Treg NA28 ] + πολλὰ RP</note>
+
+<verse>Luke 23:11</verse>
+<note>11 καὶ NA28 ] – WH Treg RP </note>
+<note>• περιβαλὼν WH NA28 ] αὐτὸν Treg RP</note>
+
+<verse>Luke 23:12</verse>
+<note>12 Ἡρῴδης καὶ ὁ Πιλᾶτος WH Treg NA28 ] Πιλάτος καὶ ὁ Ἡρῴδης RP </note>
+<note>• αὑτούς WH ] αὐτούς Treg NA28; ἑαυτούς RP</note>
+
+<verse>Luke 23:14</verse>
+<note>14 οὐθὲν WH Treg NA28 ] οὐδὲν RP</note>
+
+<verse>Luke 23:15</verse>
+<note>15 ἀνέπεμψεν γὰρ αὐτὸν πρὸς ἡμᾶς WH NA28 ] ἀνέπεμψα γὰρ ὑμᾶς πρὸς αὐτόν Treg RP</note>
+
+<verse>Luke 23:16</verse>
+<note>16 ἀπολύσω WH Treg NA28 ] + 17 Ἀνάγκην δέ εἶχεν ἀπολύειν αὐτοῖς κατὰ ἑορτὴν ἕνα. RP</note>
+
+<verse>Luke 23:18</verse>
+<note>18 Ἀνέκραγον WH Treg NA28 ] Ἀνέκραξαν RP </note>
+<note>• τὸν WH Treg NA28 ] – RP</note>
+
+<verse>Luke 23:19</verse>
+<note>19 βληθεὶς ἐν τῇ φυλακῇ WH Treg NA28 ] βεβλημένος εἰς φυλακήν RP</note>
+
+<verse>Luke 23:20</verse>
+<note>20 δὲ WH Treg NA28 ] οὖν RP </note>
+<note>•  προσεφώνησεν Treg RP ] + αὐτοῖς WH NA28</note>
+
+<verse>Luke 23:21</verse>
+<note>21 Σταύρου σταύρου WH Treg NA28 ] Σταύρωσον σταύρωσον RP</note>
+
+<verse>Luke 23:23</verse>
+<note>23 αὐτῶν WH NA28 ] + καὶ τῶν ἀρχιερέων Treg RP</note>
+
+<verse>Luke 23:24</verse>
+<note>24 καὶ WH Treg NA28 ] Ὁ δὲ RP</note>
+
+<verse>Luke 23:25</verse>
+<note>25 εἰς WH Treg NA28 ] + τὴν RP</note>
+
+<verse>Luke 23:26</verse>
+<note>26 Σίμωνά τινα Κυρηναῖον ἐρχόμενον WH Treg NA28 ] Σίμωνός τινος Κυρηναίου ἐρχομένου RP</note>
+
+<verse>Luke 23:27</verse>
+<note>27 αἳ WH Treg NA28 ] + καὶ RP</note>
+
+<verse>Luke 23:28</verse>
+<note>28 ὁ NA28 RP ] – WH Treg</note>
+
+<verse>Luke 23:29</verse>
+<note>29 αἱ WH Treg NA28 ] – RP </note>
+<note>• ἔθρεψαν WH Treg NA28 ] ἐθήλασαν RP</note>
+
+<verse>Luke 23:31</verse>
+<note>31 τῷ Treg NA28 RP ] – WH</note>
+
+<verse>Luke 23:32</verse>
+<note>32 κακοῦργοι δύο WH NA28 ] δύο κακοῦργοι Treg RP</note>
+
+<verse>Luke 23:33</verse>
+<note>33 ἦλθον WH Treg NA28 ] ἀπῆλθον RP</note>
+
+<verse>Luke 23:34</verse>
+<note>34 ὁ δὲ … ποιοῦσιν Treg NA28 RP ] ⟦WH⟧ </note>
+<note>• κλήρους NA28 ] κλῆρον WH Treg RP</note>
+
+<verse>Luke 23:35</verse>
+<note>35 ἄρχοντες WH Treg NA28 ] + σὺν αὐτοῖς RP </note>
+<note>• τοῦ θεοῦ ὁ WH NA28 ] ὁ τοῦ θεοῦ Treg RP</note>
+
+<verse>Luke 23:36</verse>
+<note>36 ἐνέπαιξαν WH NA28 ] ἐνέπαιζον Treg RP </note>
+<note>• ὄξος WH Treg NA28 ] καὶ ὄξος RP</note>
+
+<verse>Luke 23:38</verse>
+<note>38 ἐπιγραφὴ WH NA28 ] + ἐπιγεγραμμένη Treg; + γεγραμμένη RP </note>
+<note>• αὐτῷ WH Treg NA28 ] + γράμμασιν Ἑλληνικοῖς καὶ Ῥωμαϊκοῖς καὶ Ἑβραϊκοῖς Οὗτός ἐστιν RP </note>
+<note>• οὗτος WH Treg NA28 ] – RP</note>
+
+<verse>Luke 23:39</verse>
+<note>39 λέγων Treg NA28 RP ] – WH </note>
+<note>• Οὐχὶ WH Treg NA28 ] Εἰ RP</note>
+
+<verse>Luke 23:40</verse>
+<note>40 ἐπιτιμῶν αὐτῷ ἔφη WH Treg NA28 ] ἐπετίμα αὐτῷ λέγων RP</note>
+
+<verse>Luke 23:42</verse>
+<note>42 ἔλεγεν WH Treg NA28 ] + τᾠ RP </note>
+<note>• μου WH Treg NA28 ] + κύριε RP </note>
+<note>• ἐν τῇ βασιλείᾳ Treg RP ] εἰς τὴν βασιλείαν WH NA28</note>
+
+<verse>Luke 23:43</verse>
+<note>43 αὐτῷ WH NA28 ] + ὁ Ἰησοῦς Treg RP </note>
+<note>• σοι λέγω WH Treg NA28 ] λέγω σοι RP</note>
+
+<verse>Luke 23:44</verse>
+<note>44 Καὶ ἦν WH Treg NA28 ] Ἦν δὲ RP </note>
+<note>• ἤδη WH Treg NA28 ] – RP</note>
+
+<verse>Luke 23:45</verse>
+<note>45 τοῦ ἡλίου ἐκλιπόντος WH NA28 ] καὶ  ἐσκοτίσθη ὁ ἥλιος καὶ Treg RP </note>
+<note>• δὲ WH NA28 ] – Treg RP</note>
+
+<verse>Luke 23:46</verse>
+<note>46 παρατίθεμαι WH Treg NA28 ] παραθήσομαι RP </note>
+<note>• τοῦτο δὲ WH Treg NA28 ] καὶ ταῦτα RP</note>
+
+<verse>Luke 23:47</verse>
+<note>47 ἐδόξαζεν WH Treg NA28 ] ἐδόξασεν RP</note>
+
+<verse>Luke 23:48</verse>
+<note>48 θεωρήσαντες WH Treg NA28 ] θεωροῦντες RP </note>
+<note>• τύπτοντες WH Treg NA28 ] + ἑαυτῶν RP</note>
+
+<verse>Luke 23:49</verse>
+<note>49 αὐτῷ WH Treg NA28 ] αὐτοῦ RP </note>
+<note>• μακρόθεν Treg RP ] απο μακρόθεν WH NA28 </note>
+<note>• συνακολουθοῦσαι WH Treg NA28 ] συνακολουθήσασαι RP</note>
+
+<verse>Luke 23:50</verse>
+<note>50 ἀνὴρ WH Treg RP ] καὶ ἀνὴρ NA28</note>
+
+<verse>Luke 23:51</verse>
+<note>51 προσεδέχετο WH Treg NA28 ] καὶ προσεδέχετο καὶ αὐτὸς RP</note>
+
+<verse>Luke 23:53</verse>
+<note>53 καθελὼν WH Treg NA28 ] + αὐτὸ RP </note>
+<note>• αὐτὸν WH Treg NA28 ] αὐτὸ NIV RP </note>
+<note>• οὐδεὶς οὔπω WH Treg NA28 ] οὐδέπω οὐδεὶς RP</note>
+
+<verse>Luke 23:54</verse>
+<note>54 παρασκευῆς καὶ WH Treg NA28 ] Παρασκευή RP</note>
+
+<verse>Luke 23:55</verse>
+<note>55 αἱ WH Treg NA28 ] – RP </note>
+<note>• ἐκ τῆς Γαλιλαίας αὐτῷ WH NA28 ] αὐτῷ ἐκ τῆς Γαλιλαίας Treg RP</note>
+
+<verse>Luke 24:1</verse>
+<note>24:1 ἐπὶ τὸ μνῆμα ἦλθον WH NA28 ] ἦλθον ἐπὶ τὸ μνῆμα Treg RP </note>
+<note>• ἀρώματα WH Treg NA28 ] + καί τινες σὺν αὐταῖς RP</note>
+
+<verse>Luke 24:3</verse>
+<note>3 εἰσελθοῦσαι δὲ WH Treg NA28 ] Καὶ εἰσελθοῦσαι RP </note>
+<note>• σῶμα WH ] + τοῦ κυρίου Ἰησοῦ Treg NA28 RP</note>
+
+<verse>Luke 24:4</verse>
+<note>4 ἀπορεῖσθαι WH Treg NA28 ] διαπορεῖσθαι RP </note>
+<note>• ἐσθῆτι ἀστραπτούσῃ WH Treg NA28 ] ἐσθήσεσιν ἀστραπτούσαις RP</note>
+
+<verse>Luke 24:5</verse>
+<note>5 τὰ πρόσωπα WH Treg NA28 ] τὸ πρόσωπον RP</note>
+
+<verse>Luke 24:6</verse>
+<note>6 οὐκ ἔστιν ὧδε ἀλλὰ ἠγέρθη Treg NA28 RP ] ⟦WH⟧</note>
+
+<verse>Luke 24:7</verse>
+<note>7 τὸν … ἀνθρώπου ὅτι δεῖ WH Treg NA28 ] ὅτι δεῖ τὸν … ἀνθρώπου RP</note>
+
+<verse>Luke 24:10</verse>
+<note>10 ἡ WH Treg NA28 ] –RP </note>
+<note>• ἔλεγον WH Treg NA28 ] αἳ ἔλεγον RP</note>
+
+<verse>Luke 24:11</verse>
+<note>11 ταῦτα WH Treg NA28 ] αὐτῶν RP</note>
+
+<verse>Luke 24:12</verse>
+<note>12 Ὁ δὲ … τὸ γεγονός Treg NA28 RP ] ⟦WH⟧ </note>
+<note>• ὀθόνια ⟦WH⟧ Treg NA28 ] + κείμενα RP </note>
+<note>• αὑτὸν ⟦WH⟧ ] αὐτὸν Treg; ἑαυτὸν NA28 RP</note>
+
+<verse>Luke 24:13</verse>
+<note>13 ἐν αὐτῇ τῇ ἡμέρᾳ ἦσαν πορευόμενοι WH NA28 ] ἦσαν πορευόμενοι ἐν αὐτῇ τῇ ἡμέρᾳ Treg RP</note>
+
+<verse>Luke 24:15</verse>
+<note>15 αὐτὸς WH Treg NA28 ] + ὁ RP</note>
+
+<verse>Luke 24:17</verse>
+<note>17 ἐστάθησαν WH Treg NA28 ] ἐστε RP</note>
+
+<verse>Luke 24:18</verse>
+<note>18 εἷς ὀνόματι WH Treg NA28 ] εἷς ἐξ αὐτῶν ὀνόματι NIV; ὁ εἷς ᾧ ὄνομα RP</note>
+
+<verse>Luke 24:19</verse>
+<note>19 Ναζαρηνοῦ WH Treg NA28 ] Ναζωραίου RP</note>
+
+<verse>Luke 24:21</verse>
+<note>21 καὶ WH Treg NA28 ] – RP </note>
+<note>• ἄγει WH NA28 ] + σήμερον Treg RP</note>
+
+<verse>Luke 24:22</verse>
+<note>22 ὀρθριναὶ WH Treg NA28 ] ὄρθριαι RP</note>
+
+<verse>Luke 24:24</verse>
+<note>24 καὶ NA28 RP ] – WH Treg</note>
+
+<verse>Luke 24:27</verse>
+<note>27 διερμήνευσεν WH Treg NA28 ] διηρμήνευεν RP </note>
+<note>• ἑαυτοῦ WH NA28 RP ] αὐτοῦ Treg</note>
+
+<verse>Luke 24:28</verse>
+<note>28 προσεποιήσατο WH Treg NA28 ] προσεποιεῖτο RP </note>
+<note>• πορρώτερον WH Treg NA28 ] πορρωτέρω RP</note>
+
+<verse>Luke 24:29</verse>
+<note>29 ἤδη WH Treg NA28 ] – RP</note>
+
+<verse>Luke 24:32</verse>
+<note>32 ἐν ἡμῖν Treg NA28 RP ] – WH </note>
+<note>• ὡς WH Treg NA28 ] καὶ ὡς RP</note>
+
+<verse>Luke 24:33</verse>
+<note>33 ἠθροισμένους WH Treg NA28 ] συνηθροισμένους RP</note>
+
+<verse>Luke 24:34</verse>
+<note>34 ὄντως ἠγέρθη ὁ κύριος WH Treg NA28 ] Ἠγέρθη ὁ κύριος ὄντως RP</note>
+
+<verse>Luke 24:36</verse>
+<note>36 αὐτὸς WH Treg NA28 ] + ὁ Ἰησοῦς RP </note>
+<note>• αὐτῶν WH ] + καὶ λέγει αὐτοῖς Εἰρήνη ὑμῖν Treg NA28 RP</note>
+
+<verse>Luke 24:38</verse>
+<note>38 τῇ καρδίᾳ WH Treg NA28 ] ταῖς καρδίαις RP</note>
+
+<verse>Luke 24:39</verse>
+<note>39 ἐγώ εἰμι αὐτός WH Treg NA28 ] αὐτὸς ἐγώ εἰμι RP</note>
+
+<verse>Luke 24:40</verse>
+<note>40 καὶ τοῦτο … τοὺς πόδας  Treg NA28 RP ] ⟦WH⟧ </note>
+<note>• ἔδειξεν ⟦WH⟧ Treg NA28 ] ἐπέδειξεν RP</note>
+
+<verse>Luke 24:42</verse>
+<note>42 μέρος WH NA28 ] + καὶ ἀπὸ μελισσίου κηρίου Treg RP</note>
+
+<verse>Luke 24:44</verse>
+<note>44 πρὸς αὐτούς WH Treg NA28 ] αὐτοῖς RP </note>
+<note>• μου WH Treg NA28 ] – RP </note>
+<note>• καὶ RP ] + τοῖς WH Treg NA28</note>
+
+<verse>Luke 24:46</verse>
+<note>46 γέγραπται WH Treg NA28 ] + καὶ οὕτως ἔδει RP</note>
+
+<verse>Luke 24:47</verse>
+<note>47 καὶ Treg NIV RP ] εἰς WH NA28 </note>
+<note>• ἀρξάμενοι WH Treg NA28 ] ἀρξάμενον RP</note>
+
+<verse>Luke 24:48</verse>
+<note>48 ἐστε Treg ] – WH NA28; δέ ἐστε RP</note>
+
+<verse>Luke 24:49</verse>
+<note>49 ἐξαποστέλλω WH Treg ] ἀποστέλλω NA28 RP </note>
+<note>• πόλει WH Treg NA28 ] + Ἱερουσαλήμ RP </note>
+<note>• ἐξ ὕψους δύναμιν WH Treg NA28 ] δύναμιν ἐξ ὕψους RP</note>
+
+<verse>Luke 24:50</verse>
+<note>50 ἕως WH Treg NIV ] ἔξω ἕως RP NA28 </note>
+<note>• πρὸς WH Treg NA28 ] εἰς RP</note>
+
+<verse>Luke 24:51</verse>
+<note>51 καὶ ἀνεφέρετο εἰς τὸν οὐρανόν Treg NA28 RP ] ⟦WH⟧</note>
+
+<verse>Luke 24:52</verse>
+<note>52 προσκυνήσαντες αὐτὸν Treg NA28 RP ] ⟦WH⟧</note>
+
+<verse>Luke 24:53</verse>
+<note>53 εὐλογοῦντες WH NA28 ] αἰνοῦντες καὶ εὐλογοῦντες Treg RP </note>
+<note>• θεόν WH Treg NA28 ] + Ἀμήν RP</note>
 </book>

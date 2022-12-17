@@ -1,29 +1,75 @@
+ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β
 
-2Th 1:2	Thessalonians Apparatus Data
-Order of edition citation: WH Treg NIV RP
+2 Thessalonians 1:2
+1:2 πατρὸς WH NIV ] + ἡμῶν Treg RP NA28
 
-2Th 1:2	πατρὸς WH NIV ] + ἡμῶν Treg RP NA
-2Th 1:4	αὐτοὺς ἡμᾶς WH Treg NIV ] ἡμᾶς αὐτοὺς RP • ἐγκαυχᾶσθαι WH Treg NIV ] καυχᾶσθαι RP
-2Th 1:8	φλογὶ πυρός Treg ] πυρὶ φλογός WH NIV RP
+2 Thessalonians 1:4
+4 αὐτοὺς ἡμᾶς WH Treg NA28 ] ἡμᾶς αὐτοὺς RP 
+• ἐγκαυχᾶσθαι WH Treg NA28 ] καυχᾶσθαι RP
 
-2Th 2:2	μηδὲ WH Treg NIV ] μήτε RP • κυρίου WH Treg NIV ] Χριστοῦ RP
-2Th 2:3	ἀνομίας WH Treg NIV ] ἁμαρτίας RP
-2Th 2:4	θεοῦ WH Treg NIV ] + ὡς θεὸν RP
-2Th 2:6	ἑαυτοῦ NIV RP ] αὐτοῦ WH Treg
-2Th 2:8	Ἰησοῦς WH Treg NIV ] – RP • ἀνελεῖ WH Treg NIV ] ἀναλώσει RP
-2Th 2:10	ἀδικίας WH Treg NIV ] τῆς ἀδικίας ἐν RP
-2Th 2:11	πέμπει WH Treg NIV ] πέμψει RP
-2Th 2:12	πάντες WH Treg NIV ] ἅπαντες RP • τῇ WH Treg NIV ] ἐν τῇ RP
-2Th 2:13	ἀπαρχὴν Holmes WHmarg NA ] ἀπ᾽ ἀρχῆς WH Treg NIV RP
-2Th 2:14	ὃ WH Treg RP ] + καὶ NIV
-2Th 2:16	θεὸς Treg ] ὁ θεὸς WH NIV RP • ὁ WH Treg NIV ] καὶ RP
-2Th 2:17	στηρίξαι WH Treg NIV ] + ὑμᾶς RP • ἔργῳ καὶ λόγῳ WH Treg NIV ] λόγῳ καὶ ἔργῳ RP
+2 Thessalonians 1:8
+8 φλογὶ πυρός Treg ] πυρὶ φλογός WH NA28 RP
 
-2Th 3:4	παραγγέλλομεν WH Treg NIV ] + ὑμῖν RP
-2Th 3:6	ἡμῶν Treg RP NA ] – WH NIV • παρελάβοσαν Holmes WHmarg NA ] παρελάβετε WH Treg NIV;  παρέλαβον RP
-2Th 3:8	νυκτὸς καὶ ἡμέρας WH Treg NIV ] νύκτα καὶ ἡμέραν RP
-2Th 3:12	ἐν κυρίῳ Ἰησοῦ Χριστῷ WH Treg NIV ] διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστου RP
-2Th 3:13	ἐγκακήσητε WH Treg NIV ] ἐκκακήσητε RP
-2Th 3:14	μὴ WH Treg NIV ] καὶ μὴ RP • συναναμίγνυσθαι WH Treg NIV ] συναναμίγνυσθε RP
-2Th 3:18	ὑμῶν WH Treg NIV ] + Ἀμήν RP
+2 Thessalonians 2:2
+2:2 μηδὲ WH Treg NA28 ] μήτε RP 
+• κυρίου WH Treg NA28 ] Χριστοῦ RP
 
+2 Thessalonians 2:3
+3 ἀνομίας WH Treg NA28 ] ἁμαρτίας RP
+
+2 Thessalonians 2:4
+4 θεοῦ WH Treg NA28 ] + ὡς θεὸν RP
+
+2 Thessalonians 2:6
+6 ἑαυτοῦ NA28 RP ] αὐτοῦ WH Treg
+
+2 Thessalonians 2:8
+8 Ἰησοῦς WH Treg NA28 ] – RP 
+• ἀνελεῖ WH Treg NA28 ] ἀναλώσει RP
+
+2 Thessalonians 2:10
+10 ἀδικίας WH Treg NA28 ] τῆς ἀδικίας ἐν RP
+
+2 Thessalonians 2:11
+11 πέμπει WH Treg NA28 ] πέμψει RP
+
+2 Thessalonians 2:12
+12 πάντες WH Treg NA28 ] ἅπαντες RP 
+• τῇ WH Treg NA28 ] ἐν τῇ RP
+
+2 Thessalonians 2:13
+13 ἀπαρχὴν NA28 ] ἀπʼ ἀρχῆς WH Treg NIV RP
+
+2 Thessalonians 2:14
+14 ὃ WH Treg RP ] + καὶ NA28
+
+2 Thessalonians 2:16
+16 θεὸς Treg ] ὁ θεὸς WH NA28 RP 
+• ὁ WH Treg NA28 ] καὶ RP
+
+2 Thessalonians 2:17
+17 στηρίξαι WH Treg NA28 ] + ὑμᾶς RP 
+• ἔργῳ καὶ λόγῳ WH Treg NA28 ] λόγῳ καὶ ἔργῳ RP
+
+2 Thessalonians 3:4
+3:4 παραγγέλλομεν WH Treg NA28 ] + ὑμῖν RP
+
+2 Thessalonians 3:6
+6 ἡμῶν Treg RP NA28 ] – WH NIV 
+• παρελάβοσαν NA28 ] παρελάβετε WH Treg NIV;  παρέλαβον RP
+
+2 Thessalonians 3:8
+8 νυκτὸς καὶ ἡμέρας WH Treg NA28 ] νύκτα καὶ ἡμέραν RP
+
+2 Thessalonians 3:12
+12 ἐν κυρίῳ Ἰησοῦ Χριστῷ WH Treg NA28 ] διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστου RP
+
+2 Thessalonians 3:13
+13 ἐγκακήσητε WH Treg NA28 ] ἐκκακήσητε RP
+
+2 Thessalonians 3:14
+14 μὴ WH Treg NA28 ] καὶ μὴ RP 
+• συναναμίγνυσθαι WH Treg NA28 ] συναναμίγνυσθε RP
+
+2 Thessalonians 3:18
+18 ὑμῶν WH Treg NA28 ] + Ἀμήν RP

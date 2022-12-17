@@ -1,40 +1,104 @@
+ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β
 
-2Ti 1:2	Timothy Apparatus Data
-Order of edition citation: WH Treg NIV RP
+2 Timothy 1:1
+1:1 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP
 
-2Ti 1:1	Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ Χριστοῦ RP
-2Ti 1:5	λαβὼν WH Treg NIV ] λαμβάνων RP
-2Ti 1:10	Ἰησοῦ Χριστοῦ RP ] Χριστοῦ Ἰησοῦ WH Treg NIV
-2Ti 1:11	διδάσκαλος WH NIV ] + ἐθνῶν Treg RP
-2Ti 1:17	σπουδαίως WH Treg NIV ] σπουδαιότερον RP
+2 Timothy 1:5
+5 λαβὼν WH Treg NA28 ] λαμβάνων RP
 
-2Ti 2:3	συγκακοπάθησον WH Treg NIV ] Σὺ οὖν κακοπάθησον RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] Ἰησοῦ χριστοῦ RP
-2Ti 2:7	ὃ WH Treg NIV ] ἃ RP • δώσει WH Treg NIV ] δῴη RP
-2Ti 2:12	ἀρνησόμεθα WH Treg NIV ] ἀρνούμεθα RP
-2Ti 2:13	ἀρνήσασθαι RP ] + γὰρ WH Treg NIV
-2Ti 2:14	κυρίου RP ] θεοῦ WH Treg NIV • ἐπ᾽ WH Treg NIV ] εἰς RP
-2Ti 2:18	λέγοντες WH Treg ] + τὴν NIV RP
-2Ti 2:21	εὔχρηστον WH Treg NIV ] καὶ εὔχρηστον RP
-2Ti 2:25	δώῃ NIV ] δῴη WH Treg; δῷ RP
+2 Timothy 1:10
+10 Ἰησοῦ Χριστοῦ RP ] Χριστοῦ Ἰησοῦ WH Treg NA28
 
-2Ti 3:6	αἰχμαλωτίζοντες WH Treg NIV ] αἰχμαλωτεύοντες RP
-2Ti 3:10	παρηκολούθησάς WH Treg NIV ] παρηκολούθηκάς RP
-2Ti 3:12	ζῆν εὐσεβῶς WH Treg ] εὐσεβῶς ζῆν NIV RP
-2Ti 3:14	τίνων WH Treg NIV ] τίνος RP
-2Ti 3:15	ἱερὰ WH ] τὰ ἱερὰ Treg NIV RP
-2Ti 3:16	ἐλεγμόν WH Treg NIV ] ἔλεγχον RP
+2 Timothy 1:11
+11 διδάσκαλος WH NA28 ] + ἐθνῶν Treg RP
 
-2Ti 4:1	Διαμαρτύρομαι WH Treg NIV ] + οὖν ἐγὼ RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] τοῦ κυρίου Ἰησοῦ χριστοῦ RP • καὶ WH Treg NIV ] κατὰ RP
-2Ti 4:3	ἰδίας ἐπιθυμίας WH Treg NIV ] ἐπιθυμίας τὰς ἰδίας RP
-2Ti 4:6	ἀναλύσεώς μου WH Treg NIV ] ἐμῆς ἀναλύσεως RP
-2Ti 4:7	καλὸν ἀγῶνα WH Treg NIV ] ἀγῶνα τὸν καλὸν RP
-2Ti 4:10	ἐγκατέλιπεν Treg NIV RP ] ἐγκατέλειπεν WH 
-2Ti 4:13	ἀπέλιπον Treg NIV RP ] ἀπέλειπον WH
-2Ti 4:14	ἀποδώσει WH Treg NIV ] ἀποδῴη RP
-2Ti 4:15	ἀντέστη WH Treg NIV ] ἀνθέστηκεν RP
-2Ti 4:16	παρεγένετο WH Treg NIV ] συμπαρεγένετο RP • ἐγκατέλιπον Treg NIV RP ] ἐγκατέλειπον WH
-2Ti 4:17	ἀκούσωσιν WH Treg NIV ] ἀκούσῃ RP
-2Ti 4:18	ῥύσεταί WH Treg NIV] Καὶ ῥύσεταί RP
-2Ti 4:20	ἀπέλιπον Treg NIV RP ] ἀπέλειπον WH
-2Ti 4:22	κύριος WH Treg NIV ] + Ἰησοῦς χριστὸς RP • ὑμῶν WH Treg NIV ] + Ἀμήν RP
+2 Timothy 1:17
+17 σπουδαίως WH Treg NA28 ] σπουδαιότερον RP
 
+2 Timothy 2:3
+2:3 συγκακοπάθησον WH Treg NA28 ] Σὺ οὖν κακοπάθησον RP 
+• Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ χριστοῦ RP
+
+2 Timothy 2:7
+7 ὃ WH Treg NA28 ] ἃ RP 
+• δώσει WH Treg NA28 ] δῴη RP
+
+2 Timothy 2:12
+12 ἀρνησόμεθα WH Treg NA28 ] ἀρνούμεθα RP
+
+2 Timothy 2:13
+13 ἀρνήσασθαι RP ] + γὰρ WH Treg NA28
+
+2 Timothy 2:14
+14 κυρίου RP ] θεοῦ WH Treg NA28 
+• ἐπʼ WH Treg NA28 ] εἰς RP
+
+2 Timothy 2:18
+18 λέγοντες WH Treg ] + τὴν NA28 RP
+
+2 Timothy 2:21
+21 εὔχρηστον WH Treg NA28 ] καὶ εὔχρηστον RP
+
+2 Timothy 2:25
+25 δώῃ NA28 ] δῴη WH Treg; δῷ RP
+
+2 Timothy 3:6
+3:6 αἰχμαλωτίζοντες WH Treg NA28 ] αἰχμαλωτεύοντες RP
+
+2 Timothy 3:10
+10 παρηκολούθησάς WH Treg NA28 ] παρηκολούθηκάς RP
+
+2 Timothy 3:12
+12 ζῆν εὐσεβῶς WH Treg ] εὐσεβῶς ζῆν NA28 RP
+
+2 Timothy 3:14
+14 τίνων WH Treg NA28 ] τίνος RP
+
+2 Timothy 3:15
+15 ἱερὰ WH ] τὰ ἱερὰ Treg NA28 RP
+
+2 Timothy 3:16
+16 ἐλεγμόν WH Treg NA28 ] ἔλεγχον RP
+
+2 Timothy 4:1
+4:1 Διαμαρτύρομαι WH Treg NA28 ] + οὖν ἐγὼ RP 
+• Χριστοῦ Ἰησοῦ WH Treg NA28 ] τοῦ κυρίου Ἰησοῦ χριστοῦ RP 
+• καὶ WH Treg NA28 ] κατὰ RP
+
+2 Timothy 4:3
+3 ἰδίας ἐπιθυμίας WH Treg NA28 ] ἐπιθυμίας τὰς ἰδίας RP
+
+2 Timothy 4:6
+6 ἀναλύσεώς μου WH Treg NA28 ] ἐμῆς ἀναλύσεως RP
+
+2 Timothy 4:7
+7 καλὸν ἀγῶνα WH Treg NA28 ] ἀγῶνα τὸν καλὸν RP
+
+2 Timothy 4:10
+10 ἐγκατέλιπεν Treg NA28 RP ] ἐγκατέλειπεν WH 
+
+2 Timothy 4:13
+13 ἀπέλιπον Treg NA28 RP ] ἀπέλειπον WH
+
+2 Timothy 4:14
+14 ἀποδώσει WH Treg NA28 ] ἀποδῴη RP
+
+2 Timothy 4:15
+15 ἀντέστη WH Treg NA28 ] ἀνθέστηκεν RP
+
+2 Timothy 4:16
+16 παρεγένετο WH Treg NA28 ] συμπαρεγένετο RP 
+• ἐγκατέλιπον Treg NA28 RP ] ἐγκατέλειπον WH
+
+2 Timothy 4:17
+17 ἀκούσωσιν WH Treg NA28 ] ἀκούσῃ RP
+
+2 Timothy 4:18
+18 ῥύσεταί WH Treg NA28 ] Καὶ ῥύσεταί RP
+
+2 Timothy 4:20
+20 ἀπέλιπον Treg NA28 RP ] ἀπέλειπον WH
+
+2 Timothy 4:22
+22 κύριος WH Treg NA28 ] + Ἰησοῦς χριστὸς RP 
+• ὑμῶν WH Treg NA28 ] + Ἀμήν RP

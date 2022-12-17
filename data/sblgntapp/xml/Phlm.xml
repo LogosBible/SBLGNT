@@ -1,23 +1,48 @@
 <book>
-<title>ΠΡΟΣ ΦΙΛΗΜΟΝΑ</title>
+<book-name>ΠΡΟΣ ΦΙΛΗΜΟΝΑ</book-name>
 
+<verse>Philemon 1:2</verse>
+<note>1:2 ἀδελφῇ WH Treg NA28 ] ἀγαπητῇ RP</note>
 
+<verse>Philemon 1:5</verse>
+<note>5 πρὸς NA28 RP ] εἰς WH Treg</note>
 
+<verse>Philemon 1:6</verse>
+<note>6 τοῦ WH NA28 RP ] – Treg </note>
+<note>• Χριστόν WH Treg NA28 ] + Ἰησοῦν RP</note>
 
-<p><verse-number id="Phm 1:2">1:2</verse-number> <b>ἀδελφῇ</b> WH Treg NIV ] ἀγαπητῇ RP</p>
-<p><verse-number id="Phm 1:5">5</verse-number> <b>πρὸς</b> NIV RP ] εἰς WH Treg</p>
-<p><verse-number id="Phm 1:6">6</verse-number> <b>τοῦ</b> WH NIV RP ] – Treg • <b>Χριστόν</b> WH Treg NIV ] + Ἰησοῦν RP</p>
-<p><verse-number id="Phm 1:7">7</verse-number> <b>χαρὰν</b> WH Treg NIV ] Χάριν RP • <b>πολλὴν ἔσχον</b> WH Treg NIV ] ἔχομεν πολλὴν RP</p>
-<p><verse-number id="Phm 1:9">9</verse-number> <b>Χριστοῦ Ἰησοῦ</b> WH Treg NIV ] Ἰησοῦ Χριστοῦ RP</p>
-<p><verse-number id="Phm 1:10">10</verse-number> <b>δεσμοῖς</b> WH Treg NIV ] + μου RP</p>
-<p><verse-number id="Phm 1:11">11</verse-number> <b>δὲ</b> WH Treg RP ] + καὶ NIV</p>
-<p><verse-number id="Phm 1:12">12</verse-number> <b>σοι αὐτόν … σπλάγχνα</b> WH Treg NIV ] σὺ δὲ αὐτόν … σπλάγχνα προσλαβοῦ RP</p>
-<p><verse-number id="Phm 1:13">13</verse-number> <b>μοι διακονῇ</b> WH Treg NIV ] διακονῇ μοι RP</p>
-<p><verse-number id="Phm 1:18">18</verse-number> <b>ἐλλόγα</b> WH Treg NIV ] ἐλλόγει RP</p>
-<p><verse-number id="Phm 1:20">20</verse-number> <b>Χριστῷ</b> WH Treg NIV ] κυρίῳ RP</p>
-<p><verse-number id="Phm 1:21">21</verse-number> <b>ἃ</b> WH Treg NIV ] ὃ RP</p>
-<p><verse-number id="Phm 1:23">23</verse-number> <b>Ἀσπάζεταί</b> WH Treg NIV ] Ἀσπάζονταί RP</p>
-<p><verse-number id="Phm 1:25">25</verse-number> <b>κυρίου</b> WH NIV ] + ἡμῶν Treg RP • <b>ὑμῶν</b> WH Treg NIV ] + Ἀμήν RP</p>
+<verse>Philemon 1:7</verse>
+<note>7 χαρὰν WH Treg NA28 ] Χάριν RP </note>
+<note>• πολλὴν ἔσχον WH Treg NA28 ] ἔχομεν πολλὴν RP</note>
 
+<verse>Philemon 1:9</verse>
+<note>9 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP</note>
 
+<verse>Philemon 1:10</verse>
+<note>10 δεσμοῖς WH Treg NA28 ] + μου RP</note>
+
+<verse>Philemon 1:11</verse>
+<note>11 δὲ WH Treg RP ] + καὶ NA28</note>
+
+<verse>Philemon 1:12</verse>
+<note>12 σοι αὐτόν … σπλάγχνα WH Treg NA28 ] σὺ δὲ αὐτόν … σπλάγχνα προσλαβοῦ RP</note>
+
+<verse>Philemon 1:13</verse>
+<note>13 μοι διακονῇ WH Treg NA28 ] διακονῇ μοι RP</note>
+
+<verse>Philemon 1:18</verse>
+<note>18 ἐλλόγα WH Treg NA28 ] ἐλλόγει RP</note>
+
+<verse>Philemon 1:20</verse>
+<note>20 Χριστῷ WH Treg NA28 ] κυρίῳ RP</note>
+
+<verse>Philemon 1:21</verse>
+<note>21 ἃ WH Treg NA28 ] ὃ RP</note>
+
+<verse>Philemon 1:23</verse>
+<note>23 Ἀσπάζεταί WH Treg NA28 ] Ἀσπάζονταί RP</note>
+
+<verse>Philemon 1:25</verse>
+<note>25 κυρίου WH NA28 ] + ἡμῶν Treg RP </note>
+<note>• ὑμῶν WH Treg NA28 ] + Ἀμήν RP</note>
 </book>

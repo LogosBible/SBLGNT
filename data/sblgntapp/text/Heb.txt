@@ -1,135 +1,381 @@
+ΠΡΟΣ ΕΒΡΑΙΟΥΣ
 
-Hebrews Apparatus Data
-Order of edition citation: WH Treg NIV RP
+Hebrews 1:2
+1:2 ἐποίησεν τοὺς αἰῶνας WH Treg NA28 ] τοὺς αἰῶνας ἐποίησεν RP
 
-Heb 1:2	ἐποίησεν τοὺς αἰῶνας WH Treg NIV ] τοὺς αἰῶνας ἐποίησεν RP
-Heb 1:3	δι᾽ αὑτοῦ Holmes ] αὐτοῦ WH Treg NIV; αὐτοῦ δι᾽ ἑαυτοῦ RP • τῶν ἁμαρτιῶν ποιησάμενος WH Treg NIV ] ποιησάμενος τῶν ἁμαρτιῶν ἡμῶν RP
-Heb 1:8	καὶ ἡ ῥάβδος τῆς εὐθύτητος WH Treg NIV ] ῥάβδος εὐθύτητος ἡ RP • σου Treg NIV RP ] αὐτοῦ WH
-Heb 1:12	ὡς ἱμάτιον WH Treg NIV ] – RP
+Hebrews 1:3
+3 διʼ αὑτοῦ Holmes ] αὐτοῦ WH Treg NA28; αὐτοῦ διʼ ἑαυτοῦ RP 
+• τῶν ἁμαρτιῶν ποιησάμενος WH Treg NA28 ] ποιησάμενος τῶν ἁμαρτιῶν ἡμῶν RP
 
-Heb 2:1	προσέχειν ἡμᾶς WH Treg NIV ] ἡμᾶς προσέχειν RP
-Heb 2:7	αὐτόν NIV RP ] + καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου WH Treg
-Heb 2:8	τῷ γὰρ WH Treg NIV ]  γὰρ τῷ RP • ὑποτάξαι Holmes WHmarg ] + αὐτῷ WH Treg NIV RP
-Heb 2:9	χωρὶς Holmes ] χάριτι WH Treg NIV RP
-Heb 2:14	αἵματος καὶ σαρκός WH Treg NIV ]  σαρκός καὶ αἵματος RP
+Hebrews 1:8
+8 καὶ ἡ ῥάβδος τῆς εὐθύτητος WH Treg NA28 ] ῥάβδος εὐθύτητος ἡ RP 
+• σου Treg NA28 RP ] αὐτοῦ WH
 
-Heb 3:1	Ἰησοῦν WH Treg NIV ] + Χριστόν RP
-Heb 3:2	ἐν Holmes WHmarg ] + ὅλῳ WH Treg NIV RP
-Heb 3:3	οὗτος δόξης WH Treg NIV ] δόξης οὗτος RP
-Heb 3:4	δὲ WH Treg NIV ] + τὰ RP
-Heb 3:6	ὅς Holmes ] οὗ WH Treg NIV RP • ἐὰν WH Treg ] ἐάνπερ NIV RP • ἐλπίδος NIV ] + μέχρι τέλους βεβαίαν WH Treg RP
-Heb 3:9	ἐπείρασαν WH Treg NIV ] + με RP • ἐν δοκιμασίᾳ WH Treg NIV ] ἐδοκιμασάν με RP
-Heb 3:10	ταύτῃ WH Treg NIV ] ἐκείνῃ RP
-Heb 3:13	τις ἐξ ὑμῶν WH Treg NIV ] ἐξ ὑμῶν τις RP
-Heb 3:14	τοῦ Χριστοῦ γεγόναμεν WH Treg NIV ] γεγόναμεν τοῦ Χριστοῦ RP
+Hebrews 1:12
+12 ὡς ἱμάτιον WH Treg NA28 ] – RP
 
-Heb 4:2	συγκεκερασμένους WH Treg RP NA ] συγκεκερασμένος NIV
-Heb 4:3	εἰς Holmes WHmarg ] + τὴν WH Treg NIV RP
-Heb 4:7	προείρηται WH Treg NIV ] εἴρηται RP
-Heb 4:12	καὶ WH Treg NIV ] τε καὶ RP
-Heb 4:15	πεπειρασμένον WH Treg NIV ] πεπειραμένον RP
+Hebrews 2:1
+2:1 προσέχειν ἡμᾶς WH Treg NA28 ] ἡμᾶς προσέχειν RP
 
-Heb 5:3	δι᾽ αὐτὴν WH Treg NIV ] διὰ ταύτην RP• αὑτοῦ Holmes ] ἑαυτοῦ WH Treg RP; αὐτοῦ NIV • περὶ WH Treg NIV ] ὑπὲρ RP
-Heb 5:4	καθώσπερ WH Treg NIV ] καθάπερ RP
-Heb 5:9	πᾶσιν τοῖς ὑπακούουσιν αὐτῷ WH Treg NIV ] τοῖς ὑπακούουσιν αὐτῷ πᾶσιν RP
-Heb 5:12	τινὰ WH NIV ] τίνα Treg RP • οὐ WH ] καὶ οὐ Treg NIV RP
+Hebrews 2:7
+7 αὐτόν NA28 RP ] + καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου WH Treg
 
-Heb 6:2	διδαχὴν WH ] διδαχῆς Treg NIV RP • τε Treg NIV RP ] – WH
-Heb 6:3	ποιήσομεν WH Treg NIV ] ποιήσωμεν RP
-Heb 6:7	ἐρχόμενον πολλάκις WH Treg NIV ] πολλάκις ἐρχόμενον RP
-Heb 6:10	καὶ WH Treg NIV ] + τοῦ κόπου RP
-Heb 6:14	Εἰ WH Treg NIV ] Ἦ RP
-Heb 6:16	ἄνθρωποι WH Treg NIV ] + μὲν RP
-Heb 6:18	θεόν WH Treg RP ] τὸν θεόν NIV
-Heb 6:19	ἀσφαλῆ WH NIV RP ] ἀσφαλήν Treg
+Hebrews 2:8
+8 τῷ γὰρ WH Treg NA28 ]  γὰρ τῷ RP 
+• ὑποτάξαι Holmes WHmarg ] + αὐτῷ WH Treg NA28 RP
 
-Heb 7:1	ὁ WH NIV RP ] ὃς Treg
-Heb 7:4	ᾧ WH Treg ] + καὶ NIV RP
-Heb 7:6	Ἀβραάμ WH Treg NIV ] τὸν Ἀβραάμ RP
-Heb 7:10	Μελχισέδεκ WH Treg NIV ] ὁ Μελχισέδεκ RP
-Heb 7:11	αὐτῆς WH Treg NIV ] αὐτῇ RP • νενομοθέτηται WH Treg NIV ] νενομοθέτητο RP
-Heb 7:14	περὶ ἱερέων οὐδὲν WH Treg NIV ] οὐδὲν περὶ ἱερωσύνης RP
-Heb 7:16	σαρκίνης WH Treg NIV ] σαρκικῆς RP
-Heb 7:17	μαρτυρεῖται WH Treg NIV ] μαρτυρεῖ RP
-Heb 7:21	αἰῶνα WH Treg NIV ] + κατὰ τὴν τάξιν Μελχισεδέκ RP
-Heb 7:22	τοσοῦτο WH Treg NIV ] τοσοῦτον RP • κρείττονος Treg RP ] καὶ κρείττονος WH NIV
-Heb 7:26	καὶ WH Treg NIV ] – RP
+Hebrews 2:9
+9 χωρὶς Holmes ] χάριτι WH Treg NA28 RP
 
-Heb 8:2	οὐκ WH Treg NIV ] καὶ οὐκ RP
-Heb 8:4	οὖν WH Treg NIV ] γὰρ RP • ὄντων WH Treg NIV ] + τῶν ἱερέων RP • νόμον WH Treg NIV ] τὸν νόμον RP
-Heb 8:6	νυνὶ Treg NIV RP ] νῦν WH
-Heb 8:8	αὐτοὺς WH NIV ] αὐτοῖς RP Treg
-Heb 8:11	μικροῦ WH Treg NIV ] + αὐτῶν RP
-Heb 8:12	αὐτῶν WH Treg NIV ] + καὶ τῶν ἀνομιῶν αὐτῶν RP
+Hebrews 2:14
+14 αἵματος καὶ σαρκός WH Treg NA28 ]  σαρκός καὶ αἵματος RP
 
-Heb 9:1	οὖν Holmes WHmarg ] + καὶ WH Treg NIV RP
-Heb 9:3	Ἅγια Ἁγίων WH NIV RP ] τὰ ἅγια τῶν ἁγίων Treg
-Heb 9:9	ἣν WH Treg NIV ] ὃν RP
-Heb 9:10	δικαιώματα WH NIV ] καὶ δικαιώματα Treg; καὶ δικαιώμασιν RP
-Heb 9:11	γενομένων WH NIV ] μελλόντων Treg RP
-Heb 9:13	τράγων καὶ ταύρων WH Treg NIV ] ταύρων καὶ τράγων RP
-Heb 9:14	ἡμῶν WH NIV ] ὑμῶν Treg RP
-Heb 9:17	μήποτε Treg NIV RP ] μὴ τότε WH
-Heb 9:19	τὸν WH Treg NIV ] – RP • μόσχων NIV ] + καὶ τῶν τράγων WH Treg NA; καὶ τράγων RP
-Heb 9:24	εἰσῆλθεν ἅγια WH Treg NIV ] ἅγια εἰσῆλθεν ὁ RP
-Heb 9:26	νυνὶ WH Treg NIV ] νῦν RP • ἁμαρτίας NIV RP ] τῆς ἁμαρτίας WH Treg NA
+Hebrews 3:1
+3:1 Ἰησοῦν WH Treg NA28 ] + Χριστόν RP
 
-Heb 10:1	δύναται NIV ] δύνανται WH Treg RP
-Heb 10:2	κεκαθαρισμένους WH Treg NIV ] κεκαθαρμένους RP
-Heb 10:8	Θυσίας καὶ προσφορὰς WH Treg NIV ] Θυσίαν καὶ προσφορὰν RP • νόμον WH Treg NIV ] τόν νόμον RP
-Heb 10:9	ποιῆσαι WH Treg NIV ] + ὁ θεός RP
-Heb 10:10	ἐσμὲν WH Treg NIV ] + οἱ RP
-Heb 10:12	οὗτος WH Treg NIV ] αὐτὸς RP
-Heb 10:15	εἰρηκέναι WH Treg NIV ] προειρηκέναι RP
-Heb 10:16	τὴν διάνοιαν WH Treg NIV ] τῶν διανοιῶν RP
-Heb 10:17	καὶ WH Treg RP NA ] ὕστερον λέγει καὶ NIV • μνησθήσομαι WH Treg NIV ] μνησθῶ RP
-Heb 10:30	ἀνταποδώσω WH Treg NIV ] + λέγει κύριος RP • Κρινεῖ κύριος WH Treg NIV ] κύριος κρινεῖ RP
-Heb 10:34	δεσμίοις WH Treg NIV ] δεσμοῖς μου RP • ἑαυτοὺς WH Treg NIV ] ἑαυτοῖς RP • ὕπαρξιν WH Treg NIV ] + ἐν οὐρανοῖς RP
-Heb 10:35	μεγάλην μισθαποδοσίαν WH Treg NIV ] μισθαποδοσίαν μεγάλην RP
-Heb 10:38	μου WH Treg NIV ] – RP
+Hebrews 3:2
+2 ἐν Holmes WHmarg ] + ὅλῳ WH Treg NA28 RP
 
-Heb 11:3	τὸ βλεπόμενον WH Treg NIV ] τά βλεπόμενα RP
-Heb 11:4	τοῦ θεοῦ WH NIV RP ] τῷ θεῷ Treg • λαλεῖ WH Treg NIV ] λαλεῖται RP
-Heb 11:5	μεταθέσεως WH Treg NIV ] + αὐτοῦ RP
-Heb 11:8	Πίστει WH NIV RP ] + ὁ Treg • τόπον WH Treg NIV ] τὸν τόπον RP
-Heb 11:11	αὐτῇ Σάρρᾳ Holmes WHmarg ] αὐτὴ Σάρρα WH Treg RP; αὐτὴ Σάρρα στεῖρα NIV • ἡλικίας WH Treg NIV ] + ἔτεκεν RP
-Heb 11:13	λαβόντες NIV RP ] κομισάμενοι WH Treg
-Heb 11:15	μνημονεύουσιν Treg ] ἐμνημόνευον WH NIV RP • ἐξέβησαν WH Treg NIV ] ἐξῆλθον RP
-Heb 11:20	καὶ WH Treg NIV ] – RP
-Heb 11:29	γῆς WH Treg NIV ] – RP
-Heb 11:30	ἔπεσαν WH Treg NIV ] ἔπεσεν RP
-Heb 11:32	με γὰρ WH Treg NIV ] γὰρ με RP • Σαμψών WH Treg NIV ] τε καὶ Σαμψών καὶ RP
-Heb 11:34	μαχαίρης WH Treg NIV ] μαχαίρας RP • ἐδυναμώθησαν WH Treg NIV ] ἐνεδυναμώθησαν RP
-Heb 11:37	ἐπρίσθησαν Treg NIV ] ἐπειράσθησαν ἐπρίσθησαν WH; ἐπρίσθησαν ἐπειράσθησαν RP • μαχαίρης WH Treg NIV ] μαχαίρας RP
-Heb 11:38	ἐπὶ WH Treg NIV ] ἐν RP 
-Heb 11:39	καὶ Holmes ] + οὗτοι WH Treg NIV RP
+Hebrews 3:3
+3 οὗτος δόξης WH Treg NA28 ] δόξης οὗτος RP
 
-Heb 12:3	ἑαυτοὺς WH ] ἑαυτὸν NIV Treg; ἀυτὸν RP
-Heb 12:7	γὰρ WH Treg NIV ] + ἐστιν RP
-Heb 12:8	καὶ οὐχ υἱοί ἐστε WH Treg NIV ] ἐστε καὶ οὐχ υἱοί RP
-Heb 12:9	πολὺ WH Treg] πολὺ δὲ NIV; πολλῷ RP
-Heb 12:11	δὲ Treg NIV RP ] μὲν WH
-Heb 12:13	ποιεῖτε WH Treg NIV ] ποιήσατε RP
-Heb 12:15	δι᾽ αὐτῆς WH NIV ] διὰ ταύτης Treg RP • πολλοί NIV RP ] οἱ πολλοί WH Treg
-Heb 12:16	ἑαυτοῦ WH Treg NIV ] αὐτοῦ RP
-Heb 12:18	ψηλαφωμένῳ WH Treg NIV ] + ὄρει RP • ζόφῳ WH Treg NIV ] σκότῳ RP
-Heb 12:19	μὴ Treg NIV RP ] – WH
-Heb 12:23	ἀπογεγραμμένων ἐν οὐρανοῖς WH Treg NIV ] ἐν οὐρανοῖς ἀπογεγραμμένων RP
-Heb 12:25	ἐξέφυγον WH Treg NIV ] ἔφυγον RP • ἐπὶ γῆς παραιτησάμενοι τὸν WH Treg NIV ] τὸν ἐπὶ γῆς παραιτησάμενοι RP • πολὺ WH Treg NIV ] πολλῷ RP
-Heb 12:26	σείσω WH Treg NIV ] σείω RP
-Heb 12:27	τῶν σαλευομένων Holmes WHmarg ] τὴν τῶν σαλευομένων WH Treg NIV;  τῶν σαλευομένων τὴν RP
-Heb 12:28	λατρεύωμεν WH Treg NIV ] λατρεύομεν RP • εὐλαβείας καὶ δέους WH Treg NIV ] αἰδοῦς καὶ εὐλαβείας RP
+Hebrews 3:4
+4 δὲ WH Treg NA28 ] + τὰ RP
 
-Heb 13:4	γὰρ WH Treg NIV ] δὲ RP
-Heb 13:5	ἐγκαταλίπω WH Treg NIV ] ἐγκαταλείπω RP
-Heb 13:6	οὐ WH ] καὶ οὐ Treg NIV RP
-Heb 13:9	περιπατοῦντες WH Treg NIV ] περιπατήσαντες RP
-Heb 13:15	οὖν Treg NIV RP ] – WH
-Heb 13:18	πειθόμεθα WH Treg NIV ] πεποίθαμεν RP
-Heb 13:21	παντὶ WH NIV ] + ἔργῳ Treg RP • ἡμῖν WH NIV ] ὑμῖν Treg RP • αἰῶνας Holmes ] + τῶν αἰώνων WH Treg NIV RP
-Heb 13:23	ἡμῶν WH Treg NIV ] – RP
-Heb 13:25	ὑμῶν WH NIV ] + ἀμήν Treg RP
+Hebrews 3:6
+6 ὃς Holmes ] οὗ WH Treg NA28 RP 
+• ἐὰν WH Treg ] ἐάνπερ NA28 RP 
+• ἐλπίδος NA28 ] + μέχρι τέλους βεβαίαν WH Treg RP
 
+Hebrews 3:9
+9 ἐπείρασαν WH Treg NA28 ] + με RP 
+• ἐν δοκιμασίᾳ WH Treg NA28 ] ἐδοκιμασάν με RP
 
+Hebrews 3:10
+10 ταύτῃ WH Treg NA28 ] ἐκείνῃ RP
 
+Hebrews 3:13
+13 τις ἐξ ὑμῶν WH Treg NA28 ] ἐξ ὑμῶν τις RP
 
+Hebrews 3:14
+14 τοῦ Χριστοῦ γεγόναμεν WH Treg NA28 ] γεγόναμεν τοῦ Χριστοῦ RP
+
+Hebrews 4:2
+4:2 συγκεκερασμένους WH Treg RP NA28 ] συγκεκερασμένος NIV
+
+Hebrews 4:3
+3 εἰς Holmes WHmarg ] + τὴν WH Treg NA28 RP
+
+Hebrews 4:7
+7 προείρηται WH Treg NA28 ] εἴρηται RP
+
+Hebrews 4:12
+12 καὶ WH Treg NA28 ] τε καὶ RP
+
+Hebrews 4:15
+15 πεπειρασμένον WH Treg NA28 ] πεπειραμένον RP
+
+Hebrews 5:3
+5:3 διʼ αὐτὴν WH Treg NA28 ] διὰ ταύτην RP
+• αὑτοῦ Holmes ] ἑαυτοῦ WH Treg RP; αὐτοῦ NA28 
+• περὶ WH Treg NA28 ] ὑπὲρ RP
+
+Hebrews 5:4
+4 καθώσπερ WH Treg NA28 ] καθάπερ RP
+
+Hebrews 5:9
+9 πᾶσιν τοῖς ὑπακούουσιν αὐτῷ WH Treg NA28 ] τοῖς ὑπακούουσιν αὐτῷ πᾶσιν RP
+
+Hebrews 5:12
+12 τινὰ WH NA28 ] τίνα Treg RP 
+• οὐ WH ] καὶ οὐ Treg NA28 RP
+
+Hebrews 6:2
+6:2 διδαχὴν WH ] διδαχῆς Treg NA28 RP 
+• τε Treg NA28 RP ] – WH
+
+Hebrews 6:3
+3 ποιήσομεν WH Treg NA28 ] ποιήσωμεν RP
+
+Hebrews 6:7
+7 ἐρχόμενον πολλάκις WH Treg NA28 ] πολλάκις ἐρχόμενον RP
+
+Hebrews 6:10
+10 καὶ WH Treg NA28 ] + τοῦ κόπου RP
+
+Hebrews 6:14
+14 Εἰ WH Treg NA28 ] Ἦ RP
+
+Hebrews 6:16
+16 ἄνθρωποι WH Treg NA28 ] + μὲν RP
+
+Hebrews 6:18
+18 θεόν WH Treg RP ] τὸν θεόν NA28
+
+Hebrews 6:19
+19 ἀσφαλῆ WH NA28 RP ] ἀσφαλήν Treg
+
+Hebrews 7:1
+7:1 ὁ WH NA28 RP ] ὃς Treg
+
+Hebrews 7:4
+4 ᾧ WH Treg ] + καὶ NA28 RP
+
+Hebrews 7:6
+6 Ἀβραάμ WH Treg NA28 ] τὸν Ἀβραάμ RP
+
+Hebrews 7:10
+10 Μελχισέδεκ WH Treg NA28 ] ὁ Μελχισέδεκ RP
+
+Hebrews 7:11
+11 αὐτῆς WH Treg NA28 ] αὐτῇ RP 
+• νενομοθέτηται WH Treg NA28 ] νενομοθέτητο RP
+
+Hebrews 7:14
+14 περὶ ἱερέων οὐδὲν WH Treg NA28 ] οὐδὲν περὶ ἱερωσύνης RP
+
+Hebrews 7:16
+16 σαρκίνης WH Treg NA28 ] σαρκικῆς RP
+
+Hebrews 7:17
+17 μαρτυρεῖται WH Treg NA28 ] μαρτυρεῖ RP
+
+Hebrews 7:21
+21 αἰῶνα WH Treg NA28 ] + κατὰ τὴν τάξιν Μελχισεδέκ RP
+
+Hebrews 7:22
+22 τοσοῦτο WH Treg NA28 ] τοσοῦτον RP 
+• κρείττονος Treg RP ] καὶ κρείττονος WH NA28
+
+Hebrews 7:26
+26 καὶ WH Treg NA28 ] – RP
+
+Hebrews 8:2
+8:2 οὐκ WH Treg NA28 ] καὶ οὐκ RP
+
+Hebrews 8:4
+4 οὖν WH Treg NA28 ] γὰρ RP 
+• ὄντων WH Treg NA28 ] + τῶν ἱερέων RP 
+• νόμον WH Treg NA28 ] τὸν νόμον RP
+
+Hebrews 8:6
+6 νυνὶ Treg NA28 RP ] νῦν WH
+
+Hebrews 8:8
+8 αὐτοὺς WH NA28 ] αὐτοῖς RP Treg
+
+Hebrews 8:11
+11 μικροῦ WH Treg NA28 ] + αὐτῶν RP
+
+Hebrews 8:12
+12 αὐτῶν WH Treg NA28 ] + καὶ τῶν ἀνομιῶν αὐτῶν RP
+
+Hebrews 9:1
+9:1 οὖν Holmes WHmarg ] + καὶ WH Treg NA28 RP
+
+Hebrews 9:3
+3 Ἅγια Ἁγίων WH NA28 RP ] τὰ ἅγια τῶν ἁγίων Treg
+
+Hebrews 9:9
+9 ἣν WH Treg NA28 ] ὃν RP
+
+Hebrews 9:10
+10 δικαιώματα WH NA28 ] καὶ δικαιώματα Treg; καὶ δικαιώμασιν RP
+
+Hebrews 9:11
+11 γενομένων WH NA28 ] μελλόντων Treg RP
+
+Hebrews 9:13
+13 τράγων καὶ ταύρων WH Treg NA28 ] ταύρων καὶ τράγων RP
+
+Hebrews 9:14
+14 ἡμῶν WH NA28 ] ὑμῶν Treg RP
+
+Hebrews 9:17
+17 μήποτε Treg NA28 RP ] μὴ τότε WH
+
+Hebrews 9:19
+19 τὸν WH Treg NA28 ] – RP 
+• μόσχων NIV ] + καὶ τῶν τράγων WH Treg NA28; καὶ τράγων RP
+
+Hebrews 9:24
+24 εἰσῆλθεν ἅγια WH Treg NA28 ] ἅγια εἰσῆλθεν ὁ RP
+
+Hebrews 9:26
+26 νυνὶ WH Treg NA28 ] νῦν RP 
+• ἁμαρτίας NIV RP ] τῆς ἁμαρτίας WH Treg NA28
+
+Hebrews 10:1
+10:1 δύναται NA28 ] δύνανται WH Treg RP
+
+Hebrews 10:2
+2 κεκαθαρισμένους WH Treg NA28 ] κεκαθαρμένους RP
+
+Hebrews 10:8
+8 Θυσίας καὶ προσφορὰς WH Treg NA28 ] Θυσίαν καὶ προσφορὰν RP 
+• νόμον WH Treg NA28 ] τόν νόμον RP
+
+Hebrews 10:9
+9 ποιῆσαι WH Treg NA28 ] + ὁ θεός RP
+
+Hebrews 10:10
+10 ἐσμὲν WH Treg NA28 ] + οἱ RP
+
+Hebrews 10:12
+12 οὗτος WH Treg NA28 ] αὐτὸς RP
+
+Hebrews 10:15
+15 εἰρηκέναι WH Treg NA28 ] προειρηκέναι RP
+
+Hebrews 10:16
+16 τὴν διάνοιαν WH Treg NA28 ] τῶν διανοιῶν RP
+
+Hebrews 10:17
+17 καὶ WH Treg RP NA28 ] ὕστερον λέγει καὶ NIV 
+• μνησθήσομαι WH Treg NA28 ] μνησθῶ RP
+
+Hebrews 10:30
+30 ἀνταποδώσω WH Treg NA28 ] + λέγει κύριος RP 
+• Κρινεῖ κύριος WH Treg NA28 ] κύριος κρινεῖ RP
+
+Hebrews 10:34
+34 δεσμίοις WH Treg NA28 ] δεσμοῖς μου RP 
+• ἑαυτοὺς WH Treg NA28 ] ἑαυτοῖς RP 
+• ὕπαρξιν WH Treg NA28 ] + ἐν οὐρανοῖς RP
+
+Hebrews 10:35
+35 μεγάλην μισθαποδοσίαν WH Treg NA28 ] μισθαποδοσίαν μεγάλην RP
+
+Hebrews 10:38
+38 μου WH Treg NA28 ] – RP
+
+Hebrews 11:3
+11:3 τὸ βλεπόμενον WH Treg NA28 ] τά βλεπόμενα RP
+
+Hebrews 11:4
+4 τοῦ θεοῦ WH NA28 RP ] τῷ θεῷ Treg 
+• λαλεῖ WH Treg NA28 ] λαλεῖται RP
+
+Hebrews 11:5
+5 μεταθέσεως WH Treg NA28 ] + αὐτοῦ RP
+
+Hebrews 11:8
+8 Πίστει WH NA28 RP ] + ὁ Treg 
+• τόπον WH Treg NA28 ] τὸν τόπον RP
+
+Hebrews 11:11
+11 αὐτῇ Σάρρᾳ Holmes WHmarg ] αὐτὴ Σάρρα WH Treg RP; αὐτὴ Σάρρα στεῖρα NA28 
+• ἡλικίας WH Treg NA28 ] + ἔτεκεν RP
+
+Hebrews 11:13
+13 λαβόντες NA28 RP ] κομισάμενοι WH Treg
+
+Hebrews 11:15
+15 μνημονεύουσιν Treg ] ἐμνημόνευον WH NA28 RP 
+• ἐξέβησαν WH Treg NA28 ] ἐξῆλθον RP
+
+Hebrews 11:20
+20 καὶ WH Treg NA28 ] – RP
+
+Hebrews 11:29
+29 γῆς WH Treg NA28 ] – RP
+
+Hebrews 11:30
+30 ἔπεσαν WH Treg NA28 ] ἔπεσεν RP
+
+Hebrews 11:32
+32 με γὰρ WH Treg NA28 ] γὰρ με RP 
+• Σαμψών WH Treg NA28 ] τε καὶ Σαμψών καὶ RP
+
+Hebrews 11:34
+34 μαχαίρης WH Treg NA28 ] μαχαίρας RP 
+• ἐδυναμώθησαν WH Treg NA28 ] ἐνεδυναμώθησαν RP
+
+Hebrews 11:37
+37 ἐπρίσθησαν Treg NA28 ] ἐπειράσθησαν ἐπρίσθησαν WH; ἐπρίσθησαν ἐπειράσθησαν RP 
+• μαχαίρης WH Treg NA28 ] μαχαίρας RP
+
+Hebrews 11:38
+38 ἐπὶ WH Treg NA28 ] ἐν RP 
+
+Hebrews 11:39
+39 καὶ Holmes ] + οὗτοι WH Treg NA28 RP
+
+Hebrews 12:3
+12:3 ἑαυτοὺς WH ] ἑαυτὸν NA28 Treg; ἀυτὸν RP
+
+Hebrews 12:7
+7 γὰρ WH Treg NA28 ] + ἐστιν RP
+
+Hebrews 12:8
+8 καὶ οὐχ υἱοί ἐστε WH Treg NA28 ] ἐστε καὶ οὐχ υἱοί RP
+
+Hebrews 12:9
+9 πολὺ WH Treg ] πολὺ δὲ NA28; πολλῷ RP
+
+Hebrews 12:11
+11 δὲ Treg NA28 RP ] μὲν WH
+
+Hebrews 12:13
+13 ποιεῖτε WH Treg NA28 ] ποιήσατε RP
+
+Hebrews 12:15
+15 διʼ αὐτῆς WH NA28 ] διὰ ταύτης Treg RP 
+• πολλοί NA28 RP ] οἱ πολλοί WH Treg
+
+Hebrews 12:16
+16 ἑαυτοῦ WH Treg NA28 ] αὐτοῦ RP
+
+Hebrews 12:18
+18 ψηλαφωμένῳ WH Treg NA28 ] + ὄρει RP 
+• ζόφῳ WH Treg NA28 ] σκότῳ RP
+
+Hebrews 12:19
+19 μὴ Treg NA28 RP ] – WH
+
+Hebrews 12:23
+23 ἀπογεγραμμένων ἐν οὐρανοῖς WH Treg NA28 ] ἐν οὐρανοῖς ἀπογεγραμμένων RP
+
+Hebrews 12:25
+25 ἐξέφυγον WH Treg NA28 ] ἔφυγον RP 
+• ἐπὶ γῆς παραιτησάμενοι τὸν WH Treg NA28 ] τὸν ἐπὶ γῆς παραιτησάμενοι RP 
+• πολὺ WH Treg NA28 ] πολλῷ RP
+
+Hebrews 12:26
+26 σείσω WH Treg NA28 ] σείω RP
+
+Hebrews 12:27
+27 τῶν σαλευομένων Holmes WHmarg ] τὴν τῶν σαλευομένων WH Treg NA28;  τῶν σαλευομένων τὴν RP
+
+Hebrews 12:28
+28 λατρεύωμεν WH Treg NA28 ] λατρεύομεν RP 
+• εὐλαβείας καὶ δέους WH Treg NA28 ] αἰδοῦς καὶ εὐλαβείας RP
+
+Hebrews 13:4
+13:4 γὰρ WH Treg NA28 ] δὲ RP
+
+Hebrews 13:5
+5 ἐγκαταλίπω WH Treg NA28 ] ἐγκαταλείπω RP
+
+Hebrews 13:6
+6 οὐ WH ] καὶ οὐ Treg NA28 RP
+
+Hebrews 13:9
+9 περιπατοῦντες WH Treg NA28 ] περιπατήσαντες RP
+
+Hebrews 13:15
+15 οὖν Treg NA28 RP ] – WH
+
+Hebrews 13:18
+18 πειθόμεθα WH Treg NA28 ] πεποίθαμεν RP
+
+Hebrews 13:21
+21 παντὶ WH NA28 ] + ἔργῳ Treg RP 
+• ἡμῖν WH NA28 ] ὑμῖν Treg RP 
+• αἰῶνας Holmes ] + τῶν αἰώνων WH Treg NA28 RP
+
+Hebrews 13:23
+23 ἡμῶν WH Treg NA28 ] – RP
+
+Hebrews 13:25
+25 ὑμῶν WH NA28 ] + ἀμήν Treg RP

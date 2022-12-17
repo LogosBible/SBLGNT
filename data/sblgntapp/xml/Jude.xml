@@ -1,23 +1,49 @@
 <book>
-<title>ΙΟΥΔΑ</title>
+<book-name>ΙΟΥΔΑ</book-name>
 
+<verse>Jude 1:1</verse>
+<note>1 ἠγαπημένοις WH Treg NA28 ] ἠγίασμένοις RP</note>
 
+<verse>Jude 1:3</verse>
+<note>3 ἡμῶν WH Treg NA28 ] – RP</note>
 
+<verse>Jude 1:4</verse>
+<note>4 δεσπότην WH Treg NA28 ] + θεόν RP</note>
 
+<verse>Jude 1:5</verse>
+<note>5 ὑμᾶς ἅπαξ NA28 RP ] ἅπαξ ὑμᾶς NIV; ἅπαξ WH Treg; ὑμᾶς NA27 </note>
+<note>• πάντα WH Treg NA28 ] τοῦτο RP </note>
+<note>• Ἰησοῦς NA28 ] κύριος WH Treg; ὁ κύριος NIV RP; ὁ κύριος ἅπαξ NA27</note>
 
-<p><verse-number id="Jud 1:1">1</verse-number> <b>ἠγαπημένοις</b> WH Treg NIV ] ἠγίασμένοις RP</p>
-<p><verse-number id="Jud 1:3">3</verse-number> <b>ἡμῶν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Jud 1:4">4</verse-number> <b>δεσπότην</b> WH Treg NIV ] + θεόν RP</p>
-<p><verse-number id="Jud 1:5">5</verse-number> <b>ὑμᾶς ἅπαξ</b> RP ] ἅπαξ ὑμᾶς NIV; ἅπαξ WH Treg; ὑμᾶς NA • <b>πάντα</b> WH Treg NIV ] τοῦτο RP • <b>Ἰησοῦς</b> Holmes WHmarg ] κύριος WH Treg; ὁ κύριος NIV RP; ὁ κύριος ἅπαξ NA</p>
-<p><verse-number id="Jud 1:7">7</verse-number> <b>τρόπον τούτοις</b> WH Treg NIV ] τούτοις τρόπον RP</p>
-<p><verse-number id="Jud 1:12">12</verse-number> <b>οἱ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Jud 1:15">15</verse-number> <b>πάντας τοὺς ἀσεβεῖς</b> WH Treg NIV ] + αὐτῶν RP; πᾶσαν ψυχὴν NA</p>
-<p><verse-number id="Jud 1:16">16</verse-number> <b>αὐτῶν</b> WH Treg RP ] ἑαυτῶν NIV</p>
-<p><verse-number id="Jud 1:18">18</verse-number> <b>ὑμῖν</b> WH ] + ὅτι Treg NIV RP • <b>Ἐπ᾽ ἐσχάτου χρόνου</b> WH Treg ] Ἐπ᾽ ἐσχάτου τοῦ χρόνου NIV; ἐν ἐσχάτῳ χρόνῳ RP</p>
-<p><verse-number id="Jud 1:20">20</verse-number> <b>ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει</b> WH Treg NIV ] τῇ ἁγιωτάτῃ ὑμῶν πίστει ἐποικοδομοῦντες ἑαυτοὺς RP</p>
-<p><verse-number id="Jud 1:22-23">22–23</verse-number> <b>ἐλεᾶτε</b> WH NIV ] ἐλεεῖτε RP; ἐλέγχετε Treg • <b>διακρινομένους οὓς δὲ σῴζετε ἐκ πυρὸς ἁρπάζοντες οὓς δὲ ἐλεᾶτε ἐν φόβῳ</b> Treg NIV ] διακρινομένους σῴζετε ἐκ πυρὸς ἁρπάζοντες οὓς δὲ ἐλεᾶτε ἐν φόβῳ WH; διακρινομένοι οὓς δὲ ἐν φόβῳ σῴζετε ἐκ πυρὸς ἁρπάζοντες RP</p>
-<p><verse-number id="Jud 1:24">24</verse-number> <b>ὑμᾶς</b> WH Treg NIV ] αὐτούς RP</p>
-<p><verse-number id="Jud 1:25">25</verse-number> <b>μόνῳ</b> WH Treg NIV ] + σοφῷ RP • <b>διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν</b> WH Treg NIV ] – RP • <b>δόξα</b> WH Treg NIV ] + καὶ RP • <b>πρὸ παντὸς τοῦ αἰῶνος</b> WH Treg NIV ] – RP</p>
+<verse>Jude 1:7</verse>
+<note>7 τρόπον τούτοις WH Treg NA28 ] τούτοις τρόπον RP</note>
 
+<verse>Jude 1:12</verse>
+<note>12 οἱ WH Treg NA28 ] – RP</note>
 
+<verse>Jude 1:15</verse>
+<note>15 πάντας τοὺς ἀσεβεῖς WH Treg NIV ] + αὐτῶν RP; πᾶσαν ψυχὴν NA28</note>
+
+<verse>Jude 1:16</verse>
+<note>16 αὐτῶν WH Treg RP ] ἑαυτῶν NA28</note>
+
+<verse>Jude 1:18</verse>
+<note>18 ὑμῖν WH NA28 ] + ὅτι Treg NA27 RP </note>
+<note>• Ἐπʼ ἐσχάτου χρόνου WH Treg NA28 ] Ἐπʼ ἐσχάτου τοῦ χρόνου NA27; ἐν ἐσχάτῳ χρόνῳ RP</note>
+
+<verse>Jude 1:20</verse>
+<note>20 ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει WH Treg NA28 ] τῇ ἁγιωτάτῃ ὑμῶν πίστει ἐποικοδομοῦντες ἑαυτοὺς RP</note>
+
+<verse>Jude 1:22</verse>
+<note>22–23 ἐλεᾶτε WH NA28 ] ἐλεεῖτε RP; ἐλέγχετε Treg </note>
+<note>• διακρινομένους οὓς δὲ σῴζετε ἐκ πυρὸς ἁρπάζοντες οὓς δὲ ἐλεᾶτε ἐν φόβῳ Treg NA28 ] διακρινομένους σῴζετε ἐκ πυρὸς ἁρπάζοντες οὓς δὲ ἐλεᾶτε ἐν φόβῳ WH; διακρινομένοι οὓς δὲ ἐν φόβῳ σῴζετε ἐκ πυρὸς ἁρπάζοντες RP</note>
+
+<verse>Jude 1:24</verse>
+<note>24 ὑμᾶς WH Treg NA28 ] αὐτούς RP</note>
+
+<verse>Jude 1:25</verse>
+<note>25 μόνῳ WH Treg NA28 ] + σοφῷ RP </note>
+<note>• διὰ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν WH Treg NA28 ] – RP </note>
+<note>• δόξα WH Treg NA28 ] + καὶ RP </note>
+<note>• πρὸ παντὸς τοῦ αἰῶνος WH Treg NA28 ] – RP</note>
 </book>

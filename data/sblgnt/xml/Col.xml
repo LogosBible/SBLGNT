@@ -10,7 +10,7 @@
     <w>Χριστοῦ</w>
     <suffix></suffix>
     <w>Ἰησοῦ</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>διὰ</w>
     <suffix></suffix>
     <w>θελήματος</w>
@@ -44,7 +44,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>Χριστῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>χάρις</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
@@ -61,7 +61,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἡμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 1:3">3</verse-number>
@@ -92,7 +92,7 @@
     <w>ὑμῶν</w>
     <suffix></suffix>
     <w>προσευχόμενοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:4">4</verse-number>
     <w>ἀκούσαντες</w>
     <suffix></suffix>
@@ -118,7 +118,7 @@
     <w>ἣν</w>
     <suffix></suffix>
     <w>ἔχετε</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>εἰς</w>
     <suffix></suffix>
     <w>πάντας</w>
@@ -145,7 +145,7 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>οὐρανοῖς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἣν</w>
     <suffix></suffix>
     <w>προηκούσατε</w>
@@ -172,7 +172,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καθὼς</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -201,8 +201,8 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
-    <w>ἀφ’</w>
+    <suffix>, </suffix>
+    <w>ἀφʼ</w>
     <suffix></suffix>
     <w>ἧς</w>
     <suffix></suffix>
@@ -225,7 +225,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἀληθείᾳ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 1:7">7</verse-number>
     <prefix> ⸀</prefix>
     <w>καθὼς</w>
@@ -243,7 +243,7 @@
     <w>συνδούλου</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅς</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -260,7 +260,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:8">8</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -279,7 +279,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>πνεύματι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 1:9">9</verse-number>
@@ -290,15 +290,15 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡμεῖς</w>
-    <suffix>,  </suffix>
-    <w>ἀφ’</w>
+    <suffix>, </suffix>
+    <w>ἀφʼ</w>
     <suffix></suffix>
     <w>ἧς</w>
     <suffix></suffix>
     <w>ἡμέρας</w>
     <suffix></suffix>
     <w>ἠκούσαμεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐ</w>
     <suffix></suffix>
     <w>παυόμεθα</w>
@@ -338,7 +338,7 @@
     <w>συνέσει</w>
     <suffix></suffix>
     <w>πνευματικῇ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:10">10</verse-number>
     <prefix> ⸀</prefix>
     <w>περιπατῆσαι</w>
@@ -373,11 +373,11 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>ἐπιγνώσει</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:11">11</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -412,7 +412,7 @@
     <w>μετὰ</w>
     <suffix></suffix>
     <w>χαρᾶς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:12">12</verse-number>
     <w>εὐχαριστοῦντες</w>
     <suffix></suffix>
@@ -446,7 +446,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>φωτί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:13">13</verse-number>
     <w>ὃς</w>
     <suffix></suffix>
@@ -483,7 +483,7 @@
     <w>ἀγάπης</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:14">14</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -494,7 +494,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ἀπολύτρωσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὴν</w>
     <suffix></suffix>
     <w>ἄφεσιν</w>
@@ -502,7 +502,7 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>ἁμαρτιῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 1:15">15</verse-number>
     <w>ὅς</w>
     <suffix></suffix>
@@ -517,13 +517,13 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>ἀοράτου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πρωτότοκος</w>
     <suffix></suffix>
     <w>πάσης</w>
     <suffix></suffix>
     <w>κτίσεως</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:16">16</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -552,7 +552,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>γῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὰ</w>
     <suffix></suffix>
     <w>ὁρατὰ</w>
@@ -562,7 +562,7 @@
     <w>τὰ</w>
     <suffix></suffix>
     <w>ἀόρατα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἴτε</w>
     <suffix></suffix>
     <w>θρόνοι</w>
@@ -578,12 +578,12 @@
     <w>εἴτε</w>
     <suffix></suffix>
     <w>ἐξουσίαι</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>τὰ</w>
     <suffix></suffix>
     <w>πάντα</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
     <suffix></suffix>
@@ -594,7 +594,7 @@
     <w>αὐτὸν</w>
     <suffix></suffix>
     <w>ἔκτισται</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 1:17">17</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -617,7 +617,7 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>συνέστηκεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:18">18</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -636,14 +636,14 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>ἐκκλησίας</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ὅς</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ἐστιν</w>
     <suffix></suffix>
     <w>ἀρχή</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πρωτότοκος</w>
     <suffix></suffix>
     <w>ἐκ</w>
@@ -651,7 +651,7 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>νεκρῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>γένηται</w>
@@ -663,7 +663,7 @@
     <w>αὐτὸς</w>
     <suffix></suffix>
     <w>πρωτεύων</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:19">19</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -684,7 +684,7 @@
     <verse-number id="Colossians 1:20">20</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
     <suffix></suffix>
@@ -697,7 +697,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰρηνοποιήσας</w>
     <suffix></suffix>
     <w>διὰ</w>
@@ -711,12 +711,12 @@
     <w>σταυροῦ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸂[</prefix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>]⸃  </suffix>
+    <suffix>]⸃ </suffix>
     <w>εἴτε</w>
     <suffix></suffix>
     <w>τὰ</w>
@@ -737,7 +737,7 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>οὐρανοῖς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 1:21">21</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -766,7 +766,7 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>πονηροῖς</w>
-    <suffix>—  </suffix>
+    <suffix>—</suffix>
     <verse-number id="Colossians 1:22">22</verse-number>
     <w>νυνὶ</w>
     <suffix></suffix>
@@ -792,7 +792,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θανάτου</w>
-    <suffix>—  </suffix>
+    <suffix>—</suffix>
     <w>παραστῆσαι</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
@@ -810,7 +810,7 @@
     <w>κατενώπιον</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:23">23</verse-number>
     <w>εἴ</w>
     <suffix></suffix>
@@ -847,7 +847,7 @@
     <w>οὗ</w>
     <suffix></suffix>
     <w>ἠκούσατε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τοῦ</w>
     <suffix></suffix>
     <w>κηρυχθέντος</w>
@@ -866,7 +866,7 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>οὐρανόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὗ</w>
     <suffix></suffix>
     <w>ἐγενόμην</w>
@@ -876,7 +876,7 @@
     <w>Παῦλος</w>
     <suffix></suffix>
     <w>διάκονος</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 1:24">24</verse-number>
@@ -893,7 +893,7 @@
     <w>ὑπὲρ</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἀνταναπληρῶ</w>
@@ -925,7 +925,7 @@
     <w>σώματος</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅ</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -933,7 +933,7 @@
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἐκκλησία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:25">25</verse-number>
     <w>ἧς</w>
     <suffix></suffix>
@@ -972,7 +972,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:26">26</verse-number>
     <w>τὸ</w>
     <suffix></suffix>
@@ -995,7 +995,7 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>γενεῶν</w>
-    <suffix>,—  </suffix>
+    <suffix>,—</suffix>
     <prefix> ⸀</prefix>
     <w>νῦν</w>
     <suffix></suffix>
@@ -1008,7 +1008,7 @@
     <w>ἁγίοις</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 1:27">27</verse-number>
     <w>οἷς</w>
     <suffix></suffix>
@@ -1041,7 +1041,7 @@
     <w>τοῖς</w>
     <suffix></suffix>
     <w>ἔθνεσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>ὅ</w>
     <suffix></suffix>
@@ -1052,7 +1052,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἐλπὶς</w>
@@ -1060,7 +1060,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>δόξης</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 1:28">28</verse-number>
     <w>ὃν</w>
     <suffix></suffix>
@@ -1087,7 +1087,7 @@
     <w>πάσῃ</w>
     <suffix></suffix>
     <w>σοφίᾳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>παραστήσωμεν</w>
@@ -1102,7 +1102,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>Χριστῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 1:29">29</verse-number>
     <w>εἰς</w>
     <suffix></suffix>
@@ -1133,7 +1133,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>δυνάμει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 2:1">2:1</verse-number>
@@ -1181,7 +1181,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>σαρκί</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:2">2</verse-number>
     <w>ἵνα</w>
     <suffix></suffix>
@@ -1192,7 +1192,7 @@
     <w>καρδίαι</w>
     <suffix></suffix>
     <w>αὐτῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>συμβιβασθέντες</w>
     <suffix></suffix>
@@ -1208,7 +1208,7 @@
     <w>πᾶν</w>
     <suffix></suffix>
     <w>πλοῦτος</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>τῆς</w>
     <suffix></suffix>
     <w>πληροφορίας</w>
@@ -1216,7 +1216,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>συνέσεως</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰς</w>
     <suffix></suffix>
     <w>ἐπίγνωσιν</w>
@@ -1229,9 +1229,9 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:3">3</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -1255,7 +1255,7 @@
     <w>γνώσεως</w>
     <suffix></suffix>
     <w>ἀπόκρυφοι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 2:4">4</verse-number>
     <prefix> ⸀</prefix>
     <w>τοῦτο</w>
@@ -1274,7 +1274,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>πιθανολογίᾳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 2:5">5</verse-number>
     <w>εἰ</w>
     <suffix></suffix>
@@ -1287,7 +1287,7 @@
     <w>σαρκὶ</w>
     <suffix></suffix>
     <w>ἄπειμι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <w>τῷ</w>
@@ -1299,7 +1299,7 @@
     <w>ὑμῖν</w>
     <suffix></suffix>
     <w>εἰμι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>χαίρων</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -1327,7 +1327,7 @@
     <w>πίστεως</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 2:6">6</verse-number>
@@ -1346,13 +1346,13 @@
     <w>τὸν</w>
     <suffix></suffix>
     <w>κύριον</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>περιπατεῖτε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:7">7</verse-number>
     <w>ἐρριζωμένοι</w>
     <suffix></suffix>
@@ -1376,14 +1376,14 @@
     <w>καθὼς</w>
     <suffix></suffix>
     <w>ἐδιδάχθητε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>περισσεύοντες</w>
     <suffix></suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>εὐχαριστίᾳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 2:8">8</verse-number>
@@ -1422,7 +1422,7 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>ἀνθρώπων</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κατὰ</w>
     <suffix></suffix>
     <w>τὰ</w>
@@ -1440,7 +1440,7 @@
     <w>κατὰ</w>
     <suffix></suffix>
     <w>Χριστόν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 2:9">9</verse-number>
     <w>ὅτι</w>
     <suffix></suffix>
@@ -1461,7 +1461,7 @@
     <w>θεότητος</w>
     <suffix></suffix>
     <w>σωματικῶς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:10">10</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1472,7 +1472,7 @@
     <w>αὐτῷ</w>
     <suffix></suffix>
     <w>πεπληρωμένοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅς</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -1488,7 +1488,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἐξουσίας</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:11">11</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -1516,7 +1516,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>σαρκός</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>τῇ</w>
@@ -1526,7 +1526,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:12">12</verse-number>
     <w>συνταφέντες</w>
     <suffix></suffix>
@@ -1538,7 +1538,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>βαπτισμῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>ᾧ</w>
@@ -1571,7 +1571,7 @@
     <w>ἐκ</w>
     <suffix></suffix>
     <w>νεκρῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 2:13">13</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1599,7 +1599,7 @@
     <w>σαρκὸς</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>συνεζωοποίησεν</w>
     <suffix></suffix>
     <w>ὑμᾶς</w>
@@ -1607,7 +1607,7 @@
     <w>σὺν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>χαρισάμενος</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
@@ -1617,13 +1617,13 @@
     <w>τὰ</w>
     <suffix></suffix>
     <w>παραπτώματα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:14">14</verse-number>
     <w>ἐξαλείψας</w>
     <suffix></suffix>
     <w>τὸ</w>
     <suffix></suffix>
-    <w>καθ’</w>
+    <w>καθʼ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
     <suffix></suffix>
@@ -1640,7 +1640,7 @@
     <w>ὑπεναντίον</w>
     <suffix></suffix>
     <w>ἡμῖν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>αὐτὸ</w>
@@ -1660,7 +1660,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>σταυρῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 2:15">15</verse-number>
     <w>ἀπεκδυσάμενος</w>
     <suffix></suffix>
@@ -1679,7 +1679,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>παρρησίᾳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>θριαμβεύσας</w>
     <suffix></suffix>
     <w>αὐτοὺς</w>
@@ -1687,7 +1687,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>αὐτῷ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 2:16">16</verse-number>
@@ -1727,7 +1727,7 @@
     <w>ἢ</w>
     <suffix></suffix>
     <w>σαββάτων</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:17">17</verse-number>
     <w>ἅ</w>
     <suffix></suffix>
@@ -1738,7 +1738,7 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>μελλόντων</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὸ</w>
     <suffix></suffix>
     <w>δὲ</w>
@@ -1749,7 +1749,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 2:18">18</verse-number>
     <w>μηδεὶς</w>
     <suffix></suffix>
@@ -1770,14 +1770,14 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>ἀγγέλων</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>ἃ</w>
     <suffix></suffix>
     <w>ἑόρακεν</w>
     <suffix></suffix>
     <w>ἐμβατεύων</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰκῇ</w>
     <suffix></suffix>
     <w>φυσιούμενος</w>
@@ -1793,7 +1793,7 @@
     <w>σαρκὸς</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:19">19</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -1804,7 +1804,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>κεφαλήν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐξ</w>
     <suffix></suffix>
     <w>οὗ</w>
@@ -1840,7 +1840,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 2:20">20</verse-number>
@@ -1861,7 +1861,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>κόσμου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τί</w>
     <suffix></suffix>
     <w>ὡς</w>
@@ -1873,7 +1873,7 @@
     <w>κόσμῳ</w>
     <suffix></suffix>
     <w>δογματίζεσθε</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 2:21">21</verse-number>
     <w>Μὴ</w>
     <suffix></suffix>
@@ -1886,7 +1886,7 @@
     <w>μηδὲ</w>
     <suffix></suffix>
     <w>θίγῃς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 2:22">22</verse-number>
     <w>ἅ</w>
     <suffix></suffix>
@@ -1901,7 +1901,7 @@
     <w>τῇ</w>
     <suffix></suffix>
     <w>ἀποχρήσει</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κατὰ</w>
     <suffix></suffix>
     <w>τὰ</w>
@@ -1915,7 +1915,7 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>ἀνθρώπων</w>
-    <suffix>;  </suffix>
+    <suffix>; </suffix>
     <verse-number id="Colossians 2:23">23</verse-number>
     <w>ἅτινά</w>
     <suffix></suffix>
@@ -1942,7 +1942,7 @@
     <w>ἀφειδίᾳ</w>
     <suffix></suffix>
     <w>σώματος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -1958,7 +1958,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>σαρκός</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 3:1">3:1</verse-number>
@@ -1971,13 +1971,13 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>Χριστῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὰ</w>
     <suffix></suffix>
     <w>ἄνω</w>
     <suffix></suffix>
     <w>ζητεῖτε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὗ</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -1995,14 +1995,14 @@
     <w>θεοῦ</w>
     <suffix></suffix>
     <w>καθήμενος</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 3:2">2</verse-number>
     <w>τὰ</w>
     <suffix></suffix>
     <w>ἄνω</w>
     <suffix></suffix>
     <w>φρονεῖτε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>τὰ</w>
@@ -2012,12 +2012,12 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>γῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 3:3">3</verse-number>
     <w>ἀπεθάνετε</w>
     <suffix></suffix>
     <w>γάρ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἡ</w>
@@ -2039,7 +2039,7 @@
     <w>τῷ</w>
     <suffix></suffix>
     <w>θεῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 3:4">4</verse-number>
     <w>ὅταν</w>
     <suffix></suffix>
@@ -2048,14 +2048,14 @@
     <w>Χριστὸς</w>
     <suffix></suffix>
     <w>φανερωθῇ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>ζωὴ</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τότε</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -2071,7 +2071,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>δόξῃ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 3:5">5</verse-number>
@@ -2091,17 +2091,17 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>γῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πορνείαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀκαθαρσίαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πάθος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐπιθυμίαν</w>
     <suffix></suffix>
     <w>κακήν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>τὴν</w>
@@ -2113,9 +2113,9 @@
     <w>ἐστὶν</w>
     <suffix></suffix>
     <w>εἰδωλολατρία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 3:6">6</verse-number>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ἃ</w>
     <suffix></suffix>
@@ -2139,7 +2139,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>ἀπειθείας</w>
-    <suffix>⸃·  </suffix>
+    <suffix>⸃· </suffix>
     <verse-number id="Colossians 3:7">7</verse-number>
     <w>ἐν</w>
     <suffix></suffix>
@@ -2161,7 +2161,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>τούτοις</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 3:8">8</verse-number>
     <w>νυνὶ</w>
     <suffix></suffix>
@@ -2176,15 +2176,15 @@
     <w>τὰ</w>
     <suffix></suffix>
     <w>πάντα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὀργήν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>θυμόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>κακίαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>βλασφημίαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>αἰσχρολογίαν</w>
     <suffix></suffix>
     <w>ἐκ</w>
@@ -2194,7 +2194,7 @@
     <w>στόματος</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 3:9">9</verse-number>
     <w>μὴ</w>
     <suffix></suffix>
@@ -2203,7 +2203,7 @@
     <w>εἰς</w>
     <suffix></suffix>
     <w>ἀλλήλους</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>ἀπεκδυσάμενοι</w>
     <suffix></suffix>
     <w>τὸν</w>
@@ -2219,7 +2219,7 @@
     <w>πράξεσιν</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 3:10">10</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2237,7 +2237,7 @@
     <suffix></suffix>
     <w>ἐπίγνωσιν</w>
     <suffix></suffix>
-    <w>κατ’</w>
+    <w>κατʼ</w>
     <suffix></suffix>
     <w>εἰκόνα</w>
     <suffix></suffix>
@@ -2246,7 +2246,7 @@
     <w>κτίσαντος</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 3:11">11</verse-number>
     <w>ὅπου</w>
     <suffix></suffix>
@@ -2259,21 +2259,21 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>Ἰουδαῖος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>περιτομὴ</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἀκροβυστία</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>βάρβαρος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>Σκύθης</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>δοῦλος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐλεύθερος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀλλὰ</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -2288,7 +2288,7 @@
     <w>πᾶσιν</w>
     <suffix></suffix>
     <w>Χριστός</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 3:12">12</verse-number>
@@ -2303,25 +2303,25 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἅγιοι</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>ἠγαπημένοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>σπλάγχνα</w>
     <suffix></suffix>
     <w>οἰκτιρμοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>χρηστότητα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ταπεινοφροσύνην</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πραΰτητα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μακροθυμίαν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 3:13">13</verse-number>
     <w>ἀνεχόμενοι</w>
     <suffix></suffix>
@@ -2344,7 +2344,7 @@
     <w>ἔχῃ</w>
     <suffix></suffix>
     <w>μομφήν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καθὼς</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -2363,7 +2363,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>ὑμεῖς</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 3:14">14</verse-number>
     <w>ἐπὶ</w>
     <suffix></suffix>
@@ -2376,7 +2376,7 @@
     <w>τὴν</w>
     <suffix></suffix>
     <w>ἀγάπην</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>ὅ</w>
     <suffix></suffix>
@@ -2387,7 +2387,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>τελειότητος</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 3:15">15</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2409,7 +2409,7 @@
     <w>καρδίαις</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰς</w>
     <suffix></suffix>
     <w>ἣν</w>
@@ -2423,13 +2423,13 @@
     <w>ἑνὶ</w>
     <suffix></suffix>
     <w>σώματι</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>εὐχάριστοι</w>
     <suffix></suffix>
     <w>γίνεσθε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 3:16">16</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -2452,7 +2452,7 @@
     <w>πάσῃ</w>
     <suffix></suffix>
     <w>σοφίᾳ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>διδάσκοντες</w>
     <suffix></suffix>
     <w>καὶ</w>
@@ -2463,10 +2463,10 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ψαλμοῖς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <prefix> ⸀</prefix>
     <w>ὕμνοις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ᾠδαῖς</w>
     <suffix></suffix>
     <w>πνευματικαῖς</w>
@@ -2475,7 +2475,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>χάριτι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ᾄδοντες</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -2484,14 +2484,14 @@
     <w>ταῖς</w>
     <suffix></suffix>
     <w>καρδίαις</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ὑμῶν</w>
     <suffix></suffix>
     <w>τῷ</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>θεῷ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 3:17">17</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -2501,7 +2501,7 @@
     <w>ὅ</w>
     <suffix></suffix>
     <w>τι</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <prefix> ⸀</prefix>
     <w>ἐὰν</w>
     <suffix></suffix>
@@ -2516,7 +2516,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἔργῳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πάντα</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -2526,7 +2526,7 @@
     <w>κυρίου</w>
     <suffix></suffix>
     <w>Ἰησοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εὐχαριστοῦντες</w>
     <suffix></suffix>
     <w>τῷ</w>
@@ -2536,24 +2536,24 @@
     <suffix></suffix>
     <w>πατρὶ</w>
     <suffix></suffix>
-    <w>δι’</w>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>αὐτοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 3:18">18</verse-number>
     <w>Αἱ</w>
     <suffix></suffix>
     <w>γυναῖκες</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὑποτάσσεσθε</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>τοῖς</w>
     <suffix></suffix>
     <w>ἀνδράσιν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὡς</w>
     <suffix></suffix>
     <w>ἀνῆκεν</w>
@@ -2561,12 +2561,12 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>κυρίῳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 3:19">19</verse-number>
     <w>οἱ</w>
     <suffix></suffix>
     <w>ἄνδρες</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἀγαπᾶτε</w>
     <suffix></suffix>
     <w>τὰς</w>
@@ -2582,14 +2582,14 @@
     <w>πρὸς</w>
     <suffix></suffix>
     <w>αὐτάς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 3:20">20</verse-number>
     <w>Τὰ</w>
     <suffix></suffix>
     <w>τέκνα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὑπακούετε</w>
     <suffix></suffix>
     <w>τοῖς</w>
@@ -2599,7 +2599,7 @@
     <w>κατὰ</w>
     <suffix></suffix>
     <w>πάντα</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τοῦτο</w>
     <suffix></suffix>
     <w>γὰρ</w>
@@ -2608,16 +2608,16 @@
     <w>εὐάρεστόν</w>
     <suffix></suffix>
     <w>ἐστιν</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>κυρίῳ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 3:21">21</verse-number>
     <w>οἱ</w>
     <suffix></suffix>
     <w>πατέρες</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>ἐρεθίζετε</w>
@@ -2627,18 +2627,18 @@
     <w>τέκνα</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>ἀθυμῶσιν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 3:22">22</verse-number>
     <w>οἱ</w>
     <suffix></suffix>
     <w>δοῦλοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὑπακούετε</w>
     <suffix></suffix>
     <w>κατὰ</w>
@@ -2652,33 +2652,33 @@
     <w>σάρκα</w>
     <suffix></suffix>
     <w>κυρίοις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>μὴ</w>
     <suffix></suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ὀφθαλμοδουλίαις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὡς</w>
     <suffix></suffix>
     <w>ἀνθρωπάρεσκοι</w>
-    <suffix>,  </suffix>
-    <w>ἀλλ’</w>
+    <suffix>, </suffix>
+    <w>ἀλλʼ</w>
     <suffix></suffix>
     <w>ἐν</w>
     <suffix></suffix>
     <w>ἁπλότητι</w>
     <suffix></suffix>
     <w>καρδίας</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>φοβούμενοι</w>
     <suffix></suffix>
     <w>τὸν</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>κύριον</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 3:23">23</verse-number>
     <prefix> ⸀</prefix>
     <w>ὃ</w>
@@ -2686,13 +2686,13 @@
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>ποιῆτε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐκ</w>
     <suffix></suffix>
     <w>ψυχῆς</w>
     <suffix></suffix>
     <w>ἐργάζεσθε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὡς</w>
     <suffix></suffix>
     <w>τῷ</w>
@@ -2704,7 +2704,7 @@
     <w>οὐκ</w>
     <suffix></suffix>
     <w>ἀνθρώποις</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 3:24">24</verse-number>
     <w>εἰδότες</w>
     <suffix></suffix>
@@ -2724,7 +2724,7 @@
     <w>τῆς</w>
     <suffix></suffix>
     <w>κληρονομίας</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <prefix> ⸀</prefix>
     <w>τῷ</w>
     <suffix></suffix>
@@ -2733,7 +2733,7 @@
     <w>Χριστῷ</w>
     <suffix></suffix>
     <w>δουλεύετε</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <verse-number id="Colossians 3:25">25</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -2747,7 +2747,7 @@
     <w>ὃ</w>
     <suffix></suffix>
     <w>ἠδίκησεν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>οὐκ</w>
@@ -2755,12 +2755,12 @@
     <w>ἔστιν</w>
     <suffix></suffix>
     <w>προσωπολημψία</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:1">4:1</verse-number>
     <w>οἱ</w>
     <suffix></suffix>
     <w>κύριοι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὸ</w>
     <suffix></suffix>
     <w>δίκαιον</w>
@@ -2776,7 +2776,7 @@
     <w>δούλοις</w>
     <suffix></suffix>
     <w>παρέχεσθε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰδότες</w>
     <suffix></suffix>
     <w>ὅτι</w>
@@ -2793,7 +2793,7 @@
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>οὐρανῷ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 4:2">2</verse-number>
@@ -2802,7 +2802,7 @@
     <w>προσευχῇ</w>
     <suffix></suffix>
     <w>προσκαρτερεῖτε</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>γρηγοροῦντες</w>
     <suffix></suffix>
     <w>ἐν</w>
@@ -2812,7 +2812,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>εὐχαριστίᾳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 4:3">3</verse-number>
     <w>προσευχόμενοι</w>
     <suffix></suffix>
@@ -2823,7 +2823,7 @@
     <w>περὶ</w>
     <suffix></suffix>
     <w>ἡμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>ὁ</w>
@@ -2839,7 +2839,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>λόγου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>λαλῆσαι</w>
     <suffix></suffix>
     <w>τὸ</w>
@@ -2849,15 +2849,15 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
-    <w>δι’</w>
+    <suffix>, </suffix>
+    <w>διʼ</w>
     <suffix></suffix>
     <w>ὃ</w>
     <suffix></suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>δέδεμαι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 4:4">4</verse-number>
     <w>ἵνα</w>
     <suffix></suffix>
@@ -2872,7 +2872,7 @@
     <w>με</w>
     <suffix></suffix>
     <w>λαλῆσαι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 4:5">5</verse-number>
@@ -2887,13 +2887,13 @@
     <w>τοὺς</w>
     <suffix></suffix>
     <w>ἔξω</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>τὸν</w>
     <suffix></suffix>
     <w>καιρὸν</w>
     <suffix></suffix>
     <w>ἐξαγοραζόμενοι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:6">6</verse-number>
     <w>ὁ</w>
     <suffix></suffix>
@@ -2906,11 +2906,11 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>χάριτι</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἅλατι</w>
     <suffix></suffix>
     <w>ἠρτυμένος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>εἰδέναι</w>
     <suffix></suffix>
     <w>πῶς</w>
@@ -2924,13 +2924,13 @@
     <w>ἑκάστῳ</w>
     <suffix></suffix>
     <w>ἀποκρίνεσθαι</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 4:7">7</verse-number>
     <w>Τὰ</w>
     <suffix></suffix>
-    <w>κατ’</w>
+    <w>κατʼ</w>
     <suffix></suffix>
     <w>ἐμὲ</w>
     <suffix></suffix>
@@ -2961,7 +2961,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>κυρίῳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 4:8">8</verse-number>
     <w>ὃν</w>
     <suffix></suffix>
@@ -2998,7 +2998,7 @@
     <w>καρδίας</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <verse-number id="Colossians 4:9">9</verse-number>
     <w>σὺν</w>
     <suffix></suffix>
@@ -3013,7 +3013,7 @@
     <w>ἀγαπητῷ</w>
     <suffix></suffix>
     <w>ἀδελφῷ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ὅς</w>
     <suffix></suffix>
     <w>ἐστιν</w>
@@ -3021,7 +3021,7 @@
     <w>ἐξ</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>πάντα</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
@@ -3031,7 +3031,7 @@
     <w>τὰ</w>
     <suffix></suffix>
     <w>ὧδε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 4:10">10</verse-number>
@@ -3046,7 +3046,7 @@
     <w>συναιχμάλωτός</w>
     <suffix></suffix>
     <w>μου</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>Μᾶρκος</w>
@@ -3065,7 +3065,7 @@
     <w>ἐλάβετε</w>
     <suffix></suffix>
     <w>ἐντολάς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἐὰν</w>
     <suffix></suffix>
     <w>ἔλθῃ</w>
@@ -3077,7 +3077,7 @@
     <w>δέξασθε</w>
     <suffix></suffix>
     <w>αὐτόν</w>
-    <suffix>),  </suffix>
+    <suffix>), </suffix>
     <verse-number id="Colossians 4:11">11</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -3088,7 +3088,7 @@
     <w>λεγόμενος</w>
     <suffix></suffix>
     <w>Ἰοῦστος</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἱ</w>
     <suffix></suffix>
     <w>ὄντες</w>
@@ -3096,7 +3096,7 @@
     <w>ἐκ</w>
     <suffix></suffix>
     <w>περιτομῆς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οὗτοι</w>
     <suffix></suffix>
     <w>μόνοι</w>
@@ -3112,7 +3112,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>οἵτινες</w>
     <suffix></suffix>
     <w>ἐγενήθησάν</w>
@@ -3120,7 +3120,7 @@
     <w>μοι</w>
     <suffix></suffix>
     <w>παρηγορία</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:12">12</verse-number>
     <w>ἀσπάζεται</w>
     <suffix></suffix>
@@ -3133,12 +3133,12 @@
     <w>ἐξ</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>δοῦλος</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>Χριστοῦ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>πάντοτε</w>
     <suffix></suffix>
     <w>ἀγωνιζόμενος</w>
@@ -3152,7 +3152,7 @@
     <w>ταῖς</w>
     <suffix></suffix>
     <w>προσευχαῖς</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
@@ -3174,7 +3174,7 @@
     <w>τοῦ</w>
     <suffix></suffix>
     <w>θεοῦ</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:13">13</verse-number>
     <w>μαρτυρῶ</w>
     <suffix></suffix>
@@ -3190,7 +3190,7 @@
     <w>πολὺν</w>
     <suffix></suffix>
     <w>πόνον</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ὑπὲρ</w>
     <suffix></suffix>
     <w>ὑμῶν</w>
@@ -3210,7 +3210,7 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>Ἱεραπόλει</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:14">14</verse-number>
     <w>ἀσπάζεται</w>
     <suffix></suffix>
@@ -3229,7 +3229,7 @@
     <w>καὶ</w>
     <suffix></suffix>
     <w>Δημᾶς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:15">15</verse-number>
     <w>ἀσπάσασθε</w>
     <suffix></suffix>
@@ -3250,14 +3250,14 @@
     <suffix></suffix>
     <w>τὴν</w>
     <suffix></suffix>
-    <w>κατ’</w>
+    <w>κατʼ</w>
     <suffix></suffix>
     <w>οἶκον</w>
     <suffix></suffix>
     <w>αὐτῆς</w>
-    <suffix>⸃  </suffix>
+    <suffix>⸃ </suffix>
     <w>ἐκκλησίαν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:16">16</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
@@ -3265,14 +3265,14 @@
     <suffix></suffix>
     <w>ἀναγνωσθῇ</w>
     <suffix></suffix>
-    <w>παρ’</w>
+    <w>παρʼ</w>
     <suffix></suffix>
     <w>ὑμῖν</w>
     <suffix></suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>ἐπιστολή</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ποιήσατε</w>
     <suffix></suffix>
     <w>ἵνα</w>
@@ -3289,7 +3289,7 @@
     <w>ἐκκλησίᾳ</w>
     <suffix></suffix>
     <w>ἀναγνωσθῇ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>καὶ</w>
     <suffix></suffix>
     <w>τὴν</w>
@@ -3305,14 +3305,14 @@
     <w>ὑμεῖς</w>
     <suffix></suffix>
     <w>ἀναγνῶτε</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <verse-number id="Colossians 4:17">17</verse-number>
     <w>καὶ</w>
     <suffix></suffix>
     <w>εἴπατε</w>
     <suffix></suffix>
     <w>Ἀρχίππῳ</w>
-    <suffix>·  </suffix>
+    <suffix>· </suffix>
     <w>Βλέπε</w>
     <suffix></suffix>
     <w>τὴν</w>
@@ -3326,13 +3326,13 @@
     <w>ἐν</w>
     <suffix></suffix>
     <w>κυρίῳ</w>
-    <suffix>,  </suffix>
+    <suffix>, </suffix>
     <w>ἵνα</w>
     <suffix></suffix>
     <w>αὐτὴν</w>
     <suffix></suffix>
     <w>πληροῖς</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p>
     <verse-number id="Colossians 4:18">18</verse-number>
@@ -3347,7 +3347,7 @@
     <w>χειρὶ</w>
     <suffix></suffix>
     <w>Παύλου</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>μνημονεύετέ</w>
     <suffix></suffix>
     <w>μου</w>
@@ -3355,16 +3355,16 @@
     <w>τῶν</w>
     <suffix></suffix>
     <w>δεσμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
     <w>ἡ</w>
     <suffix></suffix>
     <w>χάρις</w>
     <suffix></suffix>
-    <w>μεθ’</w>
+    <w>μεθʼ</w>
     <suffix></suffix>
     <prefix> ⸀</prefix>
     <w>ὑμῶν</w>
-    <suffix>.  </suffix>
+    <suffix>. </suffix>
   </p>
   <p />
 </book>

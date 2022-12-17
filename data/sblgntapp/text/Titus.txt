@@ -1,27 +1,63 @@
+ΠΡΟΣ ΤΙΤΟΝ
 
-Titus Apparatus Data
-Order of edition citation: WH Treg NIV RP
+Titus 1:4
+1:4 καὶ WH Treg NA28 ] ἔλεος RP 
+• Χριστοῦ Ἰησοῦ WH Treg NA28 ] κυρίου Ἰησοῦ χριστοῦ RP
 
-Tit 1:4	καὶ WH Treg NIV ] ἔλεος RP • Χριστοῦ Ἰησοῦ WH Treg NIV ] κυρίου Ἰησοῦ χριστοῦ RP
-Tit 1:5	ἀπέλιπόν Treg NIV] ἀπέλειπόν WH; κατέλιπόν RP
-Tit 1:10	καὶ RP NA ] – WH Treg NIV • τῆς WH Treg NIV ] – RP
-Tit 1:15	πάντα WH Treg NIV ] + μὲν RP
+Titus 1:5
+5 ἀπέλιπόν Treg NA28 ] ἀπέλειπόν WH; κατέλιπόν RP
 
-Tit 2:3	μηδὲ WH Treg ] μὴ NIV RP
-Tit 2:4	σωφρονίζωσι WH NIV RP] σωφρονίζουσιν Treg
-Tit 2:5	οἰκουργούς WH Treg NIV ] οἰκουρούς RP
-Tit 2:7	ἀφθορίαν WH Treg NIV ] ἀδιαφθορίαν RP • σεμνότητα WH Treg NIV ] + ἀφθαρσίαν RP
-Tit 2:8	λέγειν περὶ ἡμῶν WH Treg NIV ] περὶ ἡμῶν λέγειν RP
-Tit 2:10	πᾶσαν πίστιν WH Treg NIV ] πίστιν πᾶσαν RP • τὴν WH Treg NIV ] – RP
-Tit 2:11	θεοῦ WH Treg NIV ] + ἡ RP
-Tit 2:13	Ἰησοῦ Χριστοῦ NIV RP ] Χριστοῦ Ἰησοῦ WH Treg
+Titus 1:10
+10 καὶ RP NA28 ] – WH Treg NIV 
+• τῆς WH Treg NA28 ] – RP
 
-Tit 3:1	ἀρχαῖς WH Treg NIV ] + καὶ RP
-Tit 3:5	ἃ WH Treg NIV ] ὧν RP • τὸ αὐτοῦ ἔλεος WH Treg NIV ] τὸν αὐτοῦ ἔλεον RP
-Tit 3:7	γενηθῶμεν WH Treg NIV ] γενώμεθα RP
-Tit 3:8	ἐστιν WH Treg NIV ] + τὰ RP
-Tit 3:9	ἔρεις Treg NIV RP ] ἔριν WH
-Tit 3:13	Ἀπολλῶν WH NIV ] Ἀπολλὼ Treg RP
-Tit 3:15	ὑμῶν WH Treg NIV ] + Ἀμήν RP
+Titus 1:15
+15 πάντα WH Treg NA28 ] + μὲν RP
 
+Titus 2:3
+2:3 μηδὲ WH Treg ] μὴ NA28 RP
 
+Titus 2:4
+4 σωφρονίζωσι WH NA28 RP ] σωφρονίζουσιν Treg
+
+Titus 2:5
+5 οἰκουργούς WH Treg NA28 ] οἰκουρούς RP
+
+Titus 2:7
+7 ἀφθορίαν WH Treg NA28 ] ἀδιαφθορίαν RP 
+• σεμνότητα WH Treg NA28 ] + ἀφθαρσίαν RP
+
+Titus 2:8
+8 λέγειν περὶ ἡμῶν WH Treg NA28 ] περὶ ἡμῶν λέγειν RP
+
+Titus 2:10
+10 πᾶσαν πίστιν WH Treg NA28 ] πίστιν πᾶσαν RP 
+• τὴν WH Treg NA28 ] – RP
+
+Titus 2:11
+11 θεοῦ WH Treg NA28 ] + ἡ RP
+
+Titus 2:13
+13 Ἰησοῦ Χριστοῦ NA28 RP ] Χριστοῦ Ἰησοῦ WH Treg
+
+Titus 3:1
+3:1 ἀρχαῖς WH Treg NA28 ] + καὶ RP
+
+Titus 3:5
+5 ἃ WH Treg NA28 ] ὧν RP 
+• τὸ αὐτοῦ ἔλεος WH Treg NA28 ] τὸν αὐτοῦ ἔλεον RP
+
+Titus 3:7
+7 γενηθῶμεν WH Treg NA28 ] γενώμεθα RP
+
+Titus 3:8
+8 ἐστιν WH Treg NA28 ] + τὰ RP
+
+Titus 3:9
+9 ἔρεις Treg NA28 RP ] ἔριν WH
+
+Titus 3:13
+13 Ἀπολλῶν WH NA28 ] Ἀπολλὼ Treg RP
+
+Titus 3:15
+15 ὑμῶν WH Treg NA28 ] + Ἀμήν RP

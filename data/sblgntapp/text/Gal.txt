@@ -1,76 +1,218 @@
+ΠΡΟΣ ΓΑΛΑΤΑΣ
 
-Galatians Apparatus Data
-Order of edition citation: WH Treg NIV RP
+Galatians 1:3
+1.3 καὶ κυρίου ἡμῶν Treg RP ] ἡμῶν καὶ κυρίου WH NA28
 
-Ga 1:3	καὶ κυρίου ἡμῶν Treg RP] ἡμῶν καὶ κυρίου WH NIV
-Ga 1:4	ὑπὲρ WH NIV] περὶ Treg RP • αἰῶνος τοῦ ἐνεστῶτος WH Treg NIV] ἐνεστῶτος αἰῶνος RP
-Ga 1:8	εὐαγγελίζηται Treg NIV RP] εὐαγγελίσηται WH • ὑμῖν WH Treg RP NA] – NIV
-Ga 1:10	εἰ WH Treg NIV] + γὰρ RP
-Ga 1:11	γὰρ WH Treg NIV] δὲ RP
-Ga 1:12	οὔτε WH NIV RP] οὐδὲ Treg
-Ga 1:15	εὐδόκησεν Holmes WHmarg] + ὁ θεὸς WH Treg NIV RP
-Ga 1:18	ἔτη τρία Treg NIV RP] τρία ἔτη WH • Κηφᾶν WH Treg NIV] Πέτρον RP
+Galatians 1:4
+4 ὑπὲρ WH NA28 ] περὶ Treg RP 
+• αἰῶνος τοῦ ἐνεστῶτος WH Treg NA28 ] ἐνεστῶτος αἰῶνος RP
 
-Ga 2:4	καταδουλώσουσιν WH Treg NIV] καταδουλώσωνται RP
-Ga 2:6	θεὸς Treg RP] ὁ θεὸς WH NIV
-Ga 2:9	ἡμεῖς WH Treg NIV] + μὲν RP
-Ga 2:11	Κηφᾶς WH Treg NIV] Πέτρος RP
-Ga 2:12	ἦλθον WH NIV RP] ἦλθεν Treg
-Ga 2:13	καὶ WH Treg RP NA] – NIV
-Ga 2:14	Κηφᾷ WH Treg NIV] Πέτρῳ RP • καὶ … Ἰουδαϊκῶς ζῇς WH Treg NIV] ζῇς καὶ … Ἰουδαϊκῶς RP • οὐκ WH Treg RP] οὐχὶ NIV • πῶς WH Treg NIV] τί RP
-Ga 2:16	δὲ WH Treg NIV] – RP • Ἰησοῦ Χριστοῦ NIV RP] Χριστοῦ Ἰησοῦ WH Treg • ὅτι ἐξ ἔργων νόμου οὐ δικαιωθήσεται WH Treg NIV] διότι οὐ δικαιωθήσεται ἐξ ἔργων νόμου RP
-Ga 2:18	συνιστάνω WH Treg NIV] συνίστημι RP
-Ga 2:20	υἱοῦ τοῦ θεοῦ WH NIV RP] θεοῦ καὶ Χριστοῦ Treg
+Galatians 1:8
+8 εὐαγγελίζηται Treg NA28 RP ] εὐαγγελίσηται WH 
+• ὑμῖν WH Treg RP NA28 ] – NIV
 
-Ga 3:1	ἐβάσκανεν WH Treg NIV] + τῇ ἀληθείᾳ μὴ πείθεσθαι RP • προεγράφη WH Treg NIV] + ἐν ὑμῖν RP
-Ga 3:7	υἱοί εἰσιν WH Treg NIV] εἰσιν υἱοὶ RP
-Ga 3:10	ὅτι WH Treg NIV] – RP • ἐμμένει WH Treg NIV] + ἐν RP
-Ga 3:12	αὐτὰ WH Treg NIV] + ἄνθρωπος RP
-Ga 3:13	ὅτι γέγραπται WH Treg NIV] γέγραπται γάρ RP
-Ga 3:14	Χριστῷ Ἰησοῦ NIV RP] Ἰησοῦ Χριστῷ WH Treg
-Ga 3:17	θεοῦ WH Treg NIV] + εἰς Χριστὸν RP • τετρακόσια καὶ τριάκοντα ἔτη WH Treg NIV] ἔτη τετρακόσια καὶ τριάκοντα RP
-Ga 3:19	οὗ Treg NIV RP] ἂν WH
-Ga 3:21	ἐκ νόμου ἂν Treg NIV] ἐν νόμῳ ἂν WH; ἂν ἐκ νόμου RP
-Ga 3:23	συγκλειόμενοι WH Treg NIV] συγκεκλεισμένοι RP
-Ga 3:28	πάντες WH NIV RP] ἅπαντες Treg
-Ga 3:29	κατ᾽ WH Treg NIV] καὶ κατ᾽ RP
+Galatians 1:10
+10 εἰ WH Treg NA28 ] + γὰρ RP
 
-Ga 4:3	ἤμεθα WH NIV] ἦμεν Treg RP
-Ga 4:6	ἡμῶν WH Treg NIV] ὑμῶν RP
-Ga 4:7	διὰ θεοῦ WH Treg NIV] θεοῦ διὰ Χριστοῦ RP
-Ga 4:8	φύσει μὴ WH Treg NIV] μὴ φύσει RP
-Ga 4:9	δουλεύειν NIV RP] δουλεῦσαι WH Treg
-Ga 4:14	ὑμῶν WH Treg NIV] μου τὸν RP
-Ga 4:15	ποῦ WH Treg NIV] Τίς RP • οὖν WH Treg NIV] + ἦν RP • ἐξορύξαντες WH Treg NIV] + ἂν RP
-Ga 4:18	δὲ WH Treg NIV] + τὸ RP
-Ga 4:19	τέκνα Treg NIV] τεκνία WH RP • μέχρις WH Treg NIV] ἄχρι RP
-Ga 4:23	δι᾽ WH Treg NIV] διὰ τῆς RP
-Ga 4:25	δὲ WH NIV] γὰρ RP Treg • γὰρ WH Treg NIV] δὲ RP
-Ga 4:26	μήτηρ WH Treg NIV] + πάντων RP
-Ga 4:28	ὑμεῖς δέ … τέκνα ἐστέ Treg NIV] ἡμεῖς δὲ … τέκνα ἐσμέν WH RP
-Ga 4:30	κληρονομήσει WH Treg NIV] κληρονομήσῃ RP
-Ga 4:31	διό WH Treg NIV] Ἄρα RP
+Galatians 1:11
+11 γὰρ WH Treg NA28 ] δὲ RP
 
-Ga 5:1	ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν WH Treg NIV] οὖν ᾗ Χριστὸς ἡμᾶς ἠλευθέρωσεν στήκετε RP
-Ga 5:4	ἀπὸ WH Treg NIV] + τοῦ RP
-Ga 5:7	τῇ NIV RP] – WH Treg
-Ga 5:10	ἐὰν WH Treg NIV] ἂν RP
-Ga 5:14	πεπλήρωται WH Treg NIV] πληροῦται RP • σεαυτόν WH Treg NIV] ἑαυτόν RP
-Ga 5:17	γὰρ WH Treg NIV] δὲ RP • ἀλλήλοις ἀντίκειται WH Treg NIV] ἀντίκειται ἀλλήλοις RP • ἐὰν WH Treg NIV] ἂν RP
-Ga 5:19	ἐστιν WH Treg NIV] + μοιχεία RP
-Ga 5:20	ἔρις ζῆλος WH Treg NIV] ἔρεις ζῆλοι RP
-Ga 5:21	φθόνοι WH NIV] + φόνοι Treg RP • καθὼς WH Treg NIV] + καὶ RP
-Ga 5:24	Χριστοῦ RP] + Ἰησοῦ WH Treg NIV
+Galatians 1:12
+12 οὔτε WH NA28 RP ] οὐδὲ Treg
 
-Ga 6:2	ἀναπληρώσετε Treg NIV] ἀναπληρώσατε WH RP
-Ga 6:3	φρεναπατᾷ ἑαυτόν WH Treg NIV] ἑαυτόν φρεναπατᾷ RP
-Ga 6:7	ἐὰν WH NIV RP] ἂν Treg
-Ga 6:9	ἐγκακῶμεν WH Treg NIV] ἐκκακῶμεν RP
-Ga 6:10	ἔχομεν Treg NIV RP] ἔχωμεν WH
-Ga 6:12	ἵνα WH Treg NIV] + μὴ RP • Χριστοῦ NIV Treg RP] + Ἰησοῦ WH • μὴ WH Treg NIV] – RP
-Ga 6:13	περιτεμνόμενοι WH Treg NIV] περιτετμημένοι RP
-Ga 6:14	κἀγὼ WH Treg NIV] + τῷ RP
-Ga 6:15	οὔτε γὰρ WH Treg NIV] ἐν γὰρ Χριστῷ Ἰησοῦ οὔτε RP • ἐστιν WH Treg NIV] ἰσχύει RP
-Ga 6:17	τοῦ WH Treg NIV] + κυρίου RP
+Galatians 1:15
+15 εὐδόκησεν Holmes WHmarg ] + ὁ θεὸς WH Treg NA28 RP
 
+Galatians 1:18
+18 ἔτη τρία Treg NA28 RP ] τρία ἔτη WH 
+• Κηφᾶν WH Treg NA28 ] Πέτρον RP
 
+Galatians 2:4
+2.4 καταδουλώσουσιν WH Treg NA28 ] καταδουλώσωνται RP
+
+Galatians 2:6
+6 θεὸς Treg RP ] ὁ θεὸς WH NA28
+
+Galatians 2:9
+9 ἡμεῖς WH Treg NA28 ] + μὲν RP
+
+Galatians 2:11
+11 Κηφᾶς WH Treg NA28 ] Πέτρος RP
+
+Galatians 2:12
+12 ἦλθον WH NA28 RP ] ἦλθεν Treg
+
+Galatians 2:13
+13 καὶ WH Treg RP NA28 ] – NIV
+
+Galatians 2:14
+14 Κηφᾷ WH Treg NA28 ] Πέτρῳ RP 
+• καὶ … Ἰουδαϊκῶς ζῇς WH Treg NA28 ] ζῇς καὶ … Ἰουδαϊκῶς RP 
+• οὐκ WH Treg RP ] οὐχὶ NA28 
+• πῶς WH Treg NA28 ] τί RP
+
+Galatians 2:16
+16 δὲ WH Treg NA28 ] – RP 
+• Ἰησοῦ Χριστοῦ NA28 RP ] Χριστοῦ Ἰησοῦ WH Treg 
+• ὅτι ἐξ ἔργων νόμου οὐ δικαιωθήσεται WH Treg NA28 ] διότι οὐ δικαιωθήσεται ἐξ ἔργων νόμου RP
+
+Galatians 2:18
+18 συνιστάνω WH Treg NA28 ] συνίστημι RP
+
+Galatians 2:20
+20 υἱοῦ τοῦ θεοῦ WH NA28 RP ] θεοῦ καὶ Χριστοῦ Treg
+
+Galatians 3:1
+3.1 ἐβάσκανεν WH Treg NA28 ] + τῇ ἀληθείᾳ μὴ πείθεσθαι RP 
+• προεγράφη WH Treg NA28 ] + ἐν ὑμῖν RP
+
+Galatians 3:7
+7 υἱοί εἰσιν WH Treg NA28 ] εἰσιν υἱοὶ RP
+
+Galatians 3:10
+10 ὅτι WH Treg NA28 ] – RP 
+• ἐμμένει WH Treg NA28 ] + ἐν RP
+
+Galatians 3:12
+12 αὐτὰ WH Treg NA28 ] + ἄνθρωπος RP
+
+Galatians 3:13
+13 ὅτι γέγραπται WH Treg NA28 ] γέγραπται γάρ RP
+
+Galatians 3:14
+14 Χριστῷ Ἰησοῦ NA28 RP ] Ἰησοῦ Χριστῷ WH Treg
+
+Galatians 3:17
+17 θεοῦ WH Treg NA28 ] + εἰς Χριστὸν RP 
+• τετρακόσια καὶ τριάκοντα ἔτη WH Treg NA28 ] ἔτη τετρακόσια καὶ τριάκοντα RP
+
+Galatians 3:19
+19 οὗ Treg NA28 RP ] ἂν WH
+
+Galatians 3:21
+21 ἐκ νόμου ἂν Treg NA28 ] ἐν νόμῳ ἂν WH; ἂν ἐκ νόμου RP
+
+Galatians 3:23
+23 συγκλειόμενοι WH Treg NA28 ] συγκεκλεισμένοι RP
+
+Galatians 3:28
+28 πάντες WH NA28 RP ] ἅπαντες Treg
+
+Galatians 3:29
+29 κατʼ WH Treg NA28 ] καὶ κατʼ RP
+
+Galatians 4:3
+4.3 ἤμεθα WH NA28 ] ἦμεν Treg RP
+
+Galatians 4:6
+6 ἡμῶν WH Treg NA28 ] ὑμῶν RP
+
+Galatians 4:7
+7 διὰ θεοῦ WH Treg NA28 ] θεοῦ διὰ Χριστοῦ RP
+
+Galatians 4:8
+8 φύσει μὴ WH Treg NA28 ] μὴ φύσει RP
+
+Galatians 4:9
+9 δουλεύειν NA28 RP ] δουλεῦσαι WH Treg
+
+Galatians 4:14
+14 ὑμῶν WH Treg NA28 ] μου τὸν RP
+
+Galatians 4:15
+15 ποῦ WH Treg NA28 ] Τίς RP 
+• οὖν WH Treg NA28 ] + ἦν RP 
+• ἐξορύξαντες WH Treg NA28 ] + ἂν RP
+
+Galatians 4:18
+18 δὲ WH Treg NA28 ] + τὸ RP
+
+Galatians 4:19
+19 τέκνα Treg NA28 ] τεκνία WH RP 
+• μέχρις WH Treg NA28 ] ἄχρι RP
+
+Galatians 4:23
+23 διʼ WH Treg NA28 ] διὰ τῆς RP
+
+Galatians 4:25
+25 δὲ WH NA28 ] γὰρ RP Treg 
+• γὰρ WH Treg NA28 ] δὲ RP
+
+Galatians 4:26
+26 μήτηρ WH Treg NA28 ] + πάντων RP
+
+Galatians 4:28
+28 ὑμεῖς δέ … τέκνα ἐστέ Treg NA28 ] ἡμεῖς δὲ … τέκνα ἐσμέν WH RP
+
+Galatians 4:30
+30 κληρονομήσει WH Treg NA28 ] κληρονομήσῃ RP
+
+Galatians 4:31
+31 διό WH Treg NA28 ] Ἄρα RP
+
+Galatians 5:1
+5.1 ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν WH Treg NA28 ] οὖν ᾗ Χριστὸς ἡμᾶς ἠλευθέρωσεν στήκετε RP
+
+Galatians 5:4
+4 ἀπὸ WH Treg NA28 ] + τοῦ RP
+
+Galatians 5:7
+7 τῇ NA28 RP ] – WH Treg
+
+Galatians 5:10
+10 ἐὰν WH Treg NA28 ] ἂν RP
+
+Galatians 5:14
+14 πεπλήρωται WH Treg NA28 ] πληροῦται RP 
+• σεαυτόν WH Treg NA28 ] ἑαυτόν RP
+
+Galatians 5:17
+17 γὰρ WH Treg NA28 ] δὲ RP 
+• ἀλλήλοις ἀντίκειται WH Treg NA28 ] ἀντίκειται ἀλλήλοις RP 
+• ἐὰν WH Treg NA28 ] ἂν RP
+
+Galatians 5:19
+19 ἐστιν WH Treg NA28 ] + μοιχεία RP
+
+Galatians 5:20
+20 ἔρις ζῆλος WH Treg NA28 ] ἔρεις ζῆλοι RP
+
+Galatians 5:21
+21 φθόνοι WH NA28 ] + φόνοι Treg RP 
+• καθὼς WH Treg NA28 ] + καὶ RP
+
+Galatians 5:24
+24 Χριστοῦ RP ] + Ἰησοῦ WH Treg NA28
+
+Galatians 6:2
+6.2 ἀναπληρώσετε Treg NA28 ] ἀναπληρώσατε WH RP
+
+Galatians 6:3
+3 φρεναπατᾷ ἑαυτόν WH Treg NA28 ] ἑαυτόν φρεναπατᾷ RP
+
+Galatians 6:7
+7 ἐὰν WH NA28 RP ] ἂν Treg
+
+Galatians 6:9
+9 ἐγκακῶμεν WH Treg NA28 ] ἐκκακῶμεν RP
+
+Galatians 6:10
+10 ἔχομεν Treg NA28 RP ] ἔχωμεν WH
+
+Galatians 6:12
+12 ἵνα WH Treg NA28 ] + μὴ RP 
+• Χριστοῦ NA28 Treg RP ] + Ἰησοῦ WH 
+• μὴ WH Treg NA28 ] – RP
+
+Galatians 6:13
+13 περιτεμνόμενοι WH Treg NA28 ] περιτετμημένοι RP
+
+Galatians 6:14
+14 κἀγὼ WH Treg NA28 ] + τῷ RP
+
+Galatians 6:15
+15 οὔτε γὰρ WH Treg NA28 ] ἐν γὰρ Χριστῷ Ἰησοῦ οὔτε RP 
+• ἐστιν WH Treg NA28 ] ἰσχύει RP
+
+Galatians 6:17
+17 τοῦ WH Treg NA28 ] + κυρίου RP

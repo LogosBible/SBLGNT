@@ -1,138 +1,383 @@
 <book>
-<title>ΠΡΟΣ ΕΒΡΑΙΟΥΣ</title>
+<book-name>ΠΡΟΣ ΕΒΡΑΙΟΥΣ</book-name>
 
+<verse>Hebrews 1:2</verse>
+<note>1:2 ἐποίησεν τοὺς αἰῶνας WH Treg NA28 ] τοὺς αἰῶνας ἐποίησεν RP</note>
 
+<verse>Hebrews 1:3</verse>
+<note>3 διʼ αὑτοῦ Holmes ] αὐτοῦ WH Treg NA28; αὐτοῦ διʼ ἑαυτοῦ RP </note>
+<note>• τῶν ἁμαρτιῶν ποιησάμενος WH Treg NA28 ] ποιησάμενος τῶν ἁμαρτιῶν ἡμῶν RP</note>
 
+<verse>Hebrews 1:8</verse>
+<note>8 καὶ ἡ ῥάβδος τῆς εὐθύτητος WH Treg NA28 ] ῥάβδος εὐθύτητος ἡ RP </note>
+<note>• σου Treg NA28 RP ] αὐτοῦ WH</note>
 
-<p><verse-number id="Heb 1:2">1:2</verse-number> <b>ἐποίησεν τοὺς αἰῶνας</b> WH Treg NIV ] τοὺς αἰῶνας ἐποίησεν RP</p>
-<p><verse-number id="Heb 1:3">3</verse-number> <b>δι᾽ αὑτοῦ</b> Holmes ] αὐτοῦ WH Treg NIV; αὐτοῦ δι᾽ ἑαυτοῦ RP • <b>τῶν ἁμαρτιῶν ποιησάμενος</b> WH Treg NIV ] ποιησάμενος τῶν ἁμαρτιῶν ἡμῶν RP</p>
-<p><verse-number id="Heb 1:8">8</verse-number> <b>καὶ ἡ ῥάβδος τῆς εὐθύτητος</b> WH Treg NIV ] ῥάβδος εὐθύτητος ἡ RP • <b>σου</b> Treg NIV RP ] αὐτοῦ WH</p>
-<p><verse-number id="Heb 1:12">12</verse-number> <b>ὡς ἱμάτιον</b> WH Treg NIV ] – RP</p>
+<verse>Hebrews 1:12</verse>
+<note>12 ὡς ἱμάτιον WH Treg NA28 ] – RP</note>
 
-<p><verse-number id="Heb 2:1">2:1</verse-number> <b>προσέχειν ἡμᾶς</b> WH Treg NIV ] ἡμᾶς προσέχειν RP</p>
-<p><verse-number id="Heb 2:7">7</verse-number> <b>αὐτόν</b> NIV RP ] + καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου WH Treg</p>
-<p><verse-number id="Heb 2:8">8</verse-number> <b>τῷ γὰρ</b> WH Treg NIV ]  γὰρ τῷ RP • <b>ὑποτάξαι</b> Holmes WHmarg ] + αὐτῷ WH Treg NIV RP</p>
-<p><verse-number id="Heb 2:9">9</verse-number> <b>χωρὶς</b> Holmes ] χάριτι WH Treg NIV RP</p>
-<p><verse-number id="Heb 2:14">14</verse-number> <b>αἵματος καὶ σαρκός</b> WH Treg NIV ]  σαρκός καὶ αἵματος RP</p>
+<verse>Hebrews 2:1</verse>
+<note>2:1 προσέχειν ἡμᾶς WH Treg NA28 ] ἡμᾶς προσέχειν RP</note>
 
-<p><verse-number id="Heb 3:1">3:1</verse-number> <b>Ἰησοῦν</b> WH Treg NIV ] + Χριστόν RP</p>
-<p><verse-number id="Heb 3:2">2</verse-number> <b>ἐν</b> Holmes WHmarg ] + ὅλῳ WH Treg NIV RP</p>
-<p><verse-number id="Heb 3:3">3</verse-number> <b>οὗτος δόξης</b> WH Treg NIV ] δόξης οὗτος RP</p>
-<p><verse-number id="Heb 3:4">4</verse-number> <b>δὲ</b> WH Treg NIV ] + τὰ RP</p>
-<p><verse-number id="Heb 3:6">6</verse-number> <b>ὅς</b> Holmes ] οὗ WH Treg NIV RP • <b>ἐὰν</b> WH Treg ] ἐάνπερ NIV RP • <b>ἐλπίδος</b> NIV ] + μέχρι τέλους βεβαίαν WH Treg RP</p>
-<p><verse-number id="Heb 3:9">9</verse-number> <b>ἐπείρασαν</b> WH Treg NIV ] + με RP • <b>ἐν δοκιμασίᾳ</b> WH Treg NIV ] ἐδοκιμασάν με RP</p>
-<p><verse-number id="Heb 3:10">10</verse-number> <b>ταύτῃ</b> WH Treg NIV ] ἐκείνῃ RP</p>
-<p><verse-number id="Heb 3:13">13</verse-number> <b>τις ἐξ ὑμῶν</b> WH Treg NIV ] ἐξ ὑμῶν τις RP</p>
-<p><verse-number id="Heb 3:14">14</verse-number> <b>τοῦ Χριστοῦ γεγόναμεν</b> WH Treg NIV ] γεγόναμεν τοῦ Χριστοῦ RP</p>
+<verse>Hebrews 2:7</verse>
+<note>7 αὐτόν NA28 RP ] + καὶ κατέστησας αὐτὸν ἐπὶ τὰ ἔργα τῶν χειρῶν σου WH Treg</note>
 
-<p><verse-number id="Heb 4:2">4:2</verse-number> <b>συγκεκερασμένους</b> WH Treg RP NA ] συγκεκερασμένος NIV</p>
-<p><verse-number id="Heb 4:3">3</verse-number> <b>εἰς</b> Holmes WHmarg ] + τὴν WH Treg NIV RP</p>
-<p><verse-number id="Heb 4:7">7</verse-number> <b>προείρηται</b> WH Treg NIV ] εἴρηται RP</p>
-<p><verse-number id="Heb 4:12">12</verse-number> <b>καὶ</b> WH Treg NIV ] τε καὶ RP</p>
-<p><verse-number id="Heb 4:15">15</verse-number> <b>πεπειρασμένον</b> WH Treg NIV ] πεπειραμένον RP</p>
+<verse>Hebrews 2:8</verse>
+<note>8 τῷ γὰρ WH Treg NA28 ]  γὰρ τῷ RP </note>
+<note>• ὑποτάξαι Holmes WHmarg ] + αὐτῷ WH Treg NA28 RP</note>
 
-<p><verse-number id="Heb 5:3">5:3</verse-number> <b>δι᾽ αὐτὴν</b> WH Treg NIV ] διὰ ταύτην RP• <b>αὑτοῦ</b> Holmes ] ἑαυτοῦ WH Treg RP; αὐτοῦ NIV • <b>περὶ</b> WH Treg NIV ] ὑπὲρ RP</p>
-<p><verse-number id="Heb 5:4">4</verse-number> <b>καθώσπερ</b> WH Treg NIV ] καθάπερ RP</p>
-<p><verse-number id="Heb 5:9">9</verse-number> <b>πᾶσιν τοῖς ὑπακούουσιν αὐτῷ</b> WH Treg NIV ] τοῖς ὑπακούουσιν αὐτῷ πᾶσιν RP</p>
-<p><verse-number id="Heb 5:12">12</verse-number> <b>τινὰ</b> WH NIV ] τίνα Treg RP • <b>οὐ</b> WH ] καὶ οὐ Treg NIV RP</p>
+<verse>Hebrews 2:9</verse>
+<note>9 χωρὶς Holmes ] χάριτι WH Treg NA28 RP</note>
 
-<p><verse-number id="Heb 6:2">6:2</verse-number> <b>διδαχὴν</b> WH ] διδαχῆς Treg NIV RP • <b>τε</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Heb 6:3">3</verse-number> <b>ποιήσομεν</b> WH Treg NIV ] ποιήσωμεν RP</p>
-<p><verse-number id="Heb 6:7">7</verse-number> <b>ἐρχόμενον πολλάκις</b> WH Treg NIV ] πολλάκις ἐρχόμενον RP</p>
-<p><verse-number id="Heb 6:10">10</verse-number> <b>καὶ</b> WH Treg NIV ] + τοῦ κόπου RP</p>
-<p><verse-number id="Heb 6:14">14</verse-number> <b>Εἰ</b> WH Treg NIV ] Ἦ RP</p>
-<p><verse-number id="Heb 6:16">16</verse-number> <b>ἄνθρωποι</b> WH Treg NIV ] + μὲν RP</p>
-<p><verse-number id="Heb 6:18">18</verse-number> <b>θεόν</b> WH Treg RP ] τὸν θεόν NIV</p>
-<p><verse-number id="Heb 6:19">19</verse-number> <b>ἀσφαλῆ</b> WH NIV RP ] ἀσφαλήν Treg</p>
+<verse>Hebrews 2:14</verse>
+<note>14 αἵματος καὶ σαρκός WH Treg NA28 ]  σαρκός καὶ αἵματος RP</note>
 
-<p><verse-number id="Heb 7:1">7:1</verse-number> <b>ὁ</b> WH NIV RP ] ὃς Treg</p>
-<p><verse-number id="Heb 7:4">4</verse-number> <b>ᾧ</b> WH Treg ] + καὶ NIV RP</p>
-<p><verse-number id="Heb 7:6">6</verse-number> <b>Ἀβραάμ</b> WH Treg NIV ] τὸν Ἀβραάμ RP</p>
-<p><verse-number id="Heb 7:10">10</verse-number> <b>Μελχισέδεκ</b> WH Treg NIV ] ὁ Μελχισέδεκ RP</p>
-<p><verse-number id="Heb 7:11">11</verse-number> <b>αὐτῆς</b> WH Treg NIV ] αὐτῇ RP • <b>νενομοθέτηται</b> WH Treg NIV ] νενομοθέτητο RP</p>
-<p><verse-number id="Heb 7:14">14</verse-number> <b>περὶ ἱερέων οὐδὲν</b> WH Treg NIV ] οὐδὲν περὶ ἱερωσύνης RP</p>
-<p><verse-number id="Heb 7:16">16</verse-number> <b>σαρκίνης</b> WH Treg NIV ] σαρκικῆς RP</p>
-<p><verse-number id="Heb 7:17">17</verse-number> <b>μαρτυρεῖται</b> WH Treg NIV ] μαρτυρεῖ RP</p>
-<p><verse-number id="Heb 7:21">21</verse-number> <b>αἰῶνα</b> WH Treg NIV ] + κατὰ τὴν τάξιν Μελχισεδέκ RP</p>
-<p><verse-number id="Heb 7:22">22</verse-number> <b>τοσοῦτο</b> WH Treg NIV ] τοσοῦτον RP • <b>κρείττονος</b> Treg RP ] καὶ κρείττονος WH NIV</p>
-<p><verse-number id="Heb 7:26">26</verse-number> <b>καὶ</b> WH Treg NIV ] – RP</p>
+<verse>Hebrews 3:1</verse>
+<note>3:1 Ἰησοῦν WH Treg NA28 ] + Χριστόν RP</note>
 
-<p><verse-number id="Heb 8:2">8:2</verse-number> <b>οὐκ</b> WH Treg NIV ] καὶ οὐκ RP</p>
-<p><verse-number id="Heb 8:4">4</verse-number> <b>οὖν</b> WH Treg NIV ] γὰρ RP • <b>ὄντων</b> WH Treg NIV ] + τῶν ἱερέων RP • <b>νόμον</b> WH Treg NIV ] τὸν νόμον RP</p>
-<p><verse-number id="Heb 8:6">6</verse-number> <b>νυνὶ</b> Treg NIV RP ] νῦν WH</p>
-<p><verse-number id="Heb 8:8">8</verse-number> <b>αὐτοὺς</b> WH NIV ] αὐτοῖς RP Treg</p>
-<p><verse-number id="Heb 8:11">11</verse-number> <b>μικροῦ</b> WH Treg NIV ] + αὐτῶν RP</p>
-<p><verse-number id="Heb 8:12">12</verse-number> <b>αὐτῶν</b> WH Treg NIV ] + καὶ τῶν ἀνομιῶν αὐτῶν RP</p>
+<verse>Hebrews 3:2</verse>
+<note>2 ἐν Holmes WHmarg ] + ὅλῳ WH Treg NA28 RP</note>
 
-<p><verse-number id="Heb 9:1">9:1</verse-number> <b>οὖν</b> Holmes WHmarg ] + καὶ WH Treg NIV RP</p>
-<p><verse-number id="Heb 9:3">3</verse-number> <b>Ἅγια Ἁγίων</b> WH NIV RP ] τὰ ἅγια τῶν ἁγίων Treg</p>
-<p><verse-number id="Heb 9:9">9</verse-number> <b>ἣν</b> WH Treg NIV ] ὃν RP</p>
-<p><verse-number id="Heb 9:10">10</verse-number> <b>δικαιώματα</b> WH NIV ] καὶ δικαιώματα Treg; καὶ δικαιώμασιν RP</p>
-<p><verse-number id="Heb 9:11">11</verse-number> <b>γενομένων</b> WH NIV ] μελλόντων Treg RP</p>
-<p><verse-number id="Heb 9:13">13</verse-number> <b>τράγων καὶ ταύρων</b> WH Treg NIV ] ταύρων καὶ τράγων RP</p>
-<p><verse-number id="Heb 9:14">14</verse-number> <b>ἡμῶν</b> WH NIV ] ὑμῶν Treg RP</p>
-<p><verse-number id="Heb 9:17">17</verse-number> <b>μήποτε</b> Treg NIV RP ] μὴ τότε WH</p>
-<p><verse-number id="Heb 9:19">19</verse-number> <b>τὸν</b> WH Treg NIV ] – RP • <b>μόσχων</b> NIV ] + καὶ τῶν τράγων WH Treg NA; καὶ τράγων RP</p>
-<p><verse-number id="Heb 9:24">24</verse-number> <b>εἰσῆλθεν ἅγια</b> WH Treg NIV ] ἅγια εἰσῆλθεν ὁ RP</p>
-<p><verse-number id="Heb 9:26">26</verse-number> <b>νυνὶ</b> WH Treg NIV ] νῦν RP • <b>ἁμαρτίας</b> NIV RP ] τῆς ἁμαρτίας WH Treg NA</p>
+<verse>Hebrews 3:3</verse>
+<note>3 οὗτος δόξης WH Treg NA28 ] δόξης οὗτος RP</note>
 
-<p><verse-number id="Heb 10:1">10:1</verse-number> <b>δύναται</b> NIV ] δύνανται WH Treg RP</p>
-<p><verse-number id="Heb 10:2">2</verse-number> <b>κεκαθαρισμένους</b> WH Treg NIV ] κεκαθαρμένους RP</p>
-<p><verse-number id="Heb 10:8">8</verse-number> <b>Θυσίας καὶ προσφορὰς</b> WH Treg NIV ] Θυσίαν καὶ προσφορὰν RP • <b>νόμον</b> WH Treg NIV ] τόν νόμον RP</p>
-<p><verse-number id="Heb 10:9">9</verse-number> <b>ποιῆσαι</b> WH Treg NIV ] + ὁ θεός RP</p>
-<p><verse-number id="Heb 10:10">10</verse-number> <b>ἐσμὲν</b> WH Treg NIV ] + οἱ RP</p>
-<p><verse-number id="Heb 10:12">12</verse-number> <b>οὗτος</b> WH Treg NIV ] αὐτὸς RP</p>
-<p><verse-number id="Heb 10:15">15</verse-number> <b>εἰρηκέναι</b> WH Treg NIV ] προειρηκέναι RP</p>
-<p><verse-number id="Heb 10:16">16</verse-number> <b>τὴν διάνοιαν</b> WH Treg NIV ] τῶν διανοιῶν RP</p>
-<p><verse-number id="Heb 10:17">17</verse-number> <b>καὶ</b> WH Treg RP NA ] ὕστερον λέγει καὶ NIV • <b>μνησθήσομαι</b> WH Treg NIV ] μνησθῶ RP</p>
-<p><verse-number id="Heb 10:30">30</verse-number> <b>ἀνταποδώσω</b> WH Treg NIV ] + λέγει κύριος RP • <b>Κρινεῖ κύριος</b> WH Treg NIV ] κύριος κρινεῖ RP</p>
-<p><verse-number id="Heb 10:34">34</verse-number> <b>δεσμίοις</b> WH Treg NIV ] δεσμοῖς μου RP • <b>ἑαυτοὺς</b> WH Treg NIV ] ἑαυτοῖς RP • <b>ὕπαρξιν</b> WH Treg NIV ] + ἐν οὐρανοῖς RP</p>
-<p><verse-number id="Heb 10:35">35</verse-number> <b>μεγάλην μισθαποδοσίαν</b> WH Treg NIV ] μισθαποδοσίαν μεγάλην RP</p>
-<p><verse-number id="Heb 10:38">38</verse-number> <b>μου</b> WH Treg NIV ] – RP</p>
+<verse>Hebrews 3:4</verse>
+<note>4 δὲ WH Treg NA28 ] + τὰ RP</note>
 
-<p><verse-number id="Heb 11:3">11:3</verse-number> <b>τὸ βλεπόμενον</b> WH Treg NIV ] τά βλεπόμενα RP</p>
-<p><verse-number id="Heb 11:4">4</verse-number> <b>τοῦ θεοῦ</b> WH NIV RP ] τῷ θεῷ Treg • <b>λαλεῖ</b> WH Treg NIV ] λαλεῖται RP</p>
-<p><verse-number id="Heb 11:5">5</verse-number> <b>μεταθέσεως</b> WH Treg NIV ] + αὐτοῦ RP</p>
-<p><verse-number id="Heb 11:8">8</verse-number> <b>Πίστει</b> WH NIV RP ] + ὁ Treg • <b>τόπον</b> WH Treg NIV ] τὸν τόπον RP</p>
-<p><verse-number id="Heb 11:11">11</verse-number> <b>αὐτῇ Σάρρᾳ</b> Holmes WHmarg ] αὐτὴ Σάρρα WH Treg RP; αὐτὴ Σάρρα στεῖρα NIV • <b>ἡλικίας</b> WH Treg NIV ] + ἔτεκεν RP</p>
-<p><verse-number id="Heb 11:13">13</verse-number> <b>λαβόντες</b> NIV RP ] κομισάμενοι WH Treg</p>
-<p><verse-number id="Heb 11:15">15</verse-number> <b>μνημονεύουσιν</b> Treg ] ἐμνημόνευον WH NIV RP • <b>ἐξέβησαν</b> WH Treg NIV ] ἐξῆλθον RP</p>
-<p><verse-number id="Heb 11:20">20</verse-number> <b>καὶ</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Heb 11:29">29</verse-number> <b>γῆς</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Heb 11:30">30</verse-number> <b>ἔπεσαν</b> WH Treg NIV ] ἔπεσεν RP</p>
-<p><verse-number id="Heb 11:32">32</verse-number> <b>με γὰρ</b> WH Treg NIV ] γὰρ με RP • <b>Σαμψών</b> WH Treg NIV ] τε καὶ Σαμψών καὶ RP</p>
-<p><verse-number id="Heb 11:34">34</verse-number> <b>μαχαίρης</b> WH Treg NIV ] μαχαίρας RP • <b>ἐδυναμώθησαν</b> WH Treg NIV ] ἐνεδυναμώθησαν RP</p>
-<p><verse-number id="Heb 11:37">37</verse-number> <b>ἐπρίσθησαν</b> Treg NIV ] ἐπειράσθησαν ἐπρίσθησαν WH; ἐπρίσθησαν ἐπειράσθησαν RP • <b>μαχαίρης</b> WH Treg NIV ] μαχαίρας RP</p>
-<p><verse-number id="Heb 11:38">38</verse-number> <b>ἐπὶ</b> WH Treg NIV ] ἐν RP </p>
-<p><verse-number id="Heb 11:39">39</verse-number> <b>καὶ</b> Holmes ] + οὗτοι WH Treg NIV RP</p>
+<verse>Hebrews 3:6</verse>
+<note>6 ὃς Holmes ] οὗ WH Treg NA28 RP </note>
+<note>• ἐὰν WH Treg ] ἐάνπερ NA28 RP </note>
+<note>• ἐλπίδος NA28 ] + μέχρι τέλους βεβαίαν WH Treg RP</note>
 
-<p><verse-number id="Heb 12:3">12:3</verse-number> <b>ἑαυτοὺς</b> WH ] ἑαυτὸν NIV Treg; ἀυτὸν RP</p>
-<p><verse-number id="Heb 12:7">7</verse-number> <b>γὰρ</b> WH Treg NIV ] + ἐστιν RP</p>
-<p><verse-number id="Heb 12:8">8</verse-number> <b>καὶ οὐχ υἱοί ἐστε</b> WH Treg NIV ] ἐστε καὶ οὐχ υἱοί RP</p>
-<p><verse-number id="Heb 12:9">9</verse-number> <b>πολὺ</b> WH Treg] πολὺ δὲ NIV; πολλῷ RP</p>
-<p><verse-number id="Heb 12:11">11</verse-number> <b>δὲ</b> Treg NIV RP ] μὲν WH</p>
-<p><verse-number id="Heb 12:13">13</verse-number> <b>ποιεῖτε</b> WH Treg NIV ] ποιήσατε RP</p>
-<p><verse-number id="Heb 12:15">15</verse-number> <b>δι᾽ αὐτῆς</b> WH NIV ] διὰ ταύτης Treg RP • <b>πολλοί</b> NIV RP ] οἱ πολλοί WH Treg</p>
-<p><verse-number id="Heb 12:16">16</verse-number> <b>ἑαυτοῦ</b> WH Treg NIV ] αὐτοῦ RP</p>
-<p><verse-number id="Heb 12:18">18</verse-number> <b>ψηλαφωμένῳ</b> WH Treg NIV ] + ὄρει RP • <b>ζόφῳ</b> WH Treg NIV ] σκότῳ RP</p>
-<p><verse-number id="Heb 12:19">19</verse-number> <b>μὴ</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Heb 12:23">23</verse-number> <b>ἀπογεγραμμένων ἐν οὐρανοῖς</b> WH Treg NIV ] ἐν οὐρανοῖς ἀπογεγραμμένων RP</p>
-<p><verse-number id="Heb 12:25">25</verse-number> <b>ἐξέφυγον</b> WH Treg NIV ] ἔφυγον RP • <b>ἐπὶ γῆς παραιτησάμενοι τὸν</b> WH Treg NIV ] τὸν ἐπὶ γῆς παραιτησάμενοι RP • <b>πολὺ</b> WH Treg NIV ] πολλῷ RP</p>
-<p><verse-number id="Heb 12:26">26</verse-number> <b>σείσω</b> WH Treg NIV ] σείω RP</p>
-<p><verse-number id="Heb 12:27">27</verse-number> <b>τῶν σαλευομένων</b> Holmes WHmarg ] τὴν τῶν σαλευομένων WH Treg NIV;  τῶν σαλευομένων τὴν RP</p>
-<p><verse-number id="Heb 12:28">28</verse-number> <b>λατρεύωμεν</b> WH Treg NIV ] λατρεύομεν RP • <b>εὐλαβείας καὶ δέους</b> WH Treg NIV ] αἰδοῦς καὶ εὐλαβείας RP</p>
+<verse>Hebrews 3:9</verse>
+<note>9 ἐπείρασαν WH Treg NA28 ] + με RP </note>
+<note>• ἐν δοκιμασίᾳ WH Treg NA28 ] ἐδοκιμασάν με RP</note>
 
-<p><verse-number id="Heb 13:4">13:4</verse-number> <b>γὰρ</b> WH Treg NIV ] δὲ RP</p>
-<p><verse-number id="Heb 13:5">5</verse-number> <b>ἐγκαταλίπω</b> WH Treg NIV ] ἐγκαταλείπω RP</p>
-<p><verse-number id="Heb 13:6">6</verse-number> <b>οὐ</b> WH ] καὶ οὐ Treg NIV RP</p>
-<p><verse-number id="Heb 13:9">9</verse-number> <b>περιπατοῦντες</b> WH Treg NIV ] περιπατήσαντες RP</p>
-<p><verse-number id="Heb 13:15">15</verse-number> <b>οὖν</b> Treg NIV RP ] – WH</p>
-<p><verse-number id="Heb 13:18">18</verse-number> <b>πειθόμεθα</b> WH Treg NIV ] πεποίθαμεν RP</p>
-<p><verse-number id="Heb 13:21">21</verse-number> <b>παντὶ</b> WH NIV ] + ἔργῳ Treg RP • <b>ἡμῖν</b> WH NIV ] ὑμῖν Treg RP • <b>αἰῶνας</b> Holmes ] + τῶν αἰώνων WH Treg NIV RP</p>
-<p><verse-number id="Heb 13:23">23</verse-number> <b>ἡμῶν</b> WH Treg NIV ] – RP</p>
-<p><verse-number id="Heb 13:25">25</verse-number> <b>ὑμῶν</b> WH NIV ] + ἀμήν Treg RP</p>
+<verse>Hebrews 3:10</verse>
+<note>10 ταύτῃ WH Treg NA28 ] ἐκείνῃ RP</note>
 
+<verse>Hebrews 3:13</verse>
+<note>13 τις ἐξ ὑμῶν WH Treg NA28 ] ἐξ ὑμῶν τις RP</note>
 
+<verse>Hebrews 3:14</verse>
+<note>14 τοῦ Χριστοῦ γεγόναμεν WH Treg NA28 ] γεγόναμεν τοῦ Χριστοῦ RP</note>
 
+<verse>Hebrews 4:2</verse>
+<note>4:2 συγκεκερασμένους WH Treg RP NA28 ] συγκεκερασμένος NIV</note>
 
+<verse>Hebrews 4:3</verse>
+<note>3 εἰς Holmes WHmarg ] + τὴν WH Treg NA28 RP</note>
+
+<verse>Hebrews 4:7</verse>
+<note>7 προείρηται WH Treg NA28 ] εἴρηται RP</note>
+
+<verse>Hebrews 4:12</verse>
+<note>12 καὶ WH Treg NA28 ] τε καὶ RP</note>
+
+<verse>Hebrews 4:15</verse>
+<note>15 πεπειρασμένον WH Treg NA28 ] πεπειραμένον RP</note>
+
+<verse>Hebrews 5:3</verse>
+<note>5:3 διʼ αὐτὴν WH Treg NA28 ] διὰ ταύτην RP</note>
+<note>• αὑτοῦ Holmes ] ἑαυτοῦ WH Treg RP; αὐτοῦ NA28 </note>
+<note>• περὶ WH Treg NA28 ] ὑπὲρ RP</note>
+
+<verse>Hebrews 5:4</verse>
+<note>4 καθώσπερ WH Treg NA28 ] καθάπερ RP</note>
+
+<verse>Hebrews 5:9</verse>
+<note>9 πᾶσιν τοῖς ὑπακούουσιν αὐτῷ WH Treg NA28 ] τοῖς ὑπακούουσιν αὐτῷ πᾶσιν RP</note>
+
+<verse>Hebrews 5:12</verse>
+<note>12 τινὰ WH NA28 ] τίνα Treg RP </note>
+<note>• οὐ WH ] καὶ οὐ Treg NA28 RP</note>
+
+<verse>Hebrews 6:2</verse>
+<note>6:2 διδαχὴν WH ] διδαχῆς Treg NA28 RP </note>
+<note>• τε Treg NA28 RP ] – WH</note>
+
+<verse>Hebrews 6:3</verse>
+<note>3 ποιήσομεν WH Treg NA28 ] ποιήσωμεν RP</note>
+
+<verse>Hebrews 6:7</verse>
+<note>7 ἐρχόμενον πολλάκις WH Treg NA28 ] πολλάκις ἐρχόμενον RP</note>
+
+<verse>Hebrews 6:10</verse>
+<note>10 καὶ WH Treg NA28 ] + τοῦ κόπου RP</note>
+
+<verse>Hebrews 6:14</verse>
+<note>14 Εἰ WH Treg NA28 ] Ἦ RP</note>
+
+<verse>Hebrews 6:16</verse>
+<note>16 ἄνθρωποι WH Treg NA28 ] + μὲν RP</note>
+
+<verse>Hebrews 6:18</verse>
+<note>18 θεόν WH Treg RP ] τὸν θεόν NA28</note>
+
+<verse>Hebrews 6:19</verse>
+<note>19 ἀσφαλῆ WH NA28 RP ] ἀσφαλήν Treg</note>
+
+<verse>Hebrews 7:1</verse>
+<note>7:1 ὁ WH NA28 RP ] ὃς Treg</note>
+
+<verse>Hebrews 7:4</verse>
+<note>4 ᾧ WH Treg ] + καὶ NA28 RP</note>
+
+<verse>Hebrews 7:6</verse>
+<note>6 Ἀβραάμ WH Treg NA28 ] τὸν Ἀβραάμ RP</note>
+
+<verse>Hebrews 7:10</verse>
+<note>10 Μελχισέδεκ WH Treg NA28 ] ὁ Μελχισέδεκ RP</note>
+
+<verse>Hebrews 7:11</verse>
+<note>11 αὐτῆς WH Treg NA28 ] αὐτῇ RP </note>
+<note>• νενομοθέτηται WH Treg NA28 ] νενομοθέτητο RP</note>
+
+<verse>Hebrews 7:14</verse>
+<note>14 περὶ ἱερέων οὐδὲν WH Treg NA28 ] οὐδὲν περὶ ἱερωσύνης RP</note>
+
+<verse>Hebrews 7:16</verse>
+<note>16 σαρκίνης WH Treg NA28 ] σαρκικῆς RP</note>
+
+<verse>Hebrews 7:17</verse>
+<note>17 μαρτυρεῖται WH Treg NA28 ] μαρτυρεῖ RP</note>
+
+<verse>Hebrews 7:21</verse>
+<note>21 αἰῶνα WH Treg NA28 ] + κατὰ τὴν τάξιν Μελχισεδέκ RP</note>
+
+<verse>Hebrews 7:22</verse>
+<note>22 τοσοῦτο WH Treg NA28 ] τοσοῦτον RP </note>
+<note>• κρείττονος Treg RP ] καὶ κρείττονος WH NA28</note>
+
+<verse>Hebrews 7:26</verse>
+<note>26 καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Hebrews 8:2</verse>
+<note>8:2 οὐκ WH Treg NA28 ] καὶ οὐκ RP</note>
+
+<verse>Hebrews 8:4</verse>
+<note>4 οὖν WH Treg NA28 ] γὰρ RP </note>
+<note>• ὄντων WH Treg NA28 ] + τῶν ἱερέων RP </note>
+<note>• νόμον WH Treg NA28 ] τὸν νόμον RP</note>
+
+<verse>Hebrews 8:6</verse>
+<note>6 νυνὶ Treg NA28 RP ] νῦν WH</note>
+
+<verse>Hebrews 8:8</verse>
+<note>8 αὐτοὺς WH NA28 ] αὐτοῖς RP Treg</note>
+
+<verse>Hebrews 8:11</verse>
+<note>11 μικροῦ WH Treg NA28 ] + αὐτῶν RP</note>
+
+<verse>Hebrews 8:12</verse>
+<note>12 αὐτῶν WH Treg NA28 ] + καὶ τῶν ἀνομιῶν αὐτῶν RP</note>
+
+<verse>Hebrews 9:1</verse>
+<note>9:1 οὖν Holmes WHmarg ] + καὶ WH Treg NA28 RP</note>
+
+<verse>Hebrews 9:3</verse>
+<note>3 Ἅγια Ἁγίων WH NA28 RP ] τὰ ἅγια τῶν ἁγίων Treg</note>
+
+<verse>Hebrews 9:9</verse>
+<note>9 ἣν WH Treg NA28 ] ὃν RP</note>
+
+<verse>Hebrews 9:10</verse>
+<note>10 δικαιώματα WH NA28 ] καὶ δικαιώματα Treg; καὶ δικαιώμασιν RP</note>
+
+<verse>Hebrews 9:11</verse>
+<note>11 γενομένων WH NA28 ] μελλόντων Treg RP</note>
+
+<verse>Hebrews 9:13</verse>
+<note>13 τράγων καὶ ταύρων WH Treg NA28 ] ταύρων καὶ τράγων RP</note>
+
+<verse>Hebrews 9:14</verse>
+<note>14 ἡμῶν WH NA28 ] ὑμῶν Treg RP</note>
+
+<verse>Hebrews 9:17</verse>
+<note>17 μήποτε Treg NA28 RP ] μὴ τότε WH</note>
+
+<verse>Hebrews 9:19</verse>
+<note>19 τὸν WH Treg NA28 ] – RP </note>
+<note>• μόσχων NIV ] + καὶ τῶν τράγων WH Treg NA28; καὶ τράγων RP</note>
+
+<verse>Hebrews 9:24</verse>
+<note>24 εἰσῆλθεν ἅγια WH Treg NA28 ] ἅγια εἰσῆλθεν ὁ RP</note>
+
+<verse>Hebrews 9:26</verse>
+<note>26 νυνὶ WH Treg NA28 ] νῦν RP </note>
+<note>• ἁμαρτίας NIV RP ] τῆς ἁμαρτίας WH Treg NA28</note>
+
+<verse>Hebrews 10:1</verse>
+<note>10:1 δύναται NA28 ] δύνανται WH Treg RP</note>
+
+<verse>Hebrews 10:2</verse>
+<note>2 κεκαθαρισμένους WH Treg NA28 ] κεκαθαρμένους RP</note>
+
+<verse>Hebrews 10:8</verse>
+<note>8 Θυσίας καὶ προσφορὰς WH Treg NA28 ] Θυσίαν καὶ προσφορὰν RP </note>
+<note>• νόμον WH Treg NA28 ] τόν νόμον RP</note>
+
+<verse>Hebrews 10:9</verse>
+<note>9 ποιῆσαι WH Treg NA28 ] + ὁ θεός RP</note>
+
+<verse>Hebrews 10:10</verse>
+<note>10 ἐσμὲν WH Treg NA28 ] + οἱ RP</note>
+
+<verse>Hebrews 10:12</verse>
+<note>12 οὗτος WH Treg NA28 ] αὐτὸς RP</note>
+
+<verse>Hebrews 10:15</verse>
+<note>15 εἰρηκέναι WH Treg NA28 ] προειρηκέναι RP</note>
+
+<verse>Hebrews 10:16</verse>
+<note>16 τὴν διάνοιαν WH Treg NA28 ] τῶν διανοιῶν RP</note>
+
+<verse>Hebrews 10:17</verse>
+<note>17 καὶ WH Treg RP NA28 ] ὕστερον λέγει καὶ NIV </note>
+<note>• μνησθήσομαι WH Treg NA28 ] μνησθῶ RP</note>
+
+<verse>Hebrews 10:30</verse>
+<note>30 ἀνταποδώσω WH Treg NA28 ] + λέγει κύριος RP </note>
+<note>• Κρινεῖ κύριος WH Treg NA28 ] κύριος κρινεῖ RP</note>
+
+<verse>Hebrews 10:34</verse>
+<note>34 δεσμίοις WH Treg NA28 ] δεσμοῖς μου RP </note>
+<note>• ἑαυτοὺς WH Treg NA28 ] ἑαυτοῖς RP </note>
+<note>• ὕπαρξιν WH Treg NA28 ] + ἐν οὐρανοῖς RP</note>
+
+<verse>Hebrews 10:35</verse>
+<note>35 μεγάλην μισθαποδοσίαν WH Treg NA28 ] μισθαποδοσίαν μεγάλην RP</note>
+
+<verse>Hebrews 10:38</verse>
+<note>38 μου WH Treg NA28 ] – RP</note>
+
+<verse>Hebrews 11:3</verse>
+<note>11:3 τὸ βλεπόμενον WH Treg NA28 ] τά βλεπόμενα RP</note>
+
+<verse>Hebrews 11:4</verse>
+<note>4 τοῦ θεοῦ WH NA28 RP ] τῷ θεῷ Treg </note>
+<note>• λαλεῖ WH Treg NA28 ] λαλεῖται RP</note>
+
+<verse>Hebrews 11:5</verse>
+<note>5 μεταθέσεως WH Treg NA28 ] + αὐτοῦ RP</note>
+
+<verse>Hebrews 11:8</verse>
+<note>8 Πίστει WH NA28 RP ] + ὁ Treg </note>
+<note>• τόπον WH Treg NA28 ] τὸν τόπον RP</note>
+
+<verse>Hebrews 11:11</verse>
+<note>11 αὐτῇ Σάρρᾳ Holmes WHmarg ] αὐτὴ Σάρρα WH Treg RP; αὐτὴ Σάρρα στεῖρα NA28 </note>
+<note>• ἡλικίας WH Treg NA28 ] + ἔτεκεν RP</note>
+
+<verse>Hebrews 11:13</verse>
+<note>13 λαβόντες NA28 RP ] κομισάμενοι WH Treg</note>
+
+<verse>Hebrews 11:15</verse>
+<note>15 μνημονεύουσιν Treg ] ἐμνημόνευον WH NA28 RP </note>
+<note>• ἐξέβησαν WH Treg NA28 ] ἐξῆλθον RP</note>
+
+<verse>Hebrews 11:20</verse>
+<note>20 καὶ WH Treg NA28 ] – RP</note>
+
+<verse>Hebrews 11:29</verse>
+<note>29 γῆς WH Treg NA28 ] – RP</note>
+
+<verse>Hebrews 11:30</verse>
+<note>30 ἔπεσαν WH Treg NA28 ] ἔπεσεν RP</note>
+
+<verse>Hebrews 11:32</verse>
+<note>32 με γὰρ WH Treg NA28 ] γὰρ με RP </note>
+<note>• Σαμψών WH Treg NA28 ] τε καὶ Σαμψών καὶ RP</note>
+
+<verse>Hebrews 11:34</verse>
+<note>34 μαχαίρης WH Treg NA28 ] μαχαίρας RP </note>
+<note>• ἐδυναμώθησαν WH Treg NA28 ] ἐνεδυναμώθησαν RP</note>
+
+<verse>Hebrews 11:37</verse>
+<note>37 ἐπρίσθησαν Treg NA28 ] ἐπειράσθησαν ἐπρίσθησαν WH; ἐπρίσθησαν ἐπειράσθησαν RP </note>
+<note>• μαχαίρης WH Treg NA28 ] μαχαίρας RP</note>
+
+<verse>Hebrews 11:38</verse>
+<note>38 ἐπὶ WH Treg NA28 ] ἐν RP </note>
+
+<verse>Hebrews 11:39</verse>
+<note>39 καὶ Holmes ] + οὗτοι WH Treg NA28 RP</note>
+
+<verse>Hebrews 12:3</verse>
+<note>12:3 ἑαυτοὺς WH ] ἑαυτὸν NA28 Treg; ἀυτὸν RP</note>
+
+<verse>Hebrews 12:7</verse>
+<note>7 γὰρ WH Treg NA28 ] + ἐστιν RP</note>
+
+<verse>Hebrews 12:8</verse>
+<note>8 καὶ οὐχ υἱοί ἐστε WH Treg NA28 ] ἐστε καὶ οὐχ υἱοί RP</note>
+
+<verse>Hebrews 12:9</verse>
+<note>9 πολὺ WH Treg ] πολὺ δὲ NA28; πολλῷ RP</note>
+
+<verse>Hebrews 12:11</verse>
+<note>11 δὲ Treg NA28 RP ] μὲν WH</note>
+
+<verse>Hebrews 12:13</verse>
+<note>13 ποιεῖτε WH Treg NA28 ] ποιήσατε RP</note>
+
+<verse>Hebrews 12:15</verse>
+<note>15 διʼ αὐτῆς WH NA28 ] διὰ ταύτης Treg RP </note>
+<note>• πολλοί NA28 RP ] οἱ πολλοί WH Treg</note>
+
+<verse>Hebrews 12:16</verse>
+<note>16 ἑαυτοῦ WH Treg NA28 ] αὐτοῦ RP</note>
+
+<verse>Hebrews 12:18</verse>
+<note>18 ψηλαφωμένῳ WH Treg NA28 ] + ὄρει RP </note>
+<note>• ζόφῳ WH Treg NA28 ] σκότῳ RP</note>
+
+<verse>Hebrews 12:19</verse>
+<note>19 μὴ Treg NA28 RP ] – WH</note>
+
+<verse>Hebrews 12:23</verse>
+<note>23 ἀπογεγραμμένων ἐν οὐρανοῖς WH Treg NA28 ] ἐν οὐρανοῖς ἀπογεγραμμένων RP</note>
+
+<verse>Hebrews 12:25</verse>
+<note>25 ἐξέφυγον WH Treg NA28 ] ἔφυγον RP </note>
+<note>• ἐπὶ γῆς παραιτησάμενοι τὸν WH Treg NA28 ] τὸν ἐπὶ γῆς παραιτησάμενοι RP </note>
+<note>• πολὺ WH Treg NA28 ] πολλῷ RP</note>
+
+<verse>Hebrews 12:26</verse>
+<note>26 σείσω WH Treg NA28 ] σείω RP</note>
+
+<verse>Hebrews 12:27</verse>
+<note>27 τῶν σαλευομένων Holmes WHmarg ] τὴν τῶν σαλευομένων WH Treg NA28;  τῶν σαλευομένων τὴν RP</note>
+
+<verse>Hebrews 12:28</verse>
+<note>28 λατρεύωμεν WH Treg NA28 ] λατρεύομεν RP </note>
+<note>• εὐλαβείας καὶ δέους WH Treg NA28 ] αἰδοῦς καὶ εὐλαβείας RP</note>
+
+<verse>Hebrews 13:4</verse>
+<note>13:4 γὰρ WH Treg NA28 ] δὲ RP</note>
+
+<verse>Hebrews 13:5</verse>
+<note>5 ἐγκαταλίπω WH Treg NA28 ] ἐγκαταλείπω RP</note>
+
+<verse>Hebrews 13:6</verse>
+<note>6 οὐ WH ] καὶ οὐ Treg NA28 RP</note>
+
+<verse>Hebrews 13:9</verse>
+<note>9 περιπατοῦντες WH Treg NA28 ] περιπατήσαντες RP</note>
+
+<verse>Hebrews 13:15</verse>
+<note>15 οὖν Treg NA28 RP ] – WH</note>
+
+<verse>Hebrews 13:18</verse>
+<note>18 πειθόμεθα WH Treg NA28 ] πεποίθαμεν RP</note>
+
+<verse>Hebrews 13:21</verse>
+<note>21 παντὶ WH NA28 ] + ἔργῳ Treg RP </note>
+<note>• ἡμῖν WH NA28 ] ὑμῖν Treg RP </note>
+<note>• αἰῶνας Holmes ] + τῶν αἰώνων WH Treg NA28 RP</note>
+
+<verse>Hebrews 13:23</verse>
+<note>23 ἡμῶν WH Treg NA28 ] – RP</note>
+
+<verse>Hebrews 13:25</verse>
+<note>25 ὑμῶν WH NA28 ] + ἀμήν Treg RP</note>
 </book>

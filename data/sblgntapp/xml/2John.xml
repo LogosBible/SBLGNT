@@ -1,21 +1,35 @@
 <book>
-<title>ΙΩΑΝΝΟΥ Β</title>
+<book-name>ΙΩΑΝΝΟΥ Β</book-name>
 
+<verse>2 John 1:3</verse>
+<note>3 παρὰ WH Treg NA28 ] + κυρίου RP</note>
 
+<verse>2 John 1:5</verse>
+<note>5 καινὴν γράφων σοι Treg NA27 ] γράφων σοι καινὴν WH NA28 RP</note>
 
+<verse>2 John 1:6</verse>
+<note>6 ἡ ἐντολή ἐστιν WH Treg NA28 ] ἐστιν ἡ ἐντολή RP</note>
 
+<verse>2 John 1:7</verse>
+<note>7 ἐξῆλθον WH Treg NA28 ] εἰσῆλθόν RP</note>
 
-<p><verse-number id="2Jn 1:3">3</verse-number> <b>παρὰ</b> WH Treg NIV ] + κυρίου RP</p>
-<p><verse-number id="2Jn 1:5">5</verse-number> <b>καινὴν γράφων σοι</b> Treg NIV ] γράφων σοι καινὴν WH RP</p>
-<p><verse-number id="2Jn 1:6">6</verse-number> <b>ἡ ἐντολή ἐστιν</b> WH Treg NIV ] ἐστιν ἡ ἐντολή RP</p>
-<p><verse-number id="2Jn 1:7">7</verse-number> <b>ἐξῆλθον</b> WH Treg NIV ] εἰσῆλθόν RP</p>
-<p><verse-number id="2Jn 1:8">8</verse-number> <b>ἀπολέσητε</b> WH Treg NIV ] ἀπολέσωμεν RP • <b>εἰργασάμεθα</b> WH RP NA ] εἰργάσασθε Treg NIV • <b>ἀπολάβητε</b> WH Treg NIV ] ἀπολάβωμεν RP</p>
-<p><verse-number id="2Jn 1:9">9</verse-number> <b>προάγων</b> WH Treg NIV ] παραβαίνων RP • <b>διδαχῇ</b> WH Treg NIV ] + τοῦ Χριστοῦ RP</p>
-<p><verse-number id="2Jn 1:11">11</verse-number> <b>λέγων γὰρ</b> WH Treg NIV ] γὰρ λέγων RP</p>
-<p><verse-number id="2Jn 1:12">12</verse-number> <b>γενέσθαι</b> WH Treg NIV ] ἐλθεῖν RP • <b>ὑμῶν</b> WH Treg ] ἡμῶν NIV RP • <b>πεπληρωμένη ᾖ</b> WH NIV ] ᾖ πεπληρωμένη Treg RP</p>
-<p><verse-number id="2Jn 1:13">13</verse-number> <b>ἐκλεκτῆς</b> WH Treg NIV ] + Ἀμήν RP</p>
+<verse>2 John 1:8</verse>
+<note>8 ἀπολέσητε WH Treg NA28 ] ἀπολέσωμεν RP </note>
+<note>• εἰργασάμεθα WH RP NA28 ] εἰργάσασθε Treg NIV </note>
+<note>• ἀπολάβητε WH Treg NA28 ] ἀπολάβωμεν RP</note>
 
+<verse>2 John 1:9</verse>
+<note>9 προάγων WH Treg NA28 ] παραβαίνων RP </note>
+<note>• διδαχῇ WH Treg NA28 ] + τοῦ Χριστοῦ RP</note>
 
+<verse>2 John 1:11</verse>
+<note>11 λέγων γὰρ WH Treg NA28 ] γὰρ λέγων RP</note>
 
+<verse>2 John 1:12</verse>
+<note>12 γενέσθαι WH Treg NA28 ] ἐλθεῖν RP </note>
+<note>• ὑμῶν WH Treg ] ἡμῶν NA28 RP </note>
+<note>• πεπληρωμένη ᾖ WH NA27 ] ᾖ πεπληρωμένη Treg NA28 RP</note>
 
+<verse>2 John 1:13</verse>
+<note>13 ἐκλεκτῆς WH Treg NA28 ] + Ἀμήν RP</note>
 </book>
