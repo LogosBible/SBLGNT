@@ -12,7 +12,7 @@ For example, many scholars and students, especially those living in under-resour
 Thus, teachers who wish to include portions of the Greek New Testament in class assignments or use the Greek New Testament in their own scholarly research and publications often must input the Greek text letter by letter, which is both tedious and subject to error.
 Students writing exegetical papers face similar obstacles and challenges.
 
-To address this need, the SBLGNT is available in electronic form so that any scholar or student may freely download all or portions of the text for personal study and research as well as for limited use in scholarly publications (see the End-User License Agreement).
+To address this need, the SBLGNT is available in electronic form so that any scholar or student may freely download all or portions of the text for personal study, research, and for use in scholarly publications.
 In addition, the text has been encoded in a Unicode-compliant font, SBL Greek, so that users can exchange their work easily without having to purchase a proprietary Greek font.
 In short, a contemporary, critically edited text of the Greek New Testament is now widely and freely available.
 
