@@ -1,7 +1,7 @@
 ΠΕΤΡΟΥ Α
 
 1 Peter 1:6
-1.6 δέον WH Treg ] + ἐστίν NA28 RP 
+1:6 δέον WH Treg ] + ἐστίν NA28 RP 
 • λυπηθέντες WH Treg NA27 RP ] λυπηθέντας NA28
 
 1 Peter 1:7
@@ -41,7 +41,7 @@
 • ἄνθος WH Treg NA28 ] + αὐτοῦ RP
 
 1 Peter 2:1
-2.1 ὑποκρίσεις Treg NA28 RP ] ὑπόκρισιν WH
+2:1 ὑποκρίσεις Treg NA28 RP ] ὑπόκρισιν WH
 
 1 Peter 2:2
 2 εἰς σωτηρίαν WH Treg NA28 ] – RP
@@ -84,7 +84,7 @@
 25 πλανώμενοι WH Treg NA28 ] πλανώμενα RP
 
 1 Peter 3:1
-3.1 Ὁμοίως WH Treg ] + αἱ NA28 RP 
+3:1 Ὁμοίως WH Treg ] + αἱ NA28 RP 
 • καὶ Treg NA28 RP ] – WH
 
 1 Peter 3:4
@@ -137,7 +137,7 @@
 22 δεξιᾷ WH Treg ] + τοῦ NA28 RP
 
 1 Peter 4:1
-4.1 παθόντος WH Treg NA28 ] + ὑπὲρ ἡμῶν RP 
+4:1 παθόντος WH Treg NA28 ] + ὑπὲρ ἡμῶν RP 
 • παθὼν WH Treg NA28 ] + ἐν RP 
 • ἁμαρτίας Treg NA28 RP ] ἁμαρτίαις WH
 
@@ -177,7 +177,7 @@
 • αὐτῶν Treg NA28 RP ] – WH
 
 1 Peter 5:1
-5.1 οὖν WH Treg NA27 ] τοὺς NA28 RP
+5:1 οὖν WH Treg NA27 ] τοὺς NA28 RP
 
 1 Peter 5:2
 2 ἐπισκοποῦντες Treg NA28 RP ] – WH 

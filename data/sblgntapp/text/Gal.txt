@@ -1,7 +1,7 @@
 ΠΡΟΣ ΓΑΛΑΤΑΣ
 
 Galatians 1:3
-1.3 καὶ κυρίου ἡμῶν Treg RP ] ἡμῶν καὶ κυρίου WH NA28
+1:3 καὶ κυρίου ἡμῶν Treg RP ] ἡμῶν καὶ κυρίου WH NA28
 
 Galatians 1:4
 4 ὑπὲρ WH NA28 ] περὶ Treg RP 
@@ -28,7 +28,7 @@ Galatians 1:18
 • Κηφᾶν WH Treg NA28 ] Πέτρον RP
 
 Galatians 2:4
-2.4 καταδουλώσουσιν WH Treg NA28 ] καταδουλώσωνται RP
+2:4 καταδουλώσουσιν WH Treg NA28 ] καταδουλώσωνται RP
 
 Galatians 2:6
 6 θεὸς Treg RP ] ὁ θεὸς WH NA28
@@ -63,7 +63,7 @@ Galatians 2:20
 20 υἱοῦ τοῦ θεοῦ WH NA28 RP ] θεοῦ καὶ Χριστοῦ Treg
 
 Galatians 3:1
-3.1 ἐβάσκανεν WH Treg NA28 ] + τῇ ἀληθείᾳ μὴ πείθεσθαι RP 
+3:1 ἐβάσκανεν WH Treg NA28 ] + τῇ ἀληθείᾳ μὴ πείθεσθαι RP 
 • προεγράφη WH Treg NA28 ] + ἐν ὑμῖν RP
 
 Galatians 3:7
@@ -102,7 +102,7 @@ Galatians 3:29
 29 κατʼ WH Treg NA28 ] καὶ κατʼ RP
 
 Galatians 4:3
-4.3 ἤμεθα WH NA28 ] ἦμεν Treg RP
+4:3 ἤμεθα WH NA28 ] ἦμεν Treg RP
 
 Galatians 4:6
 6 ἡμῶν WH Treg NA28 ] ὑμῶν RP
@@ -151,7 +151,7 @@ Galatians 4:31
 31 διό WH Treg NA28 ] Ἄρα RP
 
 Galatians 5:1
-5.1 ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν WH Treg NA28 ] οὖν ᾗ Χριστὸς ἡμᾶς ἠλευθέρωσεν στήκετε RP
+5:1 ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν WH Treg NA28 ] οὖν ᾗ Χριστὸς ἡμᾶς ἠλευθέρωσεν στήκετε RP
 
 Galatians 5:4
 4 ἀπὸ WH Treg NA28 ] + τοῦ RP
@@ -185,7 +185,7 @@ Galatians 5:24
 24 Χριστοῦ RP ] + Ἰησοῦ WH Treg NA28
 
 Galatians 6:2
-6.2 ἀναπληρώσετε Treg NA28 ] ἀναπληρώσατε WH RP
+6:2 ἀναπληρώσετε Treg NA28 ] ἀναπληρώσατε WH RP
 
 Galatians 6:3
 3 φρεναπατᾷ ἑαυτόν WH Treg NA28 ] ἑαυτόν φρεναπατᾷ RP

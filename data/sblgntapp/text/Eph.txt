@@ -1,7 +1,7 @@
 ΠΡΟΣ ΕΦΕΣΙΟΥΣ
 
 Ephesians 1:1
-1.1 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP 
+1:1 Χριστοῦ Ἰησοῦ WH Treg NA28 ] Ἰησοῦ Χριστοῦ RP 
 • ἐν Ἐφέσῳ WH Treg NA28 RP ] – WHapp
 
 Ephesians 1:6
@@ -28,7 +28,7 @@ Ephesians 1:20
 • καθίσας WH Treg NA28 ] ἐκάθισεν RP
 
 Ephesians 2:1
-2.1 ὑμῶν WH Treg NA28 ] – RP
+2:1 ὑμῶν WH Treg NA28 ] – RP
 
 Ephesians 2:3
 3 ἤμεθα WH Treg NA28 ] ἦμεν RP
@@ -64,7 +64,7 @@ Ephesians 2:21
 21 πᾶσα WH Treg RP NA28 ] + ἡ NIV
 
 Ephesians 3:3
-3.3 κατὰ Holmes WHmarg  ] ὅτι κατὰ WH Treg NA28 RP 
+3:3 κατὰ Holmes WHmarg  ] ὅτι κατὰ WH Treg NA28 RP 
 • ἐγνωρίσθη WH Treg NA28 ] ἐγνώρισέν RP
 
 Ephesians 3:6
@@ -105,7 +105,7 @@ Ephesians 3:21
 21 καὶ WH Treg NA28 ] – RP
 
 Ephesians 4:6
-4.6 πᾶσιν WH Treg NA28 ] + ἡμῖν RP
+4:6 πᾶσιν WH Treg NA28 ] + ἡμῖν RP
 
 Ephesians 4:7
 7 ἡ WH NA28 RP ] – Treg
@@ -136,7 +136,7 @@ Ephesians 4:32
 • ὑμῖν WH Treg NA28 ] ἡμῖν RP
 
 Ephesians 5:2
-5.2 ἡμᾶς RP NA28 ] ὑμᾶς WH Treg 
+5:2 ἡμᾶς RP NA28 ] ὑμᾶς WH Treg 
 • ἡμῶν RP NA28 Treg ] ὑμῶν WH
 
 Ephesians 5:3
@@ -194,7 +194,7 @@ Ephesians 5:31
 • τῇ γυναικὶ Treg ] πρὸς τὴν γυναῖκα WH NA28 RP
 
 Ephesians 6:5
-6.5 κατὰ σάρκα κυρίοις WH Treg NA28 ] κυρίοις κατὰ σάρκα RP
+6:5 κατὰ σάρκα κυρίοις WH Treg NA28 ] κυρίοις κατὰ σάρκα RP
 
 Ephesians 6:6
 6 δοῦλοι WH Treg NA28 ] + τοῦ RP
