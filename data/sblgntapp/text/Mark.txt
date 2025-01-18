@@ -859,7 +859,7 @@ Mark 8:1
 • μαθητὰς WH Treg NA28 ] + αὐτοῦ RP
 
 Mark 8:3
-3 καί τινεςWH Treg NA28 ] τινὲς γὰρ RP 
+3 καί τινες WH Treg NA28 ] τινὲς γὰρ RP 
 • ἀπὸ WH Treg NA28 ] – RP 
 • ἥκασιν Treg NA28 ] εἰσίν WH; ἥκουσιν RP
 
@@ -1166,7 +1166,7 @@ Mark 10:20
 
 Mark 10:21
 21 σε WH NA28 ] σοι Treg RP 
-• τοῖς WH NA28 ] Treg RP 
+• τοῖς WH NA28 ] – Treg RP 
 • μοι WH Treg NA28 ] + ἄρας τὸν σταυρόν RP
 
 Mark 10:24
@@ -1428,7 +1428,7 @@ Mark 12:22
 • καὶ ἡ γυνὴ ἀπέθανεν WH Treg NA28 ] ἀπέθανεν καὶ ἡ γυνή RP
 
 Mark 12:23
-23 ὅταν ἀναστῶσιν RP NA28 ] –WH Treg NIV
+23 ὅταν ἀναστῶσιν RP NA28 ] – WH Treg NIV
 
 Mark 12:24
 24 ἔφη αὐτοῖς ὁ Ἰησοῦς WH Treg NA28 ] Καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν αὐτοῖς RP
@@ -1939,7 +1939,7 @@ Mark 16:18
 18 ὄφεις RP ] καὶ ἐν ταῖς χερσὶν ὄφεις ⟦WH⟧ Treg NA28
 
 Mark 16:19
-19 Ἰησοῦς ⟦WH⟧ Treg NA28 ] –RP
+19 Ἰησοῦς ⟦WH⟧ Treg NA28 ] – RP
 
 Mark 16:20
 20 σημείων ⟦WH⟧ Treg NA28 ] + Ἀμήν RP

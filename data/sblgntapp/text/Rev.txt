@@ -223,7 +223,7 @@ Revelation 5:12
 12 καὶ WH Treg NA28 ] + τὸν RP
 
 Revelation 5:13
-13 θαλάσσης Treg NA28 ] +ἐστίν WH RP 
+13 θαλάσσης Treg NA28 ] + ἐστίν WH RP 
 • πάντα WH Treg NA28 ] πάντας RP 
 • τῷ θρόνῳ NA28 ] τοῦ θρόνου WH Treg RP 
 • αἰώνων WH Treg NA28 ] + Ἀμήν RP
