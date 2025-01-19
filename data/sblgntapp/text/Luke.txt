@@ -450,7 +450,7 @@ Luke 6:1
 • καὶ ἤσθιον τοὺς στάχυας WH Treg NA28 ] τοὺς στάχυας καὶ ἤσθιον RP
 
 Luke 6:2
-2 εἶπαν WH Treg NA28 ] +αὐτοῖς RP 
+2 εἶπαν WH Treg NA28 ] + αὐτοῖς RP 
 • ἔξεστιν WH Treg NA28 ] + ποιεῖν ἐν RP
 
 Luke 6:3
@@ -1592,7 +1592,7 @@ Luke 15:29
 29 αὐτοῦ WH Treg NA28 ] – RP
 
 Luke 15:30
-30 μετὰ WH NA28 RP ] +τῶν Treg 
+30 μετὰ WH NA28 RP ] + τῶν Treg 
 • σιτευτὸν μόσχον WH Treg NA28 ] μόσχον τὸν σιτευτόν RP
 
 Luke 15:32
@@ -2476,7 +2476,7 @@ Luke 24:7
 7 τὸν … ἀνθρώπου ὅτι δεῖ WH Treg NA28 ] ὅτι δεῖ τὸν … ἀνθρώπου RP
 
 Luke 24:10
-10 ἡ WH Treg NA28 ] –RP 
+10 ἡ WH Treg NA28 ] – RP 
 • ἔλεγον WH Treg NA28 ] αἳ ἔλεγον RP
 
 Luke 24:11
